@@ -1,0 +1,39 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-10614"
+decided: "1946-10-16"
+citations: ["83 Okla. Crim. 108", "173 P.2d 584"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BAREFOOT, J., concurs. DOYLE, J., not participating."]
+parties: ["KENNETH ELMER CAMPBELL v. STATE."]
+source_url: "https://static.case.law/okla-crim/83/cases/0108-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1514045
+cites_cases: ["184 Okla. 9", "47 O. S. 1941", "68 Okla. Cr. 308", "84 P. 2d 27", "98 P. 2d 67"]
+---
+
+# Campbell v. State
+
+## Majority (JONES, P. J.)
+
+JONES, P. J.
+This is an appeal by the defendant from a judgment and sentence imposed upon him when he entered his plea of guilty in the county court of Garfield county to the offense of driving an automobile while under the influence of intoxicating liquor.
+The defendant entered his plea of guilty on December 12, 1944, and the trial court thereupon fixed January 16, 1945, as the date for pronouncing judgment and sentence. On the latter date, the defendant through his counsel stated that he desired to offer evidence in mitigation of punishment, and the court thereupon permitted him to do so. The defendant testified that he had never been arrested before in his life or charged with any offense. That he lives with his widowed mother and fai*ms 160 acres of land. That he has two brothers serving in the armed forces of the United States, and that he was the sole person to carry on the farming duties. That he has several milk cows which he milks daily and sells the cream.
+The defendant then introduced the testimony of several witnesses who testified that they were neighbors of defendant and had known him for several years. That his general reputation in the community where he resides for being a moral, sober and upright citizen was good. That the defendant, in the absence of his brothers in the army, had the sole duty of farming 160 acres of land and caring for a 69 year old widowed mother.
+At the conclusion of the evidence offered on behalf of defendant, the county attorney made a statement to the court as to the facts surrounding the alleged offense as reported to him by the arresting officer. These facts were that the arresting officer saw the defendant pull on to Highway 81; that the car wobbled from one side of the road to the other, and that when defendant was stopped he was observed to be drunk. There was no accident involved.
+At the close of the evidence, the trial court stated :
+“On the showing made here, the court certainly is inclined to make the judgment and sentence the minimum. This court has, ever since this type of case was tried in the county court, followed a policy which I think is based on good public policy, or requiring in this type of cases that the defendant serve some time in jail. I do that for the reason I think it has a much stronger deterrent effect than a mere fine. A person can pay a fine; he is more likely to commit such an offense again than if he had to spend some time in jail. I am not inclined to make it a long jail sentence, but taking into consideration the fact he is operating a farm out here, I think he could make arrangements for the chores to be done for a short time; taking in consideration these facts, the Court will make this a minimum sentence. The defendant, based on his plea of guilty, will be found guilty, sentenced to five days in the Garfield county jail, and a fine of $25.00 and costs in the action; the defendant is ordered to surrender his driver’s license to the court for transmittal to the State Commissioner of Public Safety.”
+Counsel for defendant present the question that the sentence assessed defendant was excessive and should be reduced by eliminating the five-day jail sentence. The Assistant Attorney General who appeared on behalf of the state stated in open court that he had no objection to this being done.
+We agree that the facts surrounding this particular case are not so serious in their nature as to require q commitment to jail as punishment. It is hard for us to reconcile the testimony of all the witnesses that the defendant was a sober, upright citizen with the fact that he was driving his automobile while drunk on this occasion in question. No statement was made by the defendant concerning the facts surrounding his driving at the time in question. That issue was foreclosed by his plea of guilty. However, since the defendant is a first offender and has never been arrested before for any offense, considered together with his good reputation in the community and the unusual hardship which would have been inflicted upon his widowed mother in attempting to take care of the livestock and milk the large number of cows which were on the place, we have come to the conclusion that the assessment of a fine will be a sufficient lesson to impress upon the defendant the importance of staying sober.
+It is not our purpose to condone offenses involving drunken driving, but from statements made by the trial court, the county attorney and others interested in this prosecution, it is evident that the county court would not have assessed the five-day jail sentence had it not been for a policy adopted by his office of forcing every person who pleads guilty to this particular offense to serve some time in the county jail.
+Counsel for defendant in their brief raise one other point. They contend that the county court erred in directing defendant to surrender his driver’s license to the court for transmittal to the Commissioner of Public Safety, and contend that this is an additional punishment not authorized by law.
+In Gentry v. Blinn, 184 Okla. 9, 84 P. 2d 27, the Supreme Court of Oklahoma held that the specific mandatory provisions set forth in 47 O. S. 1941 § 295 make it the duty of the Commissioner of Public Safety to revoke the license of any operator when the conviction in said cases (including the offense of driving an automobile while under the influence of intoxicating liquor) became final. See, also, Ashcraft v. State, 68 Okla. Cr. 308, 98 P. 2d 60.
+Title 47, § 294, O. S. 1941, provides:
+“Whenever any person is convicted of any offense in a court of record for which this Act makes mandatory the revocation of the operator’s or chauffeur’s license of such person by the Commissioner, the court in which such conviction is had shall require the surrender to it of all operators’ and chauffeurs’ license then held by the person so convicted and the court shall thereupon forward the same together with a record of such conviction to the Commissioner.”
+In Ashcraft v. State, supra (98 P. 2d 67), this court stated:
+“After final conviction of a party in a court of record, the court has the power, and it is its duty to require the defendant to surrender to it all operator’s or chauffeur’s licenses held by such person so convicted.”
+Undoubtedly, it will work a hardship on the defendant, as it does on many defendants who have their drivers’ licenses revoked or suspended, but this is a matter for the Legislature to determine and is not a matter for the determination of this court. Under the statute hereinabove quoted, the trial court acted in accordance with the law in requiring the defendant to surrender his driver’s license to be forwarded to the Commissioner of Public Safety. The Commissioner, of course, is barred from taking any action until the conviction becomes final.
+It is ordered that the judgment and sentence of the county court of Garfield county be modified by reducing the sentence from a $25 fine and five days in the county jail to a $25 fine, and the judgment and sentence as thus modified is affirmed.
+BAREFOOT, J., concurs. DOYLE, J., not participating.
