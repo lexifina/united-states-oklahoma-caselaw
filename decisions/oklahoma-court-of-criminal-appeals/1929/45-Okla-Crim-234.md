@@ -1,0 +1,34 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-6807"
+decided: "1929-11-23"
+citations: ["45 Okla. Crim. 234", "282 Pac. 692"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["EDWARDS, P. J., and CHAPPELL, J., concur."]
+parties: ["WILLIAM BROWN v. STATE."]
+source_url: "https://static.case.law/okla-crim/45/cases/0234-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1513016
+cites_cases: ["279 Pac. 934", "44 Okla. Cr. 108"]
+---
+
+# Brown v. State
+
+## Majority (DAVENPORT, J.)
+
+DAVENPORT, J.
+The plaintiff in error, hereinafter referred to as the defendant, ivas by information charged jointly with Harry Grayson, Bob Canady, John Brown, and Martin Jiles, was tried jointly with the other defendants named, and the defendant was convicted and sentenced to pay a fine of $250 and be confined in the county jail of Oklahoma county for a period of three months, from which judgment the defendant has appealed to this court.
+At the close ef the state’s testimony, the defendants Bob Canady, John Brown, and Martin Jiles demurred to the state’s evidence, on the ground that it was insufficient to warrant the case going to the jury, which demurrer was by the court sustained, and the three defendants above named were dismissed from the case. The jury returned a verdict of not guilty as to Harry Grayson.
+The testimony of the state tends to show that William Brown had leased the upper story of a building known as 325% East Second street in the city of Oklahoma City from L. E. Williams for a period of two months; on the date the search was made of this property, the officers claim they had a search warrant for the purpose of searching it, and in trying to get in they heard a noise from the upper floor, and when they got into the building they found Harry Grayson in one of the rooms. They also claim to have found a jug containing whisky and a pitcher on the ground, in between the walls of the building they were searching and a three-story brick building; the officers contend that Harry Grayson told them the defendant William Brown told him to throw the whisky out of the window. William Brown was not in the building at the time, and could not have told Grayson to throw out the whisky, or anything else. No one but Harry Gray-son was in the building. Grayson, who was acquitted by the jury, takes the stand and says there was no whisky in the building at the time they searched it, that no copy of the search warrant was served on him, and that he did not throw any whisky out of the room where he was.
+The defendant testified he had given up the rooms, as he could not make it a go as a rooming house, and had. not had anything to do with the rooms for some days prior to the day the search was made by the officers. Neither of the'officers claim to have seen the defendant William Brown in the building, nor about any of the rooms, at the time they made the search. The only evidence tending to connect the defendant with the crime is an attempt to show by one of the officers that Harry Grayson stated defendant had told him to throw the whisky out the window of the room Grayson occupied. The state offered testimony, over the objection of the defendants, as to the general reputation of the place.
+The defendant has assigned 10 errors alleged to have been committed by the trial court; the first being that the verdict of the jury is not sustained by sufficient testimony; second, error of law occurring at the trial and excepted to by the defendant; third, error of the court in overruling the demurrer of the defendant to the evidence of the state; eighth, error of the court in admitting in evidence incompetent, irrelevant, immaterial, and prejudicial testimony, over the objections of the defendant; tenth, error of the court in overruling, defendant’s motion for a new trial. These assignments will be considered together.
+The defendant contends that the court erred in permitting the state, over his objections, to propound the following questions to the witness, W. M. Washington:
+“Q. On the 12th day of April, 1927, and prior thereto, did you know the general reputation of that place known as the second story of a two-story frame building, known and described as 325% East Second street, Oklahoma City, Oklahoma county, and state of Oklahoma, as being a place where intoxicating liquor, to wit, whisky, was kept, bartered, sold, given away, and tlxorewise furnished to divers persons unknown? A. Yes, sir.
+“Q. Did you knowi the general reputation of that place at that time as being a place where people were permitted to congregate and resort for the purpose of receiving and drinking intoxicating liquor, to wit, whisky? A. Yes, sir.
+“Q. Now, you have stated you knew the general reputation of that place as indicated and described in my two previous questions. State if the reputation in those respects is good or bad. A. Bad.”
+These same questions in substance were propounded to the witnesses D. W. Downer and Cliff Corner, and permitted to be answered, over the objections of the defendant. There is no testimony in the record to show or connect the defendant with the sale or possession of whisky, nor is there any testimony to show any congregation of people around the place for the purpose of receiving or buying intoxicating liquors. The defendant contends that the court erred in permitting the state, over his objections, to go into the general reputation of the place where it is alleged the whisky was found, without first having shown that the place itself was a place where whisky was kept, to sell, barter, give away, and otherwise furnish to others, not merely that it bore such reputation. Watson v. State, 44 Okla. Cr. 108, 279 Pac. 934, and cases cited therein.
+If the testimony of the witnesses, admitted over the objection of the defendant, as to the general reputation of this place being a place where intoxicating liquor was kept for the purpose of sale, had been excluded from the jury, the verdict of the jury might not have been a verdict of guilty. It has been repeatedly held by this court that, before the general reputation of defendant’s place is admissible, it must be shown that the place itself was a place of public resort, not merely that it bore such reputation. We hold the state failed, first to offer testimony sufficient to sustain the allegations in the information; and, second, that the objection of the defendant to the testimony of the state upon the question of the reputation of his place was well taken, and tbe court erred in not sustaining the same.
+We do not deem it necessary to consider the other errors assigned in detail. The case is reversed and remanded.
+EDWARDS, P. J., and CHAPPELL, J., concur.
