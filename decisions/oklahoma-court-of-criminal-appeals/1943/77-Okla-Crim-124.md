@@ -1,0 +1,40 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-10188"
+decided: "1943-06-30"
+citations: ["77 Okla. Crim. 124", "139 P.2d 611"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JONES, P. J., and DOYLE, J., concur."]
+parties: ["LEE GLENN v. STATE."]
+source_url: "https://static.case.law/okla-crim/77/cases/0124-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8740020
+cites_cases: ["75 Okla. Cr. 37"]
+---
+
+# Glenn v. State
+
+## Majority (BAREFOOT, J.)
+
+BAREFOOT, J.
+Defendant, Lee Glenn, was charged in the court of common pleas of Tulsa county with the ciime of unlawful possession of intoxicating liquor, to wit, nine pints of assorted liquor, was tried, convicted and sentenced to pay a fine of $250 and serve three months in the county jail. From this judgment and sentence, he has appealed.
+Three assignments of error are relied upon for reversal of this case:
+First, that the judgment and sentence is contrary to the law and the evidence.
+Second, that the court erred in admitting irrelevant, incompetent and immaterial evidence.
+Third, that the judgment and sentence is excessive.
+This case was the outgrowth of the execution of a search warrant by deputy sheriffs of Tulsa county on a residence located at 2901 East Second street, in the city of Tulsa, on the 16th day of August, 1941. The search occurred between 11 and 12 o’clock at night, and the officers seized three pints of tax-paid whisky in the house, and six pints in the grass near the house, and on the premises covered by the search warrant. No question is raised as to the validity of the search warrant.
+The defense was that the defendant did not live at the premises, that his sister resided there, and that he was only there temporarily at the time the officers made the search, and that he was not in possession of the whisky found and did not know that it was there.
+It is unnecessary to quote at length from the evidence. It may be said that there was a conflict therein. Sufficient facts and circumstances were in evidence to justify the jury in reaching the conclusion tl at the defendant was not only in possession of the whisky as charged, but that he was and had been for a long time prior to the time charged in the information selling whisky from this place. The officers testified that at the time they entered the premises defendant was present, and his mother was also there. His sister came to the premises while the search was being conducted. Four Indians, who were not members of the household, were also present, and while the officers testified that they did not see them drinking, one officer testified that some of them were intoxicated.' A part of the whisky was found in the bed where the defendant was lying at the time they entered. The mother of defendant stated to the officers in the presence of the defendant:
+“A. Well, she said she was going to go home, that she was getting tired of that kind of business, and she told Glenn (the defendant) that she had told him to get that out of there.”
+The officers also testified that while they were conducting the search two young girls came to the house and asked to buy a pint of gin. One of the officers informed them that they would have to ask the man of the house, indicating the defendant, who was present. When the girls asked to buy the pint of gin, he shook his head and didn’t say anything, and they said, “We want some gin,” and insisted on buying some, 'and finally he told them he didn’t have any, and one of the girls said, “Well we bought it before,” and she spoke to the defendant and said, “Hell, we bought it plenty of times, — bought it here before.” This statement was not binding on the defendant, but the evidence Avas admissible for the purpose of laying a foundation to afterwards ask witnesses as to the reputation of the premises; also- for the purpose o-f establishing prior possession of intoxicating liquor.
+While the search of the place was in progress, the sister of defendant, Nellie Boberts, came to the premises and one of the officers testified:
+“A. She made the statement in the presence of the other officer and the defendant there, that she was selling whisky and she was going to keep on selling whisky.”
+One of the officers also- testified that only a short time before this search was conducted, he was keeping a Avatch on these premises, and that he saAV a black car drive up and saw the defendant come out of the house and hand a package through the window of the car; that the package Avas wrapped in brown paper such as that, in Avhich Arkisky is usually Avrapped and as part o-f the Avhisky which was found at the time of the search was wrapped. The. witness followed the car, and the occupant threw a pint of whisky from the -car window, and it was recovered by the officer. This evidence was clearly admissible. We have often' held that where one is charged Avith the unlawful possession of intoxicating liquor, prior possession or sales by defendant, where Avithin a reasonable time, are admissible.
+The court in several instances refused to permit the introduction of evidence of this character. We think the state was entitled to introduce this evidence.
+Defendant testified that he did not live at the premises when the search was made and the liquor was found, and produced other witnesses who testified that he was living with his wife at another address. One may be in possession of liquor and have control of the same though it may not be on premises owned or occupied by him. As heretofore stated, there were many facts and circumstances in this case which would justify the jury in coming to the conclusion that defendant wasi in the possession of the liquor, and that he had the same for the purpose of sale.
+Defendant, testifying in his own behalf, admitted that he had lived at the identical premises two years prior to the search, and that he had been engaged in the wholesale and retail liquor business from these premises, and that he had been convicted and served sentences during that time. His testimony that he did not have possession or control of the liquor was evidently not believed by the jury. Under the law as applied to the evidence, we would not be warranted in setting aside the verdict of the jury in this case. There was evidence which showed that the telephone at the place where the liquor was found was in the name of defendant. He claimed that this was by reason of his former residing at this place, but by his own testimony this "was two years prior to the time the liquor was found. There were other facts and circumstances which justified the court in coming to the conclusion that the place was being used as a place of public resort, other than those above mentioned, which made admissible the evidence of the officers that the place bore a bad reputation as being a place where intoxicating liquor was being sold in violation of the prohibition laws of this state.
+Defendant complains that the judgment and sentence is excessive in this case, and cites the case of Harmon v. State, 75 Okla. Cr. 37, 128 P. 2d 237. The facts in that case are not applicable to- the facts here. The record here reveals that thisi defendant was a persistent and professional bootlegger, and violator of the prohibitory-liquor laws. He had been convicted and served sentences in numerous cases in the city, state and federal courts. At the time of the trial of the instant case he was out on probation from the federal court at Fort Smith, Ark., where he was charged with conspiracy in connection with the violation of the federal liquor laws. The jury evidently did not believe that he had quit, or that he intended to do so. This is not like a case where one is a first offender.
+We see no reason for holding that the judgment and sentence is excessive; and for the reasons stated, the judgment and sentence of the court of common pleas of Tulsa county is affirmed.
+JONES, P. J., and DOYLE, J., concur.
