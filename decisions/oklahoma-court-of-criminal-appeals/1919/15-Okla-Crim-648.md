@@ -1,0 +1,45 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-3171"
+decided: "1919-04-21"
+citations: ["15 Okla. Crim. 648", "179 P. 947"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DOYLE, P. J., and ARMSTRONG, J., concur."]
+parties: ["HARRY DOUGLAS v. STATE."]
+source_url: "https://static.case.law/okla-crim/15/cases/0648-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8747880
+cites_cases: ["13 Ariz. 27", "132 Am. St. Rep. 686", "17 L. R. A. (N. S.) 244", "27 L. R. A. (N. S.) 1032", "52 Or. 156", "96 Pac. 865"]
+---
+
+# Douglas v. State
+
+## Majority (MATSON, J.)
+
+MATSON, J.
+Harry Douglas was convicted of a violation of the provisions of chapter 72, Session Laws of Oklahoma 1913, which provides as follows:
+. “Every person who, with intent to cheat and defraud, shall obtain, or attempt to obtain, from any other person or persons, any money, property, or valuable thing, by means or by use of any trick or deception, or false or fraudulent representation, or statement or pretense, or by any other means or instrument or devise, commonly called the ‘confidence game,’ or by means or by use of any false or bogus check or by any other written or printed or engraved instrument or spurious coin or metal, shall be deemed guilty of a felony, and, upon conviction, be punished by imprisonment in the penitentiary for a term not exceeding seven years.”
+The information upon which the conviction is based reads as follows:
+“* * * That Harry Douglas did, in Okmulgee county, and in the state of Oklahoma, on or about the 24th day of October, in the year of our Lord one thousand nine hundred and fourteen and anterior to the presentment hereof, commit the crime of passing a bogus check in the manner and form as follows, to wit: That at the county of Okmulgee and state of Oklahoma, on the 24th day of October, 1914, the said Harry Douglas did unlawfully, willfully, fraudulently and feloniously obtain the sum of ten dollars ($10.00) from John Gibson, good and lawful money of the United States of America, and of the value of ten dollars ($10.00), by means and use of a certain false and bogus check, of the tenor, purport and effect fallowing: ‘Okmulgee, Oklahoma, 9 — 24—1914. Guaranty State Bank. Pay to the order of John Gibson, $10.00 ten and no/100 dollars. Harry Douglas.’ — which said check was false and bogus, all of which he, the said Harry Douglas, then and there well knew; and that the said Harry . Douglas did then and there, knowingly, willfully, unlawfully - and feloniously by means and use of said false and bogus check obtain said sum of ten ($10.00) dollars, as aforesaid, with the unlawful, willful and felonious intent, to wrong, cheat and defraud John Gibson, and the Guaranty State Bank out of said sum of money, contrary to the form of the statutes in such cases made and provided, and against the peace and dignity of the state.”
+Among the, errors assigned as grounds for reversal is the .action of the trial court in overruling a demurrer to the foregoing information. Counsel for plaintiff in error contend that said information is insufficient, “in that it does not apprise the court nor defendant of the conditions, circumstances, or qualities which render the check (set out in the information) false and bogus.” In this connection, it is contended that the allegation that the check was “false and bogus” is a mere conclusion of the pleader, and does not describe the offense with that particularity which is necessary to inform the defendant of every essential element of the crime intended to be charged, and that it is not sufficiently direct and certain as to the particular circumstances of the offense charged.
+Counsel for defendant admit:
+“The information is within the general rule — charging the offense in the language of the statute. It sets forth that the defendant obtained $10 from another person; that he obtained it by means of a check (setting out the check) ; that the check was false and bogus; that the defendant knew it was such; that he obtained the money with the intent to defraud the other person thereof.”
+A comparison of the statute with the information shows conclusively, in the opinion of the court, that every element of the offense set out in the statute is contained in the information. The information enlarges upon the statute to an extent sufficient to meet the' requirements of the Criminal Code of this state, which provides in section 5746, Revised Laws 1910, as follows:
+“The indictment or information is sufficient if it can be understood therefrom:
+“First: That it is entitled in a court having authority to receive it, though the name of the court be not stated.
+“Second. That it was found by a grand jury or presented by the county attorney of the county in which the court was held.
+“Third. That the defendant is named, or if his name cannot be discovered, that he is described by a fictitious name, with the statement that his true name is unknown.
+“Fourth. That the offense was committed at some place within the jurisdiction of the court, except where the act, though done without the local jurisdiction of the county, is triable therein.
+“Fifth. That the offense was committed at some time prior to the time of filing the indictment or information.
+“Sixth. That the act or omission charged as the offense is clearly and distinctly set forth in ordinary and concise language, without repetition, and in such a manner as to enable a person of common understanding to know what is intended.
+“Seventh. That the act or omission charged as the offense, is stated with such a degree of certainty, as to enable the court to pronounce judgment upon a conviction according to the right of the case.”
+It is the opinion of the court that the information above set forth is sufficient in its allegations to fully comply with section 5746, supra. The information sets out the false check with particularity, and alleges the necessary elements of the offense so as to clearly bring the' defendant within the terms of the statute. Where this is done, we do not deem it essential that all the details of the fraud practiced should be stated in the information, especially as the information alleges that the false and bogus character of the check was well known to the defendant at the time he used the same for a fraudulent purpose.
+Before the enactment of chapter 72, Session Laws 1913, supra, by the Legislature of Oklahoma, the identical statute here under consideration had been construed by the Supreme Court of the territory of Arizona, and it was there held in Williams v. Territory, 13 Ariz. 27, 108 Pac. 243, 27 L. R. A. (N. S.) 1032:
+“Obtaining money on a check upon a bank in which the drawer never had funds, or which he had no reason tc believe would honor his check, is within the statute making it a felony to obtain money by the use of any false or bogus check.”
+The undisputed evidence in this case clearly establishes the guilt of the defendant of the crime of obtaining money by means of a “false and bogus check” within the meaning of an identical statute as construed in the case of Williams v. Territory, supra.
+Counsel for plaintiff in error contend, however, that the.construction given to the statute in the Williams Case should not obtain in this state. With this contention we are unable to agree, for the-reason that it is evident that the Legislature of this state had in mind when the statute was enacted the construction theretofore given to it by the highest court of our neighboring territory. It is the opinion of the court that it was clearly the intention of the Legislature to make the giving of a check, if used to obtain anything of value from another, a false pretense within itself, where the drawer of such check had no funds or credit in the bank against which it was drawn to meet same. This is the view taken by the Supreme. Court of Oregon in the case of State v. Hammelsy, 52 Or. 156, 96 Pac. 865, 17 L. R. A. (N. S.) 244, 132 Am. St. Rep. 686, wherein it is held that the giving of such a check under such circumstances is within a statute prescribing a punishment for false pretenses. The diversity of opinion, however, upon this subject prior to the enactment of specific statutes against passing false or bogus checks, was evidently what led to the enactment of the later statutes, and makes clear the intention and purpose of the Legislature in using the term “false or bogus check.”
+For the reasons stated, therefore, it is held that the foregoing information sufficiently states the offense of obtaining money by means of a bogus check as defined by chapter 72, Session Laws 1913, supra, and that the evidence is sufficient to sustain a conviction under said statute, as no defense was made to the prosecution except that obtaining money by means of a check upon a bank in which the drawer had no funds or credit did not come within the meaning of the statute.
+Judgment affirmed.
+DOYLE, P. J., and ARMSTRONG, J., concur.
