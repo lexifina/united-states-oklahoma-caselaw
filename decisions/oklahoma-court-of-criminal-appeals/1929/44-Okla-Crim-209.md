@@ -1,0 +1,41 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-6471"
+decided: "1929-08-24"
+citations: ["44 Okla. Crim. 209", "280 P. 475"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["EDWARDS, P. J., and CHAPPELL, J., concur."]
+parties: ["HUBERT HAMNER v. STATE."]
+source_url: "https://static.case.law/okla-crim/44/cases/0209-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8742736
+cites_cases: ["255 Pac. 157", "36 Okla. Cr. 431", "41 Okla. Cr. 207"]
+---
+
+# Hamner v. State
+
+## Majority (DAYENPOET, J.)
+
+DAYENPOET, J.
+The plaintiff in error, hereinafter called the defendant, was convicted on a charge of possession of corn whisky with the unlawful and willful intent on the part of the said Hubert Hamner to barter, sell, give away, and otherwise dispose by the same in violation of the prohibitory laws of the state, and was sentenced to pay a fine of $500 and be imprisoned in the county jail for 180 days. The record was properly preserved, and defendant has appealed to this court.
+The facts in the case are brief. The officers were out on the public highway a short distance from the town of Wewoka, about 7 O’clock in the morning, looking for some prisoners they claim had escaped jail. On the edge of the highway the defendant’s car was stopped, and, as the officers drove by, the defendant was getting into his car; the officers stopped their car, and. the deputy sheriff says he got out, and, as he got out, the defendant got into his car and .started it. The deputy sheriff claims that, as the defendant drove by him, he told the defendant to stop, that defendant failed to stop, and he fired two or three shots at the casing of the car. The defendant continued to drive, and the officers got in the car and pursued the defendant for some distance until he reached Wewoka, and pursued the defendant through the city until they caught up with defendant when defendant’s car collided with another car.. They claim, as they came up to where the defendant’s car was, defendant broke some jars and was breaking one when the officers stopped their car; that the contents of the jars was corn whisky.
+The officers said they did not have a warrant for the arrest of the defendant, nor did they have a search warrant to search defendant’s car; that, when they started to pursue the defendant, they did not see the defendant violating any law, nor did they see any evidence of any whisky in defendant’s car. It was agreed- between the parties that the testimony of the other witnesses, who were with Roland Robinson, the deputy sheriff, at the time of the arrest of the defendant, would be the same as deputy Robinson’s testimony.
+When the case was called for trial, the defendant moved to suppress the testimony on the ground that it was procured unlawfully and without authority on the part of the officers, as they had no warrant for his arrest or to search his automobile, and that the act of the officers from the time, they started to follow the defendant in his car was unlawful, and that any testimony procured by reason of their unlawful acts was inadmissible against him. The defendant also, at the close of the testimony, moved the court to instruct the jury to return a verdict of not guilty against him. The motion to suppress the evidence, and the motion to instruct the jury to return a verdict of not guilty was overruled, and defendant duly excepted.
+Several errors have been assigned by the defendant as grounds for reversal of this case. It is urged by the defendant: -
+“1. That the court erred in overruling his motion for a new trial.
+“2. That the court erred in overruling his motion to suppress the evidence on the ground that it was unlawfully secured.
+“3. The court erred in admitting incompetent, irrelevant and immaterial evidence over the objection of the defendant.
+“4. The verdict of the jury is contrary to the evidence.
+“5. The verdict of the jury is contrary to the law.”
+“8. The court erred in overruling the plaintiff in error’s motion to strike all the evidence of the state’s witnesses as incompetent, irrelevant and immaterial and inadmissible.
+“9. The court erred in refusing to instruct the jury to render a verdict of not guilty.”
+The defendant in this case is not prosecuted for conveying intoxicating liquor, but is prosecuted for having possession with intent to sell the same contrary to the laws of the state of Oklahoma. No testimony was introduced by the state upon the question of intent to sell, barter, give away, or otherwise furnish to others any intoxicating liquor by the defendant. The only evidence which would even indicate the intent of the defendant is the evidence of the deputy sheriff, who claims that the defendant had a sufficient amount of whisky in jars to make a prima facie case of intent to sell. If the testimony of the state was properly admitted, there is no evidence on behalf of the state showing what quantity of whisky the defendant did have. There were several jars broken, and Avitnesses testified in substance that the contents smelled like whisky.
+The main question to be determined in this case is, Did the state introduce any competent testimony to sustain a conviction? In this case we find a man on the public highway who had a right to be there, no charge having been brought against him by the officers who are out in the discharge of their duty; they were not looking for the defendant, and did not know the defendant; when the officers’ car drove up, according to the testimony of the deputy sheriff, the deputy sheriff for some reason got out of the car and claims he made a step or two toward the defendant’s car, and that the defendant was getting into his car; that the defendant started his car and the deputy claims he asked defendant to stop, but he does not claim he told the defendant he was an officer, and he gives no reason as to why he asked the defendant to stop; the defendant drove on, and, according to the state’s testimony, the deputy sheriff began shooting at the defendant’s car; officers then pursued the defendant, and, as stated by the officers, without seeing the defendant commit any offense, or without seeing the whisky in the car,, or without any knowledge the defendant was committing an offense, followed him until he got to the city of Wewoka, where he collided with another car.
+It is urged by the defendant that the testimony procured by the officers was unlawfully and illegally procured, and that his motion to suppress should have been sustained, and that the court committed error in not sustaining his motion to suppress the evidence, and that the court should have sustained his motion to direct the jury to return a verdict of not guilty. The defendant had a right to be on the highway, and had a right to drive his car in any direction he desired, and he was not required to stop his car at the command of any individual along the roadside. When the officer tried to stop the defendant’s car and began firing at it and started in pursuit, they began an effort to search, and continued it up until the time they claim they overtook the defendant where they claim he was breaking some jars.
+In Taylor et al. v. State, 36 Okla. Cr. 431, 255 Pac. 157, this court said:
+“At the time charged in the information certain officers intercepted the defendants in an automobile on the public highway and attempted to stop them. When they did not promptly stop, they fired into the car in which they were driving, and then arrested the defendants and searched the car and found in it a jug of whisky. They had no warrant for the arrest of the defendants nor any search warrant, and the apprehension and search was based on suspicion only. This was in violation of the Constitution and statutory rights of the defendants and was seasonably objected to. The conviction cannot be sustained.”
+•In this case the officers acted without authority of law, and the objection of the defendant to the admission of the testimony should have been sustained. Welch v. State, 41 Okla. Cr. 207, 271 Pac. 172.
+For the reasons stated, the judgment is reversed and remanded.
+EDWARDS, P. J., and CHAPPELL, J., concur.
