@@ -1,0 +1,30 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-5788"
+decided: "1927-03-12"
+citations: ["36 Okla. Crim. 270", "253 Pac. 1035"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DOYLE, P. J., and EDWARDS, J., concur."]
+parties: ["R. WILLIFORD v. STATE."]
+source_url: "https://static.case.law/okla-crim/36/cases/0270-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1439138
+---
+
+# Williford v. State
+
+## Majority (DAVENPORT, J.)
+
+DAVENPORT, J.
+The plaintiff in error, hereinafter called the defendant, was convicted of the crime of assault with a dangerous weapon, and was sentenced to imprisonment in the penitentiary for a period of two years. To reverse the judgment he appealed to this court.
+In substance, the facts are as follows: The defendant was drunk on the streets of Tonkawa the evening of the trouble. State’s witness Raymond Williams, commonly known as Speck Williams, requested the defendant to go home. The defendant went away, and shortly thereafter was seen on the street by the officer. The said Raymond Williams, being called as a witness by the state, testified that he drove up, and Mr. Williford raised his gun, and said, “Get out,” calling witness a vile name. “I said, ‘All right;, just wait a minute; I want to talk with you;’ and started walking toward him. Mr. Bilbry got out of my car on the right side near the defendant. I hesitated, and stood still. Williford took his eyes off of me—looking this way.—and said something. I don’t know who he was talking to— he turned this way. I grabbed the gun and threw it off, and the gun was discharged while we were scuffling over the possession of it. I have known the defendant for about 18 months. We were good friends. The defendant has always borne a good reputation. The defendant was drunk that night. I had never heard of him being arrested for anything before.”
+Mr. Bilbry said, in substance, that he and Williams drove to a filling station, and saw the defendant with a gun in his hand; that the defendant asked Williams to get out of the ear and put his hands up. Williams did so, and started walking toward the defendant. Witness also got out of the car, and when witness was in a few feet from the defendant, he said, “Stand there and watch that bird.” The witness Williams grabbed Williford’s gun, and a scuffle ensued, during which time the gun was discharged. “While they were scuffling, I began to hit Williford, and knocked him loose from the gun he had in his hand.” The doctor who treated Williams stated that he was shot once in the hip and recovered in a few days.
+This, in substance, is all the testimony on behalf of the state. The defendant took the stand in his own behalf, and testified as to where he was reared; that he knew the witness Williams; was a good friend of Williams; that he had lost much sleep; had bought some whisky at Three Sands that seemed to be drugged; that he was not a drinking man, and was never arrested before; that he was so drunk he did not realize what was going on; that he had no intention of shooting Williams or anybody else.
+Lee Wright was called as a witness for the defendant, and testified: That he never saw the defendant drunk, but knew something was wrong with him, and asked him to go into the office and sit down. That Speck Williams and Bilbry came up in a car. Williford told Williams to get out, and started toward Williams. The other man got out of the car too. That Williford took his eyes off of Speck Williams to look at Bilbry, and Williams grabbed hold of Williford’s pistol, and the other man commenced striking Williford over the head, during which time the gun was pulled off. That Williford pulled a gun as he went after Speck Williams. That witness Bilbry had hit Williford about three times before the gun went off.
+The defendant has assigned nine errors alleged to have been committed by the court in this case. The only error assigned by the defendant that we deem neccessary to consider is assignment 5, which is as follows:
+“(6) That the verdict is not supported by the evidence.”
+The defendant confines his argument to the question as to the sufficiency of the evidence to sustain the verdict, and strongly urges that the evidence is wholly insufficient. A careful examination of the record discloses the fact that there- is no conflict in the testimony. The record further discloses that the instructions of the court were fair and correctly stated the law. We cannot agree with the defendant’s contention. The question of the sufficiency of the evidence is a question exclusively for the determination of the jury, and this court will not substitute its judgment for that of a jury, provided there is competent and credible evidence in the record which would cause the jury to conclude that the defendant is guilty as charged in the verdict. We find no prejudicial error in the record. This seems to be an unfortunate affair where one friend has trouble with his friend while under the influence of intoxicating liquor. The record discloses that the defendant and prosecuting witness were friends, and had been for some time, and at the time of the trial no malice or hatred existed between them; that the defendant is a young man, and prior to this alleged difficulty had borne a good reputation for peace and as a law-abiding citizen; had never been in any trouble before, nor even charged or suspicioned of criminal conduct prior to the trial of this case.
+From the record in this case the assault was without apparent provocation, and is a case deserving of considerable punishment. However, we believe this is not a case where the defendant should be subjected to the odium which will necessarily follow from his incarceration in the penitentiary. We believe that the ends of justice will be best subserved by a modification of the judgment to provide imprisonment in the county jail of Kay county for a period of six months, and, as so modified, the judgment is affirmed.
+DOYLE, P. J., and EDWARDS, J., concur.
