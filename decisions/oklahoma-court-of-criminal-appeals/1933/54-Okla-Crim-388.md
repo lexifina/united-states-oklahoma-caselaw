@@ -1,0 +1,26 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-8524"
+decided: "1933-05-26"
+citations: ["54 Okla. Crim. 388", "22 P.2d 932"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DAVENPORT and CHAPPELL, JJ., concur."]
+parties: ["BILL RIDGWAY v. STATE."]
+source_url: "https://static.case.law/okla-crim/54/cases/0388-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1468782
+---
+
+# Ridgway v. State
+
+## Majority (EDWARDS, P. J.)
+
+EDWARDS, P. J.
+The plaintiff in error, hereinafter called defendant, was convicted in the district court of Carter county of robbery in the first degree, and was sentenced to serve a term of ten years in the penitentiary.
+Some argument is made that the evidence is insufficient to sustain the judgment. The evidence is conflicting, but the testimony for the state fully sustains the judgment. The weight of the evidence and the credibility of the witnesses was a question for the jury, and will not be disturbed.
+The contention is made that the court erred in instruction 5, in which the jury is told the minimum punishment for first degree robbery is imprisonment in the penitentiary for any term not less than ten years. The information charges a crime conjointly committed by “Bill Ridgway and Allan Hunt.” Defendant Ridgway was tried separately. The statutes relating to the punishment for robbery in the first degree are somewhat involved. Before statehood, the territorial statute defined first degree robbery and fixed the punishment at imprisonment in the penitentiary not less than ten years. Section 2124, Stat. 1893 (see section 2550, Stat. 1931). In addition to the foregoing, there was also' a territorial statute providing that conjoint robbery was punishable by life imprisonment in the penitentiary. Section 2126, Stat. 1893 (section 2552, Stat. 1931). This conjoint robbery statute contained no alternative. When the evidence disclosed that a robbery had been committed by two or more persons acting together, the court was required to instruct the jury that, in case they found defendants guilty, the punishment must be life imprisonment. As a matter of history, we know that this severe statute became law in various sections of the West or Central West to meet a condition of brigandage which had arisen, under which, generally, some outlaw leader would gather around him a band of kindred spirits to prey on society, by the robbery of stage lines, trains, banks, and other establishments. Later it became apparent such extreme punishment was the cause of numerous miscarriages of justice, since in many cases juries were unwilling to return verdicts which would be followed by life imprisonment, the only punishment permitted by the statute. After statehood, the Legislature, in 1909, amended the statute fixing punishment for conjoint robbery by providing imprisonment not less than five nor more than 50 years. Section 2373, R. L. 1910 (section 2552, Stat. 1931). Surely it was never the legislative intent to punish a person who, while acting alone, committed a robbery, by a longer term of imprisonment than that imposed where two or more persons acting together committed a robbery. It is self-evident that a robbery jointly committed by two or more persons is a more serious crime, and subjects the person to more danger of injury than a robbery committed by a single individual. The Legislature, in 1925, provided a minimum punishment of five years’ imprisonment for robbery committed by the use of firearms or other dangerous weapons. Section 2543, Stat. 1931.
+Again, it is self-evident that a robbery committed by the use of firearms or other dangerous weapons is generally a more dangerous class of first degree robbery than that committed in some other manner. It could never have been the legislative intent that a minimum punishment for robbery with firearms, or other dangerous weapons, should be imprisonment for five years while a first degree robbery committed in some other manner should carry a minimum punishment of ten years. To give section 2552 a literal construction without regard to any other statute, it would provide a less punishment for robbery in the first degree, committed by two- or more persons acting together, than for robbery in the first degree by a person acting alone, and would provide a less punishment for one or more persons committing a robbery with firearms, or other dangerous weapons, than for a single individual committing a robbery in any other manner. Repeals by implication are not favored, but some latitude by way of implication may be indulged where a literal construction leads to an absurd result. Construing these various sections of the statute together, we are convinced they fix, by direct wording or by necessary implication, a minimum punishment for first degree robbery committed in any manner at imprisonment in the penitentiary for a term not less than five years.
+It follows that instruction 5 is erroneous, and the judgment should be and is hereby modified by reducing the term of imprisonment from ten years to five years, and, as amended, the judgment is affirmed.
+DAVENPORT and CHAPPELL, JJ., concur.
