@@ -1,0 +1,27 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-11019"
+decided: "1948-04-07"
+citations: ["86 Okla. Crim. 48", "192 P.2d 289"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BAREFOOT, P. J., and JONES, J., concur."]
+parties: ["Ex parte JOHN ALLEN."]
+source_url: "https://static.case.law/okla-crim/86/cases/0048-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8740731
+cites_cases: ["24 Okla. Cr. 131", "32 Okla. Cr. 217", "33 Okla. Cr. 190", "68 S. Ct. 1333", "73 Okla. Cr. 38", "84 Okla. Cr. 190", "85 Okla. Cr. 183"]
+---
+
+# Ex parte Allen
+
+## Majority (BRETT, J.)
+
+BRETT, J.
+Petitioner John Allen alleges he was convicted on February 23, 1925, in the district court of Pawnee county, Oklahoma, for the crime of murder, and sentenced to serve a life sentence in the State Penitentiary at McAlester, Oklahoma. Thereafter, and on December 20, 1948, petitioner was transferred from the Oklahoma State Penitentiary to the Oklahoma State Reformatory at Granite, Oklahoma. Petitioner contends that his original conviction was obtained without the privilege of grand jury consideration and he was not indicted by such body in accordance with the provisions of Article V of the Bill of Rights. Petitioner contends that presently he is confined without authority of law, and therefore, is entitled to be released. To the petition the state filed a response in which it is alleged that each and every material allegation in said petition is denied and that the petitioner is now in the custody of the warden of the Oklahoma State Reformatory, Claud Moore, under and by virtue of the aforesaid judgment and sentence of the district court of Pawnee county, Oklahoma, and he is therefore detained under lawful custody.
+Petitioner appears for himself. This court has re-péatedly held that it looked with liberality in construing petitions filed by inmates of state institutions which are prepared without the advice and help of an attorney. See Ex parte Walker, 84 Okla. Cr. 190, 180 P. 2d 670; Ex parte Tollison, 73 Okla. Cr. 38, 117 P. 2d 549, 550. However, this court has held that the writ of habeas corpus is limited to cases where the judgment and sentence of the court attacked are clearly void. No such situation is presented by this record. This court on ha-beas corpus will not look beyond the judgment and sentence of any court of competent jurisdiction as to mere irregularities of procedure. Such was the holding in Ex parte Tollison, supra; Ex parte Dunn, 33 Okla. Cr. 190, 242 P. 574; Ex parte Grant, 32 Okla. Cr. 217, 240 P. 759; Ex parte Hollingshead, 24 Okla. Cr. 131, 216 P. 486. For the reasons set forth in the cases just cited, petitioner’s contention in regard to the irregularity of the presentment of the charge is wholly without merit.
+Petitioner’s contention is further predicated upon the proposition that he is not now confined as provided by law since the place of confinement is not now the place to which he was sentenced, and for that reason he is entitled to a writ of habeas corpus. Under the provisions of Title 57 O. S. A. § 105, “all persons whose term of confinement is for life or a term of ninety-nine years” shall be confined in the State Penitentiary at McAlester, Oklahoma. In the case of Ex parte Neighbors, 85 Okla. Cr. 183, 187 P. 2d 276, 277, this court held that “under the provisions of Title 57 O. S. A. § 105, it is clear that the Legislature intended the Oklahoma State Penitentiary at McAlester to be the place of confinement of confirmed criminals, repeat violators, those sentenced to life imprisonment, * * In Ex parte Neighbors, supra, this court further held that: The State Board of Public Affairs is vested with certain discretionary powers in making transfers of prisoners and that:
+“The State Board of Public Affairs may transfer prisoners from the Oklahoma State Reformatory to the Oklahoma State Penitentiary or vice versa in the exercise of its discretion when it is necessary so to do; to separate confirmed and incorrigible criminals from those who do not require the restrictions placed around them that the confirmed criminal requires, but, such transfers are not to be arbitrarily made or made contrary to classifications expressly provided by the Legislature, and where it appears that the transfer of a prisoner has been made contrary to a statutory classification, the State Board of Public Affairs will be directed to return the prisoner to the place of confinement as provided by law.”
+In said case it was further held that “both the courts and the State Board of Public Affairs are bound by the statutes as written by the Legislature”. It is therefore apparent that the order made by the State Board of Public Affairs on December 20, 1946, transferring John Allen from the State Penitentiary at McAlester to the State Reformatory at Granite, who stood convicted of murder and sentenced to life imprisonment, was contrary to the provisions of Title 57 O. S. A. § 105, and is void. However, on March 22, 1948, the petitioner was by order of the State Board of Public Affairs returned to the penitentiary at McAlester, Oklahoma, for service of sentence imposed by the district court of Pawnee county, Oklahoma. The question raised by the petition as to lawful custody is not now at issue and the writ must be denied. It is so ordered.
+BAREFOOT, P. J., and JONES, J., concur.
