@@ -1,0 +1,25 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-4271"
+decided: "1922-05-06"
+citations: ["21 Okla. Crim. 252", "206 P. 541"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DOYLE, P. J., and BESSEY, J., concur."]
+parties: ["Ex parte C. B. WOOD."]
+source_url: "https://static.case.law/okla-crim/21/cases/0252-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8738862
+cites_cases: ["1 Okla. Cr. 286", "113 U. S. 328", "129 Am. St. Rep. 857", "159 U. S. 95", "39 Tex. Cr. R. 547", "41 Tex. 488", "47 S. W. 533"]
+---
+
+# Ex parte Wood
+
+## Majority (MATSON, J.)
+
+MATSON, J.
+On the 31st of March, 1922, petitioner C. B. Wood filed in this court a duly verified petition and application for a writ of habeas corpus, alleging: That he is unlawfully restrained of his liberty and imprisoned in the county jail of Ottawa county, at Miami, Okla., by Neil Harr, sheriff of said county. That the cause of said restraint, according to the best of petitioner’s knowledge and belief, is that, on and prior to the 3d day of February, 1922, petitioner was in the custody of said sheriff and restrained in said jail upon a warrant on an information charging him with the crime of murder, alleged to have been committed by him and others, to wit, William Hawkins and Joe J. Lynch, by killing one 0. B. Van-derpool in said county, and that, on the day and date aforesaid, defendant was put on trial in the district court of said Ottawa county, upon said charge, and, upon his plea of not guilty thereto, a jury was duly impaneled and sworn, and, after hearing all the evidence and instructions of the court and argument of the counsel, said jury retired in charge of sworn bailiffs to consider their verdict, and defendant was, by order of said court, remanded to the custody of said sheriff, and by said sheriff returned to and placed in the jail of said county. That, while so confined and without his knowledge or consent, said jury was discharged from further deliberations on their said verdict by reason of their failure to agree. That by reason of the proceedings aforesaid, had and done in the absence of said petitioner and while so confined and restrained in said county jail, he was thereby acquitted of said charge and became thereby entitled to be discharged from the custody of said officer and to be released from said jail, and that be is not beld in custody or confined in said jail on any other or different charge than the one herein set out. That petitioner has made application to the district court of said Ottawa county for his discharge, upon the grounds and for the reasons herein set out, and his petition for said discharge has been denied by said court and petitioner remanded to the custody of said sheriff and reconfined in said jail. That, by reason of the matters and things hereinbefore set out, petitioner is illegally restrained of his liberty and unlawfully imprisoned in said jail. A copy of the information and a copy of the order discharging said jury and a copy of the petition filed in the district court and the order thereon, together with affidavits in support of the allegations of this petition, are attached to the petition and made a part thereof.
+The petition was demurred to by counsel for respondent, and the application was presented to this court, both by brief and oral argument. This is a resort to the writ of habeas corpus for the purpose of discharging the petitioner on the ground of former jeopardy, in that the discharge of the jury in the former trial, in his absence and while he was confined in jail and without his consent or knowledge, was an acquittal of the said charge on which he is now held and entitles him to the relief prayed for.
+The writ is denied. The general rule is that all questions which may arise in the orderly course of a criminal prosecution are to be determined by the court to whose jurisdiction the defendant has been subjected by law, and the fact that the defendant has a good and sufficient defense to a criminal charge on which he is held will not entitle him to hi's discharge on habeas corpus. Former jeopardy must be pleaded in bar in the trial court, andl the writ of habeas corpus cannot be resorted to for the purpose of discharging a petitioner on this ground. If, after sueb plea bas been presented and tried in the court having jurisdiction to try the offender, the decision of such court is thought to be erroneous, the remedy in this state is by appeal and not by habeas corpus. Ex parte Johnson, 1 Okla. Cr. 286, 97 Pac. 1023, 129 Am. St. Rep. 857; 12 R. C. L. § 24, p. 1206, and cases cited in note 10; Ex parte Bigelow, 113 U. S. 328, 5 Sup. Ct. 542, 28 L. Ed. 1005; Ex parte William Belt, 159 U. S. 95, 15 Sup. Ct. 987, 40 L. Ed. 88; Perry v. State, 41 Tex. 488; Ex parte Crofford, 39 Tex. Cr. R. 547, 47 S. W. 533; Church on Habeas Corpus (2d Ed.) § 253, p. 354, and cases cited.
+DOYLE, P. J., and BESSEY, J., concur.
