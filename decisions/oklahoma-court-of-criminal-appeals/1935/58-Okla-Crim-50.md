@@ -1,0 +1,21 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-8903"
+decided: "1935-07-05"
+citations: ["58 Okla. Crim. 50", "54 P.2d 407"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex parte G. R. COURTER."]
+source_url: "https://static.case.law/okla-crim/58/cases/0050-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8740127
+cites_cases: ["58 Okla. Cr. 43"]
+---
+
+# Ex parte Courter
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+This case presents the same question as Ex parte J. L. Biggs, 58 Okla. Cr. 43, 54 Pac. (2d) 404, just decided, and on the authority of that case the writ is denied.
