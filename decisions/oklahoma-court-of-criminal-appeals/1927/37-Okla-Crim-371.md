@@ -1,0 +1,33 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-5803"
+decided: "1927-08-05"
+citations: ["37 Okla. Crim. 371", "259 P. 166"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DOYLE, P. J., concurring.", "DAVENPORT, J., absent, not participating."]
+parties: ["H. E. ROBARDS v. STATE."]
+source_url: "https://static.case.law/okla-crim/37/cases/0371-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8743637
+cites_cases: ["233 P. 246", "29 Okla. Cr. 86", "34 Okla. Cr. 296"]
+---
+
+# Robards v. State
+
+## Majority (EDWARDS, J.)
+
+EDWARDS, J.
+The plaintiff in error, hereinafter called defendant, was convicted of robbery with firearms and was sentenced to serve a term of 25 years in the state penitentiary.
+The charging part of the information is as follows:
+“That the said H. E. Robards, on the day and year aforesaid, in the county and state aforesaid, then and there being, did then and there knowingly, willfully, wrongfully, unlawfully, and feloniously make an assault in and upon one Mary Garlinghouse with a certain weapon, to wit, a 38-caliber revolver, then and there and thereby putting the said Mary Garlinghouse in fear of an immediate injury to her life and person' bythreatening to shoot the said Mary Garlinghouse, and did then and there, by use of said force and putting in fear, unlawfully, willfully, wrongfully, and feloniously, and against the will of her, the said Mary Garlinghouse, take, steal, and carry away from the possession and immediate presence of her, the said Mary Garlinghouse, certain personal property, to wit, the sum of $25, with the unlawful, wrongful, and felonious intent then and there on the part of him, the said H. E. Robards to rob and deprive the said Mary Garlinghouse of said property, and to convert the same to the use and benefit of him, the said EL É. Robards, contrary to the form of the statute, in such cases made and provided, and against the peace and dignity of the state.”
+The prosecution was predicated on section 1, c. 85, Session Laws 1923, as follows:
+“That any person or persons, who, with the use of any firearms, or any other dangerous weapons, attempts to rob or robs any person or persons, or who robs or attempts to rob any place of business, residence, bank, or other place, inhabited or attended by any person or persons at any time, either day or night, shall be deemed guilty of a felony, and upon conviction therefor shall suffer death, or imprisonment at hard labor in the state penitentiary for a time of not less than twenty-five (25) years, at the discretion of the jury.”
+The record discloses that on September 16, 1924, Mrs. Mary Garlinghouse was cashier in sole charge of a bank at Vera, Okla. On that morning defendant with one Morris came into the bank, the only other person present being a Mr. Oglesby. Defendant and Morris, for the purpose of robbery, covered these parties with pistols, compelled Oglesby to lie down on the floor and attempted to force Mrs. Garlinghouse to lie down. Showing remarkable courage, she refused to do this, but resisted defendant and Morris to the utmost. While this was going on Morris took about $50 in silver in the till, put it in a sack, and defendant having discovered that he was seen by persons on the outside suggested to Morris that they leave, and he attempted to compel Mrs. Gar-linghouse to go with him, supposedly to act as a shield. She was forced to the bank door and defendant there shot at some one across the street, and about this time he was shot in the shoulder by some one from the outside. Mrs. Garlinghouse then seized him around the neck, and they scuffled out of the door, where the defendant was arrested. Oglesiby was seriously wounded, and Morris was shot and killed. The money was found in a sack near the bank door. The testimony of defendant is, in effect, a plea of guilty. He testified that he and Morris attempted to rob the bank and details the circumstances substantially the same as the witnesses for the state. No claim is made that the evidence is insufficient to support the verdict.
+Defendant contends that section 1, c. 85, Session Laws 1923, supra, is unconstitutional for the reason that the punishment fixed therein is excessive. No authorities in support of this contention are cited, and we assume none can be found. Under section 9, art. 2, of the state Constitution, cruel or unusual punishments are forbidden, but robbery by firearms, where resistance of the person sought to be robbed may be expected to result in death or serious bodily injury at the hands of the one engaged in such crime, is of so serious a nature and consequence that we cannot say, as a matter of law, that the punishment fixed by the statute makes it cruel or unusual, within the meaning of the Constitution. It may be well to state, however, that the Legislature of 1925 amended said act to provide a minimum punishment of 5 years for this class of robbery.
+It is also argued that the court erred in denying defendant a continuance upon the amendment to the information by the county attorney after the trial had commenced. The extent of this amendment was to allege the offense to have been committed on September 16 instead of on September 13. At the trial defendant testified that the transaction occurred on September 16. It whs not necessafty that the state amend the information as it is not required that an offense be proved at the exact date charged. It is obvious that the defendant was not prejudiced by this amendment. The amendment is a mere matter of form, such as may properly be made after the jury is impaneled.
+It is also insisted that the court should have sustained defendant’s demurrer at the close of the state’s evidence for the reason that there is a variance in that the proof showed the money taken to be the property of the bank while the information alleged defendant robbed Mary Garlinghouse.' The ownership of the money taken was of no particular importance. Proof that it was in the possession or custody of Mary Garlinghouse and that it was taken from her person or immediate presence by force or by putting her in fear constitutes robbery. Her custody or control is sufficient to support the allegation of ownership, although the actual ownership of the money might have been in some third person. Ward v. State, 34 Okla. Cr. 296, 246 P. 664, and authorities there cited. None of the assignments have any merit.
+The case is affirmed.
+DOYLE, P. J., concurring.
+DAVENPORT, J., absent, not participating.
