@@ -1,0 +1,32 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-1324"
+decided: "1911-10-14"
+citations: ["6 Okla. Crim. 227", "118 P. 159"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["FURMAN, P. J., and ARMSTRONG, J., concur."]
+parties: ["VICTOR BONHAM v. STATE."]
+source_url: "https://static.case.law/okla-crim/6/cases/0227-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4299773
+cites_cases: ["117 Pac. 460", "5 Okla.Cr. 605"]
+---
+
+# Bonham v. State
+
+## Majority (DOYLE, J.)
+
+DOYLE, J.
+The plaintiff in error was convicted in the county court of Coal county of the crime of having the possession of intoxicating liquor, with the intention of violating the provisions of the prohibition law, and, on July 26, 1911, was sentenced to be confined in the county jail of Coal county for a period of six months and pay a fine of $500. An appeal was taken by filing in this court, on August 21, 1911, a petition in error, with a transcript of the record.
+A motion to advance the cause, for the reason that defendant was in jail, being unable to give bail pending his appeal, was sustained, and the cause was advanced and submitted at this term, upon the brief and oral argument on behalf of the defendant, and the Attorney General was allowed 10 days to file brief or a confession of error, neither of which has been filed. The record shows that on December 19, 1910, a warrant for the arrest, of plaintiff in error was issued upon an information that day filed by W. S. Moore, clerk of the said county court. Upon arraignment, the defendant filed a motion to quash and set aside the warrant so issued, for the reason that said warrant was not issued by the judge of the'county court, or any magistrate, and was therefore void, and that said warrant does not show on its face that it was issued upon the order of any court or magistrate. The motion was b}r the court overruled.
+The first assignment of error is that: “-The trial court erred in overruling the motion to quash and set aside the warrant.” This assignment is well taken. In the case of Bowen v. State, 5 Okla.Cr. 605, 115 Pac. 376, it was held by this court:
+“The clerk of a county court has no power to issue a ‘warrant of arrest’ for a defendant, based upon an information filed in said court; and, where a motion is made in apt time'to set aside a warrant so issued, it should be sustained by the court.”
+It appears from an examination of the transcript that the defendant entered a plea of not guilty, and also a plea of former conviction of the same offense charged in this information, by the judgment of the county court of Coal county, rendered on the 27th day of January, 1911, in cause numbered 980, entitled “The State of Oklahoma v. Victor Bonham.”
+Several of the assignments of error relate to the instructions requested and refused and the instruction given on the issue of former conviction; but it is only necessary to notice the fact presented by the record — that the jury rendered only a general verdict on the single plea of not guilty, and failed to return a verdict on the issue submitted upon the plea of former conviction entered in said cause. As was said by this court, in the case of Putman v. State, infra, 117 Pac. 460:
+“One of the grounds of the motion for a new trial and the motion in arrest of judgment is as follows. ‘For the reason that said verdict of the jury is not a sufficient verdict, not in accordance with the law in such cases made and provided, is not a finding on the issues in this case, is not such a'verdict as will sustain a judgment and sentence, it being a general verdict on the single plea of “not guilty,” and no verdict of the jury at-all on the issue and plea of “former conviction” entered .in said cause.’ The provisions of Procedure Criminal pertinent to the question presented are as follows: ‘There are three kinds of pleas to an indictment: A plea of 1st, guilty; 2nd, not guilty; 3rd, a former judgment of conviction or acquittal of the offense charged, which may be pleaded either with or -without the plea of not guilty.’ Section 6764 [Comp. Laws 1909] : ‘When the defendant shall have been convicted or acquitted upon an indictment the conviction or acquittal is a bar to another indictment for the offense charged in the former, or for an attempt to commit the same, or for an offense necessarily included therein, of which he might have been convicted under that indictment.’ Section 6773: ‘An issue of fact arises, 1st, upon a plea of not guilty, or 2nd, upon a plea of ■ former conviction or acquittal of the same offense.’ Section 6873: ' ‘A general verdict upon a plea of not guilty, is either “guilty” or “not guilty,” which imports a conviction or acquittal of the offense charged in the indictment. Upon a plea of former conviction or acquittal of the same offense, it is either “for the state,” or “for the defendant.” ’ And section 6879 in part provides: ‘No judgment of conviction can be given unless the jury expressly find against the defendant, upon the issue, or judgment be given against him on a special verdict.’ The record shows that the issues upon both pleas were submitted to the jury, and that the jury returned a verdict on the plea of not guilty only, and made no finding on the issues raffed .upon the plea of former conviction, and the evidence offered in support thereof. It is' our opinion that the defendant was entitled to have both of his pleas passed upon by the jury, and a.verdict returned on each plea before a judgment of conviction could be properly pronounced and entered in the case against him.”
+Under the provisions of our Procedure Criminal, where a defendant enters a plea of “not guilty,” and also a plea of “former conviction of the same offense,” and both issues are submitted to the jury, there must be a verdict on both pleas, before a judgment of conviction can properly be pronounced and entered, and a judgment of conviction will be reversed if the jury fail to find a verdict on the latter.
+As our conclusion upon the assignments .considered' necessitates a reversal of the judgment of the trial court, it is not necessary that we consider the other assignments of error presented.
+For the reasons stated, the judgment of the county court of Coal county is reversed, and the cause remanded. ’
+FURMAN, P. J., and ARMSTRONG, J., concur.
