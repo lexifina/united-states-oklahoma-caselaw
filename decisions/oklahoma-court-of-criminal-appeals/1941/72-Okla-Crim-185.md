@@ -1,0 +1,31 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-10018"
+decided: "1941-06-04"
+citations: ["72 Okla. Crim. 185", "114 P.2d 179"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JONES, J., concurs.. DOYLE, J„, absent."]
+parties: ["CLYDE CAMPBELL v. STATE."]
+source_url: "https://static.case.law/okla-crim/72/cases/0185-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8739604
+---
+
+# Campbell v. State
+
+## Majority (BAREFOOT, P. J.)
+
+BAREFOOT, P. J.
+Defendant Clyde Campbell was charged jointly with Bob Haynes with the larceny of an automobile in the district court of Ellis county on the 19th day of September, 1940, was tried, convicted and sentenced to serve a term of five years in the penitentiary, and has! appealed.
+The, record reveals that this defendant was unable to give bond pending appeal, and is now confined in the penitentiary, and for this reason his case has been advanced and decided at this time.
+Counsel for defendant was appointed by the court and has performed his services well and without compensation. Defendant was tried before the court without the intervention of a jury. The case-made has been filed, but counsel for defendant has not filed a brief for the reason that the only question involved is whether under the evidence defendant is guilty of the crime charged. No questions of law are involved.
+The defendant and his codefendant Bob Haynes were charged jointly with the larceny of an automobile, the property of L. R. Bidders, at Shattuck, Ellis county, on the 19th day of September, 1940. The car was1 stolen from the sales ground in Shattuck about 2:30 p. m. The evidence is that the defendant and Bob Haynes^ his codefendant, were tramping over the country. The defendant lived in St. Louis, Mq., but had recently been in California and was riding freight trains on his way back to St. Louis. On the morning of the 18th of September, 1940, he arrived in Woodward on a freight train and met there for the first time his codefendant Bob Haynes, who- came in on the same train, and they went together to a cafe and had breakfast. They remained together during the day. That night this cafe was burglarized and certain cigarette vending machines and music boxes were pilfered. Money of the denomina,tion taken from these machines was found on the person of defendant. The codefendant Bob Haynes admitted this burglary, but denied that defendant was present. He returned to the boxcar where defendant was, but did not mention to- him about the burglary,. On the morning of the 19th of September, 1940, they rode together a freight train into the town of Shattuck. They left the train and went up town and visited a pool hall, drinking beer. The defendant testified that they then made inquiry as- to freight trains passing through the town, and that about 1 or 1:30 he decided he could not catch a train and left his codefeudant and went out on the highway and caught a ride to Rosston, which is about 32 miles from Shattuck.
+Haynes testified that about 2:30 he stole the automobile of L. R. Sidders and left there going to Ro-sston where he saw defendant standing by the side of the road and picked him up, and they drove on to Mineóla, Kan., where they stopped at a filling station to have a, tire repaired, and were picked up by the local officers when they could not give explanations about the car in which they were driving, and had no license to drive and could not identify themselves. Bob Haynes claimed that the car belonged to his uncle in Oklahoma and that he had told the defendant this, and the defendant did not know it was stolen. The car was identified as the one stolen from Mr. Sidders of Shattuck, who with the officers of Ellis and Woodward counties went to Mineóla and identified the automobile. Bob Haynes finally admitted to the officers that; he had stolen the car. The defendant was returned to Woodward, and his codefendant was taken to- Ellis county. These charges were afterwards filed in Ellis county.
+The evidence revealed that defendant had previously been convicted of burglary and larceny of an automobile. He was sentenced to a term of seven years on the burglary charge but was afterwards pardoned, and served a. two-year sentence in the theft case. His codefendant Bob' Haynes had been convicted and had served sentences in the penitentiary four different times. He had been released from the Texas, penitentiary on the 23rd day of August, 1940. The state also offered in evidence the testimony of Albert Ripple, an automobile salesman, who testified to seeing the defendants together at about 11 a. m. in Shat-tuck on the morning the car was stolen, and again about 1:30 p. m. going toward the sale yards where the car was stolen about 2 or 2:30.
+Reinhard Meyer, a, traveling salesman, testified that he met an automobile which he described as the one stolen going north on the highway about eight or ten miles from Shattuck on the date the car was stolen between 2:30 and 3 o’clock p. m., and the car had two' parties in it whom he could not identify.
+Sheriff Quickel of Woodward testified the defendant told him on the way back from Kansas that he left Shattuck with his. codefendant Bob Haynes. Mr. Shirley, who¡ owned the cafe that had been burglarized in Woodward, also corroborated the sheriff’s testimony as to this statement by defendant. Further circumstances were testified to which it is: not necessary to mention.
+This case was tried without the intervention of a jury. Under the law the findings of the court are as binding as if a jury verdict had been rendered. From the above statement of the. evidence we are of the opinion the court was amply justified in finding the defendant was jointly guilty with his codefendant of the larceny of the automobile as charged. He evidently came to the conclusion that the codefendant Bob Haynes, who testified at the trial, was attempting to assume all the responsibility in an effort to release this defendant. We are of the opinion the evidence justified this belief.
+Finding no error in the record, the judgment of the district court of Ellis county is affirmed.
+JONES, J., concurs.. DOYLE, J„, absent.
