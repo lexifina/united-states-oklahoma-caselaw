@@ -1,0 +1,46 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-4667"
+decided: "1925-03-24"
+citations: ["31 Okla. Crim. 137", "236 P. 912"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DOYLE and EDWARDS, JJ., concur."]
+parties: ["TYREE GIDENS v. STATE."]
+source_url: "https://static.case.law/okla-crim/31/cases/0137-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8852054
+cites_cases: ["13 Okla. Cr. 599", "166 P. 74", "22 Okla. Cr. 76", "221 P. 1044", "26 Okla. Cr. 59", "8 Okla. Cr. 452", "9 Okla. Cr. 692"]
+---
+
+# Gidens v. State
+
+## Majority (BESSEY, P. J.)
+
+BESSEY, P. J.
+Plaintiff in error, Tyree Gidens, for convenience referred to as the defendant, was prosecuted by information for an assault with intent to kill by means of an open knife, under the provisions of section 1756, Comp. Stat. 1921.
+The injured party was Jared Little, the prosecuting witness in the trial court. The state’s evidence shows that there was a community singing entertainment at the Oak Grove schoolhouse, where the defendant, the prosecuting witness, and many others had assembled. The prosecuting witness was a young man who had lived in that school district for years; the defendant was also a young man, 18 years old, a resident of an adjoining school district; the two were well acquainted with each other. There was evidence tending to show that the defendant was to some extent under the influence of intoxicating liquor, and was at that time in a belligerent mood.
+About the time the singing started Jared Little was standing in front of the schoolhouse, in company with several other boys; the defendant approached, and with vile and abusive language, addressed to the group of boys, inquired whether any of them wanted to fight, to which question none of the boys made any answer. The defendant then walked away a few steps, and Jared Little was just about to go into the schoolhouse when the defendant accosted him and offered to whip him; Little told the defendant he did not want to fight him, whereupon the defendant hit Little on the chin with his fist; defendant then stepped back and drew a knife, with which he stabbed Little in the shoulder, inflicting a deep and dangerous wound about three inches long, penetrating the flesh so as to expose tfie veins and arteries, from which wound he bled profusely, and which required surgical attention and hospital care and treatment.
+After this wound was inflicted Jared Little staggered away from the crowd and found a stick that had been a chair leg and came back toward the defendant; the defendant again struck at Little with the open knife, and Little in turn struck the defendant on the head with this stick, knocking him unconscious.
+The defendant admits inflicting the wound with the knife, but says that the knife wound was not inflicted until after Jared Little had assaulted him with the stick, and that the wound was so inflicted in defendant’s necessary self-defense.
+The charging part of the information is as follows:
+“That Tyree Gidens, late of said county and within the jurisdiction of this court, did then and there unlawfully, willfully, feloniously, and intentionally and wrongfully strike, cut, stab, and wound one Jared Little with a deadly weapon,to-wit, an open pocket knife, then and there held in the hand of him, the said Tyree Gidens, with the intent then and there of him, the said Tyree Gidens, to kill the said Jared Little, against the peace and dignity of the state.”
+The verdict of the jury was:
+“We * * * do find * * * the defendant guilty as charged and assess his punishment at imprisonment in the state penitentiary for one year and one day.”
+The sufficiency of the information was not challenged by demurrer, but before the introduction of the evidence the defendant objected to the introduction of any evidence, on the grounds that the information did not charge any public offense and that the information did not sufficiently charge the crime of assault with intent to kill.
+The statute under which this prosecution is laid is section 1756, Comp. Stat. 1921, which reads as follows:
+“Any person who intentionally and wrongfully shoots, shoots at, or attempts to shoot at another, with any kind of firearm, airgun or other means whatever, with intent to kill any person, or who commits any assault and battery upon another by means of any deadly weapon, or by such other means or force as is likely to produce death or in resisting the execution of any legal process, is punishable by imprisonment in the penitentiary not exceeding ten years.”
+The defendant contends that it was incumbent upon the state to allege in the information, not only that the knife was a deadly weapon, but that the information should also have stated the manner of its use, showing that it was such as was likely to produce death. In support of this claim defendant cites the cases of Wilcox v. State, 13 Okla. Cr. 599, 166 P. 74; Castleberry v. State, 26 Okla. Cr. 59, 221 P. 1044; Clemmons v. State, 8 Okla. Cr. 452, 128 P. 739. In the Castleberry Case there was no allegation that the knife used was a deadly weapon. In the Wilcox Case the information states that the assault was made with a dangerous weapon, to-wit, a claw hammer, without stating in what manner the claw hammer was used, which distinguishes it from this case, where the information states that the knife was a deadly weapon and that it was used to strike, cut, stab, and wound. The ¡Clemmons Case is not in point, for this court held the information in that case suificient, although the word battery was not used; in both the Clemmons Case and this case there are sufficient allegations to show a battery.
+We therefore hold the information in the instant case sufficient, in the absence of a demurrer. If the defendant desired to be more fully apprised of the details of the charge, he should have challenged the sufficiency of the information before announcing ready for trial and before he was placed in jeopardy.
+The defendant next complains that the court erred in refusing to instruct the jury upon the law of assault and battery as being an included offense.
+Section 2739, Comp. Stat. 1921, provides:
+“Whenever a crime is distinguished into degrees, the jury, if they convict the defendant, must find the degree of the crime of which he is guilty.”
+In this connection it has been held that an assault with intent to kill, under section 1756, supra, may include and upon proper proof support a verdict for the offense defined by section 1764, which defines an assault with intent to do bodily harm with a sharp or dangerous weapon, though without intent to kill, and may also include a simple assault or a naked assault and battery, dependent upon the proof adduced at the trial. Clemmons v. State, 8 Okla. Cr. 452, 128 P. 739: Castleberry v. State, 26 Okla. Cr. 59, 221 P. 1044; Vinyard v. State, 22 Okla. Cr. 76, 209 P. 783; Russell v. State, 9 Okla. Cr. 692, 133 P. 475.
+Whether an instruction upon all the minor degrees of the offense should be given depends upon the evidence, and where, as in this case, the evidence shows that the assault was made with a sharp knife, inflicting a wound that almost proved fatal, having none of the attributes of a simple assault or of a naked assault and battery, an instruction pertaining to simple assault or mere assault and battery is unnecessary.
+True, there was evidence showing a battery with defendant’s fists, but that was incidental' to and a part of the affray in which the evidence on both sides shows a cutting with a sharp knife and the infliction of a dangerous wound. Under such circumstances it would not be proper to split the real issue into all its component parts or constituent elements and give an instruction upon each.
+In this case the accused was guilty of an assault with intent to kill, under section 1756, supra, or he was guilty of the included offense of an assault and battery with a sharp and dangerous weapon, under section 1764, or he was guilty of nothing. The instructions of the court fairly stated the law in the case, though not in every instance in the language submitted by the defendant. At the trial the defendant’s defense was a claim that he made the assault in his necessary self-defense, and that issue was properly covered by an appropriate instruction.
+The defendant says that the verdict, “guilty as charged,” was indefinite, because the accused could not tell whether he was found guilty on the main charge, or found guilty of the included offense, but, since the defendant made no objection to the form of the verdict at the time it was rendered, the objection on a motion in arrest of judgment and in the motion for a new trial came too late. The objection should have been made in time to permit the jury to reform its verdict before being discharged.
+It is fair to assume that a verdict of “guilty as charged” in this case denotes guilty of an assault with intent to kill. Be that as it may, the punishment assessed by the jury was well towards the minimum as provided in both statutes.
+The judgment of the trial court is affirmed.
+DOYLE and EDWARDS, JJ., concur.
