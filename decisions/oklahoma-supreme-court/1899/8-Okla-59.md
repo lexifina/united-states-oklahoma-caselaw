@@ -1,7 +1,7 @@
 ---
 court: "Oklahoma Supreme Court"
 decided: "1899-02-11"
-citations: ["8 Okla. 59", "8 Okla. 69"]
+citations: ["8 Okla. 59"]
 reporter: "okla"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["H. H. Hyde v. The Territory of Oklahoma."]
 source_url: "https://static.case.law/okla/8/cases/0059-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 54895
-cites_cases: ["116 Ill. 555", "131 Ill. 616", "138 U. S. 361", "146 U. S. 370", "15 Pac. 158", "23 N. E. 613", "26 Miss. 362", "37 Kan. 379", "49 Pac. 108", "51 Pac. 55", "52 Pac. 932", "54 Pac. 314", "54 Pac. 447", "6 N.E. 165", "6 Okla. 649", "7 Okla. 188", "7 Okla. 60", "99 Mass. 425"]
+cites_cases: ["146 U. S. 370", "15 Pac. 158", "26 Miss. 362", "37 Kan. 379", "49 Pac. 108", "51 Pac. 55", "52 Pac. 932", "6 Okla. 649"]
 ---
 
 # Hyde v. Territory of Oklahoma
