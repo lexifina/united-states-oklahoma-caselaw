@@ -1,0 +1,30 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-9002"
+decided: "1936-04-03"
+citations: ["59 Okla. Crim. 83", "56 P.2d 429"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DOYLE, J., concurs. DAVENPORT, J., absent, not participating."]
+parties: ["W. F. SMITH v. STATE."]
+source_url: "https://static.case.law/okla-crim/59/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8740605
+cites_cases: ["14 Pac. (2d) 430", "30 Okla. Cr. 61", "38 Okla. Cr. 251", "44 Okla. Cr. 214", "49 Okla. Cr. 281", "53 Okla. Cr. 443", "54 Okla. Cr. 141", "54 Okla. Cr. 36"]
+---
+
+# Smith v. State
+
+## Majority (EDWARDS, P. J.)
+
+EDWARDS, P. J.
+Plaintiff in error, hereinafter called defendant, was convicted in the county court of Cimarron county of having the unlawful possession of intoxicating liquor, and was sentenced to pay a fine of $350 and to serve a term of 4 months in the county jail.
+At the time charged defendant and his wife resided in Boise City. Defendant, with four other persons, was in the basement of the residence in a gambling game, drinking intoxicating liquor, noisy and boisterous, and some of the party intoxicated. The wife called the sheriff and asked that some one come to the residence to stop the gambling and disturbance. A deputy sheriff went to the place, was admitted, and was directed to the basement by the wife. As the officers entered, some five or six persons, including defendant, “Mexican Pete,” “Ken-tuck,” et al., were in a card game with money on the table before them. Several of the party escaped, but the officer arrested defendant, took him to the jail, and returned directly to the place of arrest to search for gambling paraphernalia, at which time the wife of defendant delivered to the officer 15 pints of whisky, the possession of which forms the basis for, this charge. Defendant testified that, when the officer came, those present were in a card game, but stated he did not “see” any money on the table. He admitted they had whisky there, were drinking, and that some of them were more or less intoxicated. He denied the 15 pints of whisky belonged to him, but stated it belonged to one Yerner who had, a room there.
+The contention is made that the arrest without a warrant was in violation of article 2, § 80, Const., which forbids unreasonable searches, and that the search made as an incident thereto was unlawful and the admitting in evidence of the liquor obtained was error. The playing of cards for money is a misdemeanor. Article 52, c. 15, O. S. 1981. The arrest by an officer of one whom he discovers participating in gambling is lawful. But, if the invasion of the home by the officer was a trespass, then the arrest of defendant as an incident to such trespass was unlawful .and the search without a warrant unlawful, since in such case a search can only be justified' as an incident to a lawful arrest. Wallace v. State, 49 Okla. Cr. 281, 294 Pac. 198; McDonald v. State, 53 Okla. Cr. 443, 13 Pac. (2d) 213; Thomas v. State, 54 Okla. Cr. 36, 14 Pac. (2d) 430. Also the wife could not waive the consti1 tutional right of the husband against an unreasonable search. Jones v. State, 38 Okla. Cr. 251, 260 Pac. 89.
+As a general rule, the husband is the head of the family, and an entrance to the home can lawfully be made only with his consent or waiver. Formerly this rule was more strict than under the modem doctrine, which has extended the rights of the wife until the authority and privileges of husband and wife, with some exceptions, are equal. It cannot now be contended that the wife has no voice in the control of the home. She may insist that the home shall not be made the rendezvous of disreputable characters nor her living therein made intolerable by carrying on therein any unlawful enterprise, and, if such is done, even by the husband, she has a right to complain, and her rights to a quiet and peaceable enjoyment will be protected. The conducting of a gambling game, the excessive use of intoxicants, and loud and disorderly conduct in the home, which under the conditions shown by the evidence amounted to a breach of the peace, was such a violation of law as justified the calling, of a peace officer by the wife, and his entry of the home at her request was not unlawful. This is not in conflict with the holding in Noble v. State, 44 Okla. Cr. 214, 280 Pac. 476, wherein a search of the home was sought to be justified by reason of a telephone call of some unknown third person. The officer making the arrest had a right to search the person arrested and his immediate surroundings as an incident to the arrest. He was not required to make the search forthwith, but could take his prisoner-to a place of safety and without delay return and' make search. Davis v. State, 30 Okla. Cr. 61, 234 Pac. 787.
+Complaint is made that a statement of the wife was used against the husband in violation of section 3069, Okla. St. 1931, under which either spouse is incompetent as a witness against the other except for offenses by one against the person of the other. Seigler v. State, 54 Okla. Cr. 141, 15 Pac. (2d) 1048.
+In the instant case the wife was called as a witness for defendant; on cross-examination, which was directed to matters testified to by her in chief, she made damaging admissions, but, since she was subject to cross-examination the same as other witnesses, this was admissible. The state in its case in chief sought to keep out any reference to the wife or any statement made by her; any mention of her was promptly excluded by the court. On this point was no material error.
+On consideration of the entire record, we are satisfied defendant is guilty and that he had a fair trial, but we are of the opinion the punishment is excessive under all the circumstances. The judgment is modified to a fine of $50 and costs and to imprisonment for 30 days.
+As modified, the case is affirmed.
+DOYLE, J., concurs. DAVENPORT, J., absent, not participating.
