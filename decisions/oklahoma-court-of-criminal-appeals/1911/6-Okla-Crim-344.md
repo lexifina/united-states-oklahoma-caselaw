@@ -1,0 +1,34 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-749"
+decided: "1911-11-11"
+citations: ["6 Okla. Crim. 344", "118 P. 815"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["FURMAN, P. J., and ARMSTRONG, J., concur."]
+parties: ["ABE GREEN v. STATE."]
+source_url: "https://static.case.law/okla-crim/6/cases/0344-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4301592
+---
+
+# Green v. State
+
+## Majority (DOYLE, J.)
+
+DOYLE, J.
+Plaintiff in error was convicted in the county court of Custer county, on an information wherein it was alleged that Abe Green, on the 2d day of September, 1909, sold one pint of whisky to Bill Howell for the price of one dollar. The information was filed on the 2d day of September, 1909. January 20, 1910, the case was' called for trial, and was tried without a jury; both parties having expressly waived a trial by jury- ’
+The information,' verified by the oath of the prosecuting witness, Bill Howell, laid the selling of the whisky on the 2d day of September, 1909. As a witness, he testified that he and a friend of his, Otis Murphy, went into Marriott’s pool hall, and there met Abe Green, and he bought a pint of whisky of him; that this was on the evening of June 18, 1909. He also produced and identified a pint bottle of whisky as the one he purchased. On cross-examination, he stated that when they went into Marriott’s pool hall Green went with them into a back room, and he there received and paid for the whisky, and he'and Murphy drank some of it; that he was a .deputy sheriff for the purpose of acting as a spotter on whisky sellers, and had received’ $5 as a reward from one Ed Thomas for making the complaint in this case; that he asked Murphy to go with him, because they had been boys together in Texas; that he had drunk some whisky that day, but was sober.
+Otis Murphy was then called as .a witness for the prosecution, and testified that he went in Marriott’s pool hall with Bill Howell, and there met the defendant, Abe Green; that when they went there Bill. Howell had. three bottles of whisky in hA pocket, and they had taken áeveral drinks.from one of the bottles; that there was something said, about taking a drink, and all three went into the back room of the pool hall, Bill Howell leading, witness following, and Green following him; that Bill Howell took a bottle out of his pocket, and offered Abe Green a drink, and Abe said that he did not care for any, and refused to drink; that Howell then handed witness the bottle, and he took a drink, and handed it back to Howell, .and ho took a drink, and put the bottle back into his pocket; that he then left the pool hall with Bill Howell; that he did not see the defendant give Bill Howell any whisky, nor did he see Bill Howell give Green any money; that if Howell had given Green any money he would have seen it. He'further testified that after he was subpoenaed, that Bill Howell told him that “he could do him good,” and that if witness would stick Green he would see that witness got one-half of the fine. ' ' ’
+The state rested, and the defendant demurred, on the ground that the evidence was, insufficient to support a conviction, and moved that the defendant be discharged. The court ruled as follows: ■
+“It seems to me that the evidence has positively proven that the defendant did sell intoxicating liquor. That is the only evidence in the case. If the defendant had gone on the stand, or any other witness, and discredited the fact, or proven that he did not sell the liquor, it would have raised a probable doubt in the mind of the court. He has not done that. This court cannot look’at it in any other way only to find that the defendant did sell the liquor to the man on that occasion. I shall certainly have to find the defendant guilty.”
+Whereupon counsel for the defendant announced that he had not rested his case, and was merely requesting a ruling on his demurrer. The court overruled the demurrer. The defendant was then examined as a witness on his own behalf.
+He testified that he was acquainted with Bill Howell; that he never did sell any whisky to him; that he met Bill Howell and Otis Murphy in Clinton, and they went into Marriott’s pool hall; that Howell said something about drinking, and went into the back room, Murphy and witness following him; that Howell pulled a bottle out of his pocket, and Murphy took a drink; that Howell then offered witness a drink, and he refused to drink, because he had just eaten; that Howell was somewhat intoxicated; that Howell then said, “We are going to leave on the 5 o’clock train, and I would like to have a quart,” “and I told him I was not in that business.”
+After hearing the argument of counsel, the court rendered its decision, finding defendant guilty as charged.
+It is assigned as error that:
+“The decision and finding of the court that the defendant was guilty was not sustained by sufficient evidence, and is con-' trary to the evidence.”
+We are clearly of opinion that this assignment is well founded. If the testimony of the state’s witness Murphy is to be given any credit, then the complaining witness is wholly discredited. There is nothing shown to discredit the witness Murphy, yet the court, it would seem, for no apparent reason, gave full credence to the testimony of the complaining witness, although impeached, not only as already suggested, but also by every other fact and circumstance in evidence in the case. Considering the direct contradiction in the testimony of the two witnesses for the prosecution, and the admitted fact that the complaining witness, as deputy sheriff, in violation of law, received a reward for doing what was his official duty to do, and that he did not perform his duty as such officer by arresting the defendant then and there, without' a warrant, as provided by section 4189, Snyder’s Stat., when, as he testifies, a violation of the prohibition law occurred in his presence, and the further fact that he was giving drinks and drinking whisky while in the performance of his duty as an officer, also the variance in the date alleged in the information and his testimony, and giving the weight which ordinarily should be given to the testimony of the othey witness for the prosecution, we do not believe that the complaining witness was worthy of credence. At least, a reasonable doubt is raised as to defendant’s guilt.
+For this reason, even without considering the denial of the defendant, we are of opinion that the finding of the judge upon the facts, and his decision in the case, is clearly contrary to the evidence.
+The judgment of the county court of Custer county is therefore reversed, and the cause remanded, with direction to dismiss the prosecution.
+FURMAN, P. J., and ARMSTRONG, J., concur.
