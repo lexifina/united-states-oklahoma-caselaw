@@ -1,0 +1,30 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-6454"
+decided: "1929-05-04"
+citations: ["43 Okla. Crim. 88", "277 P. 261"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["EDWARDS, P. J., and CHAPPELL, J., concur."]
+parties: ["LUTHER YEATMAN et al. v. STATE."]
+source_url: "https://static.case.law/okla-crim/43/cases/0088-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8742245
+---
+
+# Yeatman v. State
+
+## Majority (DAVENPORT, J.)
+
+DAVENPORT, J.
+.The plaintiffs in error, hereinafter called the defendants, were convicted of possession of mash and compound mixture fit for distillation and' manufacture of alcoholic liquor, and were sentenced to pay a fine of $100 each, and imprisoned in the county jail for 30 days. Motion for new trial was filed and overruled, and defendants have appealed to this court.
+The testimony on behalf of the state in brief is that It. E. Devenney testified, he was undersheriff on the 8th day of July, 1926; that O. A. Black accompanied him that day; that he had a search warrant; that in searching the premises described in the search warrant they started up near the head of a canyon and went down, which canyon ran south and a little east, some places along the canyon were banks eight to ten feet high; they saw two saddle horses tied in the brush not very far from the canyon and a little back in the timber; the horses were tied in some brush but could be seen from other directions when youi got close to them; a few minutes after we come up to the horses we heard some one talking a little west and southl of us; we listened 'and about that time saw two fellows come out of a shinnery thicket just south and west; they started to leave; when the parties came out of the shinnery thicket we were about twenty-five yards from where the horses were hitched; the parties we saw there was Luther Yeatman and Jim Castor, the defendants here; when they came out of the thicket toward us Yeatman was rolling down his shirt sleeves; as soon as he saw us Yeatman asked us if we were looking for mash, we told him yes, we were looking for something of that description, and he said they had just found a barrel of mash, and told us where it was. We went over and found a barrel of mash containing about forty gallons; it was in the shinnery thicket, some of them run up a good height, the shinnery thicket was about thirty or forty feet in size; I did not pay any particular attention to the size; I would call it liquor mash, rye mash, it was fermented grain. The mash we found was fit for distillation and manufacture of whisky.
+The defendant Yeatman’s right arm was wet, I noticed some of the grains sticking to his arm; he claimed he knew nothing about the barrel of mash 'being there, he had just put Ms arm down there to see what it was. He said they were out looking for some stock. After we found this mash we placed the defendants under arrest. Mr. Black made a search of defendants’ horses after the mash had been found; the defendants were out at the shinnery thicket a short distance away when Mr. Black searched their saddle horses; I don’t know whether they could see Mr. Black or not; we did not have a search warrant calling for the searching of Yeatman or his horse. The mash was found on the property described in the search warrant.
+O. A. Black testified in substance as did R. E. Deven-ney that the boys were near the mash when we walked up to where their horses were tied.
+The defendants called S. E. 'Castor as a witness, who testified that he knew the land that was searched by the officers on or about the 7th of July, 1926; that his home was about a mile and a half from this place; that he happened to be down on this place to look for his boy; that his boy went to look for the mules at noon while the teams were resting; that Luther Yeatman was there and went with his son; that a man by the name of Roach had possession of this pasture during the year 1925 and 1926; that the boys had been gone about an hour or an hour and a half when he went to look for them; when I got there I first saw Mr. Black and Luther Yeatman and 1 asked them where the kid was, meaning Jim Castor, my son. He is seventeen years old past; I had not been down to that spring or 'creek since about March prior to July 7, 1926; I was looking for some stock for Roach in the pasture; there was a lane running across from my pasture to another pasture between the fields and the stock went back and forth from my pasture to his pasture; the property that was found down there was not my property.
+This is in substance the testimony offered by the defendants. The defendants moved the court for an instructed verdict directing the jury to return a verdict of not guilty, which was overruled by the court, and defendants excepted.
+An examination of the record in this case shows that the question of the guilt or the innocence of the defendants under the evidence in this case was a question for the jury. This court has repeatedly held that, where there was any competent evidence, even though conflicting, it would not disturb the verdict of the jury. In this case the defendants were found in the shinnery thicket, at or near a barrel that was filled with mash. One of them had his sleeves rolled up, indicating he had been stirring the mash, and their horses were saddled and tied near the thicket where the mash was found.
+The defense testimony only tends to show that the father of one of the defendants did not own or have anything to do with this property the officers found, but he was in control of the pasture in which the mash was found, and the stock of Mr. Roach was running back and forth through the lane from his pasture to the Roach pasture. The jury is the exclusive judge of the evidence and the credibility of the witnesses and the weight it will give to their testimony. The court properly instructed the jury as to the law.
+Finding no fundamental errors in the record, the judgment is affirmed.
+EDWARDS, P. J., and CHAPPELL, J., concur.
