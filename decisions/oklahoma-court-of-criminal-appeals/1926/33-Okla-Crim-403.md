@@ -1,0 +1,33 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-5115"
+decided: "1926-03-08"
+citations: ["33 Okla. Crim. 403", "243 P. 999"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BESSEY, P. J., and DOYLE, J., concur."]
+parties: ["VERNE DEVORE v. STATE."]
+source_url: "https://static.case.law/okla-crim/33/cases/0403-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8854291
+cites_cases: ["1 Okla. Cr. 307", "10 Okla. Cr. 525", "100 P. 46", "14 Okla. Cr. 386", "171 P. 347", "211 P. 424", "22 Okla. Cr. 371", "30 Okla. Cr. 216", "30 Okla. Cr. 73", "97 P. 1052"]
+---
+
+# Devore v. State
+
+## Majority (EDWARDS, J.)
+
+EDWARDS, J.
+The plaintiif in error, hereinafter ealled defendant, was convicted in the district court of Grant county on a charge of grand larceny and sentenced to serve a term of one year in the penitentiary.
+The record discloses that on the 8th day of March, there was stolen from the home of Ray Lakey, near Renfrow, in Grant county, certain personal property consisting of clothing, a Winchester shotgun, and a violin. It appears, incidentally, that property was stolen from other parties at the same time, which was also found later with the property stolen from Lakey. On the same day the defendant and his codefendant, Farnsworth, were seen in a Ford car in the neighborhood where the larceny was committed. The following morning part of the property was shipped by Farnsworth from Tonkawa, 50 miles from the place of the larceny, to Gage; the defendant being with his codefendant, Farnsworth, at the time. On the 10th they were apprehended together, a portion of the stolen property was in the car in whi'ch they were traveling. There was testimony that defendant claimed a part of the property. The defendant testified that he was not with his codefendant until the morning of the 9th at Tonkawa, at which time a stranger appeared and sold the property in question to Farnsworth, and that defendant then loaned Farnsworth $20 to help pay for it; that he procured the box in which a portion of it was shipped to G-age by Farnsworth; that he bought a leather jacket from Farnsworth, which was stolen, and which he had on at the time of his arrest.
+The assignments of error are argued as follows: First, insufficiency of the evidence; second, error of the court in overruling supplemental motion for a new trial; third, errors of law occurring at the trial.
+Under the first assignment, it is contended that there is no proof that the property alleged to have been stolen was taken without the owner’s consent. The want of consent was not proven by any direct question and answer, but there is proof that the property stolen was taken from the residence of the prosecuting witness in the absence of himself and family, and on his return he discovered the loss, and at once took steps to find and recover the property, and appeared as a prosecuting witness. This is as conclusive proof of the want of consent as the direct statement of the witness would have been. It is the better practice to prove by direct and positive evidence the formal ingredients in a larceny case, such as venue, ownership, want of consent and value, but it is not essential, and proof of such matters may be circumstantially made. In Jackson v. State, 10 Okla. Cr. 525, 139 P. 324, this court said:
+“The want of consent of the owner to the taking of his property alleged to have been stolen is an essential ingredient of the crime of larceny of domestic animals. The fact of non-consent to the taking may be proven by facts and circumstances which sulhciently show that the property was feloniously taken.”
+See, also, George v. U. S., 1 Okla. Cr. 307, 97 P. 1052, 100 P. 46.
+It is also argued that upon the entire record there are not sufficient circumstances to satisfy the law as to quantum of proof; that the circumstances connecting defendant with the transaction are sufficiently explained and are consistent with his innocence.
+Where circumstantial evidence is relied on to prove a crime, it is not required that the circumstances proven shall exclude a possibility of innocence, but only that they shall be inconsistent with any reasonable hypothesis than that of guilt. It is possible that the disinterested witnesses who testified that the defendant was in the neighborhood at the time the larceny was committed were mistaken, and that the testimony of the defendant that he was at Ponca City on that day and not in the neighborhood was true. It is possible that the defendant did not join his codefendant, Farnsworth, until he met him at Tonkawa on the morning of the 9th, and that some mysterious stranger appeared there and sold the stolen property to Farnsworth. It is possible that the witnesses were mistaken in testifying that certain, items of stolen property in a suit case in the car at the time of the' arrest of the defendant were claimed by defendant, but these are questions for the' jury to determine. The evidence is ample to sustain the verdict.
+Finally, it is argued that the court erred in overruling the supplemental motion for a new trial on the ground of newly discovered evidence. The evidence set out is that of one William King, who would testify that he saw defendant near Ponca City on the date of the larceny. It appears, however, that this witness was not subpoenaed at the trial, and was in the courtroom at the time, but left and was not called. Also upon the evidence of one Bert Waldron, who would testify that he was with the defendant on the 8th day of March, and rode with him from Ponca City to Tonkawa. Although the trial was more than four months after the date of the larceny, no subpoena was issued to procure the attendance of this witness. In order to entitle an accused to a new trial on the ground of newly discovered evidence, diligence must be exercised in order to discover the evidence and procure the attendance of the witnesses. Where a defendant knew of the witnesses and what their evidence would be, he may not fail to make an effort to procure such evidence and after his conviction be granted a new trial on account of the absence of their evidence. Brooks v. State, 30 Okla. Cr. 216, 235 P. 560; Carr v. State, 22 Okla. Cr. 371, 211 P. 424; Luppy v. State, 14 Okla. Cr. 386, 171 P. 347; Bevel v. State, 30 Okla. Cr. 73, 234 P. 653.
+Upon an examination of the entire record, it is apparent that the defendant had a fair trial, the issues fairly submitted, the evidence sufficient, and no reason for reversal appears.
+The case is affirmed.
+BESSEY, P. J., and DOYLE, J., concur.
