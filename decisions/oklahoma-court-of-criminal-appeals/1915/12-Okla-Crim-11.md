@@ -1,0 +1,39 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-2509"
+decided: "1915-07-30"
+citations: ["12 Okla. Crim. 11", "150 P. 1121"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ARMSTRONG, J., concurs."]
+parties: ["In re JAS. M. LEGGETT, et al."]
+source_url: "https://static.case.law/okla-crim/12/cases/0011-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8741121
+cites_cases: ["1 Okla. Cr. 414", "106 Pac. 295", "139 Am. St. Rep. 288", "2 Okla. Cr. 24", "3 Okla. Cr. 725", "93 Pac. 980"]
+---
+
+# In re Leggett
+
+## Majority (DOYLE, P. J.)
+
+DOYLE, P. J.
+This cause is here on a petition for writ 'of
+habeas corpus, by Jas. M. Leggett, Plenry Wilmouth, and Virgil Brawley, in which they aver that they are unlawfully imprisoned and restrained of their liberty in the county jail of McCurtain county, by the sheriff of said county; that the cause of said, restraint is that they; have been committed to said county jail by an examining magistrate upon a preliminary examination held upon a complaint charging petitioners with the murder of one Hiram Strawn, in said county on the 3rd day of July, 1915. Petitioners aver that they are not guilty of the crime charged and that upon the evidence introduced upon the preliminary examination the proof of their guilt of the crime of murder as charged, was not evident, nor the presumption thereof great, and that therefore they are entitled to be let to bail.
+The petition is supplemented with a transcript of the testimony taken upon the preliminary examination and the affidavits of the petitioners. The evidence shows or tends to show the following facts:
+That the petitioner, Leggett, and Roscoe Strawn and Hiram Strawn, the deceased, had some trouble and on the day of the homicide Leggett armed himself with a shot-gun and in company with Wilmouth and Brawley, went down on the public square in Idabel, just across the street from Strawn & Lightsey’s.store and dared the Strawns to come out on the street and fight it out, and that Roscoe Strawn in a conversation over the telephone with Leggett told Leggett that he would meet him on the street and fight it out. The county attorney hearing of the trouble between Leggett and Roscoe Strawn and hearing of the challenges to fight, swore out informations against Leggett and Roscoe Strawn and sent his assistant to the office of D. B. Price, a justice of the peace to have the warrants issued. Warrants were issued and Roscoe Strawn was arrested and taken to jail. Pie phoned to Attorney John.C. Plead, and asked him to arrange for his bond. Head requested the justice of the peace to remain in his office until he could procure a bond. Pie went to the jail where his bond was signed by Roscoe Strawn. He requested Hiram Strawn, the deceased, to go with him t othe office of the justice of the peace to sign and qualify on the bond. When they reached the office of the justice of the peace, H. P. Hosey, and R. P. Drake were in the office making bond for Leggett. Mr. Plead took a seat near the table and Hiram, Strawn, the deceased, sat in the window. Shortly afterwards Leggett with Wilmouth and Brawley went up the stairs to the office of the justice of the peace, Leggett entered by the front door and Wilmouth went around to the side door. Leggett walked in and asked what they were doing there. Judge Price answered that he was writing a release for him on the warrant charging him with sending a challenge to fight a duel. Leggett then drew his pistol and looking at Hiram Strawn said: “You are one of those sons-of-bitches,” and began shooting. The deceased who was unarmed jumped up and attempted to go towards the door. Five shots were fired by Leggett at the deceased, the fatal shot striking him to the right of the spine just below the floating ribs. As a result of his wounds Hiram Strawn died the next morning. The foregoing facts in substance are testified to positively by several eye witnesses.
+On the day of the return of the rule to show cause, July 28th, the case was orally argued. Upon the conclusion of the arguments the decision of the court as to the petitioner Leggett was announced and bail as to him denied. The court reserved decision as to the other two petitioners.
+Section 8 of the* Bill of Rights reads as follows:
+“All persons shall be bailable by sufficient sureties, except for capital offenses when the proof of guilt is evident or the presumption thereof is great.”
+By numerous decisions of this court it is held that the burden of proof after commitment is on the accused on an application for bail, where the charge is a capital offense. On habeas corpus to be let to bail the petitioner is required to show facts sufficient to entitle him to bail when those facts do> not appear from the evidence adduced on the part of the state, and where the homicide is proven or admitted, the burden is on the petitioner to show the presence of facts tending to justify, excuse or mitigate the offense. The court will not presume them merely because the state fails to show their absence.
+In re Thomas, 1st Okla. Cr. 15, 93 Pac. 980;
+Ex parte Johnson, 1 Okla. Cr. 414, 98 Pac. 461;
+Ex parte Smith, 2 Okla. Cr. 24, 99 Pac. 893;
+In re Fraley, 3rd Okla. Cr. 719, 106 Pac. 295 (139 Am. St. Rep. 288).
+“A mere conflict of testimony, even upon a vital issue, does not of itself entitle a defendant held for murder to be admitted to bail. The evidence must be considered as a whole; and when so considered, unless a reasonable doubt of the defendant’s guilt of murder is generated, bail should be denied.” In re Bollin, 3 Okla. Cr. 725, 109 Pac. 288.
+In the case of In re Fraley, supra, it is said:
+“We are not permitted to presume for the prisoner either justification or mitigation merely because the evidence for the prosecution fails to show their absence. On the contrary, unless the evidence for the prosecution shows the presence of facts or circumstances tending to justify, excuse or mitigate the offense, then the burden is upon the petitioner to make that showing by evidence at least sufficient to generate a reasonable doubt in that respect. It is the law in .this jurisdiction that even in the trial of the case, the commission of the homicide by the defendant being proved, -the burden of proving circumstances of mitigation that justify or excuse it devolves upon him, unless thq proof on the part of the prosecution tends to show that the crime committed only amounts to manslaughter, or that the defendant was justifiable or excusable. Section 6854, Snyder’s Comp. Raws of Oklahoma. That being true in the ultimate trial of the case where the question of the defendant’s guilt or innocence, with all its momentous consequences to him, is to be passed upon, why should a different rule prevail on an application for bail, whose only purpose is to procure a release from custody during the short period of time intervening before the trial ?”
+Considering the facts as a whole we find no element of justifiable homicide, and we find nothing in evidence from which it could be inferred that the petitioner Jas. M. Leggett acted in his necessary self-defense, either real or apparent. What may be disclosed upon his final trial, we do not know.
+As to the petitioners Henry Wilmouth and Virgil Brawley, there is a direct conflict in the evidence. After a most careful consideration of the same, our conclusion is that under the rules hereinbefore stated said petitioners are entitled to be let to bail. It is therefore ordered that the petitioners Henry Wilmouth and Virgil Brawley be admitted to bail, and that their bail be and the same is hereby fixed in the sum of ten thousand dollars, each. Said bail bonds to be conditioned as required by law, and to be filed with and approved by the clerk of the court of McCurtain county.
+ARMSTRONG, J., concurs.
