@@ -1,0 +1,34 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-11365"
+decided: "1951-10-10"
+citations: ["94 Okla. Crim. 381", "236 P.2d 507"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JONES and POWELL, JJ., concur."]
+parties: ["SECONDI v. STATE."]
+source_url: "https://static.case.law/okla-crim/94/cases/0381-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8741693
+cites_cases: ["57 Okla. Cr. 230", "57 Okla. Cr. 63", "61 Okla. Cr. 318", "62 Okla. Cr. 167", "71 Okla. Cr. 1", "71 Okla. Cr. 175", "94 Okla. Cr. 110"]
+---
+
+# Secondi v. State
+
+## Majority (BRETT, P. J.)
+
+BRETT, P. J.
+The plaintiff in error Levi Secondi, defendant below, was charged by information in the district court of Sequoyah county, Oklahoma, with the crime of murder as defined by Title 21, § 701. The crime was allegedly committed on April 16, 1949, in Sequoyah county by an assault upon Tom Secondi, defendant’s brother. It was effected by means of stabbing the victim of said crime with a pocket knife thereby inflicting wounds upon the body of Tom Secondi from which he died 30 days later on May 16, 1949. He was tried to a jury, which found the defendant guilty of the crime of first degree manslaughter. The jury fixed his punishment at 5 years in the penitentiary and judgment and sentence was accordingly entered, from which this appeal has been perfected.
+A detailed account of the facts is unnecessary since the sufficiency of the evidence is not an issue herein. It suffices to state that these men were brothers, of Indian blood, who got into a drunken quarrel resulting in a fight and the death of Tom Secondi.
+The defendant contends herein that the trial court committed reversible error in refusing to admit in evidence the testimony of W. S. Agent in relation to a certain conversation that witness had with decedent Tom Secondi on May 11, 1949, and an affidavit of Tom Secondi containing among other things, the following: “Affiant further states that his being cut with said knife was not all the fault of the said Levi Secondi and that it is affiant’s desire that any case filed against Levi Secondi should be dismissed and that no criminal action be taken against him.” Counsel for the defendant admits, “that statements made by decedent which are for the purpose of exonerating the accused and which statement is made at such time that it could not he considered as a part of the res gestae or as a dying declaration” would not be admissible. Nevertheless he contends it is admissible herein because the officers were neglectful of their duty to make a thorough investigation of the facts as evidenced by the fact that at no time did they ever confer with Tom Secondi in relation to the facts and that if they had done so this case would never have been presented to the jury. Hence the statement and the facts leading up to the taking of the statement he contends should have been admitted in evidence. We cannot subscribe to such a principle for three reasons. First, if such were the rule the offender and his victim could and no doubt would compromise the crime in many instances, and thus evade the administration of justice and make of the seeptered majesty of the law little more than a broken reed. Second, we cannot follow this theory for the further reason as stated by counsel in his brief the decisions of this court are adverse to his contention. In Adams v. State, 62 Okla. Cr. 167, 70 P. 2d 821, 822, a case in point, this court said:
+“Conversations had with the deceased after the difficulty which do not come within the well-defined exceptions to the hearsay rule, as being a part of the res gestae, dying declarations, or uttered as threats are inadmissible.”
+Third, the record herein is replete with evidence of the defendant’s guilt in complete repudiation of Tom Secondi’s attempted exoneration of his brother in the affidavit executed by Tom Secondi, decedent. Under such conditions it is therefore apparent that this contention is without substantial merit.
+Next the defendant contends that the trial court erred in permitting counsel for the state in his closing argument to state to the jury that no charge was filed against the defendant until the death of Tom Secondi, hence there was no reason for the state to inquire of the decedent in relation to the facts when such a charge was then pending. There is nothing in the record upon which such a contention can be predicated or considered. None of the arguments of counsel were preserved in the record, and no bill of exceptions has been presented in relation thereto. Nowhere does it appear that any objection or exceptions were taken to the argument of the state. Moreover, the record does not disclose any motions to strike from the jury’s consideration any of the argument. In fact the record is silent as to such a contention. It thus appears as a complete afterthought to raise this contention. Under these conditions we cannot consider such objections. In the recent case of Hathcox v. State, 94 Okla. Cr. 110, 230 P. 2d 927, at page 937, we said:
+“The record was not preserved in a proper manner for presentation to the appellate court. In Peters v. State, 71 Okla. Cr. 175, 110 P. 2d 300, 301, it is said: ‘Counsel for a defendant must not only object to improper statements of the county attorney in his argument to the jury, but he must go further and move the court to exclude such remarks from the jury and instruct them not to consider them for any purpose, unless the remarks were of such a character that the error would not be cured by a withdrawal of the remarks.”
+In Rainey v. State, 71 Okla. Cr. 1, 107 P. 2d 371, 372, it was said:
+“Where there is no proper record in the case-made of an alleged improper remark of the prosecuting attorney to the jury, this court will not consider the same.”
+To the same effect as the foregoing is Peters v. State, 71 Okla. Cr. 175, 110 P. 2d 300. See also Cooper v. State, 61 Okla. Cr. 318, 67 P. 2d 981, wherein it was said:
+“Exceptions must be saved to alleged improper remarks of the prosecuting attorney in his argument to the jury, and such remarks must be preserved by being incorporated in the case-made, or by bill of exceptions duly allowed, to render them available on appeal; and, when not so preserved in the record, such remarks cannot be shown by affidavit or mere recitals, in a motion for new trial.”
+Further cases on this point are Evinger v. State, 57 Okla. Cr. 63, 45 P. 2d 552; Garrison v. State, 57 Okla. Cr. 230, 47 P. 2d 224. In view of the foregoing we can only conclude this contention has not been presented in such manner as to form a basis for consideration. For the foregoing reasons the judgment and sentence herein imposed is accordingly affirmed.
+JONES and POWELL, JJ., concur.
