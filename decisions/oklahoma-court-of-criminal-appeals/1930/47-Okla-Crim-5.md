@@ -1,0 +1,27 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-6895"
+decided: "1930-03-29"
+citations: ["47 Okla. Crim. 5", "287 P. 801"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["EDWARDS, P. J., and DAVENPORT, J., concur."]
+parties: ["Ex parte PAUL HOLMES."]
+source_url: "https://static.case.law/okla-crim/47/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8741763
+cites_cases: ["113 Pac. 207", "18 Okla. Cr. 493", "37 Okla. Cr. 338", "45 Okla. Cr. 1", "5 Okla. Cr. 28"]
+---
+
+# Ex parte Holmes
+
+## Majority (CHAPPELL, J.)
+
+CHAPPELL, J.
+The petitioner herein entered a plea of guilty in the district court of Kay county of the crime of burglary, and was sentenced to serve a term of five years in the state penitentiary.
+The record discloses that the defendant was arrested on the 20th day of July, 1927, under an order issued out of the county court of Kay county, charged -with the crime of burglary. Attached to petitioner’s application for the writ is a certified copy of the journal entry of judgment and sentence on defendant’s plea of guilty, which journal entry recites that on the 26th day of July, 1927, defendant was arraigned in the district court of Kay county and entered his plea of guilty to the charge of burglary, and thereupon and on the same day the court sentenced him. to imprisonment for five years in the penitentiary at Mc-Alester. There is also attached to petitioner’s application a certified copy of the minutes of the court clerk of Kay county which recites that on the 26th day of July, 1927, No. 1963, State of Oklahoma v. Paul Holmes and Paul Denton et al., “Defendants arraigned and plead guilty, Ent Judg. Defendants guilty and confined state penitentiary for .five years from date of delivery.” The clerk further certifies that that is the only minutes of any proceedings had in said court on the 26th day of July, 1927. Petitioner also attached a copy of the information filed against him in the district court of Kay county, which information charges the crime of burglary, and was sworn to and filed in said court on the 28th day of July, 1927.
+Petitioner filed his application for writ of habeas corpus in the district court of Pittsburg county, and the same came on t® be heard on the 18th day of October, 1927, at which time the court on its own motion, as shown by a copy of the order, made and entered , by the court in said case, continued the hearing in said case for ten days, to permit the state to malee application to the district court of Kay county for a nunc pro tunc order correcting the records in said case to' make them speak the truth. And thereafter, and on the 26th day of October, 1.927, petitioner filed his motion to dismiss his application. Thereafter the state of Oklahoma, by Roy R. Carver, county attorney, filed an application in' the district court of Kay county for a nunc pro tunc order to correct the records in said cause, alleging that, whereas the journal entry of judgment and minutes of the court showed that petitioner pleaded guilty on the 26th day of July, 1927, and was sentenced to be imprisoned for five years in the state penitentiary at Mc-Alester, in truth and in fact the said plea of guilty was entered on the 28th day of July, 1927, and judgment entered thereon by the court on said day. On the 20th day of October, 1927, honorable Claude Duvall, judge of the district court of Kay county, made an order setting said application for said nunc pro tunc order for hearing on the 26th day of October, 1927. On the 27th day of October, 1927, at a regular day of the September, 1927, term of said court, the application for the nunc pro tunc order was presented and heard in open court. The court, having heard the evidence, found that the journal entry of judgment and the minutes of the court clerk showing same to have been made on the 26th day of July, 1927, was a clerical error, and further finding that the plea, of the defendant, the judgment of the court, and the minutes of the court clerk Avere actually made and entered on the 28th day of July, 1927, and thereupon said court ordered the journal entry of judgment and the court clerk’s minutes corrected to read the 28th day of July, 1927, instead of the 26th day of July, 1927 — all of which appears from the certified copies of the petition for nunc pro tunc order, the order, and journal of the clerk of the court of Kay county, which are attached to, and made part of, petitioner’s application in this case.
+The failure of the clerk or recording officer to make a correct record does not vitiate the proceedings in a court record. Such records may be corrected by the court at any time by nunc pro tunc order upon application of either party to make the records speak the truth. Such records, when so corrected, relate to the time when the proceedings were in fact had. State v. Pollock, 5 Okla. Cr. 28, 113 Pac. 207; Dunn v. State, 18 Okla. Cr. 493, 196 Pac. 739; Cornelson v. State, 37 Okla. Cr. 338, 257 Pac. 1109; Ex parte Payton, 45 Okla. Cr. 1, 281 Pac. 597.
+The state having taken proper steps to correct the record to speak the truth, and such record, when corrected, showing that plea of guilty and judgment of conviction were entered by the court after the information was filed in the district court, the court had jurisdiction to receive the plea and entered the judgment. The writ is therefore denied.
+EDWARDS, P. J., and DAVENPORT, J., concur.
