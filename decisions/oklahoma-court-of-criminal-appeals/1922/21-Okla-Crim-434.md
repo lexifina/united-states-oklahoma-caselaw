@@ -1,0 +1,27 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-4444"
+decided: "1922-09-18"
+citations: ["21 Okla. Crim. 434", "209 P. 183"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DOYLE, P. J., and MATSON, J., concur."]
+parties: ["In re JOHN KELLEY."]
+source_url: "https://static.case.law/okla-crim/21/cases/0434-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8739161
+---
+
+# In re Kelley
+
+## Majority (BESSEY, J.)
+
+BESSEY, J.
+The petitioner, John Kelley, here referred to as the defendant, stands charged with the murder of George Smart on September 4, 1922, at Marietta, Love county, Okla. At the preliminary trial, held before the county judge sitting as an examining magistrate, petitioner was committed to jail without bail. Afterwards, an application for bail was heard before Hon. B. C. Logsdon, judge of the district court, at Marietta, and 'the application was denied. The petitioner now comes to this court, supporting his application by the testimony heard at the preliminary trial, supplemented by the testimony taken before the district judge.
+The petitioner testified, in his own behalf, to the effect that he has lived in what is now Love county for more than 25 years; that he is now and for a number of .years has been associated with his father in the grocery business at Marietta; .that among their regular customers were the railroad section hands and other railway employes, members of organized labor; that' the defendant had been for many years acquainted with the deceased, George Smart, who was by occupation a drayman and also city marshal of the town of Marietta; that Mr. Smart had on different occasions been employed by the defendant, and that up to the day of the homicide their business and social relations had b'een pleasant. On the afternoon of the day of the- homicide, word was conveyed to the defendant that some one had told the section foreman that the defendant wasl hostile toward organized labor. At about 5:30 o’clock, as the section men were returning home from work, the defendant asked the section foreman about this rumor, and the foreman told defendant that George Smart was the author of the story, and that if what Smarij said was true he and the members of his crew would cease to trade with defendant. The defendant denied that he had made any statements hostile to labor unions and returned to Ms store.
+About that time, defendant’s wife came in the store, suffering from the effects of a dental operation, and asked defendant to accompany her home. He told her he would first go tlo the post office and then take her home. Before going to the post office, he put a pistol in his pocket. At the post office, a few doors distant from defendant’s place of business, defendant saw the deceased near the post office door, at the foot of a flight of stairs leading up over the post office from the outside. The defendant said to the deceased "I want to see you a minute,” and the two stepped a few steps away from the foot of the stairs. Defendant then said: “George I understand you have been telling Mr. Nichols, the foreman of the section, that I am against the unions. We have been good friends, and I don’t understand why you said: ‘ ‘ George, I understand you have been telling Mr. Nichols, given you any cause to say anything like that.” The deceased replied, “Don’t say that to me,” and struck the defendant on the head and ear with his fist. The two then clinched, falling* to the pavement; the defendant beneath the deceased. There they struggled and fought for two or three minutes, tbe deceased all the while striking, choking, and biting the defendant; that during the struggle defendant’s pistol became partially disengaged from his pocket, and that he got hold of the pistol with one hand, and fired a shot which penetrated the body of the deceased, causing his death; ■that after the shot the deceased relaxed and the defendant got up, got his pistol, and returned to his store.
+The story as related by defendant was corroborated, for the most part, by a number of disinterested witnesses. There was no positive showing that the defendant sought a difficulty with the deceased. The defendant and his wife testified that the defendant was in the habit of carrying a gun from his place of business to his home and back, evening and morning. Both men were in their shirt sleeves, and the deceased was unarmed at the time of the difficulty. The! deceased was city marshal 'of the town of Marietta, and sometimes carried a gun. Defendant stated that during the altercation, on account of being choked, he was fast losing his strength, and that he fired his pistol in his necessary self-defense.
+The testimony shows that the defendant had heard and knew that the deceased was a violent man and had killed another man prior to that time. There were other details related by defendant and other witnesses that need not here be recited. We. think the testimony as a whole makes an issue of self-defense, and that a jury might be warranted in finding the defendant not guilty, or guilty of some lesser degree of felonious homicide than murder.
+For that reason it is ordered that the defendant be admitted to bail in the sum' of $15,000, with good and sufficient sureties to be approved by the court clerk of Love county.
+DOYLE, P. J., and MATSON, J., concur.
