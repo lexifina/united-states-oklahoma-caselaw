@@ -1,0 +1,53 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-1723"
+decided: "1913-07-12"
+citations: ["10 Okla. Crim. 21", "133 P. 260"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ARMSTRONG, P. J., and FURMAN, J., concur."]
+parties: ["John McGarrah v. State."]
+source_url: "https://static.case.law/okla-crim/10/cases/0021-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8741828
+cites_cases: ["103 Pac. 1042", "2 Okla. Cr. 589", "3 Okla. Cr. 666"]
+---
+
+# McGarrah v. State
+
+## Majority (DOYLE, J.)
+
+DOYLE, J.
+This appeal is prosecuted from a conviction had in the county court of Oklahoma county, in which plaintiff in error was found guilty under an information which charged that he did have , in his possession intoxicating liquors with the intent to sell, barter, give away, and otherwise furnish the same in violation of law. On the 8th day of January, 191.2, he was sentenced in accordance with the verdict of the jury to be confined in the county jail for a period of six months and to pay a fine of $500.
+It is first assigned as error that the court erred in refusing to quash the information and in overruling the defendant’s objection to the introduction of any evidence, upon the ground of the insufficiency of the information, and particularly because the same was not signed and preferred by the county attorney. Said information is signed and verified as follows:
+“Sam Hooker,
+“County Attorney Oklahoma County.
+“State of Oklahoma, Oklahoma County — ss.:
+“I, H. M. Peck, being duly sworn on my oath, declare that the statements set forth in the above information are true. H. M. Peck.
+“Subscribed and sworn to before me this 15th day of Aug. 1911. James S. Powers, clerk County Court. [Seal.]
+“I have examined the facts in this case and recommend that a warrant do issue. Sam Hooker, County Attorney, by H. M. Peck, Deputy County Attorney.”
+In this connection counsel contend that the proof showed that H. M. Peck, who signed the county attorney’s name thereto, was not a legally appointed assistant county attorney of Oklahoma county.-
+The defendant called Sam Hooker, county attorney, who testified that he as county attorney did not sign the information; that he had five assistant county attorneys and appointed PI. M. Peck in January, 1911; that Mr. Peck does not draw a salary from the county; that he personally paid him for his services as an assistant.
+H. M. Peck was called as a witness by the defendant and testified that he qualified as an assistant county attorney on the 9th day of January, 1911, having been designated as an assistant county attorney by the board of county commissioners.
+It is elementary that there can be no conviction or punishment for a crime without a proper and sufficient accusation, and in the absence thereof the court acquires no jurisdiction whatever, and, if it assumes jurisdiction, such trial and conviction are a nullity. It is essential to the validity of an information charging a misdemeanor that it be signed by the county attorney, as his signature is expressly required by the statute.
+Section 5694, Rev. Laws 1910, provides:
+"The county attorney shall subscribe his name to informa-tions filed in the county, superior or district court.”
+An unqualified reading of the words of the statute would make it necessary for the county attorney himself to subscribe his own name to all informations; but it has been held that the county attorney need not himself subscribe his name to an information, as it is sufficient if it be done by his legally appointed assistant. Fooshee v. State, 3 Okla. Cr. 666, 108 Pac. 554. As is said in Reed v. State, 2 Okla. Cr. 589, 103 Pac. 1042: “The laws of this state only prohibit persons other than the county attorney, or his deputies/ from performing such acts in the prosecution of crimes as are strictly official, such as appearing before and advising the grand jury;” signing and preferring informations; “approving complaints, etc. The assistance of private counsel in the trial of criminal cases is not prohibited. This is a matter entirely in' the discretion of the county attorney, who has complete control in conducting public prosecutions, subject only to the supervision of the court upon the trial.”
+With reference to the office of county -attorney our statutes provide:
+Section 1557, Rev. Laws 1910:
+. “The county attorney shall not engage in the private practice of law, but in addition to his annual salary, which shall be the same as that of the county judge, he shall receive twenty-five per cent, of all forfeited bonds and recognizances by him collected ; nor shall any county attorney while in office be eligible to or hold any judicial office whatever; but if the county attorney of one county shall be requested to go to another county, or from one part to another part of his county to transact any business as county attorney, he shall be paid by his county the amount of his necessary expenses in transacting such business, in addition to the salary.”
+Section 1558, Id.:
+“The district court, whenever there shall be no county attorney for the county, or when the county attorney shall be absent from the court, or unable to attend to his duties, or disqualified to act, may appoint, by an order to be entered in the minutes of the court, some suitable person to perform for the time being the duties required by law to be performed by the county attorney, and the person so appointed shall thereupon be vested with all the powers of such county attorney for the purpose. Such attorney shall be paid a reasonable compensation for his services by the county for which he is so- appointed.”
+Section 1563, Id.:
+“In all counties having a population of not over twenty-five thousand the board of county commissioners may, in their discretion, allow one assistant county attorney at a salary of not to exceed seventy-five dollars per month; and in counties having a population of over twenty-five thousand they shall allow one assistant county attorney a salary of not to' exceed one hundred dollars per month; and in counties having a population of over thirty-five thousand and not over sixty thousand they may, in their discretion, allow one additional assistant county attorney ■at a salary of not to exceed seventy-five dollars per month; and in counties having a population of over sixty thousand, two additional assistant county attorneys at a salary of one at one hundred and fifty dollars and one at one hundred dollars per month; such salaries to be pa-id monthly out of the county treasury by order of the board of county commissioners.”
+The contention of counsel for the defendant is that the sections above quoted construed together limit the appointing power of the county attorney to the number of deputies prescribed by section 1563, and that, as the proof shows that H. M. Peck was apparently not one of the number appointed within these limits, he was not at the time of signing this information a legal assistant county attorney of Oklahoma county.
+This court will take judicial notice of the fact that Oklahoma county is a county having a population of over 60,000. The section quoted only authorizes the allowance of four assistants. The county attorney testified that Mr. Peck, who signed his name to the information in this case, draws no salary from the county, but was paid by the county attorney himself. PI. M. Peck was evidently, therefore, not a salaried assistant county attorney, and we think he cannot be regarded as a legally constituted assistant county attorney of Oklahoma county, and the signing of the county attprney’s name to an information by a person other than a duly appointed and qualified assistant is not a defect or imperfection in matter of form only, within the curative provision of the statute, section 5747, Id., which provides :
+“No indictment or information is insufficient, nor can the trial, judgment, or other proceedings thereof be affected, by reason of a defect or imperfection in the matter "of form which does not tend to the prejudice of the substantial rights of the defendant upon the merits.” .
+We know of no rule of law whereby a public officer may delegate power or authority involving official discretion or responsibility, except as prescribed by the statute. The law has very carefully guarded the administration of public justice from any interested or unauthorized intermeddling. The county attorney is a very responsible officer, selected by the people and vested with a wide personal discretion, intrusted to him as a minister of justice. There are many reasons why a power of this kind should be confined to the prosecuting officer. He is expected to be impartial in abstaining from prosecuting, as well as in prosecuting, and to guard the real interests of public justice in favor of all concerned.
+It is therefore of the highest importance to the public that this power should be carefully exercised, and that the responsibility should rest upon the officer to whom it is confided.
+By section 1557, supra, a county attorney is disqualified from becoming in any way entangled with private interests, or grievances connected'with the private practice of law. The office of county attorney is quasi judicial, and the county attorney and his legally appointed assistant must be exclusively the representative of public justice, and stand indifferent as between the defendant and any private interest. No doubt a county attorney may employ assistants in various ways, not involving his official discretion or -responsibility; but our laws have only allowed his official discretion to be delegated where assistant county attorneys have been provided for by the statute. The public have a right to insist upon the performance of public duties that are strictly official in the prosecution of crime by county attorneys and assistants duly appointed and qualified as provided by law, and we think it would be directly contrary to public policy to allow or permit any general delegation of the county attorney’s power or responsibility in this respect.
+It is our opinion that, the county attorney’s name not having been subscribed to the information by himself or by a legally constituted assistant, the court acquired no jurisdiction to try the case, and the conviction and sentence of the defendant are void.
+It also appears that the evidence is insufficient to support the verdict and judgment.
+The judgment of the county court of Oklahoma county is therefore reversed, and the cause remanded thereto to be disposed of as required by law.
+ARMSTRONG, P. J., and FURMAN, J., concur.
