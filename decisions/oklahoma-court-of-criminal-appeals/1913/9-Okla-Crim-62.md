@@ -1,0 +1,37 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-1435"
+decided: "1913-03-19"
+citations: ["9 Okla. Crim. 62", "130 P. 820"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ARMSTRONG, P. J., and FURMAN, L, concur."]
+parties: ["STANLEY BAKER v. STATE."]
+source_url: "https://static.case.law/okla-crim/9/cases/0062-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8741281
+cites_cases: ["19 Okla. 51"]
+---
+
+# Baker v. State
+
+## Majority (DOYLE, J.)
+
+DOYLE, J.
+Plaintiff in error, hereinafter referred to as the defendant, was tried in the' district court of Wagoner county on an information charging him 'with the crime of larceny of live stock, and was convicted and sentenced to imprisonment in the penitentiary for a term of ten years. The judgment and sentence was entered April 17, 1911, and on the same day the defendant was delivered to the warden of the state pentitentiary at McAlester. To reverse the judgment an appeal was taken by petition in error with a certified tran-. script of the record.
+It is assigned as error that the defendant was deprived of his constitutional right to be represented by counsel. It appears from the record that the. court prior to entering upon the trial, it having been made to appear that' the defendant was destitute of means to employ counsel, appointed one P. E. Beed to defend him. No brief was filed. Norman B. Haskell, Esq., appeared and argued the case orally. The proposition of the defendant's counsel upon which he bases his demand for a reversal of this judgment is as follows: That the trial court and this court will take judicial notice of the fact that P. E. Beed was not authorized to appear as an attorney in the courts of this state. Therefore the defendant was denied the benefit of counsel. And the attention of the court is directed to the fact that the journal record shows that said P. E. Beed was not admitted to ■ practice as an attorney in this state until June 18, 1912. From an examination of the record the conclusion of the court is that the judgment in this case cannot be permitted to stand.
+It is the right of a person put upon trial for a 'criminal ■offense to be represented by counsel. This right may be waived by the defendant, but it cannot be denied by the court. The Tight of the accused to the assistance of counsel in making his ■defense has long been regarded in this country as essential to the due administration of justice in criminal eases. Says Mr. Cooley:
+“With us it is a universal principle of constitutional law that the prisoner shall be allowed a defense by counsel.” (Cooley, Const. Lim. 334.)
+The Constitution of the United States expressly provides that:
+“In all criminal prosecutions the accused shall enjoy the right * * * to have the assistance of counsel for his defense.” (Sixth amendment.)
+And' the right is secured in the Constitution of nearly every state. Our state Constitution provides that:
+“In all criminal prosecutions the accused shall have the right to be heard by himself and counsel.” (Bill of Bights, art. 2, sec. 20.)
+In order that the accused may have the full benefit of this fundamental right, it is provided by statute that when he appears for arraignment, upon a charge for felony without counsel, he must be informed by the’ court that it is his right to have counsel before being arraigned and he must be asked if he desires the aid of counsel. If he desires and is unable to employ counsel, the court must assign counsel to defend him. (Procedure Criminal, sec. 6731, Comp. Laws 1909, [Rev. Laws, sec 5773.]) And it is further provided that the court shall in all such cases allow and direct to be paid by the county in which said trial is had a reasonable and just compensation to the attorney or attorneys so assigned for such services as they may render. (Procedure Criminal, sec. 7128, Comp. Laws 1909, [Rev. Laws, sec. 6112.]) Under these provisions of the Constitution and laws, the defendant was entitled to be assigned counsel, duly authorized to appear as an attorney before the courts of this state.
+Under the laws of this state, no person shall be permitted to practice as an attorney or counselor at law in any action or-proceeding in which he is not a party concerned, unless he has-been previously admitted to the bar by order of the Supreme-Court (section 250, Comp. Laws 1909, [Rev. Laws, sec. 234.]) And the courts of the state will take judicial notice of the fact that a person appearing and acting as an attorney at law is or is not duly authorized to appear as such before the courts of this state. Nolan v. St. L. & S. F. R. R. Co., 19 Okla. 51, 91 Pac. 1128. Under these provisions of the Constitution and laws, it is clearly competent for the accused to appear in person without counsel if he so desires, or to waive his right to have the assistance of the counsel assigned to conduct his defense by the court'. Neverthe less, we think that, when he has applied to the court as a poor person to assign counsel to defend him, he should not be held to have waived this right, even though he failed to object to the counsel so assigned.
+The term “counsel,” as used in section 6731, 'Comp. Laws 1909, providing that the court must assign counsel for indigent defendants, means a person who has been admitted as an attorney and counselor at law in this state, and it was the duty of the trial court to assign counsel duly authorized under the law to act as such. We think the right and privilege of im digent defendants to have the assistance of counsel should be strictly guarded by the courts. And in this regard our courts have uniformly conformed to the requirement of the statute. Even pleas of guilty have been rarely accepted until counsel have been assigned to investigate the merits and have recommended their acceptance by the court.. So deeply ingrafted in our criminal jurisprudence has this great right become that none are so low or so poor but they may rely upon it.
+Evidently in this case the court through mistake or inadvertence believed the person assigned was qualified to act' as counsel. It does not appear that he was so assigned at the solicitation of the defendant, or that he had any voice in the selection of counsel. As a general rule all presumptions here are in favor of the lower court, but when from the record it appears that there has been a departure from the fundamental rules of criminal procedure, th;s court will reverse the judgment of conviction, unless it affirmatively appears from the record that the error complained of was not prejudicial.
+While the information is sufficient to charge grand larceny, it is defective in charging the statutory ofíense of larceny of live stock, in that it does not aver that the property was taken with the felonious intent to appropriate the same to the taker’s own use. However, in the lower court no objection was made to its sufficiency.
+For the reason stated, the judgment of the district court of Wagoner county is reversed, a new trial awarded and the case remanded to be further proceeded in according to the foregoing opinion and the rulés and principles of law.
+The warden of the penitentiary will surrender the defendant to the sheriff of Wagoner county, who will hold him in custody until he shall be discharged, or his custody changed by due course of law.
+ARMSTRONG, P. J., and FURMAN, L, concur.
