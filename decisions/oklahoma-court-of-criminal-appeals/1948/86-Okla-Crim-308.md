@@ -1,0 +1,43 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-10834"
+decided: "1948-04-15"
+citations: ["86 Okla. Crim. 308", "192 P.2d 716"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BAREFOOT, P. J., and BRETT, J., concur."]
+parties: ["MARVIN FARMER v. STATE."]
+source_url: "https://static.case.law/okla-crim/86/cases/0308-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8740930
+cites_cases: ["158 P. 2d 181", "73 Okla. Cr. 69", "75 Okla. Cr. 265", "79 Okla. Cr. 59", "80 Okla. Cr. 194"]
+---
+
+# Farmer v. State
+
+## Majority (JONES, J.)
+
+JONES, J.
+The defendant, Marvin Farmer, was charged by an information filed in the county court of Marshall county with the unlawful transportation of 204 pints of whisky, was tried, convicted, and sentenced to serve 30 days in the county jail and pay a fine of $50, and has appealed.
+The chief contention presented for a reversal of this case is that the court erred in overruling the motion to suppress evidence filed and presented by the defendant prior to the beginning of the trial.
+The defendant called two witnesses in support of his motion to suppress evidence. Joe Everett, the sheriff, testified that on the night of September 11, 1946, about 9:00 o’clock, while armed with search warrants for the person, the automobile, and premises of one Joe Is-bell, and for the automobile of one Gilbert Coe, he went to the premises of Joe Isbell in the northeast part of the town of Madill. When he arrived there, Joe Isbell’s car was gone and there was only a small light burning in the house. He and his deputy, Luther Henson, concealed themselves behind a stone wall adjacent to the premises of Isbell. A few minutes after they had hidden themselves, an automobile drove into the Isbell driveway. It was shortly followed by another automobile which also parked in the Isbell driveway. The sheriff and his deputy walked up to the two' automobiles; Gilbert Coe was in one of the automobiles and the defendant, Marvin Farmer, was in the other automobile. Joe Isbell was not in sight, but just before they arrived at the cars they heard Isbell say “Let’s get this stuff out of here.” The car doors were open and the parties were moving whisky from one car to the other. One of the cars did not have a top on it and they saw a case of whisky that was open when they flashed the light in the car as they passed.
+The witness testified that he did not serve the search Avarrants. In this regard he testified “When I went up to present the search Avarrants there was whisky showing and I never pulled the search warrants.”
+The only other witnesses called in support of the motion to suppress evidence Avas Mrs. Joe Isbell. She testified that she was at her home on the night of September 11, 1946; that her husband was not there; that Marvin Farmer drove up in an automobile and came in the house and stayed a few minutes and that then Gilbert Coe drove in; that they Avere looking for her husband who Avas not at home but who had called a few minutes before that from the Corner Cafe; that she later heard the officers talking and Avent out in the yard and saw them making the search; that she did not know anything about the whisky.
+We think, under this evidence, the court properly overruled the motion to suppress. The facts are not similar to the facts in the cases cited by defendant’s counsel in support of his contention in Avhich cases officers had stopped automobiles on the public highway for the purpose of searching them. Here the defendant and Coe drove their automobiles on to the driveway at Isbell’s place and stopped of their own accord. The officers had a lawful right to be where they were hidden. It is true that the officers did not serve the search warrants and they are not relied upon by the state as a basis for the introduction of the evidence of the seizure of the intoxicating liquor. The facts bring this case within the rule of law frequently stated by this court that, where an officer sees a person violating the law in his presence, he has the right to search the person and his immediate possessions without the necessity of a warrant. Tripp v. State, 73 Okla. Cr. 69, 118 P. 2d 273; Blair v. State, 75 Okla. Cr. 265, 130 P. 2d 545; Wirth v. State, 79 Okla. Cr. 59, 151 P. 2d 819; O’Dell v. State, 80 Okla. Cr. 194, 158 P. 2d 180.
+The facts in the instant case are quite similar to the facts in Tripp v. State, supra, where this court held that it was unnecessary for the officers to have a warrant for the reason that the defendant violated the law in their presence.
+In O’Dell v. State, supra, this Court held [80 Okla. Cr. 194, 158 P. 2d 181]:
+“Whether search of, and seizure from, an automobile upon a public highway, without a search warrant, is reasonable, is, in its final analysis, to be determined as a judicial question, in view of all the circumstances under which it is made. * * *
+“Burden is on defendant to introduce evidence sustaining his motion to suppress evidence on ground of illegality of search of defendant’s automobile.
+“If proof on motion to suppress evidence shows that defendant did not commit misdemeanor in presence of arresting officer, but that said arrest for the alleged misdemeanor was a mere subterfuge to justify search of defendant’s automobile, trial court has duty to sustain motion to suppress.”
+The defendant did not testify on the motion to suppress evidence nor in his own behalf at the trial. He did not claim ownership or possession of the whisky or automobile at anytime. Under the circumstances herein revealed by the record, the motion to suppress was properly overruled.
+The brief of the defendant is devoted principally to an argument and citation of authorities in support of the motion to suppress evidence. However, there is a contention presented that the trial court made inflammatory statements in the presence of the jury which prejudiced the defendant.
+During the trial of the case, the sheriff, on cross- examination, reiterated the testimony given on the motion to suppress evidence that he had a search warrant for the person, automobile, and house of Joe Isbell. He further testified that he had made a return back to the justice of the peace who issued the warrants. Counsel for defendant who was cross-examining him on this question then made a demand that the warrants be produced to which the trial court replied:
+“By the Court: Your demand, Mr. Colby, will be disregarded and denied because since there was no search warrant used and none claimed to have been used, whether he had one or didn’t have one is immaterial in this case.”
+Later at the conclusion of the trial, the following appeared :
+“By Mr. Colby, Counsel for defendant: I want to take exception to one of the instructions there. Let the record show that counsel for the defendant has not had an opportunity to read the instructions and—
+“By the Court: Strike that from the record and the attorney for the defendant will be permitted to read the instructions if he doesn’t take over thirty minutes. I would like to remind the attorney that he is killing time for about twenty-five men.”
+The first statement of the court hereinabove quoted does not appear to be improper. However, the latter statement of the court pertaining to the instructions was uncalled for and highly improper. The defendant’s counsel was perfectly within his rights in the statement that he made and the demeanor of the . tidal court in making the reply to counsel and stating that he was “killing time for about twenty-five men” cannot be approved by this court. In a close case, such conduct would constitute reversible error because of the possible prejudicial effect it might have upon the minds of the jury.
+There is just nothing which had arisen which should have caused the court to lose his judicial balance and make the cutting remarks to counsel for the defendant. However, under the record, we cannot possibly perceive how the defendant was prejudiced by this unfair remark. The defendant was caught in possession of over 200 pints of whisky. He did not testify at the trial. The jury merely slapped his wrists when they limited his punishment in the verdict to the minimum penalty of thirty days in jail and a $50 fine. This verdict definitely discloses that the jury was not prejudiced against the defendant.
+It is our opinion that there are no substantial errors of law in the record which require this court to reverse the judgment of conviction. The judgment and sentence of tbe county court of Marshall county is accordingly affirmed.
+BAREFOOT, P. J., and BRETT, J., concur.
