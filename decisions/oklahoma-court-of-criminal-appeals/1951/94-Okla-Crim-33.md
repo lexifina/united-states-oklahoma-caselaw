@@ -1,0 +1,30 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-11390"
+decided: "1951-04-04"
+citations: ["94 Okla. Crim. 33", "229 P.2d 900"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BRETT, P. J., and JONES, J., concur."]
+parties: ["JOHNSON v. STATE."]
+source_url: "https://static.case.law/okla-crim/94/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8740811
+---
+
+# Johnson v. State
+
+## Majority (POWELL, J.)
+
+POWELL, J.
+Viola Johnson was charged by information filed in the district court of Pittsburg county with the crime of murder, was tried before a jury and found guilty of the included crime of manslaughter in the first degree, and punishment was fixed at imprisonment in the State Penitentiary for a term of five years. At trial defendant, a colored woman, was represented by two attorneys of her own choosing. Appeal has been duly perfected to this court, the record being prepared at the expense of Pittsburg county. On hearing to have case-made prepared at the expense of the county, defendant testified that she was without means, had no way of obtaining funds, had been unable to borrow, and was working for one of ber attorneys to help pay his fees. This would require time. The petition in error with case-made was filed in this court without cost deposit on March 20, 1950, and brief was due to be filed within 60 days thereafter, but no brief has been filed, and counsel did not argue the case when it was set for oral argument on February 28, 1951.
+Rule 9 of this court provides:
+“When no counsel appears, and no briefs are filed, the court will examine the pleadings, the instructions of the ■ court and the exceptions taken thereto, and the judgment and sentence and if no prejudicial error appears will affirm the judgment.”
+Notwithstanding the above rule, we have read the record, containing some 255 pages. We are amazed from a study of this record that counsel, with the interest of their client in mind, would have ever considered an appeal in this case. The defendant could have been assessed the death penalty, but was only assessed five years, which by good behavior could be served in much less time. A new trial could result in a much more severe penalty. The record indicates that the county was imposed on in defraying the expense of the case-made.
+The evidence on behalf of the state tended to prove that the defendant had furnished the deceased, his brother and others “choc” beer and that a number of her customers were “tight”; that her husband had passed out. The deceased had parked a Pontiac coupe with pickup bed on it, some 40 feet from the defendant’s property line, and on the left side of a narrow street or road, and headed downgrade and to the west. The car had to be cranked or left on a down-grade. When deceased and his brother left defendant’s place, one “Pistol” Linthicum, a colored boy, had driven his car up and parked it immediately in front of the deceased’s car and making it impossible for him to depart without cranking his car. An argument resulted and deceased’s brother, Charley Gibson, got into a fight with “Pistol” and got him down on the ground by the car. The defendant and two other customers came out of her residence and defendant ordered the deceased and his brother away. One of the other men asked Charley Gibson to let “Pistol” up, which he did, and deceased got his car crank to start his car. There was evidence that “Pistol” kicked Charley Gibson on the leg and then threw-a rock at him, which missed but hit the car. He then got another rock, but in the mean-time Viola Johnson had stated that she would settle the matter and had returned to her home, but soon reappeared with a .32 calibre revolver, and pointed it at Charley Gibson and snapped it several times. And the deceased, seeing “Pistol” who was standing near the defendant and with a rock in his hand, started toward “Pistol”, carrying the car crank in a hand, whereupon the defendant levelled her pistol at him and shot twice, one bullet entering his jaw and ranged down into his chest. He died a few minutes later. The defendant and “Pistol” ran. At this point Charley Gibson got a single action .22 calibre rifle from out of one of the cars and was attempting to load it.
+The defendant after arrest signed a statement for the county attorney, after being warned of her constitutional rights, and admitted shooting the deceased when it appeared to her that he might attack “Pistol” with the car crank. She stated that she just shot to scare the deceased.
+At the trial the defendant admitted signing the statement, but declared that she was excited and did not realize what she was saying; she denied furnishing the deceased and his brother and others any “choc” beer, but claimed that deceased and his brother brought 36 bottles of 3.2 beer to her house to be cooled and that all the drinking was from such 3.2 beer. Some of the defense witnesses stated that the deceased had an open knife in a hand while his brother was fighting “Pistol” Linthicum; that “Pistol” called on the defendant to help him and that she went to her home and later returned with the 3.2 calibre pistol; that the deceased came along his car with a ear crank in a hand walking toward defendant, and at the same time his brother Charley Gibson had gotten a .22 rifle and was threatening to kill all of them and that thereupon the defendant shot deceased, fearing that he was about to attack her with the car crank, and after firing one shot ran.
+Thus, it was for the jury to consider the facts and apply the law as covered by the instructions' of the court. Not one of the instructions given was excepted to, and the court was most liberal in setting out defendant’s theory of the case and giving very favorable instructions. The jury was most lenient.
+We have found no fundamental error in the record. The judgment is affirmed.
+BRETT, P. J., and JONES, J., concur.
