@@ -1,0 +1,32 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "241"
+decided: "1909-05-01"
+citations: ["2 Okla. Crim. 323", "101 P. 353"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["FTJBMAN, PRESIDING Judge, and BAKES, Judge, concur."]
+parties: ["C. H. Markinson v. State."]
+source_url: "https://static.case.law/okla-crim/2/cases/0323-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8852817
+cites_cases: ["11 Okla. 454", "14 Okla. 598", "32 Pac. 260", "98 Ala. 83"]
+---
+
+# Markinson v. State
+
+## Majority (DOYLE, Judge,)
+
+DOYLE, Judge,
+(after stating the facts as above). The first question that is presented by defendant for our consideration is that “defendant was never arraigned, or ever entered any plea, or was given any opportunity to plead.” The record does not show that the defendant was arraigned and pleaded to the amended information. No objection appears to have been made upon this ground in the court below. The record shows that on March 31, 1908, after a demurrer to the original information had been sustained, an amended information was filed, and on April 1, 1908, defendant filed his demurrer to said amended information, which demurrer was by the court overruled. Whereupon defendant filed his motion .to quash the panel and array of jurors, which motion was by the court overruled. The case proceeded to trial without further objection, and the defendant was duly tried.
+We cannot reverse a judgment in a misdemeanor case for the reason alone that the record does not show-an arraignment and plea by the defendant. Section 5307, Wilson’s Bev. & Ann. St. 1903, provides:
+“An information may be amended in matters of substance or form at any time before the defendant pleads, without leave, and may be amended after plea on order of the court where the same can be done without material prejudice to the right of the defendant; no amendment shall cause any delay of the trial, unless for good cause shown by affidavit.”
+And section 5380, Wilson’s Bev. & Ann. St., provides:
+“If the indictment is for a felony the defendant must be personally present, but if for a misdemeanor only, his personal appearance is unneeessar3q and he may appear upon the arraign^ ment by counsel.”
+Under this provision of our statute the personal appearance of the defendant in a misdemeanor is unnecessary for the purpose of arraignment and plea. Where the record does not, as in this case, disclose an arraignment and plea, unless there is something to show affirmative^ that the defendant was not arraigned and did not plead, such arraignment will be presumed; and, where the record fails to show any objection to proceeding to trial, the question will not be considered by this court when raised for the first time in the petition in error.
+The next contention of defendant iis that “The verdict is contrary to law and the evidence.” Under this assignment it is argued: First. That on the testimony offered on the part of the prosecution the defendant was not connected with the transaction, and that the person making the sale was not shown to have been acting .as the agent 'of defendant. The only evidence on this point is the evidence of the witness Small; and it is questionable if his testimony is sufficient to connect the defendant with the transaction. It is also questionable if the evidence is sufficient to show a violation of-the law as it was at the time alleged in the information. To be sufficient -to support a conviction it was necessary for the state to prove that said bottle contained beer, or that it contained intoxicating liiquor of some kind. The testimony offered on the part of the prosecution is very unsatisfactory on the question as to whether the contents of the said bottle was beer, and the witnesses for the state 'do-not pretend to testify that it was otherwise intoxicating liquor. The testimony offered on the part of defendant is positive testimony of qualified witnesses, who state that the contents of said bottle was not beer, and that it was not intoxicating liquor of any ldtnd.
+This prosecution was for an alleged violation of a provision of the prohibition ordinance of the Constitution, before the passage of the present prohibition law. The language of said prohibition "ordinance, reasonably construed, means liquors which will intoxicate, and which are commonly used as beverages for such purposes, and also any and all mixtures thereof, ■ compounds, or substitutes for such liquoi's that possess intoxicating qualities. The use of intoxicating liquors as a beverage was the evil to be prevented, and by the adoption of prohibition as a part of the organic law it was intended to put a stop to such use. If the proof had shown that the contents of the bottle was beer, that would have been sufficient, as said ordinance designates beer as intoxicating liquor, and all courts take judicial notice that beer is an intoxicating liquor. The testimony offered on the part of the prosecution tended to show that if the contents of said bottle was not beer, it was a substitute. It .then became necessary to show that said contents possessed intoxicating qualities.
+It is competent to prove the intoxicating qualities of any mixture, compound, or substitute by thg experimental effect of its use, or this fact can be .proved by any witness who is shown to have had an opportunity of personal observation or of experience, such as to enable him to form a correct opinion. He need not be a technical expert, and it is no objection that the statement of a fact is in the form of an opinion. Under this rule it cannot be said that the evidence offered on the part of the prosecution conclusively shows that there was a violation of the law. The witnesses for the prosecution did not qualify as competent; on the other hand, the evidence of the witnesses for the defendant, who were shown to have had an opportunity of personal experience and) observation sufficient to enable them to form a correct opinion, proved, or tended to prove, that the contents of said bottle was not beer, and did not possess intoxicating qualities.
+For these reasons, because the evidence is insufficient to support the verdict, the judgment is reversed, and the cause remanded to the county court of Comanche county.
+FTJBMAN, PRESIDING Judge, and BAKES, Judge, concur.
