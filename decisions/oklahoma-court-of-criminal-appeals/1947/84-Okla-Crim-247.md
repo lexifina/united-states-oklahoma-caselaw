@@ -1,0 +1,39 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-10874"
+decided: "1947-05-21"
+citations: ["84 Okla. Crim. 247", "181 P.2d 296"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BAREFOOT, P. J., and BRETT, J., concur."]
+parties: ["STATE ex rel. McDANIEL v. TURNER, Sheriff."]
+source_url: "https://static.case.law/okla-crim/84/cases/0247-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8737077
+cites_cases: ["1 Cranch, 137", "12 O. S. 1941", "2 L. Ed. 60", "20 O. S. 1941", "215 P. 965", "22 O. S. 1941", "24 Okla. Cr. 80", "4 Okla. Cr. 25", "5 Pet. 190"]
+---
+
+# State ex rel. McDaniel v. Turner
+
+## Majority (JONES, J.)
+
+JONES, J.
+By this action the petitioner, Tom McDaniel, seeks a writ of mandamus, directed to the sheriff of Nowata county, ordering him to recall a holdover order placed by the sheriff with the warden of the State Penitentiary in which the sheriff asked the warden to hold the petitioner at the expiration of a term of imprisonment which the petitioner was serving in the State Penitentiary, for his return to Nowata county for trial of a criminal case there pending against him.
+The petition further alleged that the petitioner had served ten years in the State Penitentiary and is eligible for parole. That the Pardon and Parole Board will not consider his application for clemency so long as there is a holdover order against the petitioner in the office of the warden at the State Penitentiary. The petition further alleges that prior to September 27, 1945, he stood charged in the district court of Nowata county with having committed the crime of escape from the county jail in case No. 3748. That said case was dismissed on the 20th day of October, 1945, for reason that petitioner had been denied his right to a speedy trial. That upon the dismissal of said case, the sheriff of Nowata county no longer had any authority to maintain the hold order against him with the warden of the State Penitentiary, since he was no longer wanted for any crime alleged to have been committed by him in Nowata county.
+The cause was submitted to this court upon a demurrer to the petition.
+By statute it is provided:
+“The Criminal Court of Appeals shall have exclusive appellate jurisdiction, co-extensive with the limits of the State, in all criminal cases appealed from the district, superior and county courts, and such other courts of record as may be established by law.” 20 O. S. 1941 § 40.
+“Said court and judges thereof shall have the power to issue writs of habeas corpus; and under such regulations as may be prescribed by law, issue such writs as may be necessary to exercise its jurisdiction; and may prescribe and promulgate such rules for the government of said court as it may deem necessary.” 20 O. S. 1941 § 41.
+In construing these statutes it has been held that:
+“The Criminal Court of Appeals has jurisdiction and power to issue the writ of mandamus,-directed to an inferior court, in the exercise or in aid of its appellate authority, where the same is a proper proceeding in a criminal case.
+“A mandamus to an officer is said to be the exercise of original jurisdiction, but a mandamus to an inferior court is in the nature of appellate jurisdiction.” Moore v. Taylor, 24 Okla. Cr. 80, 215 P. 965; Eubanks v. Cole, 4 Okla. Cr. 25, 109 P. 736, 741.
+In the body of the opinion of Eubanks v. Cole, supra, it is stated:
+“Upon a careful consideration of the law, we are of opinion that this court has the jurisdiction and power to issue the writ of mandamus where the same is a proper proceeding in a criminal case. As we view it, the proceeding in this case seeks only to invoke the exercise of the exclusive appellate jurisdiction of this court. This is a court of special jurisdiction, limited in the exercise of its powers exclusively to criminal cases, and it is undoubtedly true that, except in cases where under the law this court has original jurisdiction, all exercise of power in other cases must be in virtue of its appellate jurisdiction, and the writ of mandamus can be issued only in the exercise or in aid of its appellate authority. A mandamus to an inferior court is in the nature of appellate jurisdiction. The term ‘appellate/ in the constitutional phrase, ‘a Criminal Court of Appeals with exclusive appellate jurisdiction in criminal cases/ is not used in a restricted sense, but in its broadest sense, as embracing the power and jurisdiction to review and correct the proceedings of inferior courts in criminal cases, brought before it for determination, in the manner provided by law. The statute prescribes the procedure by which such proceedings shall be brought before this court, and among the other modes prescribed the writ of mandamus may be a proper proceeding. Snyder’s St. §§ 2016, 6224 [22 O. S. 1941 § 575, 12 O. S. 1941 § 1451]. The Supreme Court of the United States, with a few enumerated exceptions, has the only appellate jurisdiction under the Constitution of the United States, and Congress has not the power to confer original jurisdiction on it. Consequently that court cannot ordinarily issue an original writ of mandamus. Marbury v. Madison, 1 Cranch, 137, 2 L. Ed. 60. However, the practice of issuing such writs as an exercise of its appellate jurisdiction and in aid of its appellate jurisdiction has been asserted and upheld in numerous cases.
+“In the case of Ex parte Crane, 5 Pet. 190, 8 L. Ed. 92, which was an application for a mandamus to the circuit court of the United States for the Southern dis-strict of New York, commanding the court to review the settlement of several bills of exceptions, Chief Justice Marshall, delivering the opinion of the court, said:
+“ ‘A doubt has been suggested respecting the power of the court to issue this writ. The question was not discussed at the bar, but has been considered by the judges. It is proper that it should be settled, and the opinion of the court announced. We have determined that the power exists. Without going extensively into this subject, we think it proper to state, briefly, the foundation of our opinion. In England the writ of mandamus is defined to be a command issuing in the king’s name, from the court of King’s Bench, and directed to any person, corporation, or inferior court of judicature within the king’s dominions, requiring them to do some particular thing therein specified, which appertains to their office and duty, and which the court of King’s Bench has previously determined, or at least supposes to be consonant to right and jus- . tice.’ Blackstone adds: ‘That it issues to the judges of any inferior court commanding them to do justice according to the powers of their office, whenever the same is delayed; for it is the peculiar business of the Court of King’s Bench to superintend all other inferior tribunals, and therein to enforce the due exercise of these judicial or ministerial powers with which the crown or Legislature have invested them, and this, not only by restraining their excesses, but also by quickening their negligence, and obviating their denial of justice.’ 3 Bl. Com.
+“Continuing, the eminent Chief Justice makes the following distinction:
+“A mandamus to an officer is held to be the exercise of original jurisdiction; but a mandamus to an inferior court of the United States is in the nature of appellate jurisdiction.”
+In Moore v. Taylor, supra, it was held that this court lacked authority to issue a mandamus directing a court clerk to approve a. bond in a criminal case.
+It is our opinion, after consideration of the petition, that the writ of mandamus sought by the relator would be in the exercise of original jurisdiction and would not be in the exercise or in aid of our appellate jurisdiction in criminal cases and for that reason the petition is denied.
+BAREFOOT, P. J., and BRETT, J., concur.
