@@ -1,0 +1,48 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-4276"
+decided: "1923-12-22"
+citations: ["26 Okla. Crim. 82", "221 P. 785"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MATSON, P. J., and BESSEY, J., concur."]
+parties: ["SAM FRANCIS et al. v. STATE."]
+source_url: "https://static.case.law/okla-crim/26/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1520434
+cites_cases: ["126 Pac. 580", "16 Okla. Cr. 443", "183 Pac. 932", "193 Ky. 642", "194 Ky. 480", "202 Pac. 310", "23 Okla. Cr. 267", "237 S. W. 381", "239 S. W. 795", "24 Okla. Cr. 394", "25 Okla. Cr. 206", "4 Okla. Cr. 25", "44 L. R. A. (N. S.) 871", "7 Okla. Cr. 238", "7 Okla. Cr. 316", "84 Okla. 73", "9 Okla. Cr. 356"]
+---
+
+# Francis v. State
+
+## Majority (DOYLE, J.)
+
+DOYLE, J.
+In the information in this ease filed in the county court of Harmon county December 24, 1921, Sam Francis and Emery Felty were charged with manufacturing com whisky. Upon their trial on the 27th day of January, 1923, they were found guilty, and their punishment fixed at confinement in the county jail for 30 days and a fine of $350 each. From the judgment rendered on the verdict they appeal.
+When the case was called for trial the defendants filed a motion to dismiss on the ground that they were not brought to trial at the next term of court after the information was filed; that the continuances from term to.term were not procured by them, and their trial has been arbitrarily delayed without consideration of the substantial rights of the defendants under the Constitution of the state and the statutes in such cases made and provided; which motion was by the court overruled and exception allowed.
+Bill of Bights, § 20, of the Constitution, declares that:
+“In all criminal prosecutions the accused shall have the right to a speedy and public trial by an impartial jury of the county in which the crime shall have been committed.”
+The Code of Criminal Procedure provid'es as follows:
+“If a defendant, prosecuted for a public offense, whose trial has not been postponed upon his application, is not brought to trial at the next term of court in which the indictment or information is triable after it is filed, the court must order the prosecution to be dismissed, unless good' cause to the contrary be shown.” Comp. Stats. 1921, § 2913.
+“If the defendant is not prosecuted or tried, as provided in the last two sections, and sufficient reason therefor is shown, the court may order the action to be continued from term to term, and in the meantime may discharge the defendant from custody, on his own undertaking or on the undertaking of bail for his appearance to answer the charge at the time to which the action is continued.” Section 2914.
+It has been repeatedly held by this court that the constitutional guaranty of a speedy trial may be waived by consenting to continuances, and by the failure of a defendant enlarged on bail to present himself as required by the conditions of his bond and demand a trial.
+In Parker v. State, 7 Okla. Cr. 238, 122 Pac. 1116, 124 Pac. 80, it is said:
+“Where a defendant wishes to avail himself of the• provisions of our statute above quoted, he must demand a trial and object' to a postponement or continuance of the case. If he does not do this, he will be held in law to have waived his right to demand a dismissal of the case on the ground of such postponements. Where he does this, the burden is then on the state to prove that good cause existed for the postponements complained of.”
+In Weeks v. State, 16 Okla. Cr. 443, 183 Pac. 932, it was held:
+“In the absence of a proper record affirmatively showing the contrary, the presumption is that the court had continued the case for a presumably lawful cause. The burden was on the defendant, in support of his motion to dismiss, to show that the laches was on the part of the state through its prosecuting officers; otherwise, the presumption is that the delay was caused by or with the consent of the defendant himself, and when on bail he must demand a trial, or resist the continuance of the case from term to term. A defendant, who has never demanded or been refused trial, is not entitled to a discharge under the constitutional provision (article 2, § 20) and the statutory provisions (sections 2913 and 2914, Rev. Laws 1921).”
+See Ex rel. Eubanks v. Cole, District Judge, 4 Okla. Cr. 25, 109 Pac. 736; Ex rel. Bailey v. Holden, County Judge, 25 Okla. Cr. 206, 219 Pac. 961; Bowes v. State, 7 Okla. Cr. 316, 126 Pac. 580; Head v. State, 9 Okla. Cr. 356, 131 Pac. 937, 44 L. R. A. (N. S.) 871.
+The evidence shows that the sheriff, two deputies, and another man, while searching for moonshine stills in a pasture near the north line of Harmon county, found two copper stills in a ravine; the stills were running with a fire under each, both were full of mash, and whisky was dripping from the coils into jars; there were three barrels near by, one full, one two-thirds full, and one about a third full of mash, and some jars containing about two gallons of whisky. The defendants were standing by. The officers seized the stills, the mash, and the whisky, they arrested the defendants, and Francis said that if they had been 24 hours later they would not have caught them. Felty said that it was his first offense; that times were hard, and that they needed a little money, and thought they would run off some and sell it and have some Christmas money.
+It appears that the nearest house was about one-half mile distant, and that the pasture belonged to Jack Francis, but it does not appear that Jack Francis was in any way connected with the stills or related to the defendants. It also appears that the officers did not have a search warrant. The stills, mash, and whisky seized were offered in evidence. The defendants did not testify.
+The 'defendants objected to this evidence on the ground that it had not been seized under a search warrant, and for this reason moved the court to withdraw from the consideration of the jury the testimony of the officers' and the evidence so obtained without a search warrant.
+It is urged that, as the officers who found the stills were not at the time in possession of a search warrant conferring upon them lawful authority to search for and seize the stills, mash, and whisky, their testimony was incompetent, and the evidence so obtained was incompetent, in that it was admitted in violation of the constitutional guaranty against self-incrimination (Const, art. 2, § 21), and also of the constitutional guaranty that "the right of the people to be secure in their persons, houses, papers and effects against unreasonable searches or seizures shall not be violated” (Const, art. 2, § 30), citing Hess v. State, 84 Okla. 73, 202 Pac. 310.
+On the record before us we think the evidence in question was properly admitted. It is true that the officers did not have a search warrant, but likewise true that they made no search of any building, premises, or land belonging to the defendants. Furthermore, there was nothing in the evidence showing any right in the defendants to occupy the pasture with their stills. The stills and their operation were exposed to the view of any person that might pass by, and the defendants had no better right to operate the stills on the land than the officers of the law had to enter it. The unlawful operation of the stills was seen by the officers; it was an offense committed in their presence; hence the possession of a search warrant was unnecessary. The officers had the authority to seize the stills, mash, and whisky without a warrant, and to arrest the defendants.
+In Ricketts v. State, 23 Okla. Cr. 267, 215 Pac. 212, it is said:
+“The constitutional provision [article 2, § 21] guarantees no greater privilege than that all persons, whether parties or extraneous witnesses, shall be free fro'm compulsion by legal process, to give self-incriminating testimony. The principal purpose of the provision was to prohibit compulsory examination of prisoners before trial or upon trial, for the purpose of extorting unwilling confessions or declarations implicating them in crime. It could reach further only in exceptional and peculiar cases coming within the purpose and spirit of the inhibition.”
+Manifestly the facts of this case do not bring it within the rule that would make it incompetent as evidence announced in the ease of Hess v. State, 84 Okla. 73, 202 Pac. 310, or the case of Gore v. State, 24 Okla. Cr. 394, 218 Pac. 545.
+In Bowling v. Com., 193 Ky. 642, 237 S. W. 381, it was held that:
+“Seizure without warrant of a moonshine still maintained in the open, on land belonging to defendant’s' father, without the father’s consent or knowledge, held not to violate Bill of Rights, Ky. § 10, and Const. U. S. Amend. 4, regarding unreasonable searches and seizures, where the still was located by seeing smoke, and without search of building or premises belonging to defendant, and the property seized and officer’s testimony relating thereto was admissible.”
+In Royce v. Com., 194 Ky. 480, 239 S. W. 795, it was held that:
+“Where the possession of intoxicating liquor is open and obvious so that any one within reasonable distance can readily and plainly see it, no search warrant is necessary, and the evidence thus obtained may be received upon the trial of the accused. ’ ’
+What has been said disposes of the questions argued; and, finding nothing in the record to indicate that the defendants were in any respect deprived of a fair trial, the judgment of the trial court is affirmed.
+MATSON, P. J., and BESSEY, J., concur.
