@@ -1,0 +1,39 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-10105"
+decided: "1943-01-27"
+citations: ["76 Okla. Crim. 34", "133 P.2d 912"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JONES, P. J., and DOYLE, J., concur."]
+parties: ["A. J. ZEIGLER v. STATE."]
+source_url: "https://static.case.law/okla-crim/76/cases/0034-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8739674
+cites_cases: ["66 Okla. Cr. 66", "72 Okla. Cr. 323", "73 Okla. Cr. 18"]
+---
+
+# Zeigler v. State
+
+## Majority (BAREFOOT, J.)
+
+BAREFOOT, J.
+Defendant, A. J. Zeigler, was charged jointly with his brother, Alvin Zeigler, with the crime of assault Avith intent to' kill, in Okfuskee county; was tried, convicted, and sentenced to serve a term of three years in the penitentiary, and has appealed.
+Defendant cites three assignments of error.
+First, that the court admitted incompetent, irrelevant, and immaterial evidence Avhich was prejudicial to the rights of the defendant.
+This contention is based upon the proposition that “the court allowed the prosecuting attorney to try defendant’s brother, Alvin Zeigler, again in the trial of this defendant’s case.”
+The record reveals that defendant and his brother, Alvin Zeigler, were jointly charged with assault with intent to kill one Butler Anderson. Alvin Zeigler was tried the day before the defendant was tried, was convicted and assessed a penalty of five years in the penitentiary. The assault was made at the same time by both of the defendants.. The evidence of necessity involved the acts of both parties. We have carefully read the record, and it does not appear that any serious error was made by the trial court in the admission of evidence. It is contended that the court erred by making the following remarks- in the presence of the jury:
+“I think — I didn’t intend to say it before the jury, but here is what I think: These two parties are charged jointly together; they are more or less responsible for1 each other’s acts, and I will take care of that when I instruct the jury. For that reason I am going to let him go into the acts of this defendant. I don’t know how far it will affect the acts, of the other one, but that is the only way to submit the matter fairly to. the jury.”
+It occurs to. us that this statement was not prejudicial to the defendant. In developing the facts it was necessary, as above stated, for the acts of both defendants to be given to the jury. The court properly instructed the jury that a severance had been taken by the defendant, and that he alone was on trial. Other instructions properly protected the rights of the defendant.
+The second assignment of error is that the verdict of the jury is not based upon sufficient evidence to support the same.
+All of the parties concerned are members of the Negro race. On the night of October 19, 1910, the two defendants, who are brothers, and the prosecuting witness, Butler Anderson, attended a pie supper in the neighborhood where all the parties lived. Alvin Zeigler, the brother of defendant, and Butler Anderson had some kind of a difficulty at this meeting, and defendant and his brother claimed that Anderson had attempted to. cut Alvin Zeigler with a knife. Defendant was. not present at the time of this difficulty, but upon being told by others, he followed his brother to his home about a mile away, and both he and his brother armed themselves with shotguns and proceeded to. the home of Alice Hart, about one mile to the north, in pursuance of Butler Anderson. Butler Anderson was a relative of Alice Hart, and had gone from the pie supper to her home.
+The evidence of Alice Hart and of several other witnesses for the state who were present in the house was that both defendant and his brother came to her home armed with shotguns. That defendant’s brother, Alvin Zeigler, entered the room where Butler Anderson was sitting on a stool with his back to the door, and that defendant stopped at the door. That upon entering the room Alvin Zeigler struck Butler Anderson over the head with his shotgun, and the gun was discharged and broken. That he and Alice Hart struggled over the gun, and during this struggle Butler Anderson left through the door and ran from the house. He was fired at three or four times, and was struck twice and severely injured. He testified that it was the defendant who' fired the shots that hit him. While other witnesses who were at the scene of the difficulty could not testify positively that the defendant fired the shots, there were many circumstances which the jury evidently took into consideration, indicating that it was defendant who fired the shots from the Winchester shotgun at the prosecuting witness as he fled from the house.
+Officers investigating the case found some six or seven shotgun shells near where the defendant was standing, and also found evidence of two shots having been fired in the house. Parts of the boards showing where these shots had penetrated were cut from the house and introduced in evidence as exhibits.
+Defendant testified that when he left the pie supper and went in search of his brother it was for the purpose of keeping him from attacking the prosecuting witness, and assisting him if he were attacked. He testified that he first went to his home and secured the Winchester shotgun, and that it was fully loaded. That he and his brother then went to the home of Alice Hart and that he carried the Winchester, and his brother the double-barrel shotgun. That he did not enter the house and that when the prosecuting witness ran from the house his brother, Alvin Zedgler, grabbed the gun out of his hand and that it was he, and not the defendant, who fired the shots that hit the said Anderson.
+While there was a conflict in the evidence, there was sufficient evidence for the jury to find that defendant fired some of the shots at the prosecuting witness. According to his own testimony, he went to his own home and armed himself with a loaded shotgun, and in the nighttime proceeded to the premises where the prosecuting witness was, and was present at the door with a gun in his hand during the difficulty between his brother and the prosecuting witness.
+Under many decisions of this court it has often been held that where there is a conflict in the evidence, and the jury has passed upon the question, we will not set aside the verdict of the jury. It is only where there is insufficient evidence to sustain the judgment and sentence that an appellate court will give relief. Petree v. State, 72 Okla. Cr. 323, 115 P. 2d 921; Todd v. State, 73 Okla. Cr. 18, 117 P. 2d 170; Kimbrough v. State, 66 Okla. Cr. 66, 89 P. 2d 982.
+The third assignment of error is that the judgment and sentence rendered in this case is such as to constitute cruel and unusual punishment, and is excessive.
+Defendant was charged with assault and attempt to kill. Under the statute this charge carries a maximum punishment of ten years in the penitentiary. The court instructed tlie jury as to the included offense of assault to do bodily harm with a dangerous weapon, and under this statute, a maximum punishment of five.years in the penitentiary may be assessed. The jury returned a verdict of guilty of assault with intent to kill, and left the punishment to the court, who assessed the punishment at three years in the penitentiary. It is revealed by the record that the brother of the defendant received a sentence of five years in the penitentiary. Certainly the sentence received by this defendant is not such as to constitute cruel and unusual punishment as contemplated by the statute, and we find that it is not excessive under all the facts and circumstances in this case.
+Cor the reasons above stated, the judgment and sentence of the district court of Okfuskee county is affirmed.
+JONES, P. J., and DOYLE, J., concur.
