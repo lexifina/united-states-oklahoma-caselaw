@@ -1,0 +1,39 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-3441"
+decided: "1921-09-12"
+citations: ["19 Okla. Crim. 450", "200 P. 719"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DOYLE, P. J., and BESSEY, J,. concur."]
+parties: ["GEORGE W. (Doc) WEBB v. STATE."]
+source_url: "https://static.case.law/okla-crim/19/cases/0450-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8738480
+cites_cases: ["115 Pac. 1103", "135 Ill. 243", "2 Okla. Cr. 197", "208 Ill. 15", "22 L. R. A. (N. S.) 832", "22 L. R. A. (N. S.) 833", "25 Am. St. Rep. 357", "25 N. E. 1002", "29 Okla. 19", "34 Wash. 257", "34 Wash. 379", "6 Okla. Cr. 512", "61 S. E. 1072", "69 N. E. 936", "75 Pac. 814", "75 Pac. 978", "80 S. C. 387", "9 Okla. Cr. 359"]
+---
+
+# Webb v. State
+
+## Majority (MATSON, J.)
+
+MATSON, J.
+Plaintiff in error, George W. (Doc) Webb, hereinafter referred to as defendant, was convicted of the crime of receiving stolen property and his punishment fixed as above stated.
+Rev. F. A. Wharton, the pastor of the First Presbyterian Church at Sherman, Tex., was the owner of a Ford touring ■ear, equipped with seat covers, self-starter, and a gasoline-saving device. On July 15, 1917, this car was stolen, and on July 19th following was found in the possession of one Anthony at Achille, Okla., who had purchased same from this defendant. The seat covers, the gasoline-saving device, part of the self-starter, and the license tag had been removed, and the ear was identified by the owner by means of the engine number and .a dent on the car caused by a collision.
+Anthony, Wharton, and an officer from Sherman, Tex., proceeded to Durant, Okla., the home of defendant, and the articles which had been removed from the ear, with the exception of the license tag, were found in defendant’s barn. Defendant denied that he knew the value of these articles, and stated at first that they had been removed before the car was put in his barn, but subsequently stated that they were removed after the ear was put in the barn.
+The state’s evidence shows that defendant made at least three contradictory statements as to the price he claimed to have paid for the car; that he stated to Anthony before the sale was consummated that he (defendant) had secured the ear from some real estate men, when as a matter of fact he secured the car from two young men who lived in Denison, Tex., one of whom defendant said he had known for four or five years and yet did not know his name.
+Defendant, as a witness in his own behalf, denied any knowledge on his part that the car was stolen when he received same.
+Several witnesses testified that the general reputation of defendant for truth and veracity was bad. Defendant put his reputation as an honest, upright, and law-abiding citizen in issue, and the state introduced one witness who testified that such reputation of defendant was bad.
+The only contention here is that the trial court erred in giving the following instruction, which was excepted to at the time: '
+“As to the defendant knowing the automobile was stolen, it is not necessary that somebody should have told him that it was stolen, but it is necessary that he must have actually known that it was stolen, or that he knew such facts as made him believe that in all probability it was stolen. And in ascertaining whether or not he had such guilty knowledge, you will take into consideration all of the facts and circumstances which have been introduced in evidence, and you will consider the time and manner of receiving the automobile, the persons from whom he received it, his conduct with it afterwards, and his disposal of it, the price which he received, and all other facts and circumstances; and if after such consideration you find beyond a reasonable doubt that he knew that the automobile was stolen at the time he received the same, or that he knew such facts as made him believe that in all probability it was stolen, and he received it under those circumstances, that is sufficient as to his knowledge of its being stolen. And if you find these facts beyond a reasonable doubt, and also find the other facts necessary to constitute the crime charged, then it will be your duty to convict the defendant.”
+The particular portion of this instruction complained of is that which tells the jury that if they believe beyond a reasonable doubt that defendant “knew such facts as made him believe in all probability it was stolen,” such belief was sufficient, in addition to the other elements of the offense, to authorize a conviction. It is urged that this is not a correct statement of the law on the question of the guilty knowledge required before a conviction can be had.
+In a prosecution for receiving stolen property, knowing same to be stolen, it is not necessary that the defendant have actual knowledge that the property was stolen, but it is sufficient if the circumstances accompanying the transaction were such as to make him believe it was stolen. Bishop’s Crim. Law, § 1138; Wharton’s Crim. Law, §. 984; Clark & Marshall’s Law of Crimes, § 383; Price v. State, 9 Okla. Cr. 359, 131 Pac. 1102; McGill v. State, 6 Okla. Cr. 512, 120 Pac. 297; State v. Druxinman, 34 Wash. 257, 75 Pac. 814.
+It is rare in eases of this kind that direct proof of defendant’s actual knowledge that the property was stolen can be obtained. The state of defendant’s mind can ordinarily only be ascertained by means of the inferences arising from the circumstances surrounding the transaction, and if they are such as to make a reasonable man believe the goods were stolen, the proof as to guilty knowledge is sufficient. Weinberg v. People, 208 Ill. 15, 69 N. E. 936; Huggins v. People, 135 Ill. 243, 25 N. E. 1002, 25 Am. St. Rep. 357; 22 L. R. A. (N. S.) 832, note. I
+But it is urged that the phrase "in all probability” implies that if there were a suspicious circumstance surrounding the transaction there was sufficient proof of guilty knowledge.
+This is not true. "Brief” itself admits of some doubt, being a conclusion arrived at from external sources after weighing probabilities. Webster’s International Dictionary.
+"Probability” means that which is probable. “Probable” means "supported by evidence which inclines the mind to believe, but leaves some room for doubt; likely.” Webster’s International Dictionary; Gallamore v. City of Olympia, 34 Wash. 379, 75 Pac. 978; Oil Company v. Riley, 29 Okla. 19, 115 Pac. 1103.
+In common acceptation, if one thinks a thing in all probability is true, he believes that thing to be true. So "to believe” is practically synonymous with "to believe in all probability,” and the insertion of the phrase "in all probability” did not authorize a conviction on any less amount of evidence than if same had been omitted, and it could have been omitted without altering the meaning of the instruction.
+Plaintiff in error relies upon the cases of Pickering v. U. S., 2 Okla. Cr. 197, 101 Pac. 123, and State v. Rountree, 80 S. C. 387, 61 S. E. 1072, 22 L. R. A. (N. S.) 833. In each of these cases an instruction, which stated that if the jury found there were facts and circumstances which would put a “reasonably, prudent man upon inquiry” they should convict, was disapproved and held prejudicial. Such a test of guilty knowledge is entirely different from the one given in the instruction complained of in this case. That test would permit one to be punished for negligence unaccompanied by any intentional wrong, while in this case the jury was not authorized to convict unless they found defendant had actual knowledge, or believed in all probability, that the property was stolen.
+In our opinion the instruction complained of contains a correct statement of the law applicable to .such cases, and the judgment is therefore affirmed.
+DOYLE, P. J., and BESSEY, J,. concur.
