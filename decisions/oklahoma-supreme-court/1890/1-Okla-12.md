@@ -1,0 +1,46 @@
+---
+court: "Oklahoma Supreme Court"
+decided: "1890-06-24"
+citations: ["1 Okla. 12"]
+reporter: "okla"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the Justices concurring."]
+parties: ["Ex parte HALY."]
+source_url: "https://static.case.law/okla/1/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 62706
+cites_cases: ["18 Wall. 317", "99 U. S. Rep. 20"]
+---
+
+# Ex parte Haly
+
+## Majority (SEAY, J.:)
+
+The opinion of the court was delivered by
+SEAY, J.:
+This is a case in which the petitioner A. N. ITahy presented a petition to the Hon. E. B. Green, as judge of the First judicial district of the Territory of Oklahoma, in which he alleges that he is unlawfully held and restrained of his liberty, at the city of Guthrie, in said Territory of Oklahoma by W. S. Lurty, the United States marshal of said Territory, by virtue and authority of a commitment issued by W. M. Allison, a United States commissioner, in and for the First judicial district of said Territory. That said petitioner was apprehended on a warrant issued on a complaint made before said commissioner by one E. M. Bamford, charging the petitioner with having unlawfully and feloneou.sl-y assaulted him (said Bamford), with the intent, to .inflict .upon him great bodily injury, contrary to the statute and against the peace and dignity of the United States.
+That petitioner-was, on the 13th- day of June, 1890, examined before said commissioner and held to answer said charge of assault‘with intent to. do great bodily injury, before the district court, at Guthrie, on t’he first Monday in Sept., 1890.
+Petitioner then alleges the illegality of his imprisonment to consist in this, to-wit:' That the crime charged is'an offense against the laws of Nebraska, extended' over this Territory, by the act of Congress giving it a' Territorial government, and-is riot an offense'known to or against the laws of the United States. That said W. M. Allisori, commissioner as aforesaid, had-no “power or authority, or jurisdiction,” over said offense, arid that’ said Lurty, United States marshal, had no authority, under said warrant,'to ' restrain said' petitioner • of his liberty.
+Whereupon said judge caused a writ to be issued to said Lurty, United States marshal, commanding him to bring the body of said petitioner, before said judge at Guthrie, on the 17th day of June, together with the cause of his detention and restraint.
+In obedience to said writ, said marshal brought the said prisoner before said judge, making return that he held said petitioner ' in default of bail by virtue and authority of a commitment from United States Commissioner Allison as heretofore stated.
+The supreme court, of which said judge is chief justice, then being in session, the case was by him adjourned into the supreme court for hearing. (See section 368, chapter 34, page 1068, Comp. Stat. of Nebraska.)
+There is no question of fact nor plea of not guilty, nor excuse nor extenuation, set up in the petition for the crime charged. It is contended for the petitioner that the United States commissioner had no authority' to hear or commit, and' the Uriited States marshal had' no authority to hold or restrain the petitioner for a crime committed under the laws of Nebraska, which were put in force here by the organic act of the Territory. But that the authority, is conferred exclusively on, what counsel calls, the local Territorial courts and officers.
+The question presented is one of power — of jzirisdiction\ and it is the only question to be decided in this case.
+It involves .the legal relations of territories to the parent government.
+A territory is merely an inchoate state. Its people are not sovereign. Its organic law takes the place of a constitution.
+“The government of the Territories belong primarily to congress.” And, “during the term of their pupilage as territories they are mere dependencies of the United States. All political power exercised therein is derived from the general government.”
+Territories are spoken of by Judge Bradley as “dependencies,” and, ,“the extent of their power depends upon the organic act in each case.” (Snow v. the United States, 18 Wall. 317.)
+This was a case in which the legislature of Utah, under authority of the Territorial organic act, had created the office of attorney general for Utah Territory, and a question arose between that officer and the United States attorney for said territory as to who should appear and prosecute crimes committed against the ter-‘ ritorial laws. Judge Bradley, who delivered the opinion, said this was an anomalous case. That, “strictly speaking, there is no sovereignty in a territory of the United States except the United States itself. Crimes committed therein are committed against the government and dignity of the United States. It would seem that indictments and writs should regularly be in the name of the United StateSj and that the attorney of the United States was the proper officer to prosecute all offenses.” But, after stating that the practice had been different, and that “there is no necessary conflict between the organic act and the territorial laws” of Utah, he concludes that as the practice has been “supported by long usage, and as the entire matter is subject to the control and regulation of congress,” it is his duty, under the circumstances, to declare the Territorial act valid.
+This had-'the effect to oijst the U. S. attorney general from prosecuting crimes committed under the territorial laws.
+In Hussey v. Smith, 99 U. S. Rep. 20, the court held that while the marshal, created by the territorial laws, had the rig! t to serve process, and make sales of land under judgment of the court, held under the Territorial laws, yet when such process was served and sales made, by the United States marshal, his acts were upheld, on the ground that he was a de facto officer, and his acts, as such, was as valid and binding as if he had been an officer de jure.
+The court says: “An officer de facto is not a mere usurper, nor yet within the sanction of the law, but o'ne who colore officii, claims, and assumes to exercise, official authority; is reputed to have it, and the community acquiesces accordingly.” So under the authority here quoted, even if the acts of the marshal and commissioner, complained of, were only acts of officers de facto, the promotion of good government, in the punishment of crime, would induce us to sustain those acts. But we hold that they acted as de jttre officers.
+It seems from the scope of the argument in this case, that some fear is entertained, that this court may drift too far towards centralization and claim more power for federal officers and United States courts than is consistent with the full recognition of the rights of the people to control their own local'affairs in their own way. On this point it is enough to say that we give hearty assent to the doctrines, laid down by Chief Justice Chase, in Clinton v. Englebrecht 13 Wallace, 434, in which he uses the following comprehensive language:
+‘iThe theory upon which the various governments-for portions of the territories of the United States have been organized, has ever been that of leaving to the-inhabitants, all the powers of self government consistent with the supremacy and supervision of the national authority; and, with certain fundamental principles, established by congress.”
+If, after what has been said, any one should doubt the authority of the commissioner to examine and bind the prisoner, or the marshal to imprison and restrain' him of his liberty, let him examine section 10 of the-organic act- — -the constitution of this Territory. That, section provides that:
+* Persons charged with any offense or crime in the Territory of Oklahoma may be arrested by the United States marshal. * * or any of his deputies, wherever found in said territory, but in all cases the accused shall be taken for preliminary examination before a United States commissioner, or a justice of the peace of the county ”
+Observe the language: “Anv offense or crime in the-Territory of Oklahoma?' We cannot conceive how the jurisdiction of the commissioner or marshal can any longer be questioned.
+But it is said that section 11 of the organic act puts the chapter of the Nebraska statutes concerning crimes in force here. So it does, “so far as they are locally applicable, and not in conflict with the laws of the. United States and with this act.”
+While it may be conceded that, under the Nebraska statute, the petitioner might have been arrested by a. sheriff and taken before a justice of the peace for preliminary examination, and if held to answer an indictment, might, in default of bail, have been remanded to the custody of the sheriff, to be by him safely kept till the grand jury examined and disposed of the case, this would in no wise affect the power exercised by the commissioner and marshal, in this case, under the authority conferred on them by the tenth section of the organic act.
+For the foregoing reasons the petitioner is remanded to the custody of Warren S. Lurty, U. S. Marshal for the Territory of Oklahoma, to be by him dealt with according to law.
+All the Justices concurring.
