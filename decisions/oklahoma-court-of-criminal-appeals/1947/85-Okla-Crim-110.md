@@ -1,0 +1,40 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-10927"
+decided: "1947-10-08"
+citations: ["85 Okla. Crim. 110", "185 P.2d 705"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BAEEFOOT, P. J., and JONES, J., concur."]
+parties: ["Ex parte GEORGE SESLER."]
+source_url: "https://static.case.law/okla-crim/85/cases/0110-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1517938
+cites_cases: ["203 U. S. 222", "21 L. R. A., N. S., 939", "210 U. S. 387", "212 P. 485", "214 U. S. 1", "220 Pa. 421", "244 P. 459", "273 P. 1029", "30 Okla. Cr. 390", "33 Okla. Cr. 413", "39 Nev. 214", "41 Okla. Cr. 433", "60 Okla. Cr. 50", "61 Okla. Cr. 83", "63 Okla. Cr. 115", "65 P. 2d 1236", "69 A. 916", "69 Okla. Cr. 282", "72 Colo. 484", "75 Okla. Cr. 144", "85 Okla. Cr. 4", "85 Okla. Cr. 46"]
+---
+
+# Ex parte Sesler
+
+## Majority (BRETT, J.)
+
+BRETT, J.
+This is an original action instituted by George Sesler to secure his release by a writ of habeas corpus directed to Dick Strain, sheriff of Oklahoma county, Okla., in whose custody he is being held. The petitioner alleged in substance that as far as he is able to ascertain, the cause of his restraint is by virtue of a criminal complaint pending in Calhoun county, Ala., charging the petitioner with having violated the provisions of Title 14, § 363, Code of Alabama, 1940, which reads as follows to wit:
+“Removing, selling, or buying property to which others have claim.— Any person who removes or sells any personal property for the purpose of hindering, delaying, or defrauding any person who has claim thereto, under any written instrument, lien created by law for rent or advances, or any other lawful or valid claim, verbal or written, with a knowledge of the existence thereof, or who, with like intent, buys, receives, or conceals any such property, with knowledge of the existence of any such claim, shall, on conviction, be punished as if he had stolen the same.”
+More specifically, the petitioner alleged that the prosecution was not brought in good faith in that it was an attempt on the part of the prosecuting witness to collect money on an anticipatory cause of action in the nature of a civil suit against the petitioner for damages for breach of contract which had not yet accrued. Upon the petition, rule to show cause was issued and. the matter set for hear-in on August 15,1947.
+To the petition, Dick Strain, sheriff of Oklahoma county, responded that he held the petitioner under and by virtue of a warrant on foreign requisition issued by Governor Roy J. Turner on August 14, 1947, directing the apprehension and arrest of said George Sesler and the delivery of him to J. A. Sorrell, the agent of the Governor of Alabama to be conveyed to Alabama for trial upon the aforesaid charge.
+In the hearing on said petition, the evidence disclosed that the petitioner was arrested in Calhoun county, Ala., for unlawfully transporting intoxicating liquor into that county, which under the laws of Alabama was a dry county. Upon being arrested, the petitioner procured the prosecuting witness herein, Pat White, to go bail for him, with the understanding that the petitioner’s automobile would stand as security to the said Pat White therefor. When the case on the transportation charge was called for trial, petitioner George Sesler, the defendant therein, failed to appear and the bail was forfeited. He had already removed the said automobile from the State of Alabama into the State of Oklahoma. Thereafter, the charge of removing the said automobile, under the foregoing statute, was brought against the petitioner in Calhoun county, Ala.
+We have examined the papers and especially the affidavit of complaint, and it appears that under the laws of Alabama the petitioner is substantially charged with a crime by a sworn complaint, duly certified to by the Governor of Alabama. As was said in Ex parte Cassel, 85 Okla. Cr. 4, 184 P. 2d 467, 468:
+“Unless the affidavit upon which an extradition proceeding is predicated is clearly void, its validity will be left by this court to the courts of the demanding state.”
+The petitioner does not attack the regularity or the sufficiency of the papers upon which the Governor of Oklahoma acted in the issuance of the warrant on foreign requisition. See Ex parte Ryan, 75 Okla. Cr. 144, 129 P. 2d 204, 206, wherein this court said:
+“The proceedings being regular in form, it is incumbent upon the petitioner for habeas corpus, seeking to defeat extradition to establish that he is not a fugitive from justice.”
+The petitioner does not deny that he was in the State of Alabama at the time the crime charged in the complaint is alleged to have been committed in the State of Alabama. These facts not being denied by the petitioner, it appears that the petitioner is a fugitive from justice. Ex parte George, 63 Okla. Cr. 115, 73 P. 2d 471, 474, wherein this court said:
+“To be a ‘fugitive from justice’ within the meaning of the federal law it is sufficient that such person legally charged in the demanding state with the commission of a crime within said state, when sought to be subjected to its criminal process for said offense, has left its jurisdiction and is found within the jurisdiction of another state upon whose executive requisition is made. When it is shown that a person is in due and legal form charged with a crime in one state, and that he was corporeally present in that state at the time of the commission of the crime charged, it is then conclusively established that such person is a fugitive from justice within the meaning of the Constitution. In re Gundy, 30 Okla. Cr. 390, 236 P. 440; Ex parte Baker, 33 Okla. Cr. 413, 244 P. 459; Ex parte Rabinwitz, 61 Okla. Cr. 83, 65 P. 2d 1236.”
+This brings ns to the sole and only contention of the petitioner that the prosecution was not brought in good faith. In Ex parte Cassel, supra, quoting from Ex parte Welborn, 69 Okla. Cr. 282, 102 P. 2d 624, this court said:
+“The presumption is that the prosecution is in good faith; and in order to overcome this presumption, * * * the petitioner must introduce facts which are clear, convincing, and without doubt that the prosecution in the demanding state is in bad faith.”
+See, also, Ex parte Bishop, 85 Okla. Cr. 46, 184 P. 2d 805. Moreover, in Ex parte Powell, 41 Okla. Cr. 433, 273 P. 1029, 1030, this court, in determining good faith of the prosecution on the allegation that the petitioner did not commit any crime, said:
+“In an extradition proceeding, the guilt or innocence of the defendant of the offense charged in the demanding state is not a question that can be raised by habeas corpus, as is here sought to be done. Ex parte La Vere, 39 Nev. 214, 156 P. 446; Williams et al. v. Robinson, 72 Colo. 484, 212 P. 485; Pierce v. Creecy, etc., 210 U. S. 387, 28 S. Ct. 714, 52 L. Ed. 1113.”
+Upon a careful review of the complaint and the evidence herein, we conclude that the petitioner’s contention that the prosecution is not brought in good faith is without merit. Moreover, this court said in the Cassel case, supra, that:
+“ ‘The action of the governor in issuing his warrant [on extradition] should not be nullified by the courts, unless it conclusively appears that the accused is not a fugitive from justice and that the issuance of the warrant was in plain contravention of law.’ Ex parte Foster, 60 Okla. Cr. 50, 61 P. 2d 37. Also see, Appleyard v. State of Massachusetts, 203 U. S. 222, 27 S. Ct. 122, 51 L. Ed. 161, 7 Ann. Cas. 1073; Compton v. State of Alabama, 214 U. S. 1, 29 S. Ct. 605, 53 L. Ed. 885, 16 Ann. Cas. 1098; Commonwealth v. Superintendent of Philadelphia County Prison, 220 Pa. 421, 69 A. 916, 21 L. R. A., N. S., 939.”
+The writ of habeas corpus is accordingly denied and the respondent, Dick Strain, sheriff of Oklahoma county, Oklahoma, is directed to surrender the petitioner, George Sesler, unto the custody of the agent of the State of Alabama in execution of the Governor’s warrant on foreign requisition.
+BAEEFOOT, P. J., and JONES, J., concur.
