@@ -1,0 +1,31 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-1255"
+decided: "1912-04-04"
+citations: ["7 Okla. Crim. 430", "122 P. 559"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ARMSTRONG and DOYLE, JJ., concur."]
+parties: ["E. J. TERRY et al. v. STATE."]
+source_url: "https://static.case.law/okla-crim/7/cases/0430-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4300524
+cites_cases: ["115 Pac. 278", "5 Okla. Cr. 378"]
+---
+
+# Terry v. State
+
+## Majority (FURMAN, P. J.)
+
+FURMAN, P. J.
+This is an appeal from a judgment, rendered in the county - court of Blaine county, against appellants for having in their possession intoxicating liquors with the intention of violating the prohibitory liquor laws of this state.
+It was proven upon the trial of this cause that on the 14th day of February, 1911, the premises occupied by appellants were searched for intoxicating liquors by the officers of Blaine county; that appellants- claimed to be engaged in the poultry business, and occupied a two-room house in the town of Watonga; that one of these rooms was occupied as a living room and the other as a place of business; that a barrel, containing 37 bottles of whisky, was found in this house in the room used as a living room, and also a bottle of whisky was found in said room; that an empty barrel was found in this house similar to the one which contained the whisky. It was also proven that on the 30th day of January, 1911, the appellant Brown received, at the depot in Watonga, a drum or barrel of whisky weighing 100 pounds; and that appellant Terry was • present and identified appellant Brown as the owner of the whisky when it was received at the depot. It was also proven that on the 13th day of February following, appellant Fluff received a drum or barrel of whisky at the railroad depot in the town of Watonga containing 50 bottles of whisky. This was the day before the whisky was found in the premises of appellants. A number of witnesses testified that they had visited the place of business of appellants early in February and had obtained whisky there, although it is not clear as to -whether or not they paid for the whisky. This, however, was immaterial. The sheriff testified that after the whisky was found in the possession of appellants, and they were arrested, appellant Terry claimed the whisky belonged to him, and stated that he had it for his own use. None of the appellants lived in Watonga before January, 1911.
+In the early part of January, shortly after the appellant Terry reached Watonga, he had a conversation with the state’s witness, F. S. McConahay. Said witness testified as follows:
+“We were talking about the officers, and Terry got to talking about being in that business and in the oil burner business at Lawton, and he said that he was in the same building with the county attorney for three or four months before the county attorney ever found out about it. He said that he had a sample in the outside room, and there in the back room he had the stuff. He said that he was never out of it. He said that he never let men out or in there that were intoxicated. He said that when the county attorney found it out he asked him how long he had been running there, and he finally told him. He called him by name, and told him that he wanted to run just two more days, and the county attorney told him to go ahead and run the two days and then to get out; and he said that he went from there to Oklahoma City and started in the restaurant business as a kind of a stall. I don’t know how long he said he was in business there; but he said that the police told him that if he didn’t get out they would throw him in the jug.”
+Several other witnesses testified to similar statements made by appellant Terry. Appellants Huff and Brown did not reach Watonga until the latter part of January. It is true that much of this evidence was contradicted by the defendants’ testimony; but the credibility of the witnesses was a question for the jury to determine. The jury having accepted the truthfulness of the state’s testimony, we are bound by it. We think the testimony overwhelmingly and conclusively established the guilt of all of the appellants.
+- It is contended upon the part of counsel for appellants that the statements alleged to have'been made by appellant Terry with reference to his previous occupation were not admissible in evidence. With this contention, we cannot agree. Terry was a witness in his own behalf. It was therefore competent to inquire into his previous occupation, companions, and associates for the purpose of affecting his credibility as a witness. These matters, being voluntary, are an index of character, and can always be inquired into. See Crawford v. Ferguson, 5 Okla. Cr. 378, 115 Pac. 278.
+The evidence was clearly admissible upon another ground, because it tended to establish the fact that appellant Terry and -those associated with him had gone to the town of Watonga for the purpose of establishing a bootlegging joint. Any testimony which shows preparation to commit a crime is always admissible in criminal prosecutions against ail persons who are concerned in the commission of such crime.
+The other testimony shows that appellants were all acting together in the commission of the offense charged. Therefore the statements of Terry were admissible against all of his co-conspirators. This is an elementary proposition of law, so well established that it is not necessary to discuss it or to cite authority in its support. The fact that appellants received a barrel of whisky on the 30th day of January, which had all been disposed of, and that they received another barrel of whisky on the 13th day of February, and had disposed of thirteen bottles of this by the 14th clay of February, when the house was searched, tended to prove that appellants were engaged in the bootlegging business in the town of Watonga, as charged, in the information.
+We are therefore of the opinion that the evidence not only supports the verdict of the jury, but that it clearly establishes the fact that appellants are all guilty. The judgment of the lower court is therefore, in all things, affirmed.
+ARMSTRONG and DOYLE, JJ., concur.
