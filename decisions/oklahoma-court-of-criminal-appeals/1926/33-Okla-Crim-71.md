@@ -1,0 +1,43 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-5095"
+decided: "1926-01-23"
+citations: ["33 Okla. Crim. 71", "242 P. 862"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BESSEY, P. J., and EDWARDS, J., concur."]
+parties: ["B. W. LOWRANCE v. STATE."]
+source_url: "https://static.case.law/okla-crim/33/cases/0071-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8852467
+cites_cases: ["10 Okla. Cr. 195", "13 Okla. Cr. 675", "135 P. 944", "14 Okla. Cr. 637", "18 Okla. Cr. 624", "185 P. 1102", "197 P. 715", "6 Okla. Cr. 373", "9 Okla. Cr. 210", "9 Okla. Cr. 587"]
+---
+
+# Lowrance v. State
+
+## Majority (DOYLE, J.)
+
+DOYLE, J.
+The information in this case, filed in the district court of Latimer county July 19, 1923, in substance charged that, in said county, on or about the 28th day of April, 1923, B. W. Lowrance did, with the felonious intent to kill, shoot one Bud ¡Sales with a pistol. On the trial the jury returned a verdict finding the defendant guilty of assault with intent to kill as charged in the information, fixing his punishment at imprisonment in the penitentiary for a term of two years and nine months. From the judgment rendered on the verdict he appeals.
+The evidence shows: That Sales was a tenant on the farm of this defendant. On the part of the state it shows: That the defendant became angry at Sales because Sales refused to permit the defendant to put a mortgage on his. share of the growing crops in order that the defendant might purchase a team of mules. That the defendant shot Sales at a time when he was assisting his wife, Mrs. Sales, in doing some farm work. That he shot Sales in- the back, the bullet ranging upward and forward and lodging near the navel. That Sales was unarmed, and was at least 45 feet from the defendant at the time he was shot. That the defendant fired, first, a shot that missed him, and then shot again at the time Sales was evidently running from him.
+The defendant claims that Sales became angered at him because he would not buy any more groceries for him under his rental contract; that Sales also accused him of having forged his (Sales’) name to a note and mortgage at the bank of Red Oak; and that the trouble which resulted from the shooting was the result of Sales’ anger towards the defendant because of the things above stated. The defendant testified that, at the time he shot Sales, Sales was making an effort to draw a pistol from his hip pocket.
+The defendant filed a motion to set aside the information on the ground that no indorsement or order was made and entered on the preliminary complaint by the committing magistrate directing that the defendant be held to answer.
+From the record it appears that on July 14, 1923, the defendant appeared in person and waived preliminary hearing, whereupon he was held to answer to the district court for the crime of assault with intent to kill. A transcript of the proceeding attached to the complaint, signed, “H. E. Larty, Justice of the Peace,” was filed in the district court July 14, 1923. The overruling of the motion is assigned as error.
+In Williams v. State, 6 Okla. Cr. 373, 118 P. 1006, it is said:
+"Under the constitutional provision the precedent fact that a preliminary examination has been had or waived constitutes the jurisdictional basis for a prosecution for a felony by information in the district court, and, even though the examining magistrate failed to indorse his finding and order on the preliminary information, the district court had jurisdiction to order that a proper indorsement as prescribed by the statute be made. The finding and order of the magistrate made upon the preliminary examination and entered on his docket was sufficient to confer jurisdiction on the district court.”
+And see Tucker v. State, 9 Okla. Cr. 587, 132 P. 825; Sayers v. State, 10 Okla. Cr. 195, 135 P. 944; Norwood v. State, 14 Okla. Cr. 637, 169 P. 656.
+Upon the record before us the motion to set aside was properly overruled.
+The next assignment is that the court erred in overruling the defendant’s application to take testimony of nonresident witnesses. When the case was called for trial, October 1st, the defendant filed an application for a commission to take the depositions of Albert Talley, Miami, Ariz., and John C. Claxton, Canyon City, Colo.
+In the affidavit in support of said application the defendant stated:
+“That the witness Albert Talley would testify that on the day of the shooting he was a resident of the town of Red Oak, Okla. That on the forenoon of said day he heard Bud Sales say to the defendant, ‘Damn you, you had better get me some groceries, and if you don’t I will see you before you get home and give you a damn good whipping,’ and that said Sales was very angry at the time he made such statements. That the witness, John C. Claxton, would testify that for about one year prior to the shooting he had made his home with the defendant. That Bud Sales is his nephew. That on divers and different occasions within about a month before the shooting he heard Bud Sales make threats against the defendant to the effect that he was going to give the defendant a damn good whipping.”
+At the same time the defendant filed a motion for a continuance for the term, and, if such continuance cannot be had, that the trial be stayed so as to enable defendant to obtain the testimony of said nonresident witnesses. The overruling of the application for a commission and motion for continuance is assigned as error.
+The right to take and use depositions of a nonresident witness in behalf of a defendant in a criminal case is statutory, and the procedure prescribed for taking and returning the same 'must be substantially complied with in order to make such depositions competent and admissible. Under the provisions of article 17, Proc. Cr. (C. S. 1921, p. 1303), the application must be upon affidavit and must be made to the court or judge, and must be upon five days’ notice to the county attorney. Here no notice had been given before the case was called for trial. Evidently the trial court was satisfied that due diligence was not shown.
+In Ennis v. State, 13 Okla. Cr. 675, 167 P. 229, L. R. A. 1918A, 312, this court stated the rule to be, in substance, that if the record disclosed the testimony of the absent witness was merely cumulative, and that the defendant had other witnesses by whom the facts sought to be obtained by the depositions could be established, and that no different result would probably have occurred had such deposition been taken, it being a matter of discretion of the trial court to allow such commission, where the record discloses the facts as above indicated, there would be no abuse of discretion in overruling the application.
+We think the application lacks the evidence of good faith as well as that of due diligence, and we are satisfied that there was no abuse of discretion in denying the same and in overruling the motion for a continuance. •
+It is also contended that the trial court erred in permitting the county attorney to indorse the names of additional witnesses on the information at the time of his arraignment six days before the ease was called for trial.
+Our Code provides (section 2511, C. S. 1921) that the county attorney shall indorse thereon the names of the witnesses known to him at the time of filing the information, and shall also indorse thereon the names of such other witnesses as may afterwards become known to him, at such time as the court may by rule prescribe. By numerous decisions of this court it is held that it is within the discretion of the trial court to permit names to be indorsed on the information after trial has commenced. Bradshaw v. State, 18 Okla. Cr. 624, 197 P. 715, 185 P. 1102; Starr v. State, 9 Okla. Cr. 210, 131 P. 542.
+A number of exceptions were taken to rulings of the court in giving and refusing instructions. We have carefully examined the same, and our conclusion is that, taken as a whole, the law of the case is fairly presented in the instructions given.
+Other questions are argued by counsel, but we deem It sufficient to say that the record shows that the case has been well and fairly tried, and if there has been any mistake it has been of a character so purely technical as to have occasioned no injury to the defendant.
+We see no reason to doubt that this conviction was justified by the evidence, and, finding no prejudicial error in the record, the judgment of the trial court is affirmed.
+BESSEY, P. J., and EDWARDS, J., concur.
