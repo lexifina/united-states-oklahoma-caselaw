@@ -1,0 +1,34 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-9964"
+decided: "1941-07-23"
+citations: ["72 Okla. Crim. 314", "115 P.2d 925"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JONES, J., concurs. DOYLE, J., absent."]
+parties: ["NATHANIEL SMITH v. STATE."]
+source_url: "https://static.case.law/okla-crim/72/cases/0314-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8739653
+---
+
+# Smith v. State
+
+## Majority (BAREFOOT, P. J„)
+
+BAREFOOT, P. J„
+The defendant, Nathaniel Smith, was charged with the crime of rape in the first degree in Garfield county, was tried, convicted and sentenced to serve a term of 25 years in the penitentiary, and hasf-appealed. The defendant, being unable to give bond pend-, ing appeal, is confined in the penitentiary, and for this reason this case has been advanced and is decided at this time.
+Defendant was represented by counsel at the trial in the district court; different counsel appeared for defendant on appeal to this court and orally argued the same; but no brief has been filed either on behalf of the defendant or the state.
+Under the rules, we have carefully examined the record, the information, the evidence, and the instructions given by the court to see if any fundamental errors were made in the trial of this case. The evidence reveals that defendant was charged by information in Garfield county 'with the crime of rape in the first degree upon “Mrs. C. F. Bryant by means of threats of immediate and great bodily harm, accompanied by apparent power of execution, preventing resistance upon the part of the said Mrs. O. F. Bryant and without her consent and against the will * * * ”
+Prosecutrix was a colored woman, 66 years of age; and the defendant was a colored man, 25 years of age. She lived in the city of Enid, and her husband had died December 2, 1939, only a few Aveeks prior to' the charge herein. Defendant came to her home on the early morning of December 23,1939, about 5 o’clock a. m., and waked her up. She asked wlm he was, and he said, “It liked to killed me when I heard your husband was dead.” He claimed that her deceased husband was his uncle and that he was on his way to Oklahoma City to catch a train to Wichita, Kan., where he lived. After some conversation, she permitted him to enter the house, saying, “If you are Mr. Bryant’s cousin, come in and I will fix you some breakfast.” While she was fixing breakfast and/ started to get one of the “irons”, that defendant jumped up and said, “Don’t you get that iron.” And he pushed her back on the couch, and that he had something in his hand that was sharp. He held it close to her throat and told her if she said anything he would “put me where my husband was tonight;” and further stated “he would kill me if I said a word.” Defendant then proceeded to havd intercourse with the prosecutrix under these circumstances.
+She testified that she was in fear of her life, and that defendant would kill her. He then forced her to go' out of the room. When she returned, she saw defendant taking a watch out of her pocketbook, and that she called his attention to his taking her Avatch, and that he denied having it and threw the chain on the table. That defendant then tied a handkerchief over his head and left the house. She afterwards missed a fountain pen which was lying on the table. He told her not to holler. Immediately after he had left, she notified her neighbor what had happened, and he called the police.
+She gave the description of the man who had assaulted her. That same morning the officers brought the defendant to her home, and she identified him as the one Avho had assaulted her. The officers identified the defendant from the description that she gave. They had seen him during the night at a cafe, acting as though he were drunk. The prosecutrix also' identified the watch and the fountain pen as being the watch of her husband and the fountain pen which she had given him at Christmas. They were found secreted in the defendant’s premises at the time he was arrested.
+Anthony Dunn, a witness for the state, testified that prosecutrix came to his home early in the morning of December 23, 1939, and told him what had happened, and he called the police, and they came out at once and made an investigation.
+The officers testified to going to' her home, of securing' a description of the party who assaulted her, and of arresting defendant at his home the same morning. He was in bed at the time. He was sleeping with his pants on. He first told the officers that he had come home in a taxi, and then told them another party had brought him home. He went with the officers to the home of the prosecuting witness, and she immediately identified him. The defendant was taken to the police station and was searched, but nothing was found. But when they returned to the police car, they found his knife behind the cushion in the back seat of the car', where defendant had been sitting. He claimed that it had fallen out of his pocket. After defendant was arrested and in jail, his home was searched, and the watch and fountain pen, before described, were found. The watch was upon a rafter, between the shingles; and the fountain pen was behind a piece of tin. One was in one room and the other in a different room. Defendant afterwards told the officers that he had taken the pen and knife down there.
+Defendant made a written statement in the presence of officers and the mayor, in which he gave full details of his assault of the prosecutrix and having intercourse with her by means of putting her in fear of her life. He also admitted in the statement getting the watch and fountain pen.
+There was other corroborating evidence which it isi unnecessaiy to review.
+Defendant took the witness stand in his own behalf. He claimed he was drunk on the night of December 22, 1989, and that he didn’t know whether he went to the home of the prosecutrix or not. That he signed the statement introduced in evidence, but did not know what it contained. He admitted he had heretofore received a sentence of one year in the penitentiary for adultery and six months in jail for assault. It is unnecessary to further state his testimony. The jury heard the witnesses and passed on the evidence. They were in a much better position to do so than is an appellate court.
+Under the evidence of the state, the question of defendant’s guilt cannot be doubted. The instructions of the court properly stated the law. There were no exceptions to the same. The defendant was given every right to which he is entitled under the Constitution and laws of this state. There was no passion or prejudice.
+The judgment of the district court of Garfield county is therefore affirmed.
+JONES, J., concurs. DOYLE, J., absent.
