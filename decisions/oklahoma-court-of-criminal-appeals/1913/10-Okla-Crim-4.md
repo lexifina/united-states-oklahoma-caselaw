@@ -1,0 +1,38 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A1643"
+decided: "1913-07-05"
+citations: ["10 Okla. Crim. 4", "133 P. 259"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ARMSTRONG, P. J, and DOYLE, J., concur."]
+parties: ["JAMES IRVINE v. STATE."]
+source_url: "https://static.case.law/okla-crim/10/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8741740
+cites_cases: ["111 Pac. 965", "4 Okla. Cr. 264", "4 Okla. Cr. 379", "5 Okla. Cr. 377", "7 Okla. Cr. 430", "8 Okla. Cr. 436"]
+---
+
+# Irvine v. State
+
+## Majority (FURMAN, J.)
+
+FURMAN, J.
+The evidence on the part of the state was that this defendant and a man by the name of Gus Sanders, jointly informed against, were caught by the city marshal of Hinton and a deputy sheriff by the name of Holt in the act of conveying five quarts and 28 half pints of whisky in a buggy. When approached by the officers, the night was very dark, and this defendant jumped out of the buggy and attempted to escape. His codefendant, Sanders, whipped up the horses and attempted to drive over the city marshal, who had grasped the rein. A search was immediately made of the buggy, and the whisky was found. This whisky was in a gunny sack, or wrapped up in a cloth of some kind and stored in the front part of the buggy. When arrested these men were traveling in the direction of this defendant’s place of business, where he claimed to be operating at that time a rooming house and a restaurant. The defendant himself says they were going to his place of business. His codefendant, Gus Sanders, remained with him during the time he stayed in the town of Hinton, but the evidence does not disclose that he had any particular trade or business.
+Sanders escaped before trial, as the record discloses; at least his whereabouts were unknown at the time Irvine was tried. This necessitated a separate trial of Irvine, of which he strenuously complains in this case, claiming that the court had no authority to try him separately. This contention is without merit.
+Section 5878, Rev. Laws 1910, is as follows:
+“When two or more defendants are jointly prosecuted for a felony, any defendant requiring it must be tried separately. In other cases defendants jointly prosecuted may be tried separately or jointly, in the discretion of the court.”
+See Bates v. State, 8 Okla. Cr. 436, 128 Pac. 163.
+The evidence on the part of the state was that these men were immediately arrested and on the following day were taken to Anadarko; the whisky being taken along by the deputy sheriff. On the train Mr. Gentry, one of the county commissioners of that county, had a talk with the defendant about the whisky, and the defendant told him that he would show that it was not Sanders’ whisky, and Gentry asked him whose it was, and defendant replied that it belonged to him (defendant). The defendant did not deny that he had any such conversation, but on this point his recollection was poor. He said he did not remember it. Pie also attempted, or at least counsel for him did, to raise a doubt as to whether he referred to this particular whisky, assuming that the defendant was a common offender and that he had been arrested for liquor violations on numerous occasions, and that perhaps he referred to whisk)'' seized on another occasion, but in rebuttal it was shown by the state that Gentry got on the train on this particular occasion and that there was no other time on which defendant was arrested and taken to Anadarko and whisky carried along.
+It was also contended by the defendant that the court erred in admitting testimony showing the payment by him- of a special retail liquor dealer’s tax covering the particular premises which he was occupying, for the reason that the payment was made in April, 1911, and the tax expired on June 30, 1911, and this alleged crime was not committed until July 14, 1911. This matter was brought out on the cross-examination of the defendant. It was certainly competent as affecting his credibility, and also as a circumstance throwing light on the particular purpose for which the liquor was being conveyed.
+In this case it was immaterial, however, whether or not -the defendant was transporting this liquor for the purpose of selling. The essence of the offense is the transportation of an unlawful purchase of intoxicating liquor.
+There was no question raised in this case, nor was it contended for by the defendant, that this was a lawful purchase of intoxicating liquors. His defense was that it did not belong to him, and that he had nothing to do with it. There were only two questions, then, for the jury to determine: First, did the defendant convey this liquor, or aid, assist, and abet another to convey it ; and, second, was it a lawful purchase such as is authorized by the laws of the state of Oklahoma?
+The evidence objected to was immaterial to the issues involved, and, under any view, we think was harmless; but, as it was brought out on cross-examination of defendant himself, we think it was a proper matter to go to the jury as affecting his credibility in view of his statement that the liquor belonged to the other fellow. See Terry v. State, 7 Okla. Cr. 430, 122 Pac. 559 ; Crawford v. Ferguson, 5 Okla. Cr. 377, 115 Pac. 278.
+It is also contended that there was error committed by the count}'- attorney in his closing argument to the jury.
+The case-made contains the following statement:
+“Counsel for defendant object to the statement of the county attorney to the effect that the government license dates beyond the time of the offense and it makes no difference to you when the date expires and asks the court to instruct the jury to not consider said statement.”
+—signed by Bristow & McFadyen, attorneys for defendant. It. will be noted from the foregoing statment that it is not a recital by the trial judge of anything that occurred during the trial, nor does it set out the language used by the county attorney, or show that the same was excepted to at the time, or the court requested to withdraw it from the consideration of the jury. The signed statement of counsel for defendant filed with the clerk of the court is not the proper way to raise the question of improper argument. This matter must be presented to the court at the time, and the court given an opportunity to rule upon it, and such ruling must clearly appear from the record. In this respect there is nothing properly before this court to act upon. See Saunders v. State, 4 Okla. Cr. 264, 111 Pac. 965, Ann. Cas. 1912B, 766; Cockran v. State, 4 Okla. Cr. 379, 111 Pac. 974.
+Here are two men caught in the act of transporting this liquor at the dark hour of 12:30 a. m. When approached by the officers they both made an effort to escape. On the next day, the defendant admits to one of the most respected citizens of that county that this was his liquor, but, after the other fellow has escaped, he thinks a good opportunity exists to lay all the blame on him. Sanders was nothing but the tool of Irvine; his man “Friday,” so to speak. The mixed defense put up by Irvine is so palpably tainted with perjured testimony as to be unworthy of belief. His explanation of why he was out at that hour of the night, and of his meeting with Sanders, and of Sanders stopping the buggy and getting him in, are such unusual occurrences and so contrary to human experience that we deem further comment unnecessary.
+We are of the opinion that justice has been done appellant in this trial, and that the judgment of the court should be affirmed.
+ARMSTRONG, P. J, and DOYLE, J., concur.
