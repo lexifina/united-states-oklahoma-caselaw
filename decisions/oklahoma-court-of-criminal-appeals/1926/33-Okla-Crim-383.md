@@ -1,0 +1,37 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-5458"
+decided: "1926-03-20"
+citations: ["33 Okla. Crim. 383", "244 P. 453"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BESSEY, P. J., and EDWARDS, J., coneur."]
+parties: ["MARVIN BRYANT v. STATE."]
+source_url: "https://static.case.law/okla-crim/33/cases/0383-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8854143
+cites_cases: ["10 Okla. Cr. 369", "13 Okla. Cr. 146", "14 Okla. Cr. 80", "16 Okla. Cr. 76", "194 P. 254", "28 Okla. Cr. 31", "44 L. R. A. (N. S.) 701", "52 L. R. A. (N. S.) 113", "9 Okla. Cr. 306"]
+---
+
+# Bryant v. State
+
+## Majority (DO|YLE, J.)
+
+DO|YLE, J.
+The information in this case charges that in Delaware county, July 25, 1924, Marvin Bryant did take, steal, and carry away a Studebaker chummy roadster, 1920 model automobile, the personal property of Harve Fender. On the trial, the jury returned a verdict finding the defendant guilty, but were “unable to agree upon the penalty.” October 15, 1924, the court denied a motion for a new trial and sentenced 'defendant to imprisonment in the state reformatory at Granite for the term of 10 years. From the, judgment he appeals.
+A number of errors are assigned and argued. In order to better understand the questions thus presented, the following brief statement of the facts, which the undisputed evidence for the state tended to prove, is made:
+It appears that Harve Fender, living at Bartlesville, owned a 1920 model Studebaker roadster, with one of the oval glasses broken and one back fender tom off. He had this car at a fishing camp near the Armstrong Ferry on Grand river, Delaware county. The defendant, Bryant, 16 years of age, and certain of his relatives, with him in a Ford car, stopped at this fishing camp and stayed that night. The next day Fender, in company with G. E. Baker, who rode with him from Bartlesville, went fishing, leaving the Studebaker car in the camp. Late in the evening they returned to the camp and found that Mr. Fender’s car was gone. He learned that defendant, Bryant, had taken the car, and traced his ear to Cleora, and from there with deputy sheriffs followed the car towards Vinita. The next day they traced the car west from Vinita, and at Vera they learned that the defendant had gone north on the Safita Fe that morning, which was the second morning after the car was stolen. Mr. Fender had the chief of police at. Collinsville wiré the officers at Chanute, Kan., and the defendant was there taken from the train and brought back to Delaware county.
+Harve Fender testified that the car was taken without his consent; that a few days later Mr. Monroe, the undersheriff at Jay, called him up on the phone and told him where to find his car.
+C. C. Monroe, undersheriff at the time of the theft, testified that he went to Chanute after the defendant, and on the way back the defendant attempted to escape by running away from the officers at Parsons; that while in jail at Jay he pried open a window and crawled out and was again recaptured; that after his arrest the defendant told witness where to find the car, near the first or second town south of Nowata, the name of the town being Watova; that he telephoned the owner where to find the car; that the defendant had stated in his presence that he would plead guilty if he could get the right number of years.
+Against the defendant's objections, the transcript of the testimony of Mrs. Lee Blanchard, given upon defendant’s preliminary examination, ,was read to the jury, which, in substance, was to the effect that she was at the fishing camp at Armstrong’s Ferry,- on Girand river, at the time the car was taken by tbe defendant, who came there with his relatives in a Ford roadster; that she saw the defendant leave the fishing camp in the big car while Mr. Fender was up the river fishing, and when he returned he began looking for the car and inquiring about its whereabouts; that the thing that first attracted her attention to the car was the running of the engine; that she was about the width of a street from the car when the defendant drove it out.
+The defendant did not testify.
+The first assignment is: Error of law, which goes to the jurisdiction of the court. Under this assignment counsel contend that the evidence is insufficient to prove the offense of stealing an automobile, and that the evidence only tends to prove a commission of the offense defined by section 2264, C. S. 1921, which makes it a misdemeanor to drive or attempt to drive an automobile for joy riding, or for any other purpose.
+We are of opinion that, under the circumstances of taking the car, the undisputed fact that it was only abandoned by the defendant when the officers were in close pursuit upon him, his intention to permanently deprive the owner of said car was clearly established.
+The next assignment is that the court erred in admitting the transcript of the evidence of Mrs. Lee Blanchard; she not being present to testify. As a predicate for this testimony it appears that Monroe, undersheriff, testified that he received a subpoena for Mrs. Blanchard, and went to the place where she lived on Grand river and inquired for her and she was not there; that he went to Cleora and asked the postmaster about her whereabouts, and learned that she had not been getting her mail there for some time; that he also went to Picher, where her testimony shows was her permanent home, and there failed to locate her or her family. Other witnesses testified that they had made diligent search and were unable to locate the absent witness.
+It is the well-established doctrine in this state that, where the testimony of the witness was given at a preliminary examination, and taken down by the reporter in the presence of the defendant and his counsel, who cross-examined him, and such testimony was filed with the clerk, the transcript is admissible, where the witness is not present and cannot be found in the jurisdiction. Fitzimmons v. State, 14 Okla. Cr. 80, 166 P. 453; Jeffries v. State, 13 Okla. Cr. 146, 162 P. 1137; Henry v. State, 10 Okla. Cr. 369, 136 P. 982, 52 L. R. A. (N. S.) 113; Edwards v. State, 9 Okla. Cr. 306, 131 P. 956, 44 L. R. A. (N. S.) 701; Valentine v. State, 16 Okla. Cr. 76, 194 P. 254; Clark v. State, 28 Okla. Cr. 31, 228 P. 791.
+In this case, sufficient proof of predicate for the introduction of the transcript of the testimony of the absent witness having been made, the objection thereto was properly overruled.
+Finally it is urged that, in view of defendant’s age, 16 years, and that by reason of his poverty the court appointed counsel to represent him on his trial, he should be given another chance, and that, in the event that this court reaches the conclusion that he had a fair and legal trial, it should consider the question whether the punishment imposed is excessive and too severe, and so finding it should be reduced by this court.
+An examination of the record leaves no question in our minds as to the sufficiency of the evidence to sustain the verdict. However, we do not think it called for the severe sentence given by the court.
+In view of the reasons stated we are of the opinion that the penalty should be modified to confinement in the state reformatory at Granite for a term of 5 years. With this modification, the judgment of the trial court is affirmed.
+BESSEY, P. J., and EDWARDS, J., coneur.
