@@ -1,0 +1,39 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-6970"
+decided: "1930-01-17"
+citations: ["46 Okla. Crim. 200", "284 P. 306"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["EDWARDS, P. J., and DAVENPORT, J., concur."]
+parties: ["EUGENE WISE v. STATE."]
+source_url: "https://static.case.law/okla-crim/46/cases/0200-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1496401
+cites_cases: ["120 Pac. 1031", "18 Okla. Cr. 619", "19 Okla. Cr. 413", "19 Okla. Cr. 434", "23 Okla. Cr. 119", "230 Pac. 527", "275 Pac. 655", "277 Pac. 685", "28 Okla. Cr. 254", "285 Pac. 990", "30 Okla. Cr. 396", "31 Okla. Cr. 179", "37 Okla. Cr. 115", "40 Okla. Cr. 102", "41 Okla. Cr. 423", "42 Okla, Cr. 415", "42 Okla. Cr. 243", "42 Okla. Cr. 300", "43 Okla. Cr. 256", "7 Okla. Cr. 10"]
+---
+
+# Wise v. State
+
+## Majority (CHAPPELL, J.)
+
+CHAPPELL, J.
+The plaintiff in error, hereinafter called defendant, was convicted in the district court of Tillman county on a charge of second degree rape, and Ms punishment fixed at imprisonment in the penitentiary for one year. This record discloses a condition of almost total depravity on the part of all parties concerned, including the prosecuting witness.
+It appears from the evidence that the prosecuting witness had been married, with her mother’s consent, at the age of 12 years; that she was leading a life of debauchery and lewdness for mercenary purposes at the behest and solicitation of her husband and others, who acted as “pimps” for her; but, when she fell into the hands of this defendant, she was evidently in the company of one who was looking for the kind of a woman she was. Defendant took her to the home of one Clinkscales, a short distance north of Grandfield, and there slept in the same bed withi her two nights, as he says, without as much as laying a hand on her. The prosecuting witness testified that defendant had intercourse with her on Monday evening, and also on Tuesday evening.
+It is first contended that the trial court erred in admitting incompetent and illegal evidence on the part of the state. In support of this assignment of error, counsel for defendant calls this court’s attention to the following record appearing in the case-made:
+“Recross-examination by Mr. Davis:
+“Q. What business was that you said you had been in down there? A. I (was in the truck business.
+“Q. You had just got through serving a term in the county jail?
+“Mr. Howenstein: I object to that as incompetent, irrelevant, and immaterial.
+“The Court: Sustained.
+“Mr. Davis: I thought it was competent to show a man had been convicted.
+“The Court: I sustained the objection.
+“Q. That is all.”
+It is evident from the following excerpts that the trial court excluded, instead of admitted, the evidence complained of. Counsel contends that the error of the trial court was in admitting the alleged incompetent evidence. Assignments of error, not supported by the record, will not be considered. Dumas v. State, 19 Okla. Cr. 413, 201 Pac. 820; Underwood v. State, 23 Okla. Cr. 119, 212 Pac. 1010; Leyerle v. State, 31 Okla. Cr. 179, 237 Pac. 871.
+It is next contended that the trial court erred in excluding and refusing legal evidence offered on the part of the defendant. This assignment of error relates to the attempt to get before the jury, as part of the cross-examination of the prosecuting witness, a seines of exhibits offered that it is claimed impeached her on the question of her age. These exhibits were claimed to be a duly authenticated copy of the marriage license and certificate, together with the consent of her mother, issued to the prosecuting witness and one Frank Ford. None of the instruments purport to be the act of the prosecuting witness. No evidence was introduced as a predicate for the admission of the instruments. These records could not be used to impeach the prosecuting witness, because none of them imported to be her act. They were equally not open to admission as substantive evidence of the mother of prosecuting witness on the question of her age. The records, properly identified, might have been competent to impeach the mother, had she been produced as a witness for the state and had testified, as the prosecutrix did, that her age was only 14 years; but they certainly were not competent for the purpose of impeaching anybody else. There is no statute which permits the admission of such a record as substantive evidence of age, such as are scholastic censuses and other records of public officers of this state, as held in Bradshaw v. State, 18 Okla. Cr. 619, 197 Pac. 715. Furthermore, the defendant could not have been prejudiced by the exclusion of these records, because it was admitted by the prosecutrix that at the time the marriage license was procured the mother gave the age of the prosecutrix as 16 years. Worley v. State, 42 Okla. Cr. 243, 275 Pac. 398.
+Finally it is contended that the verdict of the jury is contrary to the weight of the evidence and is not supported by sufficient evidence. Under this assignment it is contended, first, that the state failed to prove venue. This court will take judicial notice of the fact that a place 8 or 10 miles north of Grandfield would be in Tillman county. Jentho v. State, 19 Okla. Cr. 434, 200 Pac. 251; Johnson v. State, 28 Okla. Cr. 254, 230 Pac. 527; Tarkington v. State, 41 Okla. Cr. 423, 273 Pac. 1015; This court has also held that sufficient venue may be established by facts and circumstances in the record, from which the court can conclude that the venue was in the county alleged. Groh v. State, 30 Okla. Cr. 396, 236 Pac. 435; Wyrich v. State, 37 Okla. Cr. 115, 255 Pac. 163.
+Under this assignment it is contended, also, that the state failed to prove the act of sexual intercourse. On this question there is a conflict in the evidence between the prosecutrix and the defendant. On every other point they agree. These two witnesses were before the jury, they had a chance to observe their demeanor, their manner of testifying, and to see the probabilities of the stories of each. The jury evidently did not believe that the defendant slept in the same bed with prosecutrix for two nights and had no sexual intercourse with her. In human experience, such things probably do not occur. The uncorroborated evidence of the prosecutrix as to the act of sexual intercourse was sufficient to support a verdict of guilty on a charge of rape. Malone v. State, 40 Okla. Cr. 102, 267 Pac. 486; Fowler v. State, 42 Okla. Cr. 300, 275 Pac. 655; Lynch v. State, 42 Okla, Cr. 415, 276 Pac. 501.
+It is also contended under this assignment that the evidence is insufficient, because the state failed to prove that the prosecutrix was under 16 years of age. This was the only issue on which there was any direct attempt to discredit the prosecuting witness. She testified she was 14 at the time the crime was committed, and in this she was corroborated by her grandfather. The testimony of two witnesses iwas read, who testified in a case against one Clinkscales, that the prosecuting witness had told them she was 17 years of age. This conflict in the evidence Avas for the jury. The jury had the prosecuting Avitness! before them, and counsel had her stand up before the jury for inspection, so they could judge for themselves about her age. This court will not substitute its judgment for that of the jury on a controverted question of fact. Summers v. State, 7 Okla. Cr. 10, 120 Pac. 1031; Burrows v. State, 43 Okla. Cr. 256, 277 Pac. 685; Whitenack v. State, 46 Okla. Cr......., 285 Pac. 990.
+Defendant assigns other errors, but they are without merit. For the reasons stated, the cause is affirmed.
+EDWARDS, P. J., and DAVENPORT, J., concur.
