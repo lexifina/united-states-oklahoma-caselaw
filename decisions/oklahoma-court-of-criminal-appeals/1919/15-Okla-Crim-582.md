@@ -1,0 +1,46 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-2965"
+decided: "1919-04-08"
+citations: ["15 Okla. Crim. 582", "179 P. 777"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DOYLE, P. J., and MATSON, J., concur."]
+parties: ["HOMER RICHARDS v. STATE."]
+source_url: "https://static.case.law/okla-crim/15/cases/0582-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8747023
+cites_cases: ["10 Okla. Cr. 169", "10 Okla. Cr. 314", "111 Pac. 1010", "114 Pac. 278", "115 Pac. 812", "136 Pac. 201", "14 Okla. Cr. 651", "34 L. R. A. (N. S.) 1121", "4 Okla. Cr. 144", "5 Okla. Cr. 240", "6 Okla. Cr. 2", "6 Okla. Cr. 415", "9 Okla. Cr. 587"]
+---
+
+# Richards v. State
+
+## Majority (ARMSTRONG, J.)
+
+ARMSTRONG, J.
+The plaintiff in error, Homer Richards, together with L. F. Do Bendo and W. H. Wag-goner, were jointly informed against for the offense of burglary with explosives, a severance had, and said Homer Richards, hereinafter designated asm defendant, convicted and sentenced to imprisonment in the penitentiaiy of this state for a term of twenty-five years and to pay the costs of this prosecution. To reverse the judgment rendered he prosecutes this appeal:
+The charging part of the information is as follows:
+“Now comes A. R. Ash, the duly qualified and acting county attorney in and for Washita county, state of Oklahoma, and gives the district court of Washita county, state of Oklahoma, to know and be informed' that L. F. Do Bendo, W. H. Waggoner, and Homer Richards did in Washita county, state of Oklahoma, on or about the 6th day of July in the year of Our Lord one thousand nine hundred sixteen and anterior to the presentment hereof, commit the crime of burglary with explosives, in the manner and form as follows, to wit: Did then and there unlawfully, willfully, and feloniously enter a certain banking building in the town of Korn, Okla., said building being then and there owned, controlled, occupied, and used by the Korn State Bank, a corporation, of Korn, Okla., then and there unlawfully, willfully, and feloniously by the use of and by the aid of dynamite,, nitroglycerine, gunpowder, and other explosives, the exact name and nature of which are to the county attorney unknown, attempt to open a certain safe and receptacle then and there kept in the said banking building by the said Korn State Bank, and then and there used by the said Korn State Bank for the secure Keeping of money and other valuable property, without the consent of the said Korn State Bank, and with the felonious intent of the said L. F. Do Bendo, W. H. Waggoner, and Homer Richards then and there to crack and open said safe by the use of and by the aid of said explosives contrary to the form of the statutes in such cases made and provided, and against the peace and dignity of the state.”
+1 Thereupon the defendant made a motion for a severance, which was granted, and the state elected to try the defendant Richards first. The defendant then moved the court that the defendant L. F. Do Bendo be tried first, as “defendant desired to use him as a witness after his final trial,” which motion the court overruled, and the defendant excepted.
+The defendant then moved the court to continue the case because an attorney formerly employed by all the defendants had withdrawn from the case, urging that the defendant was thereby surprised and unprepared for trial, and that he required time to summon witnesses who would testify that the said L. F. Do Bendo was known in the community in which he resided as a man of bad character, and known as a man wanting in truth and veracity. The court overruled the motion for a continuance, and the defendant excepted.
+The defendant demurred to the information “because it does not state facts sufficient to constitute a crime under the laws of the state of Oklahoma.” The court overruled the demurrer, and the defendant excepted.
+The material grounds alleged for a continuance were to secure witnesses to impeach the veracity of the defendant Do Bendo, who had been named as a witness for the state, and that the defendant’s former attorney had withdrawn from the case, and that the attorney then representing defendant had not had time to prepare for trial. When it is remembered that immediately before the motion for a continuance was interposed the defendant moved that Do. Bendo be tried first, because the defendant in the instant case desired to use the defendant Do Bendo as a witness, it cannot be said that the court abused its discretion in overruling the motion for a continuance on the ground of giving the defendant an opportunity to secure witnesses to impeach the defendant Do Bendo.
+The ground that a former attorney had withdrawn from the defense of the defendant, and the attorney then representing the defendant had not had time to prepare for trial, has been expressly held by this court as not a ground for continuance.
+An application for a continuance is addressed to the sound discretion of the court, and unless an abuse of the discretion of the court is shown, a judgment will not be reversed on appeal. Davis v. State, 10 Okla. Cr. 169, 135 Pac. 438; Tucker v. State, 9 Okla. Cr. 587, 132 Pac. 825; Reed v. State, 14 Okla. Cr. 651, 174 Pac. 800.
+“An application for a continuance, for the term, on the ground of the absence of leading counsel, is properly denied, where the defendant is duly represented by his other counsel.” (Oscar J. Payne v. State, 10 Okla. Cr. 314, 136 Pac. 201.)
+It follows that the withdrawal of his former attorney, the defendant being represented by other counsel, was not a ground for a continuance.
+The defendant assigns as error the rejection and admission of illegal evidence, but fails to point out of what the same consists.
+It is not assigned as error, or even in any manner questioned, that the verdict of the jury and the judgment rendered thereon are not supported by the evidence, and therefore it is unnecessary to recite the voluminous evidence in the case.
+After conviction defendant moved for a new trial and for arrest of judgment, each of which, motions was overruled, and the defendant separately excepted to said acilon of the court.
+The law upon which the information is based is Session Laws 1913, c. 7, p. 7, which reads as follows:
+“Section i. Any person who enters any building,railway car, vehicle, or structure and there opens or attempts to open any vault, safe, or receptacle used or kept for the secure keeping of money, securities, books of accounts, or other valuable property, papers or documents,. without the consent of the owner, by the use or the aid of dynamite, nitroglycerine, gunpowder, or other explosive, or who enters any such building, railway car, vehicle; or structure in which is.kept any vault, safe, or other receptacle for the safe-keeping of money or other valuable property, papers, books or documents, with the intent and without the consent of the owner, to open or crack such vault, safe or receptacle by the aid or use of any explosive, shall in either ease be deemed guilty of felony, and upon conviction shall be punished by imprisonment in the state penitentiary for a term of not less than twenty (20) nor more than fifty (50) years.”
+It will be noted that the information charges the offense in almost the identical language of the statute, and this has been repeatedly held by this court as sufficient. If, however, the information is duplicitous, which we do not hold, the defendant not having set up duplicity as a ground for demurrer, the same is waived.
+The court did not err in overruling the demurrer to the information.
+The defendant in his brief does not point out, and we are unable to see, that any evidence was rejected or admitted which can be regarded as prejudicial error. Warren v. State, 6 Okla. Cr. 2, 115 Pac. 812, 34 L. R. A. (N. S.) 1121; Stouse v. State, 6 Okla. Cr. 415, 119 Pac. 271; White v. State, 4 Okla. Cr. 144, 111 Pac. 1010.
+It is contended by the defendant that sections 1 to 9, inclusive, of the instructions given the jury by the trial court are erroneous, but the record fails to disclose that any objections were made or exceptions saved to any part of said instructions, and fails to show any request for instructions by the defendant. After a careful examination of the instructions, we find no fundamental errors therein.
+“Where objections are not made and exceptions are not.saved, thisc court looks no further than to see if fundamental error has occurred.” (Ford v. State, 5 Okla. Cr. 240, 114 Pac. 278.)
+The motion for a new trial and the motion in arrest of judgment were eách without merit and properly overruled.
+The defendant, being shown by the evidence, even if the entire evidence of his codefendant Do Bendo be eliminated, guilty as charged in the information in this case beyond a reasonable doubt, having had a fair and impartial trial, and an appeal to this court at the expense of the county in which the crime was committed, had certainly no ground to complain that he has not had thrown around him every protection guaranteed by the Constitution and laws of this state.
+Finding the record free from prejudicial error,'the judgment of the trial court is affirmed.
+DOYLE, P. J., and MATSON, J., concur.
