@@ -1,0 +1,60 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-9094"
+decided: "1937-03-05"
+citations: ["61 Okla. Crim. 73", "65 P.2d 1228"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DAVENPORT, P. J., and BAREFOOT, J., concur."]
+parties: ["ELMER INMAN v. STATE."]
+source_url: "https://static.case.law/okla-crim/61/cases/0073-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8738818
+cites_cases: ["10 Okla. Cr. 210", "19 Okla. Cr. 215", "19 Okla. Cr. 406", "20 Okla. Cr. 373", "21 Okla. Cr. 193", "210 Pac. 295", "22 Okla. Cr. 199", "243 Pac. 983", "26 A. L. R. 1053", "28 Okla. Cr. 102", "33 Okla. Cr. 262", "34 Okla. Cr. 179", "40 Okla. Cr. 58", "9 Okla. Cr. 587"]
+---
+
+# Inman v. State
+
+## Majority (DOYLE, J.)
+
+DOYLE, J.
+(after stating the facts as above). This is an appeal from the district court of Rogers county wherein the defendant, Elmer Inman, was convicted of the crime of robbery with firearms and sentenced to serve a term of five years imprisonment in the state penitentiary.
+It is first contended that the trial court erred in overruling the demurrer to the information.
+The information is in part as follows:
+“Did then and there on said date and in said county and state, wilfully, unlawfully, feloniously and with intent to rob W. E. Kissee and Mrs. W. E. Kissee, did then and there point pistols and firearms at and towards the persons and bodies of the said W. E. Kissee and Mrs. W. E. Kissee, and threaten to shoot the said Kissees, if they resisted * * * and by means of such pointing of said pistols and such threatening, did then and there produce in the minds of them fear of immediate and unlawful injury to their persons sufficient to overcome their resistance * * * and the (said defendant and others) did take from off the persons and immediate presence of the said. W. E. Kissee and Mrs. W. E. Kissee $238, good and lawful money of the United States and certain jewelry, guns and luggage of the value of $1,593 the personal property of the said W. E. Kissee and Mrs. W. E. Kissee, who were in the immediate possession and control of said money and personal property, and they, the said defendant and others did then and there steal, take, and carry away from the possession and from off the persons and immediate presence of them the said W. E. Kissee and Mrs. W. E. Kissee, said money and personal property with the felonious intent of the said defendant and others to deprive the said W. E. Kissee and Mrs. W. E. Kissee, the true owners permanently thereof.”
+It is insisted that the language “from off the persons and immediate presence” is not sufficient to charge robbery, and that said information is bad for duplicity.
+We do not think there is any merit in this contention.
+Our Penal Code section 2542, O. S. 1931 (21 Okla. St. Ann. § 791), defines “robbery” as follows:
+“Robbery is a wrongful taking of personal property in the possession of another, from his person or immediate presence, and against his will, accomplished by means of force or fear.”
+And section 2543 ( 21 Okla. St. Ann. § 801) :
+“That any person or persons who, with the use of firearms or any other dangerous weapons, attempts to rob or robs any person or persons, or who' robs or attempts to rob any place of business, residence or banking institution or any other place inhabitated or attended by any person or persons at any time, either day or night, shall be guilty of a felony, and, upon conviction therefor, shall suffer punishment by death, or imprisonment, at hard labor, in the state penitentiary, for a period of time of not less than five years, at the discretion of the conrt, or the jury trying the same.”
+This last section does not define the crime of robbery, but merely increases the punishment for the crime as defined by section 2542, supra, when accomplished with the use of firearms or any other dangerous weapon, and is in effect a statute of classification. Generally speaking, robbery is a larceny, with aggravated features added, and the larcenous taking of money or goods of any value from the possession of another from his person or immediate presence, against his will by use of force or by putting in fear, is robbery. Randall v. State, 33 Okla. Cr. 262, 243 Pac. 983; Richards v. State, 22 Okla. Cr. 199, 210 Pac. 295; Wilson v. State, 28 Okla. Cr. 102, 228 Pac. 1108; Wells v. State, 34 Okla. Cr. 179, 245 Pac. 1007; Simpson v. State, 40 Okla. Cr. 58, 266 Pac. 783.
+In the case of Hill v. State, 19 Okla. Cr. 406, 200 Pac. 253, this court said:
+“The information in this case charged the taking of money from the person of another by means of force and fear, brought about by pointing a revolver and threatening to shoot if resisted, followed by the allegation, ‘Said defendants did then and there wrongfully, willfully, unlawfully, forcibly, violently, and feloniously take, steal, and carry away.’ Held to sufficiently charge the crime of robbery, and, the words ‘steal and carry away’ being mere surplusage, the information was not bad for duplicity.”
+Section 2892, O. S. 1931 (22 Okla. St. Ann. § 410), Code of Criminal Procedure, provides:
+“No indictment or information is insufficient, nor can the trial, judgment, or other proceedings thereon be affected, by reason of a defect or imperfection in the matter of form which does not tend to the prejudice of the substantial rights of the defendant upon the merits.”
+While there is much repetition and some surplusage in the information, the acts constituting the crime are set forth therein with sufficient certainty to appraise the defendant of the offense charged against him, and it includes all of the essential elements of robbery as defined by our Criminal Code.
+It follows that the court did not err in overruling, the demurrer to the information.
+It is next contended that the trial court abused its discretion in denying the application for a continuance.
+In the affidavit for continuance the defendant stated i
+“That he has been confined in the county jail of Rogers county since May 23, 1935, that on his preliminary examination he was represented by the firm of Right & Right of Claremore, and A. C. Brewster of Pryor, Oklahoma, that since that time he has had no counsel; has had no money or means or friends by which and through which he could employ counsel. That Messrs. Right & Right had their names withdrawn as attorneys and that A. C. Brewster was appointed by the court at the expense of Rogers County to appear as his attorney, that A. C. Brewster came to court this morning by request of the wife of the defendant, she saying that she wanted the court to appoint an attorney for the defendant, that no' effort has been made by any attorney to obtain witnesses at this term of court for the reason they have not been in the case since the trial of the preliminary, and the defendant has not obtained any witnesses and is not ready for trial.
+“The defendant says as a further reason for continuance that he is wholly physically unable to attend the trial of this cause and will submit the testimony of Dr. C. W. Beson, his attending physician, and will show the court he is physically unable to attend the trial at this time for the purpose of conducting his defense before the jury.
+“Defendant further says that recently the persons who are guilty of this robbery have been apprehended and it is now known by the officers of Rogers county who the persons are who committed this crime.”
+A hearing was had. The defendant called W. A. Carson, sheriff of Rogers county, who testified that E. A. In-man had been in his custody since some time in July, and is now present in court, that he had informed him that Toby Harris, at Neosho, Mo., knew who committed this crime, and witness went np there last week and interviewed Toby Harris who said he knew nothing about it.
+Dr. C. W. Beson testified that on September 14, he examined the defendant in the county jail and found his feet injured, that he has not called him since, that he did not believe the defendant physically fit to be in court for two or three days, that he had heard that the defendant received these injuries by trying to escape from jail, that the only trouble he suffers with is just his ankles and feet.
+In reviewing, the refusal of a continuance, all the facts and circumstances disclosed by the record and the testimony on the trial will be considered by this court in determining whether or not the exercise of discretion by the trial court was abused in denying the application. Tucker v. State, 9 Okla. Cr. 587, 132 Pac. 825; Harrison v. State, 10 Okla. Cr. 210, 135 Pac. 948; Nix v. State, 20 Okla. Cr. 373, 202 Pac. 1042, 26 A. L. R. 1053.
+No rule is more firmly established in this state than that this court will not reverse the judgment of the trial court upon the ground that it refused to grant a continuance, unless it appears that such court has manifestly abused its discretion in refusing it. Killion v. State, 19 Okla. Cr. 215, 198 Pac. 625; Anderson v. State, 21 Okla. Cr. 193, 207 Pac. 977.
+In this case the affidavit does- not disclose such diligence on the part of the defendant to procure the attend anee of his witnesses as the law under the circumstances of the case required, or such as made it the duty of the trial court to grant the continuance. And the defendant was present in court at the time of the hearing of the motion for continuance, where the trial judge had opportunity to observe his physical condition.
+In our opinion, the application lacks the evidence of good faith as well as that of due diligence.
+From all that appears in the record, we conclude that tiie trial court did not abuse his discretion in overruling the motion for a continuance.
+.Several assignments of error are based on exceptions taken to the court’s rulings on the admission and exclusion of testimony, as raised by the defendant. They appear to be without sufficient merit to require discussion.
+Complaint is also made of two- of the instructions given by the court which were excepted to- by the defendant.
+There were no instructions requested or presented to-be given on the part of the defendant. The instructions complained of have been examined and considered sufficient in connection with the evidence in the case.
+Another assignment is error in oral proceedings when the jurors were brought into- court before the return of the verdict, all in the absence of the defendant’s attorney.
+An examination of the grounds of the motion for new trial show no such question was raised or presented to the trial court. The question cannot be raised in this court for the first time.
+Finally it is urged that tbe verdict of tbe jury is not sustained by tbe law and is contrary to tbe evidence.
+In this case there can be no doubt as to tbe sufficiency of tbe evidence. Two eyewitnesses, tbe victims of tbe robbery, positively identified this defendant as one of tbe robbers. Tbe credibility of these witnesses was in no way questioned, nor was any testimony offered on tbe part of tbe defendant to contradict them, except tbe bare statement of tbe wife of tbe defendant that be was not in Claremore on tbe day of the robbery. And a defendant convicted of crime upon such positive, convincing testimony as appears in this record has no legal right to a reversal of tbe conviction on tbe grounds that bis defense was frustrated in whole or in part, unless it is shown that there is some probability that such defense is true.
+Having examined the record and each of tbe several assignments of error, we find nothing that merits serious consideration, and were it not for tbe fact that tbe information charges a capital crime, we would feel constrained to affirm tbe conviction for tbe reason that tbe errors assigned are without sufficient merit to> require discussion.
+Finding no material error in the record, tbe judgment of tbe trial court is affirmed.
+DAVENPORT, P. J., and BAREFOOT, J., concur.
