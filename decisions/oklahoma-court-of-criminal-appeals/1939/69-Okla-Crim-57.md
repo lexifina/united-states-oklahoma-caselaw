@@ -1,0 +1,67 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-9582"
+decided: "1939-12-07"
+citations: ["69 Okla. Crim. 57", "100 P.2d 286", "97 P.2d 96"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BAREFOOT and DAVENPORT, JJ., concur.", "BAREFOOT and JONES, JJ., concur."]
+parties: ["BUSTER HERREN v. STATE."]
+source_url: "https://static.case.law/okla-crim/69/cases/0057-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8738052
+cites_cases: ["12 Okla. Cr. 84", "13 Okla. Cr. 511", "165 P. 617", "22 Okla. Cr. 111", "48 P. 2d 337", "57 Okla. Cr. 872"]
+---
+
+# Herren v. State
+
+## Majority (DOYLE, P. J.)
+
+DOYLE, P. J.
+Appellant Buster Herren and Earl Herren were jointly charged by information in the district court of Jefferson county with the crime of burglary in the second degree, alleged to have been committed on the 4th day of February, 1938, by breaking into and entering a certain building occupied by Zeb Jones, in the town of Bingling, in Jefferson county, in which certain personal property belonging to the said Zeb Jones was then and there kept, with the felonious intent on the part of said defendants to take, steal and carry away said personal property, etc.
+Upon his separate trial the jury returned a verdict finding:
+“The defendant, Buster Herren, guilty of burglary in the second degree as charged in the information herein and fix his punishment by imprisonment in the state penitentiary for a term of three years.”
+His motion for new trial was overruled on April 29, 1938; thereupon the court rendered judgment in accordance with the verdict. From which judgment an appeal was duly perfected by filing in this court October 24, 1938, petition in error with case-made.
+Appellant alleges several assignments of error for reversal of the judgment, but mainly relies in the brief o,n the assignment that the evidence tending to connect him with the commission of the crime charged was insufficient to sustain the verdict of the jury.
+The uncontroverted evidence for the state shows that between 4 and 5 o’clock on the morning of the date alleged, the service station and garage, owned and operated by Zeb Jones, in the town of Ringling, was burglarized and several hundred dollars worth of merchandise, consisting of tires, inner tubes, batteries, pumps and automobile parts, were taken, and carried away. A window in the back end of the building had been broken open, entrance made, and a door had been broken open. Tracks of three men from the door of the garage to where a car had been parked, about 100 yards from the building were examined. The owner and three officers examined the tracks; found one certain shoe track that had a bell shape marking, on the heel.
+Lee Herren, uncle of appellant, a brother of codefen-dant, Earl Herren, was the owner of a filling station and a small store located nine miles east of Ardmore, on highway No. 70, and he had a farm three miles east and a half mile north, occupied by his son-in-law, Tom Ruth-ledge.
+Zeb Jones testified that six National Silent Tread tires were recovered, four had wrappers with his name and address, two were returned by Officer Allen, later four were returned to him, also one of two National High Yolt Batteries; they were dated and had a peculiar mark, and were identified and introduced in evidence; that different brands of tubes were taken and he identified tubes recovered as tubes for the National 600 x 16. That with Mr. Allen, Mr. Adams and Mr. Berry, he examined the tracks between the garage and where the car had been parked, that the value of the missing, property was about $300, and he recovered approximately $150 worth, bnt was not present when that portion he recovered was found.
+W. B. Allen, deputy sheriff of Jefferson county, testified that he went to Ardmore and with the sheriff of Carter county went east of Ardmore, about twelve miles and found 41 casings, among which were four new casings, having the name and address of Zeb Jones on the wrappers, all the casings found had been stolen, some at Ardmore, some at Wayne and some at Maud.
+He further testified that he recovered two casings found on the rear wheels of a Plymouth car in Oklahoma City. Buster Herren claimed the car, and he found the battery introduced in evidence in the car; that Earl and Lee Herren were present; when he asked Buster where he got these casings and the battery, Buster said, “I bought them from a fellow in Oklahoma City, and gave him $5 each for the casings, I don’t know who he was.” Then he asked Buster if anybody was present when he made the purchase, and he said no.
+W. R. Berry, sheriff of Jefferson county, testified that he was called to Ringling that morning and found the tracks of these persons very plain, and one was a very peculiar track, he had never seen one like it before or since; on the heel there was a bell shaped with two diamond marks; that Mr. Allen drew an impression of it. He was handed this as an exhibit and said it was a perfect print of the heel that made tracks found near the service station.
+Floyd Randolph, sheriff of Carter county, testified that Lee Herren was an uncle of Buster and a brother of Earl Herren; that they had a little store and a filling station nine miles east of Ardmore, that Tom Ruthledge, Lee Herren’s son-in-law, was living on Lee Herren’s place, three miles east of the store, that he found tracks leading from where an automobile was parked to where Ruthledge lived, and tracks around the Lee Herren place, that they made a mold or prints of the tracks where the tires were loaded, and followed these tracks until they got to the pavement, then found where they went into the pasture, and down a road around by the house and a hay bam, to about 100 yards of Tom Ruthledge’s house, where they found some twenty odd casings in the pasture on the Herrens’ place; they made another search later and found the car that belonged to Buster Herren, and one of those casings on it, with others in the back of the car. They went over and drove his car down to this place, the treads made were the same as those tracked, there had been no other car there. That the casings found were identified by the owners. Some from Maud, two from Ardmore and others from Ringling.
+Jim Latham, deputy sheriff testified that he was with the sheriff when they made the search and recovered some 20 casings, and the first bunch was uncovered just across the fence from Lee Herren’s place, they discovered it by following a tread that was exactly like that where it went into the gate at Tom Ruthledge’s place.
+W. R. Berry, recalled, was handed a pair of shoes and stated he got them from Earl Herren, codefendant, and they were admitted in evidence, one having a heel that exactly fitted the imprint testified to- by the other witnesses.
+When the state rested the defendant interposed a demurrer and moved the court to direct the jury to return a verdict o-f not guilty, which was overruled.
+The defendant did not testify as a witness and the only witness called on the part of the defense was Lee Herren. He testified that he operated a filling station and a little grocery store nine miles east of Ardmore, on Highway No. 70, where 18 turns to Sulphur; that his farm is three miles east and three-quarters north; that his son-in-law, Tom Ruthledge, and another family live on the place; that he did not know anything about the stuff that the officers found out there; that Buster Herren was his nephew and lived at Oklahoma City, and Earl Herren is his brother; that he had nothing to> do with the placing of these tires out there where they had been found.
+On cross-examination he stated that Buster Herren comes there once in a while, and has been there as often as twice a week; that Buster Herren is his nephew, and Earl Herren, codefendant, is his brother.
+The foregoing is a concise statement of the material evidence in the case.
+It is contended that the evidence is insufficient to support the verdict, in that the evidence fails to connect this defendant with the commission of the crime charged.
+We think this contention is without substantial merit.
+In the case of Hart v. State, 57 Okla. Cr. 872, 48 P. 2d 337, 338, we said:
+“It has been held by this court, following the rule recognized by the courts generally, that mere possession of property recently stolen is not sufficient to convict the possessor of a larceny of it. Shaw v. State, 13 Okla. Cr. 511, 165 P. 617; Graham v. State, 12 Okla. Cr. 84, 152 P. 136. When, however, this fact is supplemented by other facts inconsistent with the idea that the possession is honest, it then becomes a question of fact for the jury to •determine.
+“Where the charge is burglary, if property taken from the owner is soon thereafter found in possession of the person charged with the burglarious entry, proof of this fact, together with circumstances showing guilty conduct, is presumptive evidence, not only of the larceny, hut also that he made use of the means by which the property was taken from the owner.
+“Burglary is one degree removed from larceny; but when the facts in evidence warrant the finding of the larceny, and the surrounding circumstances are such as to show that the larceny could not have been committed without the burglarious entry, the evidence is sufficient to warrant the finding of the burglary also.
+“In order to establish defendant’s guilt, it was not necessary that any of the witnesses should have seen him or his codefendants in the vicinity of the warehouse about the time the burglary was committed. It rarely happens that perpetrators of an offense, committed in the manner here proven, can be shown by witnesses who saw and recognized the defendants in the act, and resort must therefore ordinarily be had to circumstantial evidence.”
+In our opinion the state’s evidence as summarized was amply sufficient to authorize the jury to find that this defendant was one of the men who participated in the commission of the crime charged. There are other facts and circumstances, as shown by the record, tending, to strengthen this conclusion.
+The foregoing statement of the evidence clearly discloses facts and circumstances authorizing the jury to return a verdict of guilty against this defendant.
+This court has repeatedly held that, if there is any evidence in the record for which the jury could legitimately conclude that the defendant was guilty of the crime charged, the conviction will not be set aside because of the insufficiency of the evidence. Leslie v. State, 22 Okla. Cr. 111, 210 P. 297.
+The instructions given by the court, to which no objection was made nor exception taken, fully and correctly covered the law of the case, including the law of circumstantial evidence.
+Upon the record before us, the case was one for the consideration of the jury. The trial was in all respects fair, and we are unable to find anything in the record to warrant us in interfering with the conviction. The judgment of conviction must therefore be affirmed. It is so ordered.
+BAREFOOT and DAVENPORT, JJ., concur.
+
+## Rehearing (DOYLE, P. J.)
+
+On Rehearing.
+DOYLE, P. J.
+As we view the evidence in this case, it cannot, with due respect to the law, be held that there is an absence of competent evidence on which to base the conviction. It is only where there is a total failure of substantial evidence of the elements or some one element of an offense that this court on appeal is permitted to reverse a conviction on the ground that the evidence is insufficient to sustain it.
+It is also urged that the county attorney was guilty of misconduct in his examination of the last witness called by the state.
+The record shows that Frank Brown, the last witness called by the state, testified as follows:
+Direct examination by Victor Eckler, County Attorney:
+“Q. Your name is Frank Brown? A. Yes, sir. Q. Jailor here? A. Yes, sir. Q. You know Mr. Herren? A. Yes, sir. Q. Earl and Lee? A. Yes, sir. Q. Did you have occasion recently to1 have this defendant in jail? A. Yes, sir. Q. Who made his bond? A. Lee Herren. Objection overruled. Exception. Q. What did you tell in regard to releasing the boy? Mr. Brown. We object, that has nothing to do with this case. Mr. Eckler: I want to' show he was harboring a criminal, this boy was a fugitive from justice. The court: Sustained. It is immaterial I think. Mr. Eckler: The state rests.”
+The asking of an improper question by a county attorney, where the trial court properly sustains an objection, is not ordinarily reversible error. However, we are inclined to. think that in this case it may have influenced the jury in fixing the punishment, and for that reason the judgment should be modified.
+It is both the spirit and intention of our laws that punishment for crime should be imposed for the protection of society and reformation of the criminal.
+It appears that the defendant is a married man, with a wife and three children of tender years, and we are satisfied that a. term of two years’ imprisonment will be as much protection to society and do. him as much good as would the punishment fixed by the jury.
+The judgment, sentencing the defendant to imprisonment for the term of three years is hereby modified to the extent of reducing it to a term of two years’ imprisonment in the state penitentiary. As so modified, the judgment will be affirmed.
+BAREFOOT and JONES, JJ., concur.
