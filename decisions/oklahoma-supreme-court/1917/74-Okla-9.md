@@ -1,0 +1,33 @@
+---
+court: "Oklahoma Supreme Court"
+docket: "7770"
+decided: "1917-07-24"
+citations: ["74 Okla. 9", "176 P. 529"]
+reporter: "okla"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TIGER v. PECK."]
+source_url: "https://static.case.law/okla/74/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6411730
+cites_cases: ["140 Cal. 414", "146 Pac. 888", "149 Cal. 680", "169 Cal. 365", "22 Idaho, 765", "50 Mont. 142", "73 Pac. 1070", "74 Pac. 441", "87 Pac. 275"]
+---
+
+# Tiger v. Peck
+
+## Majority (PRYOR, C.)
+
+Opinion by
+PRYOR, C.
+On the 18th day of June, 1013, O. K. Peck filed a petition in the county court of Okmulgee county asking that the will of Winey Tiger be admitted to probate. Due notice of the hearing of the petition was given as required by the statute. On the 3d day of July, 1913, John Tiger, by his guardian ad litem, Thomas J. Parrar, filed objections to the probate of the will, alleging that the testator, Winey Tiger, did not have the mental capacity to make a will; that she was not of sound mind and disposing memory; that the will was not signed, executed, declared, or published as provided by law; that the beneficiary under said will procured the execution of the same by the use of undue influence; that said will was not approved by a United States commissioner or United States Judge as required by law. On the 21st day of October, 1913, tlie county court made an order admitting said will to probate and overruling the objections of the contestant, John Tiger. Prom this judgment of the county court the contestant appealed to the district court of Okmulgee county. On the 10th day of June, 1915, said cause came on for hearing on appeal in the district court, and the district court, after hearing, said cause, rendered judgment admitting said will to probate and finding the issues of the contest of said will in favor of the proponent, O. K. Peck, ana against the contestant. Prom this judgment the contestant, John Tiger, by his guardian ad litem, Thomas J. Parrar, appeals.
+The contestant makes several assignments of error, but from the view taken here of the case it will only be necessary to consider one. The contestant contends that the burden of proof in the first instance was upon the proponent, and, as there was no proof offered by the proponent on appeal to the district court, the district court should have refused to admit the will to probate. The general rule as to the burden of proof in a proceeding for the probation of a will is that the proponent has the burden of making proof that the will was duly executed, and he must make this proof whether or not there is any contest. The proponent concedes this to be the correct rule, and this concession is justified by the great weight of authority ; but he contends that., under our statute as construed by California courts, and some other states having similar statutes which designate the contestant as plaintiff and the proponent as defendant, the burden in case of contest is upon the contestant, and cites, in support of this contention, In re Latour’s Estate, 140 Cal. 414, 73 Pac. 1070, 74 Pac. 441; In re Cullberg’s Estate, 169 Cal. 365, 146 Pac. 888; In re Williams’ Will, 50 Mont. 142, 145 Pac. 957; In re Head v. Nixon, 22 Idaho, 765, 128 Pac. 557.
+In re Latour’s Estate, 140 Cal. 414, 74 Pac. 441 (on rehearing), the Supreme Court of California, in banc, held:
+“Where a petition for probate of a will a.nd a contest are tried at the. same time, the proponent should first present his prelimin-inary proof in support of his petition, on which he has the burden of proof, which, if sustained, requires the contestant to introduce proof to establish his contest.”
+In the case of Cullberg’s Estate, 169 Cal. 365, 146 Pac. 888, the Supreme Court of California held;
+“Although the burden of proof of testamentary incapacity is on contestants of the will, nevertheless the proponent must first make a prima facie showing of due execution to satisfy the statute, though execution is not an issue under the contest.”
+In the case of Hayden’s Estate, 149 Cal. 680, 87 Pac. 275, the Supreme Court of California held:
+“It is incumbent on one petitioning for the probate of a will of a decedent to make satisfactory proof of the. will, and, if he fails to do so, the trial court must, though there is no opposition to the probate, refuse probate.”
+While there is apparently a conflict between the California rule and the other authorities as to the burden of proof where the contestant raises the question of fraud, undue influence, and mental incapacity of the testator, a careful analysis of the California cases clearly establishes the rule, even in that jurisdiction, in accord with the law announced by the courts of other states, the burden of proof is upon the proponent of the will, where the admitting of the will to .probate and the objections thereto are tried together, to make a prima facie case or satisfactory proof of the due execution of the will: that the proof required toy the statute to be made by the proponent of the will for .its probation cannot be waived or dispensed with by the parties, and such proof must be made by the proponent whether there is a contest or not.
+The record shows that the question of probating the will under the petition 'of the proponent and the objections to the probation of the will by the contestant were tried together in the county court: that the county court rendered judgment overruling the objections of the contestant and admitting the will to probate. From this judgment the contestant appealed to the district court on questions of both law and fact. Under the law and the Constitution, this cause must be tried in the district court on appeal de novo as though it were an original cause in that court and the same as if there had been no former trial of the same. Under the Jaw it was incumbent upon the proponent of the will to malee proof of the due execution of said will. The record shows that the contestant assumed the initiative and put on his evidence in the first instance. At the conclusion of the contestant’s evidence, the proponent interposed a demurrer thereto which was by the court sustained. This could not waive the proof required by the statute for the probation of a will. .
+The proponent on appeal to the district court offered no evidence whatever. The disti let court therefore erred in admitting said will to probate, and this cause should be reversed and remanded with directions to grant a new trial.
+By the Court: -It so ordered.
