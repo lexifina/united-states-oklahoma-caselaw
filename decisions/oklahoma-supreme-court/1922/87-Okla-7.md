@@ -1,0 +1,35 @@
+---
+court: "Oklahoma Supreme Court"
+docket: "10842"
+decided: "1922-07-11"
+citations: ["87 Okla. 7"]
+reporter: "okla"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JOHNSON, MILDER, ELTING, KENtNA-MER, and NICHOLSON, JJ., concur."]
+parties: ["HUFF v. OKLAHOMA STATE BANK et al."]
+source_url: "https://static.case.law/okla/87/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8883171
+cites_cases: ["198 Pac. 850", "81 S. W. 503", "82 Okla. 178", "92 Mo. App. 326"]
+---
+
+# Huff v. Oklahoma State Bank
+
+## Majority (McNEILL, J.)
+
+McNEILL, J.
+This action was commenced in the district court of Pontotoc county by Laura J. Huff against John Huff for, divorce, and the Oklahoma State Bank was joined as defendant, the plaintiff seeking to recover $850 deposited in the bank in the name of John Huff, alleging it was the money of plaintiff, and that the plaintiff notified the bank not to pay out said money and the bank disregarded said notice and permitted the same to be withdrawn by Huff; and prayed judgment against the bank for said amount. Tbe defendant bank filed its answer, and denied it bad any money belonging to plaintiff deposited in tbe name of John Huff, and alleged that there was certain money in the bank, and after tbe bank received notice of tbe claim of plaintiff it held tbe same for a reasonable time in order that plaintiff might file garnishment, or take other proceedings to restrain Huff from withdrawing the same, but the plaintiff refused to take any steps to prevent the bank from paying said money to Huff, and that she was estopped by her negligence in not taking the proper steps to protect herself. The case was submitted to the jury, and the jury returned a verdict in favor of the defendant and against the plaintiff. From the said judgment the plaintiff has appealed.
+The facts are substantially as -follows: That the plaintiff and John Huff were husband and wife, and in June, 1917, certain money was deposited in the bank by John Huff to his credit. The plaintiff and her husband separated, and on the 9th day of July, 1917, the plaintiff and her attorney served written notice upon the bank that plaintiff claimed the money in the name of John Huff and ordered the bank not to pay the same to John Huff. The evidence is conflicting as to what was said; it being contended by the bank that plaintiff and her attorney were advised by the bank that ■the money would be held a reasonable time or as long as possible in order to permit her to bring garnishment proceedings or obtain a restraining order to prevent it from paying out said fund. A -few days after service of the notice on the bank, its president, at the request of Huff, called on Mrs. Huff, asking her to sign a release, which she refused. The bank held the funds until the 18th day of July — the plaintiff had taken no steps to obtain said money — when John Huff and his attorney came and presented a cheek to the bank and demanded the money, which was paid by the bank. On the 20th day of July, plaintiff commenced her divorce proceeding and had a restraining order issued against the bank paying the money.
+For reversal it is contended that the court erred in refusing to instruct the jury to return a verdict in favor of plaintiff and against the defendant. We think -there was no error in this refusal. In this jurisdiction, when a party deposits funds in a bank, the relation of debtor and creditor exists between the bank and the depositor. In regard to money deposited in the.bank in the name of one person and claimed by a third party, the general rule, appears to be as follows:
+“The law presumes that a deposit belongs to -the person in whose name it is entered, and the bank cannot question his right thereto, and may lawfully pay it out on his order. * * * If a deposit is claimed by a person other than the depositor who forbids the bank from paying it to any person other than himself, -the bank may be held liable for a disregard of such notice in case the claim is substantiated. * * * However, the bank cannot be required to hold the money -beyond a reasonable time in order for the claimant to assert his rights, and if he fails to assert them within such time, he is -estopp-ed.” See 7 C. J. 639, 640.
+In the case of Drumm-Flato Commission Co. v. Gerlack Bank, 92 Mo. App. 326, it is stated:
+“Where a bank receives money as the property of A., and before payment acquires notice of B.’s claim thereto, it cannot be required to hold said money beyond a reasonable time -for B. to protect his rights; and if he does not assert his rights within such time, he will be estopped. What is a reasonable time is a question for the jury.” See Drumm-Flato Commission Co. v. Gerlack Bank, 81 S. W. 503.
+The evidence in the case disclosed that the bank held the money for nine days after receiving the notice of the plaintiff. Whether this was a reasonable time was a question for the jury, and there was no error in overruling the motion to instruct a verdict for plaintiff. . ’ ■
+It is next contended that the court erred in the giving of certain instructions. The principal objection is made to instruction No. 5, where the court advised the jury that, in determining whether the plaintiff acted within a reasonable time or not, they should take into consideration all the circumstances of -the case, and that the plaintiff would have a reasonable length of time to determine her rights in the matter, but no more, and it was her duty to determine her rights in the matter to protect her property by suit. We think there was no error in the giving of this instruction. The instruction. when considered with the other instructions, we think fairly submitted th-e case to the jury.
+The plaintiff requested the court to advise the jury that they should take into consideration plaintiff’s business experience in determining whether she acted within a reasonable time. We think there was no error in refusing this instruction, because there was no evidence regarding her business experience. Further, at the time she served the notice on the bank, -she was acting upon the advice of her lawyer, who was present representing her and advising her of her rights.
+It is next contended that the ground of estoppel or laches does not apply to a wife in a 'transaction between husband and wife. This may be true, but this is a transaction with a third party, and the rule in 16 Cyc. 777, is stated as follows:
+“A wife who knowingly permits her husband to deal with her property as his own will be estopped to assert her ownership against persons who have dealt with the husband in reliance on his apparent ownership or authority.”
+There are no authorities cited to support any of the other assignments of error, and therefore they will not be considered by the court. Blue v. Board of County Com’rs of Garvin Co., 82 Okla. 178, 198 Pac. 850.
+Por the reasons stated the judgment of the court is affirmed.
+JOHNSON, MILDER, ELTING, KENtNA-MER, and NICHOLSON, JJ., concur.
