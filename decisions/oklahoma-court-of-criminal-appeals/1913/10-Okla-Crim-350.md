@@ -1,0 +1,28 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-1822"
+decided: "1913-12-06"
+citations: ["10 Okla. Crim. 350", "136 P. 775"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ARMSTRONG, P. J., and FURMAN, J„ concur."]
+parties: ["NEWT ROMINE v. STATE."]
+source_url: "https://static.case.law/okla-crim/10/cases/0350-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8743322
+---
+
+# Romine v. State
+
+## Majority (DOYLE, J.)
+
+DOYLE, J.
+Plaintiff in error, Newt Romine, was indicted and tried for the murder of one Steve Etchieson, alleged to have been committed in McCurtain county on or about the 25th day of March, 1911. He was convicted of manslaughter in the first degree. On 'the 26th day of February, 1912, in accordance with the verdict, the court sentenced the defendant to imprisonment in the penitentiary for tlfe term of four years.
+The evidence shows that the defendant and the deceased, with their families, occupied the same house on the defendant's farm near Bethel; the deceased had rented the farm; that on.the day alleged in the indictment they, with two others, Sid Sanders and F. F. Miller, had been hunting wild ponies in the hills, and the deceased and F. F. Miller returned to the house early in the evening; later the defendant appeared. They were all somewhat intoxicated. About 10 o’clock the defendant fired two shots at Miller, one hit him in the arm and the other in the leg. Pie then shot the deceased. The shooting occurred in the dooryard. Several witnesses testified that the defendant after the shooting stepped upon the porch and said, “If I ain’t killed them I am going to.” The deceased’s wife and one or two of her children went to a neighbor’s named Baker, about a quarter of a mile distant, and asked him to send for. a doctor. The defendant followed them, and talked to Baker in Choctaw, and said in English: “I have killed both of them.” The deceased was found dead the next morning, lying near a path that led to Baker’s. The defendant claimed that Miller and the deceased assaulted him, and that the, shooting was in self-defense. His testimony is without corroboration.
+The only error assigned that is argued in the defendant's brief is the overruling of the motion of the defendant for a continuance. The indictment was returned September 30, 1911. The defendant was arraigned on the 4th day of December, 1911. The case was called for trial on the 24th day of February, 1912, 11 months after the homicide. Thereupon the defendant moved for a continuance, supporting the motion with his affidavit, in which he states:
+“That he cannot safely proceed to trial at this time because of the absence of material witnesses, to wit, J. A. Morgan, Bob Anderson, and Sid Sanders. That these witnesses would testify to threats made by the deceased against the defendant, which threats are set out in the affidavit. That the following witnesses: H. M. Coker, Joe Blalock, Ed Graham, Gib Howard, Emmett Anderson, W. C. Cooper, Joe Dedwiler, Claud Adding-ton, Sherman McClain, George Trotter, and Clint Clark — if present, would testify that the general reputation that defendant bore in the community in which he lived as a peaceable law-abiding citizen was good, and that that of the deceased was that of a violent dangerous man.”
+—that these witnesses were residents of the extreme northern part of McCurtain county, about 60 to 90 miles from the county seat, and that he had filed a praecipe for subpoenas for them; That he had been informed, and verily believed, that the nonattendance of "these witnesses was occasioned b}? their belief that they would be unable to secure the necessary expenses and remuneration for their time, and that he was without money or property with which to secure their attendance.
+It is well settled by a long line of decisions of this court that the granting or refusal of a continuance in a criminal case is largely a matter of discretion of the trial court. The defendant’s affidavit presented no facts which, in the exercise of reasonable discretion by the court, would have warranted a continuance of the case. While it is the right of every citizen, when prosecuted for an offense, to have a fair and impartial trial, and tompulsory process to compel the attendance of his witnesses, no proper showing was made that a praecipe was filed, or that subpoenas were issued and served upon these witnesses. Nothing in the record shows when a praecipe was filed, and if these witnesses, had been duly subpoenaed, then it was the duty of the defendant to ask that attachments issue. He does not state that these witnesses were not absent through his procurement or consent. The law requires diligence in these matters, and a dé-fendant cannot sit still and wait until his case is called for trial before he begins to get ready. In our opinion, the affidavit does not disclose such diligence on the part of the defendant to procure the attendance of these witnesses as the law requires, or such that made it the duty of the court to grant the continuance.
+The defendant was convicted of manslaughter in the first degree, and the minimum punishment assessed. We think he was fortunate, and' should be satisfied with his conviction, for under the evidence for the state, he was guilty of nothing less than murder. A careful examination of the whole case leads to the conclusion that no error has been committed, to the defendant’s prejudice. The judgment of conviction is therefore affirmed.
+ARMSTRONG, P. J., and FURMAN, J„ concur.
