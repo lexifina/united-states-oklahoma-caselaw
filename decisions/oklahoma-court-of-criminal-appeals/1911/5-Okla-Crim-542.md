@@ -1,0 +1,32 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-648"
+decided: "1911-05-16"
+citations: ["5 Okla. Crim. 542", "115 P. 619"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ARMSTRONG- and DOYLE, Judges, concur."]
+parties: ["DAVE BRYAN v. STATE."]
+source_url: "https://static.case.law/okla-crim/5/cases/0542-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8744706
+---
+
+# Bryan v. State
+
+## Majority (FTThMAN, PRESIDING Judge.)
+
+FTThMAN, PRESIDING Judge.
+When this cause was called for trial, the appellant filed the following motion for a continuance :
+“State of Oklahoma v. Dave Bryan. Motion for Continuance. Comes now the defendant, and moves the court to continue this cause of action for the reason that he cannot safely go to trial by reason of the absence of material evidenoe, and in support thereof attaches the following affidavit. B. F. Yan Dyke.
+“State of Oklahoma, County of Greer — ss.: I, Dave Bryan, first being duly sworn on oath, say that I am the defendant in the above-entitled action; that I have caused subpoena to issue for Frank Alford; that said subpoena has been issued and returned by the sheriff, and that the return shows that the witness cannot be found; that this affiant has used due diligence in attempting to get this witness for this trial; that the whereabouts of the said witness, Frank Alford, is now unknown to this affiant, but that he formerly lived in Granite, Oklahoma, and so far as this'affiant knows his residence is still Granite, but that the witness'’ parents are now living in Bryan county, Oklahoma, and this affiant believes that by the next term of this court he can produce as a witness the said- Frank Alford. Affiant further avers that this witness, Frank Alford, will swear that he was at all times during the thirteenth day of December, nineteen hundred and nine, present and in the company of this affiant, and that at no time did this affiant, sell, barter, give away or otherwise furnish intoxicating liquors or whisky to H. M. McDaniel, or any one else. Affiant further says that such testimony on the part of Frank Alford would truthfully state the facts; and, further, the affiant says that W. A. Chism, the only other witness subpoenaed by this defendant, is now under quarantine in Granite, Oída.; that said witness will swear that this defendant furnished no liquor in any manner to íl. M. McDaniel, on the date mentioned, which fact this affiant believes to be true. Dave Bryan.
+“Subscribed and sworn to before me and in my presence, by Dave Bryan, this 15th day of February, nineteen hundred and ten. Jarret -Todd, County Judge.”
+This application for a continuance is fatally defective in several respects. First, it does not state when appellant had a subpoena issued for the witness Frank Alford, or what appellant did with the subpoena after it was so issued. For aught that appears in this record to the contrary, it may be true that appellant had a subpoena issued for this witness, and then placed the subpoena in his pocket or tore it up or threw it in the fire.
+It is not sufficient for an application for a continuance to allege that a defendant has used due diligence to secure attendance of a witness at a trial, but he must show just what he did to secure the attendance of such witness. If a subpoena has been issued at the request of a defendant, he must go further, and show that he placed said subpoena in the hands of a duly authorized officer and requested him to serve said subpoena, and that this was done in time to secure the attendance of the witness upon the trial, lie must also show what efforts he has used to discover the place where the said witness can be found by the officer and served with said subpoena, and it must appear from the facts stated in the motion that the defendant has used all -reasonable diligence to secure the attendance of such witness at his trial and it must be shown, not by general allegations of diligence, but by a statement of just what had been done by appellant in this matter.
+Men who are prosecuted in Oklahoma must understand that it is a very serious business, and cannot be trifled with, and that it is their duty to do everything reasonable in their power to get ieady for trial in ample time before the trial begins, so that the state will not be put to the expense or delay of postponements and continuances, unless they are necessary for the administration of justice.
+As to the witness Chism, it is inferentially asserted that he had been subpoenaed, but it is not asserted as a matter of fact. If it be true that appellant had caused said witness to be served with a subpoena to appear and testify in his behalf, the subpoena with the return of the officer thereon indorsed should have been attached as an exhibit to the motion,for a continuance. If cases can be continued upon such a showing as was made in this cause, it would be impossible to ever bring a defendant to trial, and would make a farce of criminal proceedings. Therefore, upon the question of diligence alone, the motion for a continuance in this case should have been overruled by the trial court.
+The motion for a continuance is further defective in the statement of what the defendant expected to prove by his absent witnesses. He simply says that he would be able to prove by them that he did not sell, barter, give away, and otherwise furnish intoxicating liquors or whisky to the prosecuting witness on the 13th day of December, 1909. This may have been true, but it would not necessarily constitute a defense to the accusation against the defendant.
+The state was not limited in its proof to a sale of whisky on the 13th day of December, 1909. In cases of this sort time is not of the essence of the offense. The defendant might be convicted upon proof of the sale of whisky made to the prosecuting witness at any time within the statute of limitation and prior to the date upon which the information in this case was filed. The testimony in the case was positive and direct as to the sale of whisky as charged in the information. The defendant offered no evidence in his behalf. The jury could not have done otherwise than convict the defendant. There are no errors in the instructions of the court.
+The judgment is therefore affirmed.
+ARMSTRONG- and DOYLE, Judges, concur.
