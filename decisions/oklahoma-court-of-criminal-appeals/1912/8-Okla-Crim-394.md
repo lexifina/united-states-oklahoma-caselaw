@@ -1,0 +1,31 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-1192"
+decided: "1912-11-30"
+citations: ["8 Okla. Crim. 394", "127 P. 894"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DOYLE, J., concurs; ARMSTRONG, J., absent, and not participating."]
+parties: ["CHAS. D. ROBERTS v. STATE."]
+source_url: "https://static.case.law/okla-crim/8/cases/0394-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8742179
+cites_cases: ["127 Pac. 365", "127 Pac. 889", "6 Okla. Cr. 430"]
+---
+
+# Roberts v. State
+
+## Majority (FURMAN, P. J.)
+
+FURMAN, P. J.
+The record in this case is voluminous, covering nearly 700 pages. Owing to the disposition which we think should be made of the case, it is not necessary to state the evidence in full or go into a discussion of all of the questions raised. Suffice it to say that there is a square conflict in the evidence. The testimony for the state, if accepted by the jury, makes out a case of assault with a deadly weapon committed by appellant. Appellant does not deny that an assault was in fact committed, but his defense was that the assault was made by another person other than appellant. The state’s case rests directly upon the testimony of Jessie Eddington, the prosecuting witness, who was assaulted. In fact, if her evidence was eliminated from the case, the state’s case would fail entirely. There is evidence in the record which tends to corroborate the testimony of Jessie Eddington. There is also evidence in the record which contradicts and impeaches her testimony. In short, the state’s case depends upon the credibility of her testimony. Under these conditions, it was of vital importance to appellant that the credibility of the witness Jessie Eddington should have been left for the jury to decide- without any suggestions from the court whatever. But we find in the instructions the following:
+“You are instructed that a witness may be impeached by showing by other credible witness or witnesses that such witness has made statements out of court relative to any material matter in issue, different to those made upon the witness stand. And, in the event that you find that any witness has been successfully impeached, you are at liberty to disregard the whole of such witness’ testimony except in so far as the same may be corroborated by other credible testimony or by some other fact or circumstance appearing upon the trial. Excepted to by defendant.
+“Roy ' HoeemaN, Judge.”
+This is directly applicable to the testimony of the state’s witness Jessie Eddington. In passing upon this very question in the case of Ben Gilbert v. State, ante, 127 Pac. 889, decided at the present term, this court said:
+“Fourth. Upon the trial of this case, among other things the court instructed the jury as follows: ‘In this connection, gentlemen of the jury, you are instructed that, if you believe from the evidence that any witness has knowingly and willfully testified falsely as to any material fact in the case, you have a right to disregard any and all testimony of such witness except in so far as the same may be corroborated by other credible evidence or by the facts and circumstances proven in the cased To this instruction an exception was reserved. We think that the latter portion of this instruction should not be given, because it is calculated to create the impression upon the minds of the jury that th.ey are bound to believe the testimony of a witness if they find it is corroborated by other credible evidence, or by the facts and circumstances proven in the case. As we understand the law, a jury is not bound to believe the testimony or any part of the testimony of any witness which they think is untrue, and we think that the latter portion of the instruction given trenches upon the province of the jury. See Henry v. State, 6 Okla. Cr. 430, 119 Pac. 278.”
+In the case of Rogers v. State, ante, 127 Pac. 365, 380, decided at the last term, this court said:
+“Upon the trial of this cause among other things the court instructed the jury as follows: Tf you shall find that any witness has willfully testified falsely as to any material question, then you are at liberty to disregard the whole of the testimony of such witness except in so far as the same may be corroborated by other credible evidenced To tell the jury that they were at liberty to disregard the testimony of a witness who they believe has willfully testified falsely as to any material fact except in so far as the same may be corroborated by other credible evidence, was to tell them that, if they found that such testimony was so corroborated, they were bound to accept and act upon it, notwithstanding the fact that they might still believe it to be untrue. Under our statute, the jury are the exclusive judges of the facts proven, the credibility of the witnesses, and the weight of the testimony, and no court has the right to give a jury a mandatory instruction as to what testimony they should or shall believe and act upon. Neither has the court the right to advise or suggest to a jury what weight they should give to the testimony of any witness, either in whole or in part. There is no law compelling a jury to accept or act upon the testimony of any witness when they may believe that such testimony is false, either in whole or in part. This is a matter which is addressed alone to the intelligence and conscience of the jurors, and they are in every way as well qualified to pass upon it themselves as any judge could be. This is not a question of law; it is simply a matter of belief which must be left to every juror to act upon for himself, without any attempt at coercion from the court.”
+As this was a close case on the facts, in which the jury might have rendered a verdict either for the state or the appellant, we think that the giving of the instruction complained of constitutes reversible error. We do not think that the other errors complained of will arise upon a second trial of this case. It is therefore not necessary to discuss them.
+Tor the error above pointed out, the judgment of the lower court is reversed and the cause remanded for a new trial.
+DOYLE, J., concurs; ARMSTRONG, J., absent, and not participating.
