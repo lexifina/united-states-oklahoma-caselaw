@@ -1,0 +1,45 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-4055"
+decided: "1923-08-15"
+citations: ["24 Okla. Crim. 208", "217 P. 231"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BESSEY, J., concurs.", "DOYLE, J., absent, not participating."]
+parties: ["JACK MANN v. STATE."]
+source_url: "https://static.case.law/okla-crim/24/cases/0208-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8739666
+---
+
+# Mann v. State
+
+## Majority (MATSON, P. J.)
+
+MATSON, P. J.
+This is an appeal from the superior court of Okmulgee county, wherein on the 24th day of February, 1921, the court rendered judgment against plaintiff in error, Jack Mann, in accordance with a verdict finding him guilty of manslaughter in the first degree and assessed his punishment at imprisonment in the state penitentiary for a period of 20 years.
+The information charged defendant with the murder of Marietta Cox, alleged to have been committed in said county on the 9th day of December, 1920, by shooting with a pistol. From the state’s standpoint the killing occurred under substantially the following circumstances:
+Both the plaintiff in error and. the deceased, Marietta Cox, were negroes. The plaintiff in error was a resident of Beggs, Okla., and the deceased a resident of Okmulgee, Okla. Plaintiff in error was a married man about 25 years of age, and deceased a single girl about 14 or 15 years of age. The killing occurred in a negro joint and dance hall in the city of Beggs about the hour of midnight, December 9, 1920. The deceased was a member of a negro show troupe that was playing in that town that night. It appears that after the rehearsal of the show the deceased and other negro girls who were members of the troupe repaired to this dance hall, which was known as the “Black Diamond,” for the purpose of refreshments and dance; that the plaintiff in error also, visited the dance hall on that night armed with a pistoh Plaintiff in error attempts to explain having the pistol by stating that he intended to sell it to another fellow that he was to meet at the dance hall that night; but it appears in evidence from plaintiff in error’s own witnesses that he had no intention of going to the dance hall until requested to accompany others there, and it also appears in evidence that some 30. minutes before this killing toqk place plaintiff in error had the pistol drawn from the scabbard and had to be cautioned to put it back by the proprietor of the premises. The killing took place in a room immediately back of the room used for dancing and drinking purposes. Only eight negroes were present at the time of the shooting, the deceased and two girl friends of hers, members of the show troupe, plaintiff in error, his sister-in-law, another girl friend of hers, and two other negro men.
+According to the state’s witnesses one of the negro men had asked Henrietta Smith, a cousin of the deceased, to come over to him and talk to him or sit on his lap, and the Smith girl ignored his request, whereupon plaintiff in error, who was present, remarked, “I generally shoots women who don’t come when I calls ’em.” Whereupon.the deceased, who was standing close to the plaintiff in error, remarked, “Well, don’t shoot me!” and thereupon the plaintiff in error took his pistol from his clothes, and, with the remark that he would shoot her, pointed it towards the little girl, and the pistol was in some manner discharged, and the Cox girl stated ,that she was shot and in a minute or two fell to the floor. During the confusion that followed the defendant went to the front room and stated that he had shot the girl accidentally. The Cox girl was brought that night to the city of Okmulgee and an operation performed in an effort to save her life. The operation revealed, however, that she was shot through the intestines and would bleed to death in a short while. She died in the afternoon following from the effects of the gunshot wound.
+Plaintiff in error contends that, because he made all arrangements incidental to taking the Cox girl to Okmulgee and paying the doctors for the operation, it is clear that he had no intention to kill her, and that the killing was purely accidental, and that the punishment, in view of all the evidence, is excessive, and should be modified. The trial court instructed on murder, and manslaughter in the first degree and second degree, and excusable homicide. The jury returned a verdict of guilty of manslaughter in the first degree, but failed to agree upon the punishment, and the court assessed the punishment at 20 years ’ imprisonment in the penitentiary.
+Excusable homicide is defined! by section 1752, Compiled Statutes 1921, as follows:
+“First. When committed by accident and misfortune, in lawfully correcting a child or servant, or in doing any other lawful act, by lawful means, with usual and ordinary caution, and without any unlawful intent.
+“Second. When committed by accident and misfortune in the heat of passion, upon any sudden and sufficient provocation, or upon a sudden combat, provided that no undue advantage is taken nor any dangerous weapon used, and that the killing is not done in a cruel or unusual manner.”
+It is apparent, from the statement of facts above given, that there was no excusable homicide in this case, and the court was very liberal to the defendant in instructing upon this issue.
+Manslaughter in the first degree, as applicable to the facts in this ease, is defined as follows:
+“Homicide is manslaughter in the first degree: * * *
+“First, when perpetrated without a design to effect death by a person while engaged in the commission of a misdemean- or.” Section 1740, Compiled Statutes 1921.
+Section 1999, Compiled Statutes 1921, provides:
+“It shall be unlawful for any person to point any pistol or any other deadly weapon, whether loaded or not, at any person or persons, either in anger or otherwise.”
+Section 2000, Id., provides the punishment for a violation of the preceding section at a fine of not less than $50 nor more than $500, and imprisonment in the county jail for not less than 3 nor more than 12 months.
+Section 1733, Id., defines murder in part as follows:
+“Homicide is murder: * * *
+“First. When perpetrated without authority of law and with a premeditated design to effect the death of the person killed, or of any other human being.
+“Second. When perpetrated by any act imminently dangerous to others and evincing a depraved mind, regardless of human life, although without any premeditated design to effect the death of any particular individual.”
+To summarize, the court submitted the case to the jury under the provisions of the statutes above quoted, and while there is some evidence in the record that would have justified the jury in finding the defendant guilty of murder, it is not necessary to consider that phase of the evidence, because the conviction was for manslaughter in the first degree.
+The evidence of the defendant and of his witnesses, as heretofore stated, does not make a case of excusable homicide. Under the most favorable view that could be taken of this evidence, the defendant was at least guilty of manslaughter in the second degree, and that issue was submitted to the jury and decided adversely to the defendant. There is ample evidence in the record to sustain his conviction of murder in the first degree,, committed by him while engaged in the perpetration of a misdemeanor, under section 1999, Compiled Statutes 1921. An examination of this record convinces this court that the defendant had a very fair trial. The court’s rulings on the admission of evidence were very favorable to him, and the instructions were likewise in his favor. We find no error in the record that would authorize a reversal of this judgment. In fact, counsel practically concede that no reversible error was committed during the trial, but insists that the judgment is clearly excessive.
+We cannot accede to this view. While 20 years’ imprisonment appears to be á severe punishment, on the other hand, it must not be overlooked that in the twinkling of an eye a human life was snuffed out by the unlawful act of this plaintiff in error. Plaintiff in error was extremely fortunate that the jury did not convict him of murder. Under the allowances for good time by the statutes of this state, a 20-year sentence will be served in approximately 10 years, so that this plaintiff in error will, if he behaves himself, be yet a comparatively young man at the expiration of this term of imprisonment. In the meantime he will have an opportunity to ponder over the situation, and perhaps will come to the realization that the pointing of a pistol at another, while in anger or otherwise, is a serious offense, surrounded with dire consequences, and that “I didn’t know it was loaded” is no excuse, if a homicide results from such unlawful act.
+The judgment is affirmed.
+BESSEY, J., concurs.
+DOYLE, J., absent, not participating.
