@@ -1,0 +1,39 @@
+---
+court: "Oklahoma Supreme Court"
+decided: "1896-01"
+citations: ["4 Okla. 94"]
+reporter: "okla"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dale, O. J., having presided in the court below, not •sitting; all the other Justices concurring."]
+parties: ["L. B. Lilly v. Russell & Co."]
+source_url: "https://static.case.law/okla/4/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8878050
+cites_cases: ["15 Pacific 492", "68 Iowa, 233"]
+---
+
+# Lilly v. Russell & Co.
+
+## Majority (Bierer, J.:)
+
+The opinion of the court was delivered by
+Bierer, J.:
+Russell & Co., brought their action in the court below in replevin to recover a saw mill, with the carriage belonging thereto, from the defendant, L. B. Lilly.
+Plaintiff, in its petition, claims its title by virtue of a certain chattle mortgage executed on December 15, 1891, by J. B. Tryon and W. B. Hazlett, which was alleged to have been given to secure the payment of three promissory notes in the sum of three hundred and eighteen and twenty one-hundredths dollars each, the second one of which notes plaintiff claims was past due and unpaid and that the condition of the chattel mortgage was broken by virtue of the failure to pay said note.
+The plaintiff alleged demand for the property, and a refusal to deliver up the possession by the defendant, and that the plaintiff wrongfully detains the property from' the plaintiff’s possession, to the plaintiff’s damage in tho-sum of fifty dollars.
+The defendant filed his verified general denial, and on the trial before the jury no evidence was offered by the defendant.
+The record shows that the cause, which apparently should have been a very plain and easy one, was presented by the defendant in error in a very careless manner, and it was only by the leniency of the court in permiting the-plaintiff to open its case, after being willing to rest on very brief testimony, that the plaintiff was able to get to-the jury at all. And a number of errors are assigned for a reversal of the judgment.
+The proposition suggested by the cause and the assignments of error are so plain and simple, and so well under, stood, that it will not be profitable to review them further than to show one sufficient to determine the case.
+The plaintiff, without any proof of the execution by Tryon and Hazlett of the notes and mortgage as alleged in plaintiff’s petition, offered a copy of a chattel mortgage, certified to by the register of deeds of Logan county, to the introduction of which the defendant duly objected, and being overruled, saved his exceptions thereto. And this error was properly saved by the motion for a new-trial.
+The execution of these notes and this mortgage was-squarely put in issue by the defendant’s verified general denial, and it was error to permit the introduction of the-mortgage in evidence, over the defendant’s objection, without proof of its execution.
+Counsel for defendant in error, in their brief, suggest their apprehension that the judgment below must be-reversed, unless the court should approve their contention that the errors committed on the trial and relied upon for a reversal, cannot be considered, because the counsel for plaintiff in error did not state in their case made that it contained all the evidence adduced upon the trial.
+It is an established rule, under our appellate procedure, which was adopted from the state of Kansas, that, in order that questions arising, upon the evidence upon which a case was tried may be reviewed in the supreme court the case made, of itself, and without resort to the certificate of the trial judge who settled it, must show that it contains all of the evidence introduced upon the trial of the cause. (Brown v. Johnson, 14 Kansas, 377; Eddy v. Weaver, 37 Kansas, 540, 15 Pacific 492; Wilson v. Willey, Kan. App., 42 Pacific, 1092.)
+But we think the record before us reasonably complies with this rule. It purports to give in successive order all of the evidence adduced upon the trial, and the objections and the rulings of the court thereto, and the exceptions saved, together with all the pleadings, motions, orders and entries in the same;
+At the time of the commencement of the introduction of the evidence in the case made it states, “and the plaintiff proceeds to introduce his testimony and the same and all of said plaintiff’s testimony is as follows, to-wit,” and then proceeds the questions and answers of the three witnesses of the plaintiff, and the introduction of the alleged chattle mortgage which was introduced in evidence over defendant’s objection and exception, without proof of execution, and at the end of the testimony of the witnesses there follows the statement, “here the plaintiff rests its case.” Then after the defendant demurred to the plaintiff’s evidence and was overruled, the plaintiff asked and was given leave to open its case in order to read exhibit “A” to the jury. After this was done the record shows the following statement of what occurred: “Whereupon the plaintiff reads to the jury exhibit ‘A’ and offers no further proof and rests its case.” The record shows that the defendant then again demurred the the plaintiff’s evidence, and his demurrer was overruled, and he saved his exceptions. The record then proceeds, “thereupon the defendant rests its case without offering any proof.”
+While the word “testimony” used with reference to the record containing all of plaintiff’s proof offered was an inaccurate one, and was not the correct word to use, we think it was evidently intended by the attorneys for the defendant, and was so understood, at the time the case was served, by the attorneys for the plaintiff, to be given the same meaning as if the word had been “evidence” instead of “testimony.” And taking the entire case as a whole, outside of the certificate of the judge to the case made, it shows upon its face that it does contain all of the evidence produced upon the trial, and we are not at liberty to hold that it does not because an inaccurate word has been used. The word “testimony” was used as synonymous with “evidence” by the person making the case, and it should be so considered here-(Miller v. Wolf, 68 Iowa, 233.) The certificate of the judge to the case made certifies it “to be a full, true and complete copy of all the pleadings in said cause of action, together with all orders by the court made therein, journal entries and all evidence taken therein on the part of the plaintiff and defendant or either of them,” and while, as before suggested, this certificate - would not be sufficient in and of itself to show that the case made did contain all the evidence in the cause, where the case made did not so state, still where this fact reasonably appears from the record, although in inaccurate language, this positive statement of the judge concerning what is contained in the case made should be given great weight, and should not be overcome simply because the accurate ■and correct language was not used in describing what was evidently intended to be done.
+On this subject (McCormick v. Holmes, [Kansas,] 21 Pacific, 108) the supreme court of Kansas says:
+“The positive statement of the trial judge must outweigh any mere inference that arises from the record in this case.”
+In the cause at bar the positive statement of the trial judge supports, rather than opposes, the case made in its •claim that it does contain all of the proof offered on the trial of the cause.
+For the error committed in the introduction of the chattel mortgage in evidence without proof of its execution, the judgment of the court below must be reversed ■and a new trial granted at the costs of the defendant in ■error.
+Dale, O. J., having presided in the court below, not •sitting; all the other Justices concurring.
