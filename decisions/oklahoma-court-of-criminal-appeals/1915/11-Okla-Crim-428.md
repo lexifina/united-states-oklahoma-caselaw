@@ -1,0 +1,30 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-2057"
+decided: "1915-04-17"
+citations: ["11 Okla. Crim. 428", "147 P. 505"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["FURMAN and ARMSTRONG, JJ., concur."]
+parties: ["OSCAR LOFTIN v. STATE."]
+source_url: "https://static.case.law/okla-crim/11/cases/0428-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8743031
+cites_cases: ["8 Okla. Cr. 480"]
+---
+
+# Loftin v. State
+
+## Majority (DOYLE, P. J.)
+
+DOYLE, P. J.
+The plaintiff in error was convicted in the county court of Jackson county upon an information which charged that, “one Oscar Loftin did willfully and unlawfully have in his possession whisky with the unlawful intent to sell, barter, give away, and otherwise furnish said whisky to other persons, and to transport said whisky from one place in the state of Oklahoma to another place therein, in violation of the prohibitory liquor laws,” and was sentenced in accordance with the verdict of the jury to be confined in the county jail for 30 days and to pay a fine of $100. To reverse this judgment an appeal was perfected.
+Of the various errors assigned, we deem it only necessary to consider the one that the verdict is contrary to law and to the evidence. John D. Bailey, sheriff, testified that he was at the town of Olustee, and with his deputy, Mr. Collins, went into a livery stable and found the defendant and Mr. Eley there; that the defendant had a quart bottle in his hand and broke it over the window sill; that he went out, “picked up the broken glass and licked up some of the contents, and found that it was whisky,” and then came back into the stable, and on the other side they found a half pint bottle about half full of whisky; that he arrested the defendant. A. W. Collins testified that he was a deputy sheriff, and with Sheriff Bailey followed the defendant into the livery stable; that the defendant had a bottle partly full of whisky in his hands, and when he saw them he broke the bottle over a nearby window sill; that he also found on the other side of the driveway a half pint bottle half full of whisky. The state rested, and the defendant demurred to the evidence, and moved the court to ,direct a verdict of acquittal. The demurrer was overruled, the motion denied, and exceptions reserved.
+For the defense, E. J. Miller testified that Mr. Bradley had control of the barn, and that Mr. Wilkerson and witness occupied it with their stock; that the defendant often watered his mare at the barn, and drove in there probably once or twice a month, and other people do the same. Charles Eley testified that it was drizzling- rain, and the defendant drove in and tied his hoi'se; that he followed him into the barn, axid asked the de-fendarxt if Mr. Miller was. there; that he walked ixito one of the stalls to urinate, and the defendant walked into axxother stall to do the saxne; that the stalls were boxed up solid half way. The defendant said, “I stepped on a bottle here/" and picked it up. Just then Sheriff Bailey and Mr. Collins walked in.
+Oscar Eoftin, as a witness in his owxi behalf, testified that it was misting raixi and he drove into this bax-n; that just thexx Chai'les Eley caxne in and asked about Air. Miller; that while they were talking Mr. Eley walked over into a stall, and he went hito another stall, and stepped on a bottle; that he stooped down and picked it up, and said, “Here is a bottle.” Just then he saw the sheriff and Mr. Collins coming in, and the first thing he thought was that it was whisky, and if he was caught with it there would be trouble, so he walked over to the window and broke the bottle; that he did not place it there, and that it was not his whisky; that Mr. Collins found a half pint bottle on the other side of the barn with some whisky in it; that none of the whisky belonged to him; that the litter on the floor of the stalls was four or five inches deep; that he did not drink any of the whisky; that he told the sheriff that he found the bottle there, and the sheriff arrested him and said: “Well, I will let the jury decide whether you found it or not.”
+The jury are the exclusive judges of the weight of the evidence, and this court is not authorized to reverse a judgment of conviction, when there is a conflict in the material testimony, unless it appears from the record that the jury were influenced by improper motives in arriving at their verdict. If, however, there is an absence of substantial evidence to support the conviction, the question is one of law.
+We have carefully examined the record, and are fully convinced that the evidence in this casé is entirely insufficient to sustain the conviction. Considering the presumption that the law always indulges as to the innocence of the accused and the necessity of establishing the guilt of the defendant beyond a reasonable doubt, the evidence should be of such a character as to overcome prima facie the presumption of innocence. If the evidence only raises a mere suspicion, or, admitting all it tends to prove, the defendant’s guilt is left dependent upon mere supposition, surmise, or conjecture, it is insufficient to sustain a conviction. Foreman v. State, 8 Okla. Cr. 480, 128 Pac. 1101.
+In the absence of any evidence in this case from which the jury could rationally conclude that the defendant was guilty, we think it would have been a proper exercise of the power vested in the trial court to have advised an acquittal of the defendant, upon the ground that the evidence was insufficient to sustain a conviction. It is true that there are some circumstances that are somewhat suspicious, but that is the most that can be said of them. In our opinion, it would be destroying the presumption in favor of the innocence of the defendant, and permitting a subversion of the rule which requires the establishment of guilt beyond a reasonable doubt, to allow this conviction to stand.
+For the reasons stated, the judgment is reversed.
+FURMAN and ARMSTRONG, JJ., concur.
