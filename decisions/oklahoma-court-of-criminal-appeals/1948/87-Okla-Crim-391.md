@@ -1,0 +1,59 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-10900"
+decided: "1948-10-06"
+citations: ["87 Okla. Crim. 391", "198 P.2d 439"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JONES and BRETT, JJ., concur."]
+parties: ["DICK PASSMORE v. STATE."]
+source_url: "https://static.case.law/okla-crim/87/cases/0391-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8740954
+cites_cases: ["22 O. S. 1941", "24 Okla. Cr. 332", "37 O.S. 1941", "55 Okla. Cr. 100", "59 Okla. Cr. 146", "59 Okla. Cr. 318", "63 Okla. Cr. 302", "63 Okla. Cr. 84", "69 Okla. Cr. 303", "71 Okla. Cr. 162", "74 Okla. Cr. 246", "74 Okla. Cr. 64", "75 Okla. Cr. 417", "77 Okla. Cr. 368", "78 Okla. Cr. 45", "86 Okla. Cr. 297"]
+---
+
+# Passmore v. State
+
+## Majority (BAREOOT, P. J.)
+
+BAREOOT, P. J.
+Defendant, Dick Passmore, was charged in the county court of Rogers county with the offense of having unlawful possession of intoxicating liquor, to-wit: nine pints of whisky; was tried, convicted and sentenced to pay a fine of $500 and to serve 30 days in the county jail, and has appealed.
+The assignments of error will be considered in their order.
+The facts revealed by the record are that defendant was operating a place known as the Veterans’ Club, located about one and three-quarters mile south of Clare-more, on U. S. Highway 66. On October 21, 1946, Roy Carver, the sheriff of Rogers county, procured a search warrant for the purpose of searching said premises. He was accompanied by his jailor, Lot Langley; and J. C. Busby and Ralph Thompson who were members of the State Highway Patrol.
+The evidence of Sheriff Carver was that on the date in question he entered the Veterans’ Club, which was a public place. A large number of people were present. There was a bar and the sheriff observed the defendant behind the bar. A number of people were dancing, others were sitting at tables with “high ball” glasses. The sheriff smelled the glasses, and detected the odor of whisky. He testified:
+“Q. In his place of business, where did you find the nine pints of whisky? A. Hick had one in his hand and he was mixing a high ball for a boy at the bar. Another pint was sitting on the counter they had for chopped ice and stuff, and the rest of the whisky was in a carton down by the back bar of the place. * * * Q. Where did you find the nine pints of whisky you say you found? A. Hick (the defendant) had one in his hand when I went in. A couple on the bar, and the rest in a cupboard behind the bar.”
+Joe C. Busby and Ralph Thompson, members of the State Highway Patrol, who were present with Sheriff Carver, both testified and corroborated the evidence of Sheriff Carver.
+No evidence was offered by the defendant.
+The first contention of defendant is that certain information obtained by the sheriff was hearsay; that the facts stated in the search warrant, and the affidavit therefor, were based upon information and belief, and that the court erred in refusing to sustain the motion of defendant to suppress the evidence.
+The case-made does not contain a copy of the search warrant, or a copy of the affidavit upon which it was based. Neither does it contain the evidence, if any was offered, at the time the motion to suppress was presented. The motion to suppress was not filed until February 17, 1947, and was presented on February 18, the day before the trial of the case. A copy of the motion was not served on the county attorney until the beginning of the trial of the case. From the above statement, it was not error for the court to overrule the motion to suppress.
+However, under the evidence presented in this case, it was not necessary for the sheriff to have a search warrant to lawfully search defendant’s place of business. When he entered the Club, which was open to the public and which the sheriff and other officers had the right to enter the same as any other citizen, he saw violations of the law being committed in his presence by the defendant.
+37 O.S. 1941 § 89 provides:
+“When a violation of any provision of this Chapter, shall occur in the presence of any sheriff, constable, marshal, or other officer having power to serve criminal process, it shall be the duty of such officer, without warrant to arrest the offender and seize the liquor. * *
+In construing this section of the statute, it has often been held by this court that where a misdemeanor is committed in the presence of an officer, he has the right to arrest without a warrant, and after the arrest, to search the defendant and his immediate surroundings. Overturf v. State, 69 Okla. Cr. 303, 102 P. 2d 623; Brown v. State, 74 Okla. Cr. 246, 125 P. 2d 234; Mullins v. State, 75 Okla. Cr. 417, 133 P. 2d 239; Glasby v. State, 78 Okla. Cr. 45, 143 P. 2d 430.
+It is contended that the court erred in refusing to sustain a motion to disqualify all of the jurors in this case for the reason that they were in the courtroom and heard the evidence taken on the motion to suppress. This hearing was on February 18, 1947, and the motion to disqualify the jury was made on the following morning, February 19, when the case was called for trial. No evidence was taken, and there is nothing in the record to sustain this contention.
+Counsel for defendant then offered a motion to disqualify the county judge. It is unnecessary to state the contents of this motion. The contention of defendant has been passed upon in a case where the facts are almost identical with those here presented, the case of Young v. State, 74 Okla. Cr. 64, 123 P. 2d 294. In that case the facts are fully discussed and the law applicable thereto stated. In the case now before us, no attempt was made to comply with 22 O. S. 1941 § 575, which sets forth the procedure to be followed where an attempt is made to disqualify the judge of a court of record of this state.
+It is next contended that the judgment and sentence is excessive under all the facts in this case, and that the argument of the county attorney before the jury was prejudicial to the defendant and in conflict with the statute which provides that when the defendant does not take the witness stand, no comment shall be made thereon. This is 22 O. S. 1941 § 701, and is as follows:
+“In the trial of all indictments, informations, complaints and other proceedings against persons charged with the commission of a crime, offense or misdemean- or before any court or committing magistrate in this State, the person charged shall at his own request, but not otherwise, be a competent witness, and his failure to make such request shall not create any presumption against him nor be mentioned on the trial; if commented upon by counsel it shall be ground for a new trial.”
+This section of the statute has often been under consideration by this court. We have read the cases, and especially those cited by the state and defendant in their briefs.
+The case-made does not contain the argument of the county attorney. There appears in the record the following:
+“Mr. Kight (counsel for defendant) : The county attorney called the attention of the jury to the fact that the defendant did not put on any testimony, to which statement the defendant objects and asks the court to admonish the county attorney that he should not make such a. statement to the jury, and the jury should not consider it, and that failure to put on testimony does not reflect on him in any manner. Judge Hall: I do not think the county attorney should refer to that again. Mr. Daugherty: To which ruling of the court the county attorney takes exception. You have nothing before you except the state’s evidence. It just settles down to a proposition of what you mean, what you want to do with this case. You can take this case as the truth or by your verdict of not guilty you can say that you do not believe the testimony of any officer that the state has offered at this time. Mr. Eight: To which defendant objects. Judge Hall: Objection noted. Mr. Daugherty: Dick Passmore is either guilty or he is not guilty and the only measuring stick is the evidence in this case. That is the yard stick, the only one you have got and it is up to you men to take that yard stick and perform your duty. I am not telling you to find this man guilty. I am not telling you to do that. That is your responsibility. I have discharged my duty and so has the sheriff that you have elected to office. It is now your duty. You men come back and say whether or not your sheriff has discharged his duty or whether or not he has neglected it. I think that is' all.”
+It is doubtful if, under the decisions of this court construing the above statute, the record would be sufficient to review the remarks placed in the record. Wilson v. State, 24 Okla. Cr. 332, 217 P. 885; Johns v. State, 55 Okla. Cr. 100, 25 P. 2d 716; McDonald v. State, 59 Okla. Cr. 318, 58 P. 2d .345; Trotter v. State, 77 Okla. Cr. 368, 141 P. 2d 812.
+After an examination of the cases cited, we are of the opinion that, regardless of the compliance with the law with reference to properly taking exception to the argument of counsel, the facts here presented were not such as to constitute a violation of the statute.
+In the case of Chesser v. State, 63 Okla. Cr. 84, 73 P. 2d 191, 196, the remarks made by the county attorney were:
+“They argue about the marks made by the automobile or truck in this case, gentlemen, if that was not so why didn’t the defendant offer some testimony about that.”
+Other statements made in the case are similar to the ones made in the instant case, and the judgment was affirmed. See, also, McDonald v. State, supra; and Kennamer v. State, 59 Okla. Cr. 146, 57 P. 2d 646.
+In the case of Starr v. State, 63 Okla. Cr. 302, 74 P. 2d 1174, 1178, the question was:
+“The defendant had the stolen property. There is no other fact. Nobody has given you any other fact.”
+Judge Jones, in writing the opinion in the case of Presnell v. State, 71 Okla. Cr. 162, 109 P. 2d 834, 836, quotes with approval from the Chesser ease, where it is said :
+“Statements of the prosecuting attorney, in argument to the jury, ‘Why couldn’t they contradict the state’s testimony, but not one place do they do that,’ and ‘I say again there is no evidence offered to contradict the state’s evidence in this case,’ held, not a comment upon the failure of the defendant to testify as a witness in his own behalf, within the meaning of section 3068, St. 1931 (22 O. S. A. § 701).”
+In the Presnell case the language was:
+“The witness, Deehan, who is now deceased, in his testimony identified this defendant, and that has not been denied or contradicted by anyone in this case.”
+The judgment in the Presnell case was affirmed.
+As to the contention that the judgment and sentence is excessive, we call attention to the fact that the verdict of the jury in this case contains the following statement:
+“We recommend that jail sentence be suspended but that fine be paid.”
+Under the law a recommendation of the jury to suspend the sentence is not binding on the court, and in a liquor case the court does not have the right to suspend the jail sentence and leave the fine to be imposed. Coe v. State, 86 Okla. Cr. 297, 192 P. 2d 291.
+No donbt the maximum fine of $500 was imposed by the jury in this case on the assumption that the recommendation that the jail sentence be suspended would be complied with. The court rightfully did not attempt to follow the recommendation of the jury.
+We are of the opinion that, under the facts and circumstances in this case, the judgment and sentence should be modified from a fine of $500 and 30 days in jail, to a fine of $250 and 30 days in jail; and as so modified, the judgment of the county court of Rogers county is affirmed.
+JONES and BRETT, JJ., concur.
