@@ -1,0 +1,29 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-11740"
+decided: "1952-05-07"
+citations: ["95 Okla. Crim. 248", "244 P.2d 594"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JONES and POWELL, JJ., concur."]
+parties: ["Ex parte PRUITT."]
+source_url: "https://static.case.law/okla-crim/95/cases/0248-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1515037
+cites_cases: ["73 Okla. Cr. 32", "87 Okla. Cr. 380", "93 Okla. Cr. 82", "94 Okla. Cr. 300"]
+---
+
+# Ex parte Pruitt
+
+## Majority (BRETT, P. J.)
+
+BRETT, P. J.
+This is an original petition in habeas corpus filed by Odis E. Pruitt wherein he alleges he had been and is at the present time unlawfully restrained of his liberty by the Honorable Jerome J. Waters, warden of the State Penitentiary of the State of Oklahoma, under and by virtue of several certain judgments rendered against him in Oklahoma county, Oklahoma. His petition states that a writ of habeas corpus was sought in the district court of Honorable W. A. Lackey, Pittsburg county, Oklahoma, and by said court denied. He further alleges that on December 18, 1945, he was tried and convicted of burglary in the 2nd degree and on December 27, 1945, was sentenced to serve TO years in the Oklahoma State Penitentiary in said cause. He further alleges that he was then held in the Oklahoma county jail for a period of 2 months and 9 days in another case wherein the charge was burglary in the second degree and in which case he was sentenced to serve 2 years to run consecutively to the 10-year sentence in the first case hereinbefore mentioned. He further alleges that on or about the same time he was also given a 2-year sentence in another case for second degree burglary which was to run concurrently with the 2 years in the second case hereinbefore mentioned. He alleges that he has completed serving the 10 years in the first case and is now currently serving time on the 2-year sentences in the second and third cases and that - he is scheduled- for discharge on said sentences on May 28, 1952. Petitioner complains that when the first sentence was imposed he was not immediately delivered to the penitentiary for commencement of service thereof but was held in the Oklahoma county jail for a period of 69 days waiting trial on the other two charges. He contends that he is entitled to be given credit for said time but under the authority of Ex parte Colbert and Hall, 94 Okla. Cr. 300, 235 P. 2d 541, this court could not grant such relief by habeas corpus. In this conclusion he is correct. In the Colbert case we said:
+“The time spent in jail awaiting trial or sentence cannot, in absence of statute, be considered as part of any judgment subsequently pronounced, and it is not embraced within any penalty imposed. * * *
+“Where the penalty has been fixed by either jury or trial judge, the granting of credit for time spent in jail awaiting trial or sentence is a matter within the sole and exclusive jurisdiction of the Governor under Constitution to grant reprieves, paroles, and pardons, for all offenses except impeachment. O. S. Supp. Const. Art. 6, § 10.”
+The Attorney General has filed a demurrer to the petition and under the conditions herewith presented the petition should be denied.
+There is another reason why the demurrer should be sustained. It is because the judgment itself is not void. The petition does not attack the trial court’s jurisdiction to impose the sentence now being served. It only complains of the delay of 69 days in the commencement of the execution of the first 10-year sentence. It is apparent from the record herein that the trial court had jurisdiction in all three cases necessary to render a proper judgment. This court has repeatedly held that jurisdiction is well placed where the trial court has jurisdiction of the person, jurisdiction of the subject matter and authority under the law to pronounce the judgment and sentence rendered. Only on grounds of the lack of jurisdiction or loss of jurisdiction can habeas corpus be granted and where there are the essentials of jurisdiction relief by habeas corpus will be denied. Ex parte Critser, 87 Okla. Cr. 380, 198 P. 2d 228; Ex parte Hackett, 93 Okla. Cr. 82, 225 P. 2d 184.
+Moreover, in the case at bar it appears the trial court may have taken into consideration the 69 days delay in the commencement of the execution of the 10-year sentence in that the trial judge favored the petitioner in making the third judgment and sentence of 2 years run concurrently with the second sentence of 2 years instead of ordering that they run consecutively. This the trial court was not compelled to do. We can only assume he had a sound reason for making the last two sentences run concurrently. None other appearing in the record before us we can only assume it may have partially been out of consideration of the additional 69 days confinement in the Oklahoma county jail after the imposition of the first 10-year sentence that the trial court made the last two sentences run concurrently.
+Furthermore, the petitioner had his remedy against undue delay in the trial of the second and third cases in that he could have presented the matter to the trial court by motion to dismiss, and if the same had been overruled he could have appealed to this court in an original proceeding for a writ of habeas corpus, or he could have proceeded to trial and reserved the question of the denial of a speedy trial as one of the grounds of appeal from a judgment of conviction. Ex parte Wilkerson, 73 Okla. Cr. 32, 117 P. 2d 172. For all the above and foregoing reasons the petition for habeas corpus, wholly fails to state facts sufficient to warrant the granting of the relief prayed for, and the writ is accordingly denied,.
+JONES and POWELL, JJ., concur.
