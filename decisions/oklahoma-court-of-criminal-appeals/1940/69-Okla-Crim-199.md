@@ -1,0 +1,45 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-9609"
+decided: "1940-04-04"
+citations: ["69 Okla. Crim. 199", "101 P.2d 279"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DOYLE, P. J., and BAREFOOT, J., concur."]
+parties: ["VAUGHN HENSLEY v. STATE."]
+source_url: "https://static.case.law/okla-crim/69/cases/0199-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8738294
+cites_cases: ["248 P. 352", "56 Okla. Cr. 354", "62 Okla. Cr. 382", "85 Okla. Cr. 60"]
+---
+
+# Hensley v. State
+
+## Majority (JONES, J.)
+
+JONES, J.
+The defendant Vaughn Hensley was jointly charged with his brother, Howard Hensley, with the offense of larceny of domestic animals in the district court of Caddo county, was separately tried, convicted and sentenced to serve a term of two- years in the state penitentiary, and has appealed to this court.
+The chief contention urged by the defendant for the reversal of this case is that the evidence is insufficient to support the verdict of conviction of this defendant.
+We have held in many cases that where the evidence and reasonable and logical inferences to- be drawn therefrom are sufficient to' convince the jury beyond a reasonable doubt of the guilt of the defendant, this court will not disturb the verdict on account of the insufficiency of the evidence. Pickett v. State, 85 Okla. Cr. 60, 248 P. 352; Clemmer v. State, 56 Okla. Cr. 354, 40 P. 2d 37; Goodnight v. State, 62 Okla. Cr. 382, 71 P. 2d 789.
+The state proved herein that on the night of March 11, 1938, two- cows were stolen from the pen of the prosecuting witness J. F. Winchester while he and his family were away from home. That the next day, after the disappearance of the animals had been discovered, the tracks of the cows and the footprints of two men were found and trailed for some distance through the farm of the prosecuting witness, across two' other farms, to a place to where it appeared that the cows had been tied up for sometime before being loaded into a truck. The tracks made by the casings on the truck were observed and measurements thereof made. The search of the trucks in the neighborhood disclosed that the defendant owned a Ford V-8 pick up with casings similar in tread to the truck in which the cows were loaded. The defendant had lived on the farm adjoining the farm of the prosecuting witness the year before, but at the time of the alleged offense was living about two miles away from the prosecuting witness.
+A search was commenced to try to find the stolen cattle. One of the cows was found in a wheat field near Geary, Okla., and one of them in the stockyards at Oklahoma. City. The testimony disclosed that the cows were purchased by Mr. Burk and Mr. Irwin at Chickasha early on Saturday morning, March 12th. They identified Howard Hensley, brother of the defendant, as the person from whom they purchased the cows, and stated that he came to them by himself to make the sale.
+The nightwatchman at the fair grounds at Chickasha testified that on the night the cattle were stolen, two men came and unloaded the two cows which were later sold to Mr. Burk and Mr. Irwin, and that they were using a pick-up automobile.
+Albert Hinkey testified that he lived in the neighborhood, about four miles from the prosecuting, witness Winchester; that he has known the defendant Yaughn Hensley ever since he was a baby; that on the morning after the night in which the cows were stolen, about 8 o’clock, he saw the defendant by himself in his Ford Y-8 pick-up going towards his home and coming from the east from the direction of Chickasha. This witness was positive in his identification, and stated that he spoke to the defendant at that time.
+James Carroll testified for the state that on Saturday, March 12th, about 3 or 4 o’clock in the afternoon, the defendant came to his place to buy a ton of hay and paid him with a $5 bill and three $1 bills. That he noticed in the pick-up driven by the defendant there was quite a bit of fresh manure. His attention was called to it on account of having to put the hay in the truck while it was in such a filty condition.
+The defendant in his own behalf testified that on the night the cows were stolen, he had sat up all night at his home with a three year old daughter, who had been poisoned, giving her medicine every two hours. That his brother, Howard Hensley, came to his house that night and borrowed his Ford pick-up and that he brought it back about 8 o’clock the next morning. He denied any knowledge of what the brother did with the car; and specifically denied seeing Albert Hinkey as testified to by Hinkey but did admit going over to1 Carroll’s and buying a ton of hay on Saturday afternoon.
+The defendant was supported in his testimony concerning the alibi by his cousin, Woodrow McBride, and Roy Keel, wlm stated that they remained at the defendant’s house all night with him, administering to the baby.
+Horace Blevins testified that he came over to the defendant’s place early on the morning of the 12th and that the defendant, his wife, and Woodrow McBride were there; that he drove into town with the defendant and his family that morning.
+Howard Hensley, brother of the defendant and jointly charged with the offense herein, testified in behalf of the defendant. His evidence showed that he had entered his plea of guilty to this charge and was sentenced to serve a term of two> years in the state penitentiary. He testified that he borrowed the defendant’s pick-up and that he, together with a man by the name of Williams, took the cows from Winchester’s pen and took them to Chick-asha, and that he sold them. That he had met Williams in 1935 when he was working on the highway. He hadn’t seen him very often after they first met, but he had seen him on Wednesday before they had gotten the cattle on Friday night. He did not remember William’s given name, but said he was called “¡Slim,” and did not know where he was living at this time.
+On cross-examination he admitted that he had never at any time before the date of the trial told any one that a man by the name of Williams had helped in the larceny. That he did not know a single man in the community that knew Williams.
+No proof was introduced showing that anybody else knew of this man Williams; and it is apparent to this court from the evidence herein that he is a fictitious character injected into this case by Howard Hensley to try to save the defendant herein from being convicted of this charge.
+It is significant in connection with the alibi presented by the defendant that the doctor that the defendant claimed treated his child and the druggist who filled the prescription for the medicine given the child were not called as witnesses and no effort was made to secure their attendance nor to explain their absence. Either of these men would probably have a record of the date of the child’s ailment, and their testimony would have been given great weight by the jury.
+Alibis may generally be classed as falling into one of three groups:
+(1) Where the facts detailed by the defendant and his witnesses are true and conclusively show the defendant was at another and different place at the time of the commission of the alleged offense.
+(2) Where the facts and dates related are wholly fictitious.
+(3) Where the facts and circumstances detailed by the witnesses are true, but for the purpose of the alibi they have been transposed from one date to another.
+We think the alibi of the defendant herein falls into the third group. There appears to be no question that at about the time of the alleged offense herein, the child of the defendant was sick as related by the witnesses, but the fixing of the date of the ailment at which the defendant and all the parties sat up all night with the girl is unsatisfactory. The defendant’s story, if true, could easily have been sustained by the records of the doctor or the pharmacist who filled the medical prescription. The question of alibi was presented to the jury under proper instructions, and they have seen fit by their verdict to find against the defendant on that issue.
+It was the theory of the state that after the two brothers had taken the cows to Chickasha, the defendant returned to- his home in the truck while his brother hitchhiked from Chickasha to Anadarko. Howard Hensley admitted being in Anadarko about 9 or 9:30 Saturday morning, but stated that he returned the truck to the defendant’s place and then hitch-hiked from the defendant’s home to Anadarko.
+While the evidence against the defendant was wholly circumstantial, it is sufficient to support the verdict of guilty. The case was submitted to the jury under proper instructions on circumstantial evidence and the alibi of the defendant. No complaint is made as to the instructions herein. We have carefully examined the same and find that they fully and fairly presented the issues to the jury.
+The judgment is accordingly affirmed.
+DOYLE, P. J., and BAREFOOT, J., concur.
