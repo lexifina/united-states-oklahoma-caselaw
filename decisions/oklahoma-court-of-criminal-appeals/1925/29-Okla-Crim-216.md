@@ -1,0 +1,38 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-5357"
+decided: "1925-02-04"
+citations: ["29 Okla. Crim. 216", "232 P. 853"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BESSEY, P. J., and DOYLE, J., concur."]
+parties: ["M. C. McCLINTOCK v. STATE."]
+source_url: "https://static.case.law/okla-crim/29/cases/0216-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8741138
+cites_cases: ["12 Okla. Cr. 540", "160 P. 270", "8 Okla. Cr. 554", "8 Okla. Cr. 90", "9 Okla. Cr. 382"]
+---
+
+# McClintock v. State
+
+## Majority (EDWARDS, J.)
+
+EDWARDS, J.
+This court has not been favored with written briefs, but the case was orally argued by counsel for plaintiff in error and the Assistant Attorney General, at which time the only reason urged for the reversal of the case was that the evidence was insufficient to sustain the verdict. We have examined the record, and find that the evidence was entirely circumstantial and shows in substance the following state of facts.
+On February 23, 1924, the deceased, E. C. or Ed Put-man, was living on the west side of Bartlesville in a four-room house. He was a widower. A woman by the name of Cordie Bolen was his housekeeper. About 9 o’clock on the evening of that date some one fired a shotgun, loaded with No. 4 shot, through the window of the house, instantly killing the said Putman. The sheriff and others were called, and made an examination that night and again the next morning. There was a hole some 6 inches in diameter in the window pane which was made by the shots. Wads from the shotgun shell were found inside the house. About 200 yards or such a matter from the house was a large signboard, and behind this indication of where a horse had stood and tramped around. Fresh tracks led from this place to near the window of the house of the deceased, circled, and led away. The ground was wet and muddy, and, from the signboard, the testimony is that on the next day the horse tracks were followed to the house of the plaintiff in error. There a horse belonging to the plaintiff in error was found tied in a barn. This horse was sweaty, and looked as though he had been ridden. A wet saddle blanket was found nearby. The tracks indicated that the horse making them had recently had his shoes pulled, and the measurement of the hoof of the horse and the track of the horse found at the home of plaintiff in error corresponded exactly with those at the signboard and near the window of the house of the deceased, and the tracks followed from the signboard to the house of the plaintiff in error. Also in the house of plaintiff in error was found a shotgun with shells loaded with No. 4 shot, the same size as that with which deceased was killed.
+The evidence further showed that the woman keeping house for the deceased, and apparently living in meretricious relations with him, had formerly lived with the plaintiff in error, who was a widower, in like meretricious relations. She still had some of her belongings at his house, but had not lived with him for some months. The plaintiff in error had been endeavoring to get her to return to him, had called her over the ’phone on numerous occasions, and had talked with her about two or three weeks before that. This witness testified as follows:
+“Q. What was that conversation? A. He wanted to know if I was ready to go out home with him, and I told him, ‘No; I was not going,’ and he kept on at me, wanting me to go, and I told him ‘No; I was not going,’ and he went to crying and says, ‘If you are not going to stay with me, you are not going to stay with Ed Putman.’
+“Q. Anything else said? A. I just looked at him and he says, ‘Do you want me to show you?’ and I says, ‘No.’ ”
+The state also introduced two letters written by the plaintiff in error to this woman, as follows:
+“Jan. 14, 1924.
+“0 Dear Corda, I cant help to think of you. I heard you hollard Mack just as plain as if you had been heer. It seems like a deth since I moved without you if you had told me you wood not come I would thot much of it. But I have thot so much of you an you no that an fought for you and help you when sick and you said you wood stay with me, and I thot you would be it look like you quitent me for Ed an you said you meet me three times and did not. Now dont lie to me no more. I want you to come back and stay an we will raise a boy an live happily you no I allways tryed to be good an help you, when others wood not. Write me an tell me when you will come back. I will call you when I come in town and I want you to meet me an have a talk. Ses come out home with me an I will take you back thair you no you think lots of me and I do you. So I will close for this time so good byby dear. Corda. From M. C. Mc-Clintock rite Bartlesville adress to me I wood come thair an taulk with you but I hate to if you want me to come rite an tell me to come an I will rite soon Dear.”
+“Januey 26, 1924.
+“Dear friend Corda I will rite you a few line to day as I am coming to town you no that I have help you when no one else wood but that all rite now I am not mad at you are no one, you thot I was yestard now we just as well speek and taulk an be good friends as well as for you to be made at me. You got mad last spring an wood not speak for a while but got all rite un till now. You welcome at me place now as you as ever. An I think if some others had not talked so to you you would not get mad. Now if you want to rite that all rite and if not it áll rite I wish you would aneer this any how M. C. McClintock.”
+On the 19th of February, four days before the killing, the plaintiff in error wrote to the deceased, Ed Putman, this letter:
+“Ed Putman you are givne a Short Notice to get Red of that Woman are you will get in bad. Don’t Ride no more in the Care. Your are give to the 23 ans She had better Be gone to Save you trouble. You mother need that money an you give her home.”
+It will be observed that the date given the deceased to get rid of the woman was the 23’d, on the night of which the killing took place. The deceased had not received it, it was delivered by the post office after the killing.
+The plaintiff in error admits writing the letters in question, but testified that he spent the night at home alone on the 23d and denies that he shot the deceased. There are other circumstances tending to sustain the theory of the state.
+The rule has been often announced by this court that, where there is competent evidence reasonably sustaining the verdict, its weight is for the jury, and this court will not reverse the judgment. In this case the circumstances unerringly point to the guilt of the plaintiff in error. The acts and letters of plaintiff in error show infatuation, brooding, and a scarcely veiled threat. They have extremely strong evidentiary value. “Oh that my adversary would write a book,” said Job. The plaintiff in error is shown by his own admissions to have had a powerful motive for killing the deceased. Illicit love has been a fruitful cause of assassination. No doubt more have been prompted by this motive than any other single cause. History, both profane and sacred, as well as the criminal reports, teem with accounts of homicide prompted by this motive. Anderson v. State, 8 Okla. Cr. 90, 126 P. 840, Ann. Cas. 1914C, 314; Burns v. State, 8 Okla. Cr. 554, 129 P. 657; Brown v. State, 9 Okla. Cr. 382, 132 P. 359; Borah v. State, 12 Okla. Cr. 540, 160 P. 270.
+The judgment of the trial court is therefore affirmed.
+BESSEY, P. J., and DOYLE, J., concur.
