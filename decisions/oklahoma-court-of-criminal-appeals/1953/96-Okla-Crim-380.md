@@ -1,0 +1,30 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-11915"
+decided: "1953-04-01"
+citations: ["96 Okla. Crim. 380", "255 P.2d 949"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DE WOLF v. STATE."]
+source_url: "https://static.case.law/okla-crim/96/cases/0380-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8742129
+cites_cases: ["18 Okla. Cr. 145", "193 P. 1008", "22 O.S. 1951", "250 P. 2d 233", "259 P. 181", "38 Okla. Cr. 72", "70 Okla. Cr. 365", "78 Okla. Cr. 206", "86 Okla. Cr. 394", "87 Okla. Cr. 260", "91 Okla. Cr. 410", "95 Okla. Cr. 287"]
+---
+
+# De Wolf v. State
+
+## Majority (POWELL, P. J.)
+
+POWELL, P. J.
+Now on this 1st day of April, 1953, there comes on for hearing a purported appeal by the petitioner, Carl Austin DeWolf, from an order of the district court of Tulsa county striking a motion for new trial from the files of said court by reason of lack of jurisdiction in said court to hear said motion. The motion was based on the ground of newly discovered evidence.
+The Attorney General on behalf of the state has now filed herein a motion to strike and dismiss the petition in error, and appeal attempted to be filed in this court.
+After considering the petition in error, the transcripts attached, and after hearing argument of counsel, and being fully advised in the premises, this court finds:
+That Carl Austin DeWolf was charged by an information filed in Tulsa county, Oklahoma, with the crime of murder; thereafter, he was tried and convicted by a jury, which fixed the death penalty. Within the time allowed by law, DeWolf appealed to the Criminal Court of Appeals from said conviction. On May 28, 1952, the Criminal Court of Appeals affirmed the judgment of the lower court and fixed the date of execution. DeWolf v. State, 95 Okla. Cr. 287, 245 P. 2d 107. No petition for rehearing was filed. Counsel for DeWolf who appeared in his behalf on the appeal were advised that the court would issue a stay of execution for a period of 90 days to permit the filing of a petition for certiorari to the Supreme Court of the United States if counsel so desired, and counsel George Campbell, Esq., informed the court that he did not wish to make application to the Supreme Court of the United States for certiorari to review the judgment of the Criminal Court of Appeals, but he and the accused had consulted and had decided that their only chance for relief rested with the Pardon and Parole Board. The mandate of the Criminal Court of Appeals was accordingly issued on June 25, 1952. Thereafter, the accused and his counsel appeared before the Pardon and Parole Board and the application for clemency was denied. Thereafter, on September 25, 1952, the accused filed an application with the Criminal Court of Appeals to recall its mandate so as to authorize the prisoner to present a motion for new trial on the ground of newly discovered evidence. In said motion for new trial, substantially the same allegations were made as are now set forth in the styled “Motion for New Trial on the Ground of Newly Discovered Evidence,” which is now before the court for consideration. After an extended hearing on October 16, 1952, an order was made denying the application of the accused.
+The right of an accused in a criminal case to appeal is governed strictly by statute and must be from a final judgment. 22 O.S. 1951 § 1054. State v. Kile, 96 Okla. Cr. —, 250 P. 2d 233; Gibson v. State, 87 Okla. Cr. 260, 197 P. 2d 310; Thornton v. State, 86 Okla. Cr. 394, 193 P. 2d 609; Lamb v. State, 91 Okla. Cr. 410, 219 P. 2d 256; Stansbury v. State, 78 Okla. Cr. 206, 146 P. 2d 137; Robinson v. State, 70 Okla. Cr. 365, 106 P. 2d 531.
+In Thornton v. State, supra; Stansbury v. State, supra; Clark v. State, 18 Okla. Cr. 145, 193 P. 1008, 1009; Easterwood v. State, 38 Okla. Cr. 72, 259 P. 181, this court held that there was no authority at law for taking an appeal from an order overruling a motion for new trial, but the only appeal authorized is from a final judgment. Title 22 O.S. 1951 § 1054, supra.
+By the statutes of Oklahoma, a motion for new trial must be made before judgment is entered, but where the motion for new trial is on the ground of newly discovered evidence, made after the judgment is rendered, it must be presented not later than the succeeding term of court after the trial is held. 22 O.S. 1951 § 953.
+It further appears to the court that this pretended appeal was filed without first securing the permission of the court so to do and that the same being wholly unauthorized and without permission of the court should be stricken from the files.
+It further appears that since the filing of said attempted appeal on the 24th day of March, 1953, that on the 31st day of March, 1953, counsel for defendant filed in this court on hehalf of the defendant a petition for writ of habeas corpus, and that such action amounts to an abandonment of the purported appeal.
+It is therefore ordered that the attempted appeal herein be and the same is hereby dismissed.
