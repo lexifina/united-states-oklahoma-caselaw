@@ -1,0 +1,36 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-3733"
+decided: "1921-11-16"
+citations: ["20 Okla. Crim. 124", "201 P. 663"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DOYLE, P. J., and BESSEY, J., concur."]
+parties: ["ARTHUR SMITH v. STATE."]
+source_url: "https://static.case.law/okla-crim/20/cases/0124-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8738514
+cites_cases: ["11 Okla. Cr. 376", "13 Okla. Cr. 643", "145 Pac. 811", "166 Pac. 442"]
+---
+
+# Smith v. State
+
+## Majority (MATSON, J.)
+
+MATSON, J.
+This is an appeal from the district court of Beaver county, wherein the defendant, Arthur 0. Smith, was convicted of the crime of rape, alleged to have been committed upon his daughter, Leola Mary Smith, a child under the age of 14 years.
+Numerous assignments of error are relied upon for reversal of this"judgment; but, in view of disposition made of this appeal, it will be necessary only to consider one of such assignments.
+The information charged the offense to have been committed on or about the 1st day of August, 1918.
+The evidence disclosed that the prosecutrix reached the age of 14 years on the 4th day of September, 1918. To obtain a conviction the prosecutrix testified to several acts of sexual intercourse with the defendant, beginning some time between Thanksgiving and Christmas of 1916, and extending up until a short time before the filing of this charge in March, 1919.
+The prosecution made no election as to which particular act of sexual intercourse upon which reliance would be had for a conviction. The trial court did not require the prosecution to elect, for a conviction, upon any particular act of intercourse between the defendant and the prosecutrix, prior to the time the prosecutrix reached the age of 14 years. In the court’s general charge to the jury the following instruction was given:
+“Arty unmarried female under the age of 16 years.is incapable of consenting to an act of sexual intercourse. The act of sexual intercourse therefore accomplished by a male with a female, under the age of 16 years, not the wife of the perpetrator is rape whether the perpetrator obtain her consent or not. Rape committed by a male over 18 years of age upon a female under the age of 14 years, or incapable, through lunacy or unsoundness of mind, of giving consent, or accomplished with any female by means of force overcoming her resistance, or by means of threats of immediate and great bodily harm, accomplished by apparent power of execution, preventing such resistance, is rape in the first degree. Rape in the first degree, is punishable by death or imprisonment in the penitentiary, not less than 15 years, in the discretion of the jury. If, therefore, you believe from all the evidence, facts, and circumstances in this case, beyond reasonable doubt, that the defendant accomplished sexual intercourse with the prosecuting witness, Leola Mary Smith, in said Beaver county, at any time, within three years from the filing of said information, that the said Leola Mary Smith was not at that time the wife of the said defendant, and was at that time under the age of 14 years, then your verdict should be that the defendant is guilty of rape in the first degree.”
+The foregoing instruction was excepted to by defendant’s counsel. ¥e think the giving of same over the objection and exception of defendant constituted a reversible error in this case.
+Rape is not a continuous offense. On the evidence in this case every act of sexual intercourse testified to by the prose-cutrix constituted a distinct crime, and the trial court should either require the prosecution to elect upon which of such acts it would rely for a conviction, or else the court would have treated the act of which the state first introduced evidence to tend in any degree to prove the offense as an election and should have given a specific instruction limiting the jury to a consideration of this particular act as a basis for a conviction. 22 R. C. L. p. 1227, § 63. This the court did not do, but, on the contrary, instructed the jury that—
+If they believed from all the evidence beyond a reasonable doubt “that the defendant accomplished sexual intercourse with the prosecutrix, Leola Mary Smith, in said Beaver-county at any time within three years from the filing of said information, that the said Leola Mary Smith, was not at that time the wife of said defendant, and was at that time under the age of 14 years, then your verdict should be that the defendant is guilty of rape in the first degree.”
+It is apparent that on this instruction the jurors were permitted to base a conviction upon any of the numerous acts of sexual intercourse testified to by prosecutrix as occurring between her and the defendant before she reached the age of 14 years, all of which occurred within three years from the filing of the said information. Manifestly one of the said jurors may have believed the defendant guilty, basing his belief upon proof of an act of sexual intercourse testified to by prosecut-rix, entirely different from that upon which another of said jurors based his belief, so therefore, while the twelve jurors may have unanimously arrived at the conclusion that the defendant was guilty of the crime charged, there is no way of determining by this record that each of said jurors based his conviction of guilt upon the same act of sexual intercourse. See Montour v. State, 11 Okla. Cr. 376, 145 Pac. 811.
+It has been repeatedly held in this state that a person may be tried for, and convicted of, only one offense at a time, and while proof of other acts of intercourse, in a prosecution for statutory rape occurring both prior, to and subsequent to the one relied upon for a conviction, may be proved for the purpose of showing the intimate relations existing between the parties, etc., the conviction must be based solely upon one of such acts and not all of them. Gracy v. State, 13 Okla. Cr. 643, 166 Pac. 442.
+An examination of this record discloses that this case was not tried with reference to any particular act of sexual intercourse alleged to have been committed by the defendant with the prosecutrix on or about the 1st of August, 1918, or any other particular act of sexual intercourse occurring within three years preceding the filing of the information and at a time when the prosecutrix was under the age of 14 years. But the trial court in not requiring the state to elect upon one such particular act, and in submitting the question of guilt on all of such acts, clearly committed reversible error, as this conviction could be pleaded in bar of a subsequent prosecution based on any definite act of sexual intercourse alleged to have occurred between the defendant and the prosecutrix in Beaver county, prior to the date that the prosecutrix reached the age of 14 years.
+For reasons stated, the judgment is reversed, and cause remanded for further proceedings not inconsistent with this opinion.
+The warden of the penitentiary at McAlester will deliver the defendant to the sheriff of Beaver county, who will hold him in custody until otherwise ordered according to law.
+DOYLE, P. J., and BESSEY, J., concur.
