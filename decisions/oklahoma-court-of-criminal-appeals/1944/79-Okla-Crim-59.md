@@ -1,0 +1,40 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-10326"
+decided: "1944-09-06"
+citations: ["79 Okla. Crim. 59", "151 P.2d 819"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JONES, P. J., concurs. DOYLE, J., not participating."]
+parties: ["EMIL WIRTH v. STATE."]
+source_url: "https://static.case.law/okla-crim/79/cases/0059-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1527079
+cites_cases: ["64 Okla. Cr. 382", "67 Okla. Cr. 203", "68 Okla. Cr. 455", "70 Okla. Cr. 432", "74 Okla. Cr. 246"]
+---
+
+# Wirth v. State
+
+## Majority (BAREFOOT, J.)
+
+BAREFOOT, J.
+Emil Wirth was charged in the county court of Garfield county with the crime of driving a motor vehicle upon the public highway while under the influence of intoxicating liquor, was tried, convicted, sentenced to pay a fine of $50 and costs, and has appealed.
+In his petition, defendant sets out ten assignments of error, but in his brief urges only three, as follows:
+“First proposition: Error of the trial court in overruling defendant’s motion to suppress the evidence.
+“Second proposition: Error of the court in failing to give the instructions Nos. 1 and 2 requested by the defendant.
+“Third proposition: Alleged error of the court in permitting attorney for the State, in his cross-examination of the defendant, and his witnesses, to prove other misdemeanors and offenses other than the one for which defendant was on trial.”
+As to the first proposition, it is revealed by the record that defendant filed a motion to suppress the evidence, but no evidence was submitted to sustain the motion. The record shows that the court overruled the motion, after hearing thereon, and gave defendant an exception. In the absence of any testimony in the record, the presumption would be that the overruling of the motion by the trial court was not error.
+The facts in the case were that two police officers arrested defendant in the city of Enid, between 5 and 5:30 in the afternoon of December 6, 1941. They were driving their car north on Tenth street, and defendant was coming south on the same street, in a truck. With him was his ex-wife, from whom he had previously been divorced. The evidence of the officers was that defendant was on the east side, or wrong side, of the street. In order to keep him from running into their car, it was necessary for them to turn into a private driveway. They recognized the defendant, and turned and followed his car for two blocks. He made a long swing to the right-hand side of the street, which would be the west side, and then made a swing to the left-hand side, across the center line; and then turned Avest on Maple street. The officers followed him and sounded their horn. When he did not stop they turned on the siren, and defendant stopped. They asked Mm to get out of the car. He had to hold to the car to steady himself, and from his general appearance, and the odor of intoxicating liquor on his breath, they determined that he Avas drunk, and unable to properly drive a car. They placed him in the police car and took him to the police station. The other officer drove the truck of defendant, and took his ex-wife, who Avas also under the influence of intoxicating liquor, to the police station. The two police officers Avho made the arrest, the police sergeant, another policeman, a newspaper reporter, and the police matron all testified that they saAV defendant, and that in their opinion he Avas drunk. They testified that he staggered Avhen he Avalked; that he talked with a thick tongue, and had all the appearance of being under the influence of intoxicating liquor. He Avas placed in the city jail, and the officers took his ex-wife to her home so she could be with her small children, who were there. All of the officers testified that she was under the influence of intoxicating liquor.
+The arrest was made on Saturday evening, and on the following Monday this charge was filed against the defendant in the county court of Garfield county. No charge was filed in the municipal court of the city of Enid.
+The contention of defendant is that he was arrested without a search warrant, and for this reason the court should have sustained a motion to suppress the evidence and discharged the defendant. Under the above statement, it will at once be observed that this contention cannot be sustained. The defendant, according to the evidence of the officers, was committing several crimes, which justified the officers in arresting him. It could certainly not be expected of officers that when they in the course of their duty observe a violation of the law in their presence, should be forced to leave the scene for the purpose of securing a search warrant. Such a construction as this would make a farce of the law. Brown v. State, 74 Okla. Cr. 246, 125 P. 2d 234; Nott v. State, 70 Okla. Cr. 432, 107 P. 2d 366; Barfield v. State, 68 Okla. Cr. 455, 99 P. 2d 544; Matthews v. State, 67 Okla. Cr. 203, 93 P. 2d 549.
+It is true that the defendant and Ms companion testified tha.t he was not drunk, nor under the influence of intoxicating liquor, and he testified that he had only drunk two bottles of beer. He also testified that he thought the arresting officers “had it in for me” because of previous arrests and convictions.
+This conflicting evidence was a question for the jury, and not an appellate court. The evidence of the state was not only sufficient to justify the overruling of the motion of defendant to suppress the evidence, but was also sufficient to sustain the judgment.
+It is next contended that the court erred in refusing to give requested instructions Nos. 1 and 2.
+The first requested instruction was a definition of what is meant by “being under the influence of intoxicating liquor.” The court gave this instruction in the exact language as referred to in the case of Luellen v. State, 64 Okla. Cr. 382, 81 P. 2d 323, decided by this court on July 1, 1938. The court used the exact language of this approved instruction.
+It is insisted that the court failed to instruct the jury upon the defendant’s theory of defense. The only defense was that the defendant was not under the influence of intoxicating liquor at the time he was arrested. This issue was fairly presented to the jury in the instructions given by the court.
+Instruction No. 2 was purely a question of law for the court to decide. It was for the court to determine as a matter of law whether the evidence should be suppressed, and the court did not err in refusing to submit this issue to the jury.
+The third contention of defendant is not sustained by the record. Counsel for defendant on cross-examination interrogated certain witnesses with reference to the arrest of the defendant on another occasion, for an offense identical with the one with which he stood charged. It developed that he had been convicted in the municipal court, the case wras appealed to the district court, and the district judge quashed the evidence by reason of the officers not having a search warrant. The court permitted the county attorney to cross-examine the witness with reference to this conviction, and which had been developed on direct examination by counsel for defendant. The trial court also permitted the county attorney to cross-examine the defendant as to a former conviction in the municipal court of an offense similar to the one here presented. The court limited this evidence as only to effect the credibility of the witness, and so instructed the jury. We do not find that the court committed any error in the procedure above indicated.
+The record reveals that defendant had a fair and impartial trial. The trial court was extra cautious in his rulings on the admission of evidence, and his instructions were very fair.
+Finding no error in the record, the judgment of the county court of Garfield county is affirmed.
+JONES, P. J., concurs. DOYLE, J., not participating.
