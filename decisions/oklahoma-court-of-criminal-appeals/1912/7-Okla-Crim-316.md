@@ -1,0 +1,39 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-1366"
+decided: "1912-05-09"
+citations: ["7 Okla. Crim. 316"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["FURMAN, P. J., and ARMSTRONG, J., concur."]
+parties: ["T. C. BOWES v. STATE."]
+source_url: "https://static.case.law/okla-crim/7/cases/0316-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4298556
+cites_cases: ["1 Chit. Crim. Law, 26"]
+---
+
+# Bowes v. State
+
+## Majority (DOYLE, J.)
+
+DOYLE, J.
+The plaintiff in error, T. C. Bowes, was convicted in the county court of Custer county on an information filed in said court on September 16, 1909, which charged the unlawful sale of three bottles of beer to one Frank Coker on September 3, in said county. The information was sworn to before A. S. Darnell, a notary public. July 17, 1911, in accordance with the verdict of the jury he was sentenced to serve a term of thirty days in the county jail and to pay a fine of fifty dollars. From the judgment he appealed by filing in this court on September 12, 1911, a petition in error with case-made. The petition contains twenty assignments of error.
+From a careful examination of the íecord we are constrained to believe that nearly all of the assignments seem to be well taken. However, it is only necessary for a determination of this appeal to notice one or two.
+When the case was called for trial defendant filed a motion to quash the information for the reason that the same was verified before A. S. Darnell, a notary public, he being then and there a duly appointed, qualified,- and acting deputy county attorney of Custer county, and being also the law partner of P. A. Snodgress, the county attorney. The verification of an information charging a misdemeanor should be by oath or affirmation taken before a judicial officer, one authorized to administer the oath, etc. At common law such oath was taken before a magistrate. 1 Chit. Crim. Law, 26. Our Criminal Procedure Act provides (sec. 6494, Comp. Laws 1909) that the procedure, practice, and pleadings in criminal actions, not specifically provided for in this Code, shall be in accordance with the procedure, practice, and pleadings of the common law, and we are inclined to think that the common law in that regard prevails in this state. A notary public is an officer of the civil and commercial law, and is unknown to the criminal law, and such verification was unauthorized. However, the record shows that the defendant theretofore had entered his plea of not guilty, and it may be that he had thus waived the objection as made by the motion to quash.
+After the jury was empanelled and sworn to try the case the defendant filed the following motion to dismiss.:
+“At this time the defendant herein moves the court to dismiss the cause for the reason that the case has been discontinued by operation of law, and for the further reason that it appears from the records that the information herein was filed in this court on September 16, 1909; that under the Constitution and the laws of the state of Oklahoma eight regular terms of this court have elapsed since the filing of this information; that.this is the first term of court at which the same has been placed on the calendar for trial, and that the said cause has not been continued upon the application of the defendant.”
+Which motion was by the court overruled and exception allowed. This ruling of the court is assigned as error, and it is now contended by the defendant’s counsel that the county court of Custer county was without jurisdiction to try the case, because the defendant had not been brought to trial at the next term of the court after filing the information. ■,
+In support of this assignment the case-made contains a copy of the docket entries certified to by the clerk of the court as follows :
+“Sept. 16, 19Q9, complaint filed. Sept. 18, bond filed and approved. Jan. .20, 1910, continued until next term of court. July 5, 1910, set for trial July 19th. July 19, 1910, cause passed. Oct. 1, 1910, case set for tidal Oct. 1st. Dec. 19, 1910, continued for term by application of defendant. Jan. 11, 1911, continued for term by application of the defendant. April 26, 1911, passed. June 30, 1911, set for trial July 10, 1911.”
+The question presented cannot be reviewed upon the record before us, for the reason that the docket entries as made by the judge of the court upon the bench docket constitute no part of the record proper, which can be brought to this court bjr a certified transcript. The case-made itself does not purport to contain the proceedings had at each term of the court.
+In the absence of a proper record affirmatively showing the contrary, the presumption is that the court had continued the case for a presumably lawful cause. The burden was on the defendant, in support of his motion to- dismiss, to show that- the laches was on the part of the state through its prosecuting officers, otherwise the presumption is that the delay was caused by or with the consent of the defendant himself, and when on bail he must demand a trial or resist the continuance of the case from term to term. A defendant who has never demanded or been refused trial is not entitled to a'discharge under the constitutional provision, ai'ticle 2, sec. 20, and the statutory provision, section 6498, Comp. Laws 1909.
+The next assignment of error is that the evidence is insufficient to sustain the verdict and judgment.
+Frank Coker, the only witness on behalf of the state, testified as follows:
+“Q. You may state whether or not you had any business transactions with the defendant in September, 1909? A. I was up there one afternoon. Q. Was that on the 3rd day of September? A. I think so. Q. You say you had dealings-with him on that da)Y A. I got three bottles of beer. ’ Q. State to the jury about that transaction, what it was? A. I went in the house and asked Mr. Bowes if he had any beer, and he said a few bottles for his own use, and I said, ‘Llave you enough that you could spare me one,’ and he said, ‘I don’t think I have,’ and I seen some in a bucket, and I picked up three of them, and walked into the kitchen, they was in the dining room, and I went into the kitchen, and opened two of them, and drank them, and the other one I brought it away with me, and I left seventy-five cents in the kitchen. Mr. Bowes was in the dining room at the time; that it the way it came up. Q. You paid him for it then? A. 1 left it in the kitchen on the table. Q. Where did this occur? A. In Mr. Bowes’ residence. Q. In Custer county. A. Yes, sir; in the town of Clinton, Oklahoma.”
+The motion to direct a verdict of acquittal should have been sustained. AVe are clearly of the opinion that the testimony of this witness is insufficient to sustain a conviction. In the case of Shive v. State, infra, this witness testified to almost the same state of facts. It would seem that this witness was released from imprisonment on the condition that he would verify complaints and testify in cases where a violation of the prohibition law was charged. In the Shive case it was said:
+“This court has never upheld a conviction based upon the uncorroborated testimony of a self-confessed criminal, who admitted in his testimony that he was securing immunity by reason of such testimony.”
+The fact shown by this record — that a misdemeanor case was not called for trial until almost two years after the information was filed and the defendant arrested — is beyond our comprehension. Such a delay in a criminal prosecution is inexcusable and is a travesty on the administration of criminal justice.
+For the reason stated, the judgment of the county court of Custer county is reversed.
+FURMAN, P. J., and ARMSTRONG, J., concur.
