@@ -1,0 +1,28 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-11287"
+decided: "1950-10-25"
+citations: ["92 Okla. Crim. 382", "223 P.2d 557"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JONES, P. J., and POWELL, J., concur."]
+parties: ["MILLER v. STATE."]
+source_url: "https://static.case.law/okla-crim/92/cases/0382-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8740472
+cites_cases: ["85 Okla. Cr. 132", "86 Okla. Cr. 314", "87 Okla. Cr. 313", "88 Okla. Cr. 299"]
+---
+
+# Miller v. State
+
+## Majority (BRETT, J.)
+
+BRETT, J.
+The appellant, Charles Leland Miller, defendant below, was charged by information in the district court of Garfield county Okla., with the crime of grand larceny in the theft of a doctor’s medical bag and contents of the total value of $50, same being the property of Dr. Vernon Gau, in Enid, Okla., on July 28, 1948. He was tried by a jury, convicted, the jury being unable to agree on the penalty, and leaving the matter to the trial judge, was sentenced by the trial court to two years in the penitentiary and judgment and sentence entered accordingly.
+The appeal in this case was perfected herein on August 9, 1949, and on September 13, 1950, being set for oral argument, the same was submitted without briefs on the record.
+We have examined the record and find no fundamental error therein in either the information, the evidence, instructions, or any of the proceedings sufficient to warrant a reversal of the conviction had herein. The petition in error discloses that among the assignments of error is that the evidence is. insufficient to sustain the conviction. In this connection, the facts briefly are that Dr. Gau was standing on the second floor of the Enid Osteopathic Hospital looking out the back door, when he observed the defendant remove his medical bag from the doctor’s 1947 Chrysler automobile. Dr. Gau said he rushed down the stairs and chased the defendant, overtaking him, Avhen the defendant struck him with the bag, spilling its contents on the ground. The doctor finally retrieved the bag after another chase and encounter with the defendant. He grabbed the defendant and was holding him with another person identified as the defendant’s brother pulled him off the doctor. The defendant then escaped. Later, the defendant being apprehended, the doctor identified the defendant at the police station. Dr. Gau testified the bag and its contents was worth $50 or $60.
+Dr. Gau was corroborated in the delineation of the foregoing facts Avitli reference to the theft of the bag by Pearl Hadley Murphee, dietician, Daisey Schardien, registered nurse at the hospital, and Mrs. Craig Gilbert, a registered nurse. Moreover, Mr. Walter Stewart, police captain, testified to having interviewed the defendant about 7:00 p.m. The crime was allegedly committed about 5:30 p.m. Stewart said the defendant denied being on dope at the time he took the bag. When asked why he took the bag he. said he did it to get some sleeping pills because he was not able to sleep or do anything. The defendant did not seem to be under any pain the officer said, though at the time of the interview he was under the influence of something. Furthermore, Sergeant Dale Moxley who arrested the defendant said that at the time of his arrest he had a freshly pricked blood spot on his arm as though he had had a shot. “He appeared to be hopped up”.
+In defense Miller said he was in such mental condition about breaking the dope habit he did not remember anything about the theft of the bag. He said at the time the bag was stolen he was not using narcotics but was trying to get off the dope habit. He was taking sleeping pills in an effort to sleep. In an effort to relieve the pain and sleep he was in bed most of the time. He said he was taking some kind of barbital to calm his nervousness. He remembered the foregoing things but did not remember the officers arresting him. He said he did not remember Dr. Gau, or hitting him on the head, but did remember the scuffle. He stated his folks told him when he woke up and wanted to go for a drive and “we started out driving and that is where we landed up”. (Referring, of course, to the theft of the bag.) He admitted he had a shot of narcotics before he was arrested.
+His mother, Thelma Miller, testified her son was addicted to the use of narcotics. She said he was taking Nimitol to sleep so he could shake the habit. She said he had nothing intravenously and he suffered great pain. She said she was not at home when the things happened. (This, of course, does not jibe with her son’s testimony that his parents and his brother took him for a ride and “this is where we landed up”.) These circumstances created a conflict in the evidence for the jury. We have repeatedly held that findings of a jury on disputed questions of fact will not he disturbed on appeal where there is competent evidence in the record to sustain the jury’s findings. Wheaton v. State, 85 Okla. Cr. 132, 185 P. 2d 931; Lowery v. State, 87 Okla. Cr. 313, 197 P. 2d 637; Bell v. State, 86 Okla. Cr. 314, 192 P. 2d 714; Doser v. State, 88 Okla. Cr. 299, 203 P. 2d 451. The evidence herein though conflicting is sufficient to support the conviction and sustain the judgment and sentence* Though there are other assignments of error contained in the defendant’s petition in error, they are without substantial merit. For the above and foregoing reasons the judgment and sentence herein imposed is affirmed.
+JONES, P. J., and POWELL, J., concur.
