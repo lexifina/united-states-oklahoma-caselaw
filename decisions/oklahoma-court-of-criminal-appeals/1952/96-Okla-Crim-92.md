@@ -1,0 +1,33 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-11613"
+decided: "1952-10-15"
+citations: ["96 Okla. Crim. 92", "249 P.2d 132"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BRETT, P. J., and POWELL, J., concur."]
+parties: ["KIZER v. STATE."]
+source_url: "https://static.case.law/okla-crim/96/cases/0092-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8741057
+cites_cases: ["22 O. S. 1951", "78 Okla. Cr. 201", "83 Okla. Cr. 358", "83 Okla. Cr. 403", "84 Okla. Cr. 396", "90 Okla. Cr. 160", "90 Okla. Cr. 340", "96 Okla. Cr. 36"]
+---
+
+# Kizer v. State
+
+## Majority (JONES J.)
+
+JONES J.
+This action was commenced in the county court of Harmon county wherein the defendant, Roy Kizer, was charged by an information with having committed the offense of unlawful transportation of whiskey. Defendant was tried, convicted, and pursuant to the verdict of the jury was sentenced to serve the minimum sentence of 30 days in the county jail and to pay a fine of $50, and has appealed.
+For a reversal of the conviction' the following propositions are presented: (1) The court' erred in overruling the motion to suppress evidence. (2) The court erred in giving instructions numbered 4 and 6.
+At the hearing on the motion to suppress evidence the proof showed that the sheriff and undersheriff of Harmon county were driving on East Broadway street in the city' of Hollis on their way to Anderson’s Cafe to eat their evening meal. At a point opposite the cafe the traffic was congested and the officers had stopped their automobile. They saw the defendant drive up in his automobile and park by the side of an automobile belonging to Bill Anderson, the owner of the cafe. The defendant emerged from his car with a pint bottle in his hand, which the officers suspicioned was whiskey. Defendant placed the bottle in the front seat of the Anderson car and walked into the cafe. The officers parked their automobile, walked to the Anderson car, picked up the bottle which defendant had placed in the car, examined it and ascertained that it was whiskey. Then they walked into the cafe where they arrested the defendant. The defendant and his car were taken to the city jail. The ear was there searched and four pints of whiskey were found under the seat and three half pints were found in the glove compartment.
+It is the contention of the defendant that the search was made without a warrant and on suspicion only and was and is illegal because it was made in violation of his constitutional rights.
+There is no question but what the, search of the Anderson car was made on suspicion. The officers testified that they knew the defendant was a bootlegger and were suspicious when they saw him place the bottle in the Anderson car. At the time they seized the bottle of whiskey in the Anderson car they were prompted by nothing more than suspicion. However, the defendant denied ownership of the whiskey and the proof showed that the ear in which the first bottle of whiskey was seized by the officers belonged to Bill Anderson. The defendant under such circumstances could not complain of the search of the Anderson car. Love v. State, 83 Okla. Cr. 403, 177 P. 2d 846; Plumlee v. State, 78 Okla. Cr. 201, 146 P. 2d 139; Akers v. State, 90 Okla. Cr. 160, 212 P. 2d 170; Hood v. State, 90 Okla. Cr. 340, 213 P. 2d 883.
+After the officers had ascertained that the bottle of liquor seized in the Anderson car was whiskey, they had a lawful right to arrest the defendant and search him and the car from which he emerged. Such search having been made after a lawful arrest, then the evidence so seized was admissible in a prosecution against the defendant for the possession or transportation of such intoxicating liquor. Lawson v. State, 84 Okla. Cr. 396, 182 P. 2d 786; Jones v. State, 83 Okla. Cr. 358, 177 P. 2d 148.
+Instruction No. 4 to which exception was taken reads:
+“In this case there was no search warrant issued or served and the State depends upon the assertion that the offense was committed in their presence that they saw and identified the liquor in question before an arrest was made, and you are further instructed that it was not necessary for the officers to have a search warrant to search a car under the situation testified to as belonging to Bill Anderson, as he was not a defendant in this case.”
+This court has repeatedly held that the question of the legality of a search and seizure of intoxicating liquor is solely a judicial question to be determined by the trial court, and under no circumstances is this a question to be considered by the jury. Fulbright v. State, 96 Okla. Cr. 36, 248 P. 2d 651. The instruction was improper and should not have been given to the jury. However, the defendant took the witness stand, admitted his prior conviction of a felony, and admitted the ownership of the whiskey found in the glove compartment, but denied any knowledge of how the whiskey happened to be under the seat. He made no contention that he had the whisky for any lawful purpose. His guilt was clearly established. The jury gave him only the minimum punishment. Under such circumstances, even though we condemn the giving of the instruction complained of, still, it could only amount to harmless error. It was evident that the defendant was relying principally upon his motion to suppress evidence and after the court had overruled his motion he had no legal defense to the charge. The Legislature has directed this court under such circumstances to treat the giving of the erroneous instructions as harmless error. 22 O. S. 1951 § 1068.
+In regards to instruction No. 6 we find that no exception was taken to the giving of this instruction and it was not assigned as error in the motion for new trial. Counsel who represented the accused in the trial court do not represent the defendant before this court but a different attorney was employed who presented the question that instruction No. 6 was erroneous. This instruction was poorly worded and the trial court in future prosecutions should not give an instruction in the language which was employed in that instruction. However, such instruction was not fundamentally erroneous and the question not having been presented in the motion for new trial, nor an exception taken to the giving of the instruction at the time it was given, we now hold that such question cannot be raised for the first time on appeal.
+The judgment and sentence of the county court of Harmon county is affirmed.
+BRETT, P. J., and POWELL, J., concur.
