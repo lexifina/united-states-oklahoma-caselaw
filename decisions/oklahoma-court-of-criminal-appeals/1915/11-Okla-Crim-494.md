@@ -1,0 +1,38 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-2089"
+decided: "1915-05-14"
+citations: ["11 Okla. Crim. 494"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["FURMAN and ARMSTRONG, JJ., concur."]
+parties: ["PETER CLARK v. STATE."]
+source_url: "https://static.case.law/okla-crim/11/cases/0494-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8743347
+cites_cases: ["4 Okla. Cr. 146", "5 Okla. Cr. 20", "7 Okla. Cr. 113", "7 Okla. Cr. 342"]
+---
+
+# Clark v. State
+
+## Majority (DOYLE, P. J.)
+
+DOYLE, P. J.
+Plaintiff in error, Peter Clark, was convicted of assault with intent to do bodily harm. The jury were unable to agree upon the punishment. Motions for new trial and in arrest of judgment were overruled, and on the 8th day of April, 1913, judgment was rendered, and he was sentenced to imprisonment in the penitentiary for a period of one year and one day from the time of his delivery to the warden. From this judgment he appeals.
+It appears from the evidence that the prosecuting witness, Wah-kah-tah-he-um-pah, had married the old father of Peter Clark, and lived near the home of Hlu-ho-wah-tah, a Big Bear Indian. On the night of July 7th, a baby was born to defendant and his wife, who was at the home of Hlu-ho-wah-tah. The prosecuting witness went to this place to see the new-born baby and was sitting out near a tent on the ground. Defendant came riding up on a horse belonging to Wah-kah-tah-he-um-pah. She censured him for riding her horse. The defendant abused her for leaving his father at home sick without preparing an evening meal for him. She says the defendant then said “I am going to whip you.” Pie dismounted, picked up a long rod of steel or iron (which was exhibited to the jury) and with it he struck her across the back, rendering her unconscious and for which she received medical attention. The defendant admitted striking her with the rod and says he did so because he was mad at her; that he didn’t mean to kill her and he denies making the statement that he was going to whip her.
+The sole contention made for a reversal of the judgment is that the information does not allege facts showing that the district court of Osage county had jurisdiction, and the basis of this complaint is that the information does not allege facts sufficient to show the commission of a felony.
+Alleging time and venue, the information charges:
+“The said defendant, Peter Clark, then and there being did then and there wrongfully and unlawfully, with the intent to do bodily harm and without justifiable or excusable cause, commit an assault upon the person of Wah-kah-tah-he-um-pah, by unlawfully and feloniously striking and beating the said Wah-kah-tah-he-um-pah with a dangerous weapon, to wit, a long rod or bar of steel or iron, contrary to,” etc.
+It appears from the record that on the 4th day of No-, vember, 1912, the defendant, present in person and by his attorneys, waived time to plead and entered a plea of not guilty, and the case was continued for. the term by agreement. The case came on for trial March 12, 1913. No motion to quash or set aside nor demurrer to the information was filed in the case. After the jury had been empaneled and the first witness called and sworn, counsel for the defendant objected “to the introduction of any testimony in this case for the reason that the information filed in the same does not state a cause within the jurisdiction of this court.” Which objection was by the court overruled.
+The function of a demurrer, which was not resorted to by the defendant, is to defeat the information without a trial, whenever it appears upon the face thereof that it is subject to one or more of the five objections named in the statute. Proc. Crim. (sec. 5791, Rev. Laws 1910). These objections can be taken only by demurrer, except that an objection to the jurisdiction of the court over the subject of the information, or that tire facts stated do not constitute a public offense, may be taken at the trial under a plea of not guilty and in arrest of judgment. Section 5799, Rev. Laws 1910. Our Procedure Criminal provides that a motion in arrest of judgment “may be founded on any of the defects in the indictment or information mentioned as grounds of demurrer unless such objection has been waived by a failure to demur.” (Section 5939, Rev. Laws 1910.
+The only objection taken or question raised to the information was the objection taken to the introduction of evidence, because the information did not charge a felony, and by the motion in arrest of judgment on the ground “that the information does not state an offense against the laws-of the state of Oklahoma of which this court has jurisdiction.”
+This court has repeatedly held that if a defendant makes no objection to the form or sufficiency of the indictment or information until after the jury has been empaneled, the objection should be overruled if by any reasonable construction the indictment or information can be sustained. White v. State, 4 Okla. Cr. 146; Edwards v. State, 5 Okla. Cr. 20; Hoyle v. State, 7 Okla. Cr. 342; Ex parte Spencer, 7 Okla. Cr. 113.
+The sole question presented for our determination is: Do the facts stated constitute a public offense amounting to a felony?
+In considering this question it must be borne in mind that district courts are without jurisdiction to try misdemeanors.
+The statute under which this information was prosecuted is as follows:
+“Any person who, with intent to do bodily harm, and without justifiable or excusable cause, commits any assault upon the person of another with any sharp or dangerous weapon, or who, without such cause, shoots or attempts to shoot at another, with any kind of firearm or airgun, or other means whatever, with intent to injure any person, although without intent to kill such person or to commit any felony, is punishable by imprisonment in the penitentiary not exceeding five years, or by imprisonment in a county jail not exceeding one year.” (Section 2344, Rev. Laws 1910.)
+The information alleges all the essential ingredients of the offense defined by this section. It is true that the information is not a model, but failing to interpose a demurrer, the defendant waived all defects not jurisdictional. In framing an information the statute should be carefully followed, and such would have been the better practice in this instance; however, we are inclined to think that the defects are more technical than substantial. Under the provisions of our Procedure Criminal it is sufficient that the act charged as the offense is clearly set forth in ordinary and concise language in such a manner as to enable a person of common understanding to know what is intended, and that the facts constituting the crime shall be alleged with sufficient certainty to enable the court to pronounce judgment upon a conviction according to the right of the case. Section 57-16, Rev. Laws 1910. It is further-provided that:
+“No indictment or information is insufficient nor can the trial, judgment, or other proceedings thereon be affected, by reason of a defect or imperfection in the matter of form which does not tend to the prejudice of the substantial rights of the defendant upon the merits.” (Section 5741', Rev. Laws 1910.)
+We are of opinion that the facts stated are sufficient to charge the crime of assault with a dangerous weapon with intent to do bodily harm. It follows that the district court had jurisdiction to try the information and that the objection as made was properly overruled. The judgment of the district court of Osage county is therefore affirmed.
+FURMAN and ARMSTRONG, JJ., concur.
