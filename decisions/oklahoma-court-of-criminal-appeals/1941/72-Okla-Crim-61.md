@@ -1,0 +1,39 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-9809"
+decided: "1941-04-30"
+citations: ["72 Okla. Crim. 61", "112 P.2d 1109"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JONES, J., concurs. DOYLE, J., absent."]
+parties: ["JOE HUTSON v. STATE."]
+source_url: "https://static.case.law/okla-crim/72/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8739548
+cites_cases: ["26 Okla. Cr. 82", "297 P. 312", "38 Okla. Cr. 129", "50 Okla. Cr. 299", "53 Okla. Cr. 41", "57 Okla. Cr. 273", "67 Okla. Cr. 203", "70 Okla. Cr. 203", "71 Okla. Cr. 353"]
+---
+
+# Hutson v. State
+
+## Majority (BAREFOOT, P. J.)
+
+BAREFOOT, P. J.
+Defendant was charged in tbe county court of Garfield county with tbe unlawful possession of intoxicating liquor, to wit: 60 pints of wbisky; was tried, convicted and sentenced by tbe court to pay a fine of $100 and serve 60 days in tbe county jail, and bas appealed.
+Eleven assignments of error are made, but only two are relied upon:
+(1) That tbe court erred in refusing to sustain tbe motion of tbe defendant to suppress tbe evidence for the reason that no search warrant was had by tbe officers at the time of finding tbe whisky in defendant’s automobile.
+(2) That tbe court erred in refusing to sustain tbe motion to dismiss, because defendant was not tried at tbe term of court following his arrest.
+Tbe facts, as revealed by tbe record, were that defendant had on the 8th day of May, 1938, parked his automobile on tbe public streets of Enid. Some party called tbe two police officers who went to tbe scene and found the car parked. A fluid was leaking from tbe rear of tbe car, and the officers examined the same and, by the use of their senses of sight and smell, ascertained that it was whisky. They examined the car and found therein 60 pints of tax-paid liquor. One bottle had been broken, and the whisky was leaking from the rear of the car. They had no search warrant to search. Under the circumstances it was not necessary for them to have one. This court, in the recent case of Arnold v. State, 70 Okla. Cr. 203, 105 P. 2d 556, has passed upon a case in which the facts are almost identical with the facts in the instant case. The second and third syllabus are as follows:
+“2. The constitutional provision against unreasonable searches and seizures does not preclude the making of a seizure without a warrant previously procured of intoxicating liquor, where the liquor is dripping from the automobile and is fully disclosed to the eye.
+“3. An offense is committed or attempted dn the presence of an officer’, within the meaning of the statute providing that a peace officer may, without a warrant, arrest a person for a public offense, committed or attempted in his presence, where such officer is apprised by any of bis senses that a misdemeanor is being committed by tbe person arrested prior to the arrest.”
+See, also Matthews v. State, 67 Okla. Cr. 203, 93 P. 2d 549.
+The court did not err in refusing to sustain the motion to suppress the evidence offered in this case.
+Defendant’s second assignment of error is that he was refused a speedy trial as provided by Oklahoma Statutes 1931, section 2872, O. S. A. title 22, section 812, which provides as follows :
+“If a defendant, prosecuted for a public offense, whose trial has not been postponed upon his application, is not brought to trial at the next term of court in which the indictment or information is triable after it is filed, the court must order the prosecution to be dismissed, unless good cause to' the contrary be shown.”
+The facts as revealed by the record are that an information was filed against defendant in the county court of Garfield county on the 16th day of May, 1938, and that defendant executed an appearance bond on May 21, 1938, and was at liberty on said bond until he was tried on October 10, 1939. There was a term of county court in Garfield county in November, 1938, but for some reason defendant’s case was not set on that docket. There was) no jury docket in January, 1939, by reason of the lack of court funds, and the next term of court was held in October, 1939, at which time defendant was tried. It is the contention of the defendant that he should have been tried at the November, 1938, term. Defendant testified at the hearing of the motion to dismiss, as follows:
+“Q. Do you recall the date that you came in to the county judge’s office to make bond? A. On the 21st of May. Q. At that time did you have a conversation with the county judge, Judge Crowley? A. Yes, sir. Q. Was there a discussion as to when this case would be set down for trial? A. He said he would like to have it in the November term. Q. Did you make any statement to him in regard to what you wanted? A. I told him I would like to have it as soon as I possibly could. Q. Did you demand a trial at that term of Court? A. I told him I would: like to have it, yes, sir. Q. Did he indicate to you then, or state to you, what he intended to do about it? A. He said he wanted to clean up his docket, wanted all cases closed. Q. He assured you at that time that you would be tried at the November term of Court? A. Yes, sir. Q. Now have you ever at any time asked for a continuance of this case? A. I never heard any more from it. Q. You were ready and willing to be tried at the November term of court? A. Wanted to be, yes, sir. Q. Any continuance that was made was made by the State or the county judge? A. I don’t know. Q. Did they ever call you at any time? A. No sir, never called me.”
+The defendant was then asked:
+“Q. Did you ever come into his office and demand that he set that case down? A. I never saw him any more. Q. Were you living here in Enid during November and December, last year? A. Yes, sir. Q. Did you see the paper where we were going to have a term of county court? A. I never saw it in the paper. * * * Q. You didn’t talk to your attorney about getting ready for your trial? A. No, sir, that was what I had him for. Q. Did he get in touch with you? A. No, sir, * * * Q. You never did demand any trial? A. No, sir, no more than what I told him, I told him I was ready for trial and would like to get it over with.”
+The eases from this court in construing the above statute have uniformly held that where a person was on bond, the burden was on him to show that he had demanded trial or that he had objected to a continuance from term to term. We do not think the evidence on the part of the defendant in the instant case was such that brought him within this rule. It is contended by defendant that it is not necessary to show a written demand under the statute. But, be this as it may, it is necessary to make such a showing that will reveal to the court that defendant is asking and demanding' a trial or resisting a continuance thereof. The mere fact that he informed the court at the time he made bond that he would be ready for trial at the nest term, and that the court informed him he wanted to get rid of the case, is not such a demand as contemplated by the statute. The record does not reveal that he presented himself at the November, 1938, term of the county court and demanded to be tried. As a matter of fact, he testifies that he did not appear there and made no demand of the court for trial at that time, and he was at liberty on bond. See Francis v. State, 26 Okla. Cr. 82, 221 P. 785; Stroud v. State, 57 Okla. Cr. 273, 47 P. 2d 883; Rose v. State, 53 Okla. Cr. 41, 6 P. 2d 1072; Seitsinger v. State, 50 Okla. Cr. 299, 297 P. 312; State ex rel. Davis v. Bayless, Judge, 38 Okla. Cr. 129, 259 P. 606; Ex parte Clyde Meadows, 71 Okla. Cr. 353, 112 P. 2d 419.
+For the reasons above stated, the judgment and sentence of the county court of Garfield county is affirmed.
+JONES, J., concurs. DOYLE, J., absent.
