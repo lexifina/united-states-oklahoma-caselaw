@@ -1,0 +1,36 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-6063"
+decided: "1928-01-16"
+citations: ["39 Okla. Crim. 32", "262 P. 1076"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["EDWARDS and DAVENPORT, JJ., concur."]
+parties: ["CLYDE NICHOLS v. STATE."]
+source_url: "https://static.case.law/okla-crim/39/cases/0032-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8741452
+cites_cases: ["10 Okla. Cr. 89", "11 Okla. Cr. 471", "12 Okla. Cr. 1", "148 P. 1055", "46 L. R. A. (N. S.) 1149"]
+---
+
+# Nichols v. State
+
+## Majority (DOYLE, P. J.)
+
+DOYLE, P. J.
+Plaintiff in error, Clyde Nichols, was convicted in the county court of Osage county, Hominy division, upon information charging that in said county on the 2d day of July, 1924, he did, “unlawfully, wilfully, and wrongfully point a pistol to and at the said Max Bloom,” and in accordance with the verdict of the jury he was sentenced to pay a fine of $50 and to imprisonment in the county jail for three months. To reverse the judgment he appeals.
+The prosecuting witness, Max Bloom, testified that he conducted a general mercantile store and also a filling station between Hominy and Skiatook, and bought gasoline from the Indianola oil people, that on the day charged, between 3 and 4 in the afternoon, the defendant and another employee of the Indianola Company came to his place; that defendant said they were there to take up the pump; that defendant with a pipe wrench was trying to disconnect it, saying that he wanted some more money owed to his company for gasoline; that witness told him that he was entitled to use the pump until the gas was used up, then the defendant slapped him down; that he saw that the defendant had a gun and he ran into his place of business and secured his gun; that the defendant had a pistol and pointed it at him.
+A number of errors are assigned, but one of which it is deemed necessary to notice, and that is based upon the giving of two instructions as follows :
+“No. 6. Gentlemen of the jury, the court charges you that in this state the law looks with serious disfavor upon any person who attempts to take it into his own hands where the courts of the state and county are open to him for redress. In this case the evidence shows and the fact is not disputed that the defendant went to the store operated by Max Bloom and attempted to take a pump after he objected to the removal of the pump. You are instructed that the evidence further shows that the defendant in this case did not have in his possession at the time he attempted to remove the pump any replevin papers such as would justify him in openly taking possession of this pump. You are instructed that after the owner of this store, Max Bloom, objected to the taking of the pump it was the duty of this defendant to have resorted to the courts for relief instead of attempting to use force and violence in taking said property. You are further instructed that under the laws of this state the prosecuting witness, Max Bloom, had the legal right to use reasonable means to prevent the taking of this property until such time as the defendant obtained possession of it through the courts of this county and state.’’
+“No. 7. You are further instructed that if you believe from the evidence in this case beyond a reasonable doubt that Max Bloom was first assaulted and knocked down by the defendant while defending the taking of this property by said defendant, and that at the time Max Bloom was struck and knocked down by the defendant he had not struck the defendant, and if you further believe from the evidence in this case beyond a reasonable-doubt that after Max Bloom had been struck and knocked down that he deemed it necessary for the protection of himself, his family, and his property and that he was in and at his own place of business that he then, in order to protect his life, family, and property aforesaid, deemed it necessary to procure a gun to defend himself and property, you are instructed that this evidence cannot be discovered favorably for the defendant, for he was a, trespasser on the property of Max Bloom and was guilty of committing a misdemeanor, and the said Max Bloom was justified under the laws of this state in order to protect himself and property to use such reasonable means as he deemed necessary to eject this defendant from his place of business and property. You are further instructed that it is a misdemeanor and an offense under the laws of this state for any person except an officer of the law in the performance of ' his duty to carry a pistol and that any person who violates this law is guilty of a misdemeanor.”
+It is urged that the court in giving the foregoing instructions commented upon the weight of the evidence and assumed controverted facts to have been proven, and that it was error prejudicial to the defendant for the court to instruct the jury that the defendant was guilty of a misdemeanor other than the one charged in the information.
+Under the provisions of our Criminal Code, the jury are bound to take the law from the court, and questions of fact are to be decided by the jury. Section 2690, C. 0. S. 1921. The charge of the court must not invade the province of the jury, and should not extend beyond a plain statement of the law applicable to the case.
+It requires no argument to show that the first three paragraphs of instruction No. 6 are improper. In view of the conflict in the evidence the court could not assume that the defendant was a trespasser.
+The law requires the court, not only to abstain from positive expression as to the weight of the evidence, but to avoid even the appearance of an intimation as to the facts, and to so guard the language of its charge to the jury, which is the law of the case, that no inference, however remote or obscure, may be drawn by the jury as to the weight of the evidence. Monagham v. State, 10 Okla. Cr. 89, 134 P. 77, 46 L. R. A. (N. S.) 1149; Moody v. State, 11 Okla. Cr. 471, 148 P. 1055; Love v. State, 12 Okla. Cr. 1, 150 P. 913.
+It is the law that whoever possesses a right is entitled to defend that right no matter what may be the character of the right; it cannot lawfully be taken from the owner by violence. And violence offered for this purpose he may violently resist. To this extent instruction No. 7 is a fair statement of the law. However; the court concludes this instruction ¡by assuming the fact that the defendant was a- trespasser “and was guilty of committing a misdemean- or.”
+It was the province of the jury to determine all questions of fact and conflicts in the testimony as to whether the defendant or the prosecuting witness provoked the difficulty and as to whether the defendant assaulted the prosecuting witness or was himself assaulted.
+It follows that the giving of the instructions above quoted constitutes error prejudicial to the substantial rights of the defendant, in that he was thereby denied that fair' and impartial trial to which he was entitled under the law.
+Other errors assigned have been carefully examined, and we are of the opinion that the court did not err in its rulings.
+For the errors indicated, the judgment is reversed.
+EDWARDS and DAVENPORT, JJ., concur.
