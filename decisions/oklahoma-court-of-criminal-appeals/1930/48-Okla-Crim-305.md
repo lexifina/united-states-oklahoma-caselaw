@@ -1,0 +1,23 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-7621"
+decided: "1930-09-13"
+citations: ["48 Okla. Crim. 305", "291 P. 1118"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BEN HUGHES v. STATE."]
+source_url: "https://static.case.law/okla-crim/48/cases/0305-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8746089
+---
+
+# Hughes v. State
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+The plaintiff in error, hereinafter called defendant, was convicted in the county court of Roger Mills county on a charge of having possession of intoxicating liquor, and was sentenced to pay a fine of $250 and to serve 60 days in the county jail.
+The case was tried in July, 1929, and the appeal was lodged in this court in October, 1929. No briefs in support of the appeal have been filed, nor was there any appearance for oral argument at the time the case was submitted.
+We have examined the record; the evidence is sufficient, although circumstantial, from which the jury might reasonably and logically find the defendant guilty.
+The case is affirmed.
