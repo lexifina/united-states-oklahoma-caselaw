@@ -1,0 +1,28 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-6385"
+decided: "1929-03-09"
+citations: ["42 Okla. Crim. 143", "275 P. 354"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DAVENPORT and CHAPPELL. JJ., concur."]
+parties: ["H. C. WALLACE v. STATE."]
+source_url: "https://static.case.law/okla-crim/42/cases/0143-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8742836
+cites_cases: ["116 U. S. 616", "232 U. S. 383", "251 U. S. 385", "255 U. S. 298", "269 U. S. 20", "42 Stat. 222", "51 A. L. R. 409"]
+---
+
+# Wallace v. State
+
+## Majority (EDWARDS, P. J.)
+
+EDWARDS, P. J.
+The plaintiff in error, hereinafter called defendant, was convicted in the county court of Oklahoma county on a charge of maintaining a liquor nuisance, and was sentenced to pay a fine of $200 and to serve a term of 90 days in the county jail.
+Only one witness, John Davis, a policeman, testified that with another policeman and two “Dope fiend girls” he went to the place of residence of the defendant on West Main street, Oklahoma City, and one of the girls inquired of defendant if he had anything to drink, and he answered he did, and left the place and went 300. or 400 yards into the woods while they waited in the car; that he then returned with a quart jar of whisky and delivered it to the officers; that they then arrested him and searched the house and found nothing in it except some empty bottles and two gallon jugs which apparently had contained whisky. The whisky purchased was not introduced in evidence, and the witness stated he did not examine it and did not know what color it was. He also testified that the reputation of the place as one where intoxicating liquors were kept and sold was bad.
+An-objection to the evidence of the search was interposed and overruled.- Where an arrest is made at a residence, a legal search without a warrant may be made as an incident thereto. Here the evidence indicates that the arrest was made in the road or street in front of the residence, where the automobile of the witness was parked. The right of search in case of arrest is of the person and immediate surroundings of the arrested person. It does not carry with it the right to search buildings and places other than the immediate surroundings of the person arrested. In this case, since the arrest did not take place in the residence and the whisky purchased was not brought from the residence, we think the arrest did not carry with it the right to search the. residence house. The Supreme Court of the United States, in the case of Agnello et al. v. United States, 269 U. S. 20, 46 S. Ct. 4, 70 L. Ed. 145, 51 A. L. R. 409 (1925), under a somewhat similar state of facts, said:
+“While the question has never been directly decided by this court, it has always been assumed that one’s house cannot lawfully be searched without a search warrant, except as an incident to a lawful arrest therein. Boyd v. United States, 116 U. S. 616, 624, et seq., 630, 6 S. Ct. 524, 29 L. Ed. 746; Weeks v. United States, supra [232 U. S. 383, 392, 34 S. Ct. 341, 58 L. Ed. 652, L. R. A. 1915B, 834, Ann. Cas. 1915C, 1177], 393; Silverthorne Lumber Co. v. United States, supra [251 U. S. 385, 391, 40 S. Ct. 182, 64 L. Ed. 319] 391; Gouled v. United States, 255 U. S. 298, 308, 41 S. Ct. 261, 65 L. Ed. 647. The protection of the Fourth Amendment extends to all^equally — to those justly suspected or accused, as well as to the innocent. The search of a private dwelling without a warrant is in itself unreasonable and abhorrent to our laws. Congress has never passed an act purporting to authorize the search of a house without a warrant. On the other hand, special limitations have been set about the obtaining of search warrants for that purpose. Thus, the National Prohibition Act, approved, October 28, 1919, c 85, tit. 2 §25, 41 St. 305, 315 (Comp. St. Ann. Supp. 1923, §10138½m [27 USCA §39]), provides that no search warrant shall issue to search any private dwelling occupied as such unless it is being used for the unlawful sale of intoxicating liquor or is in part used for business purposes, such as store, shop, saloon, restaurant, hotel, or boarding house. And later, to the end that government employees without a warrant shall not invade the homes of the people and violate the privacies of life, Congress made it a criminal offense, punishable by heavy penalties, for any officer, agent or employee of the United States engaged in the enforcement of any law to search a private dwelling house without a warrant directing such search. Act Nov. 23, 1921, c. 134, §6, 42 Stat. 222, 223 (Comp. St. Ann. Supp. 1923, §10184a [18 USCA §53]). Safeguards similar to the Fourth Amendment are deemed necessary and have been provided in the Constitution or laws of every state of the Union.”
+It has also been frequently held by this court that, while evidence of the bad reputation of a place as one where persons resort in violation of the prohibitory law is admissible on a charge of maintaining a liquor nuisance, yet there should be some evidence that it is a place where persons do resort for the purpose of obtaining liquor, in order to make evidence of reputation admissible. There was no evidence of that character in this case. The defendant should have been prosecuted for selling or for transporting. The competent evidence is not sufficient to sustain a conviction for maintaining a place where intoxicating liquors are kept for the purpose of violating the prohibitory law.
+The case is reversed and remanded.
+DAVENPORT and CHAPPELL. JJ., concur.
