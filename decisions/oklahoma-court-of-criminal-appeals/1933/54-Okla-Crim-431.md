@@ -1,0 +1,33 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-8457"
+decided: "1933-02-17"
+citations: ["54 Okla. Crim. 431", "23 P.2d 219"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DAVENPOET and CHAPPELL, JJ., concur."]
+parties: ["W. P. HICKS v. STATE."]
+source_url: "https://static.case.law/okla-crim/54/cases/0431-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1468848
+cites_cases: ["104 Ala. 43", "106 S. W. 513", "116 Pac. 679", "128 Pac. 143", "16 Cal. App. 277", "16 So. 155", "17 Okla. Cr. 103", "20 Okla. Cr. 253", "207 Mo. 557", "212 Pac. 1028", "22 Okla. Cr. 365", "259 Pac. 162", "292 Pac. 888", "37 Okla. Cr. 350", "49 Okla. Cr. 162", "54 Okla. Cr. 202", "8 Okla. Cr. 361"]
+---
+
+# Hicks v. State
+
+## Majority (EDWARDS, P. J.)
+
+EDWARDS, P. J.
+The plaintiff in error, hereinafter called defendant, was convicted of embezzlement in the district court of Cherokee county and was sentenced to serve a term of one year in the state penitentiary. Defendant was treasurer of the school district embracing the city of Tahlequah and outlying territory. The funds of the district were deposited in a Tahlequah bank. On April 3, 1928, defendant drew a check in the sum of $250 against the funds of the district, payable to the deposit bank. This check is indorsed paid on the day of its date, and the testimony is that the payee bank on that date issued its draft on a bank of Muskogee for the amount of the check, which draft was cashed in due course, and returned to the issuing bank. The check against the school district bore a notation by defendant to' the purport that the check was for a draft to Chase National Bank, N. Y. No' draft was made to that bank, but as stated draft was made on the Muskogee bank. Defendant did not take the stand and offered no testimony.
+It is first argued there is a fatal variance between the charge and the proof. Section 2899, ,St. 1931, provides what shall constitute a sufficient description of moneys or property embezzled. The information here alleges the embezzlement of—
+“* * the sum of $250.00 in good and lawful money of the United States of America, etc. * '*
+Defendant insists the proof in its most favorable aspects for the state is of the embezzlement of a draft in the sum of $250 and not of money, citing various authorities. People v. Meseros, 16 Cal. App. 277, 116 Pac. 679; State v. Mispagel, 207 Mo. 557, 106 S. W. 513; Carr v. State, 104 Ala. 43, 16 So. 155. This court has departed from a too literal application of the rule of variance as it obtained at common law and in some of the states. Ostendorf v. ,State, 8 Okla. Cr. 361, 128 Pac. 143; Woods v. State, 22 Okla. Cr. 365, 211 Pac. 519; Tiger v. State, 54 Okla. Cr. 202, 16 Pac. (2d) 889. A similar contention to that here was made in the case of Fulkerson v. State, 17 Okla. Cr. 103, 189 Pac. 1092, in which case this court held:
+“Where the defendant, as treasurer of a school district, is charged with the embezzlement of a certain sum of money belonging to the said district, and the proof adduced upon the trial shows that the defendant received, as treasurer of said school district, a certain warrant issued to said school district by the county treasurer and deposited the same to- his personal credit in a bank and after-wards checked against said fund for his personal use, held, there is no fatal variance between the allegations of the information and the proof.”
+The rule in the Fulkerson Case was reiterated in Mason v. State, 23 Okla. Cr. Ill, 212 Pac. 1028. In French v. State, 37 Okla. Cr. 350, 259 Pac. 162, 164, in which case a bank official was prosecuted for receiving money, checks, and drafts in an insolvent bank, the proof showed the deposit of a cotton ticket which the bank accepted as a credit. The contention was made this was a variance since it was not the deposit of money, a check, or drafts. This court said:
+“We fail to see what difference there is between the transaction that took place than if the bank had passed out on the cotton ticket the cash to the holders of the ticket, and they had immediately passed the same hack for deposit in the bank and had received credit therefor. After this ticket had been accepted by the bank as cash and the credit given, it cannot be said that this was merely a deposit of cotton tickets and not a deposit of a check or of cash.”
+So in the instant case we fail to see what is the difference if at the time defendant presented the check against the school district fund the bank had paid him in money and he had then purchased the draft on Muskogee, or if, as was done, they merely accepted the check against the school district funds as money and issued the draft.
+It is next argued that the district court of Cherokee county had no jurisdiction. That if any crime was committed it was in Muskogee county, which necessarily fixed the venue in that county. Since we have held in disposing of the foregoing proposition that the purchase by check in Cherokee county of a draft on the Muskogee bank by defendant was a misappropriation of the funds of the school district in Cherokee county, it follows that the venue is in that county. The venue is not affected by the subsequent payment of the draft in Muskogee county.
+The contention is made that since the check against the funds of the school district was drawn April 3, 1928, and the information on which defendant was tried was filed on January 23, 1932, the offense was barred by the statute of limitation. The record does not disclose the steps taken prior to the filing of the information. The court, however, took judicial notice of the preliminary proceedings and instructed the jury that the preliminary complaint was filed on March 12, 1931, which was less than three years from the date of the offense charged. Error is not presumed but must be made to appear affirmatively. Every presumption is indulged in favor of the regularity of the proceedings in the trial court. That the preliminary complaint was filed within three years from the date of the offense is not controverted, but the contention is that since the record, does not contain the preliminary proceedings, it does disclose that the prosecution was barred by limitation. Where a preliminary complaint is filed in good faith and a warrant issued thereon, such step arrests the statute of limitations. This contention is, therefore, without merit. Davenport v. State, 20 Okla. Cr. 253, 202 Pac. 18; Jarrett v. State, 49 Okla. Cr. 162, 292 Pac. 888. Upon a consideration of the entire record, we find no material error.
+The case is affirmed.
+DAVENPOET and CHAPPELL, JJ., concur.
