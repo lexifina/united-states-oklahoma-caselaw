@@ -1,0 +1,44 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-7627"
+decided: "1930-10-25"
+citations: ["48 Okla. Crim. 446", "292 P. 868"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["EDWAKDS, P, J., and CHAPPELL, J., concur."]
+parties: ["H. N. PATTERSON v. STATE."]
+source_url: "https://static.case.law/okla-crim/48/cases/0446-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8747699
+cites_cases: ["10 Okla. Cr. 169", "10 Okla. Cr. 185", "121 Pac. 791", "135 Pac. 737", "249 Pac. 433", "7 Okla. Cr. 27", "85 Okla. Cr. 171"]
+---
+
+# Patterson v. State
+
+## Majority (DAVENPORT, J.)
+
+DAVENPORT, J.
+The plaintiff in error, hereinafter referred to as the defendant, was convicted of larceny of domestic fowls, to wit, chickens, and was sentenced to serve a term of two years in the penitentiary. Prom which judgment and sentence the defendant has appealed to this court.
+The evidence on the part of the state, in substance, is that on Friday night, the 15th of March, 1929, the prosecuting witness Boh Milam was the owner of a flock of chickens, and on said night he lost eight of them; the next day Milam noticed tracks coming and going from the chicken house where the chickens were kept near his residence; Milam then began his search for the said chickens and located them at the home of the defendant, in a yard that had been fenced near an old house for the purpose of keeping chickens. The prosecuting witness claims he recognized the chickens as his chickens, and got his wife to come over to where the chickens were. Bob Milam, his wife, and one other witness identified the chickens as being Milam’s chickens.
+The testimony further shows that the defendant, after his arrest, admitted to the officer he stole Milam’s chickens, and gave an account of the taking of the chickens, and all that took place leading up to the trial of this case. He claims he told the officers he was not guilty of the offense charged, and in reply the officer stated to him that if be did not plead guilty bis wife and family would be arrested and all charged with the crime. He says be did not steal the chickens, but bad owned the chickens found at the place for some time before the Milam chickens were stolen, and calls some neighbors who testify to seeing some chickens at the defendant’s home prior to the date of seeing the chickens claimed by the prosecutrix in the yard of the defendant.
+Considerable testimony is incorporated in the record as to just what took place when the defendant was in jail, and at the office of the county attorney. It would serve no useful purpose to set out the testimony in detail; the foregoing is, in substance, the testimony of both the state and the defendant.
+The defendant urges that the court committed eight errors in the trial of his case. The first, second, and third assignments relate to the sufficiency of the evidence to sustain the conviction. There is a conflict in the evidence, the state witnesses identifying the chickens as belonging to Milam, while the defendant denies the taking of the chickens and shows by his neighbors that prior to the date the Milam chickens were taken he had chickens at his place. A number of neighbors testify as to his previous good character, and the records shows this is the first time the defendant had ever been arrested, or in trouble. It has been repeatedly held by this court that where there was a conflict in the evidence, that was a question for the jury.
+In Nowlin v. State, 7 Okla. Cr. 27, 115 Pac. 625, 121 Pac. 791, in the first paragraph of the syllabus, the court said:
+“The verdict of a jury will not be set aside for want of evidence to sustain it when there is any evidence in the record from which the jury could legitimately draw the conclusion of the defendant’s guilt.”
+In Calvert v. State, 10 Okla. Cr. 185, 135 Pac. 737, in the first paragraph of the syllabus the court said:
+“(a) Under the law In Oklahoma controverted questions of fact, involving the guilt or innocence of a person on trial in a court of competent jurisdiction, before a jury, are to be settled exclusively by such jury.
+“(b) When an accused is on trial and there is a direct conflict in the testimony between witnesses for the state and witnesses for such accused on the material issues, this court, in the absence of errors of law, will not on appeal reverse a conviction.”
+In Davis v. State, 10 Okla. Cr. 169, 135 Pac. 438, this court in the third paragraph of the syllabus held:
+“When issues of fact are determined by the jury upon evidence which is sufficient, even though it may be capable of diverse and opposing inferences, this court has no more right than the trial court to substitute its own judgment in the place of that of the jury, or to usurp its legitimate functions.”
+The defendant calls attention to the fact that during the course of the argument the county attorney made this statement, in referring to the defendant, and the defendant’s denial of the reason for entering his confession and plea of guilty:
+“Don’t you know that is a lie and as base a lie as ever was sworn to.”
+This statement was objected to by the defendant as being highly prejudicial, and not based upon the evidence in the case, and the defendant moved that the jury be instructed to disregard the statement, which motion was overruled and the defendant duly excepted. The defendant insists that the question as to whether he had lied was a question for the jury alone to determine, and that the nature of the argument and the court’s remarks might have resulted in a conviction of the defendant.
+“The court stated (in overruling the motion) that the county attorney, or any other lawyer in the case, has a right to take the position that anyone who testified in this case lied.”
+The defendant cites, in support of his contention that the statement of' the county attorney was reversible error, the case of Williams v. State, 85 Okla. Cr. 171, 249 Pac. 433. An examination of this case shows that the facts are not similar to the facts in this case; in that case the county attorney examining the witness repeatedly asked the question of the witness, while on the stand, if he did not know he had lied. In this case the county attorney was discussing the evidence that had been brought out by the state’s witnesses and defendant while on the stand as to what took place in the justice of the peace office, and in the office of the county attorney prior to the trial of this case in the district court. The county attorney did ask the defendant several times on cross-examination if certain things did not happen while in his office, which the defendant denied. We do not think the case relied upon by the defendant to sustain his position is in point. .
+The record in this case contains several pages of testimony that is immaterial and should not have been incorporated in the record to properly try the defendant. We think the county attorney in his argument went further than was necessary to go in the argument, when he made the statement:
+“Don’t you know it is a lie and as base a lie as was ever sworn to.”
+It is better practice to argue that tbe witnesses have been contradicted. We realize that sometimes in tbe trial of a case, in tbe beat of tbe trial and tbe discussion of tbe evidence, attorneys go far afield and make statements they should not make. In this case we bold the remarks of the county attorney are not sufficient to warrant a reversal. Tbe jury are tbe sole and exclusive judges of tbe weight of tbe evidence and credibility of tbe witnesses, and bad an opportunity to see tbe witnesses while on tbe stand and to judge of their demeanor, and by its verdict it found against tbe defendant.
+Tbe testimony is sufficient to sustain tbe judgment, but in view of tbe fact that tbe defendant in this case bad entered a plea of guilty and had been sentenced by tbe court on tbe plea, and upon motion the plea and sentence bad been set aside, all of which was introduced before tbe jury, and tbe defendant examined at length upon tbe reasons that caused him to enter bis plea of guilty, and in view of tbe previous good character of tbe defendant, and in view of tbe further fact that tbe statement by tbe county attorney in bis argument, which in all probability to some extent militated against tbe defendant, we believe that the punishment inflicted in this case, for larceny of the small number of chickens that is alleged to have been taken, is excessive, and that a sentence of one year in tbe penitentiary would be sufficient punishment for tbe crime committed by tbe defendant.
+Tbe judgment and sentence is modified from two years in tbe state penitentiary to one year, and as so modified is affirmed.
+EDWAKDS, P, J., and CHAPPELL, J., concur.
