@@ -1,0 +1,39 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-1692"
+decided: "1913-07-26"
+citations: ["10 Okla. Crim. 79", "133 P. 1134"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ARMSTRONG, P. J., and FURMAN, J., concur.-"]
+parties: ["J. W. JONES v. STATE."]
+source_url: "https://static.case.law/okla-crim/10/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8742053
+cites_cases: ["11 App. D. C. 458"]
+---
+
+# Jones v. State
+
+## Majority (DOYLE, J.)
+
+DOYLE, J.
+This appeal is prosecuted from a conviction had in the county court of Jackson county, in which plaintiff in error was found guilty of keeping a bawdyhouse, in violation of section 2467, Rev. Laws 1910, which provides that:
+“Any person who keeps any bawdyhouse, house of ill fame, of assignation, or of prostitution, or any other house or place for persons to visit for unlawful sexual intercourse, or for any other lewd, obscene, or indecent purpose, is guilty of a misdemeanor and upon conviction shall be fined in any sum not less than one hundred dollars nor more than five hundred dollars for each offense.”
+On February 15, 1912, in accordance with the verdict of the jury, the court sentenced the defendant to pay a fine of $100.
+The evidence shows that the defendant occupied a house in the town of Altus with his wife and daughter that was resorted to by persons of both sexes who were generally reputed to be of lewd and lascivious character, and that the house was commonly reputed as being a house of ill fame; that Verna Jones, known as “Blondie,” the daughter'of the defendant, was generally reputed as being a prostitute; that Nellie Bennett, and Bertha Jackson, and a girl called “Goo Goo” frequently stayed at the defendant’s house, and they were generally reputed to be prostitutes; that S. S. Rogers had been convicted on an information which charged him as a habitual frequenter of a house of prostitution, assignation, and ill fame, to wit, the house of J. W. Jones in the town of Altus, and that he was a frequent visitor at the place. Ten witnesses for the state all testify that the house was commonly reputed as being a house of prostitution, and several of these witnesses testified as to lewd conduct on the part of the inmates, and that large numbers of men frequently visited the place. '
+The defendant on his own behalf testified that he worked for the North Western Railroad Company, and had lived for several months at the house in question; that Nellie Bennett stayed there about ten days after she had been in jail, but he did not know that she was a prostitute; that the Jackson girl stayed there three or four weeks and the Goo Goo girl about ten days; that he did not know they were prostitutes, and did not know of the lewd conduct of his daughter and the other inmates of his house; that S. S. Rogers had worked for him and stayed at his house.
+That the defendant’s place was a bawdyhouse is established by the evidence, which is overwhelming. The defendant by his own testimony attempted to prove that he had no' personal knowledge of this fact.
+Error is assigned upon exceptions taken to instructions given in the court’s charge, which read as follows:
+“Third. A keeper of a bawdyhouse, or house of ill fame, or of assignation, or of prostitution, or other house or place for unlawful sexual intercourse or for any other lewd, obscene, or indecent purpose, means and includes a person who has control, proprietorship, or management of the house in question, and it must be shown to you beyond a reasonable doubt that the defendant did so keep the house herein charged before you can lawfully convict him.
+“Fourth. You are further instructed that it is not necessary for the state to prove, in order to convict the defendant, specific acts of illicit intercourse; but the character of the place may be shown by the general reputation it has in its neighborhood, and the general reputation of the persons who resort to said place and all circumstances that go directly to prove the conduct of the inmates thereof and those who resort to said place.
+“Fifth. You are instructed that it is incumbent upon the state to prove to your minds beyond a reasonable doubt that the defendant had knowledge and acquiesced in any lewd conduct or prostitution that might have been carried on within or about his residence, and if you do not so find beyond a reasonable doubt, then you should acquit the defendant and so say by your verdict. And, in determining the knowledge or acquiescence of the defendant to any such conduct as herein set out, you may take into consideration his opportunity to be informed thereof and the surrounding circumstances under which such acts, if any, were committed, in arriving at your conclusion as to the knowledge or acquiescence of the defendant therein. You are further instructed that it is necessary for the state to show beyond a reasonable doubt that the defendant knew the character of his house and the conduct of the inmates thereof and the character of those who resorted there before you would be justified in convicting the defendant; but it is not necessary for the state to prove actual knowledge on the part of the defendant of the character of his place or the inmates or those who resorted there; but such facts may be shown and proven by circumstances and facts such as will convince you beyond a reasonable doubt that the defendant was bound to have cognizance and knowledge of the conduct of the inmates of the house or those who resorted there for the purpose set out in this information.”
+The defendant’s counsel argue- that these instructions are fundamentally wrong, because in effect they inform the jury that the defendant can be held responsible for the conduct of other people when he has no knowledge of their conduct and is in no way responsible for their acts.
+We fail to find any force in this argument. These instructions correctly state the law and were as favorable to the defendant as the law permitted. It has been held that in a prosecution for keeping a bawdyhousc a statement in the court’s charge to the jury:
+“That every person is presumed to have knowledge of that which' goes on in his own house, and that, if it should be shown that persons continuously resort to such house for immoral purposes, the proprietor of the house would be held responsible for keeping an immoral house”
+—is not erroneous. (De Forest v. United States, 11 App. D. C. 458.) We are of opinion the charge of the court constituted a correct and complete exposition of the law of the case.
+It is also contended that the court erred in permitting evidence of the arrest and conviction of S. S. Rogers for frequenting the defendant’s bawdyhouse. We think that this was competent evidence to establish the fact that the defendant did have knowledge of the character of the inmates of his house, in connection with the admitted fact that the defendant Nellie Bennett was permitted to stay there after her arrest and conviction as a prostitute, and the record shows that no objection was made to the introduction of this testimony. A man careful of the reputation of his house is not accustomed to permit prostitutes to stay and there receive callers.
+Neither did the court err in permitting evidence as to the lewd character of the defendant’s daughter. It was not a question of her lawful right to reside at the home of her parents, but a question of her demeanor while there, and the fact that she was the daughter of the defendant did not destroy the inferential effect of her lewd character and conduct as tending to show the character of the house.
+We see no error in the admission of evidence objected to nor in the instructions excepted to. Tt follows that the judgment should be affirmed.
+ARMSTRONG, P. J., and FURMAN, J., concur.-
