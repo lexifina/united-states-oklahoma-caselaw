@@ -1,0 +1,51 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-5285"
+decided: "1926-11-08"
+citations: ["37 Okla. Crim. 4", "255 P. 716"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BESSEY, P. J., and DOYLE, J., concur."]
+parties: ["E. G. HALL v. STATE."]
+source_url: "https://static.case.law/okla-crim/37/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8741888
+cites_cases: ["1 Okla. Cr. 617", "101 P. 111", "11 Okla. Cr. 301", "17 Okla. Cr. 587", "28 Okla. Cr. 266", "3 Okla. Cr. 230", "34 Okla. Cr. 424", "8 Okla. Cr. 554"]
+---
+
+# Hall v. State
+
+## Majority (EDWARDS, J.)
+
+EDWARDS, J.
+The plaintiff in error, hereinafter called defendant, was convicted in the district court of Carter county on a charge of shooting with intent to kill and his punishment fixed at a term of 18 months in the state penitentiary.
+It appears from the record that defendant and one B. J. Johnson were neighbors of several years’ standing, and some time prior to the commission of the offense charged family difficulties had occurred, which resulted in a separation of Johnson and his wife and defendant and his wife, and later the marriage of defendant and Johnson’s former wife. In the divorce case arising out of this relation between Johnson and his wife, the children of his wife were awarded to Johnson. After the marriage between defendant and the ex-wife of Johnson a demand for the custody of these children had been made on Johnson, and a short time before this difficulty Johnson had shot defendant. He was later tried and acquitted. On two different occasions defendant and Johnson had a difficulty, the last about ten days prior to the offense charged.- About two months before the daté of the crime charged, defendant’s wife, the ex-wife of Johnson, went to the home of Johnson and demanded the children, and stated that if Johnson refused she and defendant would kill him. On the date of the offense charged, Johnson went to the village of Homa, about 1% miles from his home, passing along a roadway on the east line of defendant’s land. On his return, when about 150 yards from his home, defendant, concealéd in his field about 25 yards from the road, shot Johnson with a- Winchester rifle, the bullet striking the back part of the shoulder and coming out at the opposite shoulder. The shot knocked Johnson to the ground, and upon arising some 12 or 15 shots were exchanged between him and defendant. Only the first shot fired took effect, as stated. Several witnesses testified to seeing defendant with a gun leaving the scene immediately after the shooting, and some of them saw him fire the shots. After the shooting he went to his house, and one of the witnesses saw him in a wagon which was driven away. An examination of the ground at the scene also disclosed that defendant had crawled from a haystack on his premises some 300 or more yards to the point where the shooting took place.
+The defense was an alibi, defendant offering evidence that he was not at the place of the shooting but at the home of his parents several miles away, not yet recovered from the wound inflicted by Johnson about ten days before. This alibi was supported by several witnesses, relatives of defendant.
+Several assignments of error are argued in the briefs. It is first insisted that the court erred in admitting testimony in relation to the domestic trouble between Johnson and his wife, and between defendant and the prosecuting witness. It appears that the state introduced evidence of the previous relation of defendant with the wife of Johnson, and of threats made by Johnson’s ex-wife while the wife of defendant in reference to the children, on the theory that it tended to prove motive for the shooting. Defendant in his brief contends that there is no controversy of the fact that defendant did the shooting, and therefore the evidence was improper and prejudicial. This is not borne out by the record. Defendant did not admit the shooting and seek to justify it, but denied that he shot prosecuting witness and offered considerable evidence in support of his contention. The court and counsel for the state could not ignore the testimony of defendant and his witnesses that he did not participate in the shooting and assume the truth of the testimony of the state’s witnesses that defendant did the shooting. Whether or not the shooting was done by the defendant was a question of fact for the jury. That being a controverted question, the evidence, within proper limits, of the relations between defendant and the wife of the prosecuting witness and the difficulty growing out of that relation, was a proper subject of inquiry, as tending to prove motive. Burns v. State, 8 Okla. Cr. 554, 129 P. 657; Morris v. Territory, 1 Okla. Cr. 617, 99 Pac. 760, 101 P. 111; Irvin v. State, 11 Okla. Cr. 301, 146 P. 453; Roe v. State, 17 Okla. Cr. 587, 191 P. 1048.
+In the latter case it was held:
+“Where one of the defenses interposed is that defendant did not commit the crime, evidence tending to establish a motive on the part of the defendant to commit the crime is properly admitted.”
+Under this assignment it is further argued that the court erred in permitting the prosecuting witness to testify that his ex-wife, Hall’s wife, sometime before made threats to kill him if the custody of the children was not given them. This line of the evidence was incompetent unless there was some proof of agency of defendant’s wife, Johnson’s ex-wife, in making the demand for the custody. This evidence, however, was met by defendant and gone into much more fully. The grounds set up in the divorce proceedings between Johnson and his wife were briefly testified to by witnesses for the state. The defendant then went into the matter at considerable length. His wife on her examination in chief testified that prosecuting witness was cruel to her, whipped and beat her, required her to work when she was not able, had threatened to kill both her and defendant, and after the divorce had come to her place and beaten her and had taken the children away, and further testified to the prior difficulty between prosecuting witness and her husband, the defendant, in which defendant was shot. The following is an excerpt from her testimony.
+“Q. Tell the jury the cause of your separation. A.- He was so cruel to me that I could not live with him.
+“Q. Tell some of the things he would do. A. He would fight me and whip me and beat me and make me work when I was’nt able to work, and make me drag a sack and pick cotton. * * *
+“Q. Did Johnson file suit for divorce against you? A. Yes, sir.
+“Q. Did you hire a lawyer to represent you? A. Yes, sir.
+“Q. To keep him from getting a divorce?, A. I hired a lawyer, and Johnson threatened .to kill me if I fought the suit and told me to drop it. He had made threats to kill me and Mr. Hall both. * * *
+“Q. You and Mr. Hall afterwards married? A. Yes, sir.
+“Q. And you were living together at the time he was shot and at the time this other shooting took place? A. Yes, sir.
+“Q. A few days before this divorce suit was filed, did Johnson come to your house? A. Yes, sir; two or three nights before.
+“Q. What did he do? A. He drew a gun on me and threatened to kill me if I fought the lawsuit, and made me get down on my knees and promise I wouldn’t. ‡ Í ‡
+“Q. Do you remember about the time that Mr. Hall was shot? A. Yes, sir.
+“Q. Do you know what he was doing that day? A. Yes, sir.
+“Q. What was he doing? A. He wias drilling wheat.
+“Q. Where? A. On his home place.
+“Q. Attending to his own business. A. Yes, sir.
+“Q. Who shot him? A. Johnson.
+“Q. Had he ever in any way interfered with Johnson in anything at that time? A. No. sir. * * *”
+This evidence for defendant goes far to mitigate the the error in the first instance as tending to prove that the prosecuting witness was brutal and the aggressor in the prior difficulty, and to prejudice the jury against the prosecution. We think defendant had decidedly the better of this issue and was not injured. Rhea v. Territory, 3 Okla. Cr. 230, 105 P. 314.
+It is also insisted that the court was unfair in his rulings and was a partisan of the state and several times reprimanded counsel in the presence of the jury, and, on one occasion, when counsel objected to evidence in reference to the divorce case, said to counsel: “You drew that up yourself, Mr. Sigler; go ahead.” A fair trial imperatively requires that the court shall not become a partisan, nor assume an attitude toward defendant that indicates to the jury his opinion of the merits of the case being tried or the credibility of the witness, and shall not reprimand counsel in the presence of the jury, and shall maintain a proper decorum in court, and it is the duty of counsel to observe a respectful attitude toward the court. The court here may have been somewhat testy, but we think it cannot be said that he was a partisan or unfair.
+Lastly, it is insisted that the county attorney in his closing argument was guilty of prejudicial error in referring to the trial of Johnson that he was “acquitted by a jury of 12 good men in the city of Ardmore,” and in again saying, “Do you believe that if the good people of Homa believed that he was a wife beater that they would be here backing him up not only in this case but in the former trial?” as outside the record and an appeal to prejudice and passion. This is not an unreasonable argument or deduction from the evidence quoted, nor is it inflammatory or calculated to arouse any feeling against defendant.
+Several other contentions are made in the briefs, all of which have had attention, and none are of sufficient merit to require special discussion.
+Upon an examination of the entire record, we find no substantial violation of any constitutional or statutory right of the defendant, and think there has been no miscarriage of justice. The verdict of the jury in assessing the punishment of defendant at 18 months in the penitentiary is, under the circumstances. shown, extremely lenient. Graham v. State, 28 Okla. Cr. 266, 230 P. 763; White v. State, 34 Okla. Cr. 424, 246 P. 1114.
+The case is affirmed.
+BESSEY, P. J., and DOYLE, J., concur.
