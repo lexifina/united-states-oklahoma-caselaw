@@ -1,0 +1,42 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-10049"
+decided: "1942-06-17"
+citations: ["74 Okla. Crim. 424", "127 P.2d 215"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BAREFOOT, P. J., and DOYLE, J., concur."]
+parties: ["LESTER HERREN v. STATE."]
+source_url: "https://static.case.law/okla-crim/74/cases/0424-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8738392
+cites_cases: ["2 P. 2d 282", "51 Okla. Cr. 449", "52 Okla. Cr. 64", "53 Okla. Cr. 401", "55 Okla. Cr. 247"]
+---
+
+# Herren v. State
+
+## Majority (JONES, J.)
+
+JONES, J.
+Tbe defendant, Lester Herren, was charged with Earl Herren, Walter Brady, and others, with tbe crime of burglary, in the district court of Johnston county. Tbe accused were separately tried; tbe defendant Lester Herren was convicted and sentenced to serve four years in tbe State Penitentiary, and has appealed.
+Counsel for defendant in their brief have presented four assignments of error: First, the evidence was insufficient to sustain tbe verdict; second, the court erred in refusing to give certain instructions requested by defendant ; third, error of the court in admitting in evidence, over the objection of the defendant, certain of the stolen articles recovered at Lee Herren’s and Earl Herren’s; fourth, improper argument on the part of the prosecution which allegedly prejudiced the rights of the defendant.
+As to the first assignment of error a careful review of the record discloses the following facts established by the prosecution:
+Willie Holmes owned and operated a general mercantile store at Pontotoc in Johnston county, Oklahoma-On the night of the 26th of October; 1939, his store was broken into and entered and many articles of merchandise, totaling in value about $500, were taken. Latex*, a part of this merchandise was located at the store of Lee Herren, an uncle of defendant, and another large part thereof at Earl Herren’s place, who was also an uncle of defendant. These articles which were recovered were positively identified by various cost marks and other means of identification on said goods.
+The proof by several witnesses further showed that on the afternoon of October 26th a dark-colored sedan automobile in which Earl Herren, defendant Lester Hela-ren, and Walter Brady were riding stopped in front of the Holmes store; Walter Brady entered the Holmes store, purchased a bottle of soda-pop, left the store, re-entered the automobile, and drove off with the defendant and Earl Herren.
+Tildie Greenway testified that in October, 1939, she was the housekeeper for Mrs. Lee Herren. That she saw Earl Herren, Lester Herren and Walter Brady at Lee Herren’s early in the morning of October 27th. They were in a dark automobile which was piled with merchandise. The three men came into Lee Herren’s house and lay down on the bed. Ida Herren, daughter of Lee Her-ren, came in and, in the presence of the witness, told the three men to get off the bed so she conld make up the bed, and Earl Herren there stated to' Ida Herren, in the presence of the witness and Lester Herren and Walter Brady, that he had been up> all night and was dead-tired. The witness saw some shirts and stockings and several boxes and sacks of merchandise piled in the car. A box of the stockings was taken out of the car and into the house, where the stockings were removed and laid across the bed.
+An Oklahoma City policeman testified that he arrested defendant in Oklahoma City and found among, his effects a pair of Star Brand shoes. That he returned defendant and the shoes to Johnston county. Willie Holmes identified the shoes as a pair which were taken from his store in the burglary.
+The undersheriff of Johnston county testified that he made an investigation of the premises at the Holmes store the morning after the burglary. In the building he found a piece of mud with the imprint of a shoe heel plainly imbedded therein and called for an officer from Carter county to come over and take a picture of the imprint. When Lester Herren was returned to Johnston county, witness removed defendant’s shoes and delivered them to the officer of Carter county for the purpose of comparison with the heel print which was shown in the mud found in the Holmes store.
+Dick Rabun testified that he was an officer of Carter county and experienced in taking pictures and making impressions of fingerprints, footprints and tracks of various kinds. He identified a picture taken of a heel print found in mud in the Holmes store, and stated that in his opinion the mud came from the heel of the shoe which came off from the heel of one of Lester Herren’s shoes or “off a heel of a shoe identical to that one.”
+The defendant offered no testimony.
+A reading of this record shows that there is abundant evidence to connect defendant with the commission of the burglary. He was seen at the store building just a few hours before the burglary was committed, tracks which were left at the building by the burglars were identified as being made by him, a part of the stolen goods was identified as being, found in his possession, and it is shown that he was with Earl Herren at Lee Herren’s place of business where a large part of the stolen property was recovered.
+It is well settled by the numerous decisions of this court that where there is evidence in the record from which the jury could legitimately conclude that defendant was guilty of the crime charged, the conviction will not- be set aside because of the alleged insufficiency of the evidence. The evidence here, though circumstantial in its nature, was abundantly sufficient to sustain the conviction.
+Defendant complains of the refusal of the court to give a requested instruction of defendant. This question is not properly before us for the reason that neither in the motion for a new trial nor in the petition in error filed in this court was this question ever raised. The question is not jurisdictional in its nature.
+In the case of Ballew et al. v. State, 55 Okla. Cr. 247, 28 P. 2d 993, it is stated:
+“Only those questions which were raised in the trial court and an adverse ruling thereon, exceptions taken, and then incorporated in a motion for new trial, and assigned as error in the petition in error, will be considered on appeal, except that jurisdictional questions may be raised at any step of the case.”
+See, also, Mobbs v. State, 52 Okla. Cr. 64, 2 P. 2d 974; Langley v. State, 53 Okla. Cr. 401, 12 P. 2d 254; Ellis v. State, 51 Okla. Cr. 449, 2 P. 2d 282.
+There is no merit to the third assignment of error. The defendant was seen in company with Earl Herren jnst preceding and just after the burglary was committed. They were at Lee Herren’s place early the next morning with a carload of merchandise. A sufficient predicate had been laid for the introduction in evidence of the goods found in Lee Herren’s and also in Earl Herren’s place. Those exhibits were admissible as circumstances in connection with the commission of the crime which' might tend to connect the defendant with the burglary.
+It is next urged that the county attorney was guilty of improper argument when he stated: “If you had been arrested and had a pair of shoes taken from you, you would personally tell where you got the shoes.” Counsel for defendant insists that this is a comment by the county attorney on the fact that the defendant did not take the witness stand. On the other hand, the state contends that the argument was legitimate and had reference to the fact that the defendant did not tell the policeman who took the shoes from him in Oklahoma City where he had obtained the shoes.
+With no other statement appearing in the record and nothing to advise this court as to just what preceded the alleged objectionable remarks, we cannot say that such statement, standing alone, was error. The trial court heard the testimony of the witnesses and the argument presented by counsel and knew what had preceded the alleged objectionable remarks. In order for this court to say that the trial court erred in his ruling on this question, there must be a sufficient showing in the record to convince us that the trial court erred in his ruling. No such showing, is made.
+Finding no substantial error in the record and it appearing that the defendant had a fair ’and impartial trial, the judgment of the district court of Johnston county is affirmed.
+BAREFOOT, P. J., and DOYLE, J., concur.
