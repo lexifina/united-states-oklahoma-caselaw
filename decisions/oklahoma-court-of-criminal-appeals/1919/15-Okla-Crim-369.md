@@ -1,0 +1,37 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "2953"
+decided: "1919-01-11"
+citations: ["15 Okla. Crim. 369", "177 P. 122"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DOYLE, P. J„ and ARMSTRONG, J., concur."]
+parties: ["SAM HARRIS v. STATE."]
+source_url: "https://static.case.law/okla-crim/15/cases/0369-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8745131
+cites_cases: ["14 Okla. Cr. 413", "30 Cal. 214", "40 Cal. 426", "44 Cal. 579", "6 Cal. 562", "61 Cal. 620"]
+---
+
+# Harris v. State
+
+## Majority (MATSON, J.)
+
+MATSON, J.
+“On the 1st day of February, 1915, information was filed in the district court of McCurtain county, Okla., charging Sam Harris with assault with intent to kill one Norman O’Neal. The allegations in the information being as follows:
+“ ‘Now comes E. G. Nelson, the duly qualified and acting county attorney, in and for McCurtain county, state of Oklahoma, and gives the district court of McCurtain county, state of Oklahoma, to know and be informed that Sam Harris did in McCurtain county, and in the state of Oklahoma, on or about the 15th day of March, in the year of our Lord one thousand nine hundred and fourteen, and anterior to the presentment hereof, commit the crime of assault with intent to kill, in the manner and form as follows, to wit:
+“ ‘The said Sam Harris did, in the county of McCur-tain and state of Oklahoma, on or about the 15th day of March, 1914, unlawfully, willfully, and feloniously make an’ assault on one Norman O’Neal with a certain • pistol and with a certain slingshot, then and there held' in the hands of him, the said Sam Harris, with the unlawful intent on the part of him, the said Sam Harris, to kill him, the said Norman O’Neal, contrary to the form 'of the statutes, in such case made and provided, and against the peace and dignity of the state.’
+“The case was tried on September 13, 1916, on the information filed over the objection of the defendant as to the sufficiency of the information. After the introduction of evidence the defendant moved for a peremptory instruction in favor of the defendant for the reason that the testimony did not sustain the allegations contained in the information, for the reason that the testimony did not show a public offense and for the reason that the proof and allegations did not correspond. The motion was overruled by the court, exception saved.”
+Among the assignments of error urged as grounds for reversal of this judgment is that the court should have sustained the defendant’s motion to direct a verdict in his favor because of a fatal variance between the allegations of the information and the proof adduced upon the trial.
+If it may be said that the foregoing .information by any reasonable intendment charges a crime in the nature of a felony, it only charges an assault with intent to kill, or an assault of a lower grade necessarily included within the charge of assault with intent to kill.
+The evidence introduced upon the trial shows clearly that, if the defendant is guilty of any crime, it is that of assault and battery with intent to kill, or some lesser grade of assault and battery. There is no conflict between the testimony of the witnesses on behalf of the state and that of those introduced in behalf of the defendant, as to the fact that a battery was committed.
+In the case of People v. Helbing, 61 Cal. 620, the Supreme Court of California said:
+“It is contended, on behalf of the appellant, that the conviction is erroneous, because by the former conviction of ‘battery’ he was acquitted of the offense for which he now stands convicted. But the former conviction did not legally operate as an acquittal of the offense charged in the information, unless it was for an offense included within the offense charged; and that presents the question whether the offense of ‘battery’ is included within or is an ingredient of the offense of assault with a deadly weapon, with a felonious intent. ,
+“The essential elements of the last-named offense are the assault, the weapon, and the intent. An ‘assault’ is an unlawful attempt coupled with a present ability to commit a violent injury upon the person of another. Pen. Code, sec. 240. This offense is punishable by fine or by imprisonment in the county jail (Id. sec. 241), and is therefore a misdemeanor; but when made with a deadly weapon, with a felonious intent, it develops into a felony (Id. secs. 221, 245), which, in its elements and unity, includes the misdemeanor (People v. Vanard, 6 Cal. 562; People v. English, 30 Cal. 214; Ex parte Ah Cha, 40 Cal. 426; Ex parte Max, 44 Cal. 579.)
+“The offense of ‘battery’ is the' unlawful use of force or violence upon the person of another; it is also, like an assault, a misdemeanor, because it is punishable by fine or imprisonment in the county jail, or by both fine and imprisonment (Id. secs. 242, 248) ; -it is therefore a greater offense than assault, and, being the greater, it includes the less. But the less does not include the greater. ‘Battery,’ therefore, includes assault, but ‘assault’ does not inelude battery, nor is the latter included within nor an ingredient of the offense of assault with a deadly weapon with a felonious intent. Upon trial for the latter offense a defendant could not equally be convicted of battery; and such a conviction, especially when set aside on motion of defendant himself, constitutes no bar to a second trial upon the same indictment or information.”
+The excerpt from the foregoing opinion of the Supreme Court of California clearly states the law, and for a further discussion of this subject, see the case of Parks v. State, 14 Okla. Cr. 413, 171 Pac. 1129.
+It is the opinion of this court that the evidence, both on behalf of the state and that of the defendant, if it established the guilt of the defendant of any crime, showed that the crime committed was assault and battery, either by shooting with intent to kill, or by the use of force likely to produce death, as defined within the terms of section 2336, Rev. Laws 1910. Such offense was not included within the allegations of the information in this case. The motion interposed by counsel for the defendant, while not in proper form, was sufficient to call the attention of the trial court to the contention that there was a fatal variance between the allegations of the information and the proof adduced upon the trial. The court should have instructed the jury to return a verdict of not guilty by reason of a variance between the allegations of the information and the proof, and a new prosecution should have been commenced charging the defendant with the higher offense, which procedure is authorized by sections 5921 and 5930, Rev. Laws 1910.
+The statutes of this state do not permit of the conviction of the defendant where the proof does not support the allegations - of the information as to the crime charged, or of a lesser grade or degree of such crime, or of an offense necessarily included therein. Where the evidence discloses a higher grade or degree of crime than that charged, or the proof is of an offense different from that charged, or of an offense not necessarily included within the terms of the allegations of the indictment or information, then a variance exists, and the procedure indicated in sections 5921 and 5930, supra, should be followed.
+For the reasons stated, the judgment is reversed.
+DOYLE, P. J„ and ARMSTRONG, J., concur.
