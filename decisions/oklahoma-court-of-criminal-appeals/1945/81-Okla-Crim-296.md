@@ -1,0 +1,33 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "No A-10486"
+decided: "1945-11-28"
+citations: ["81 Okla. Crim. 296", "164 P.2d 245"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JONES, J., concurs. DOYLE, J., not participating."]
+parties: ["JOHN EDWARDS v. STATE."]
+source_url: "https://static.case.law/okla-crim/81/cases/0296-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8741330
+cites_cases: ["119 P. 2d 253", "190 N. W. 289", "220 Mich. 379", "27 A.L.R. 686", "67 Okla. Cr. 203", "68 Okla. Cr. 455", "70 Okla. Cr. 203", "70 Okla. Cr. 432", "71 Okla. Cr. 112", "71 Okla. Cr. 115", "73 Okla. Cr. 199", "75 Okla. Cr. 121"]
+---
+
+# Edwards v. State
+
+## Majority (BAREFOOT, P. J.)
+
+BAREFOOT, P. J.
+Defendant, John Edwards, was charged in the court of common pleas of Tulsa county with the crime of unlawful possession of intoxicating liquor, to wit, seven and one-half pints of corn whisky. He was tried, convicted and sentenced to pay a fine of $100, and to serve 60 days in the county jail, and has appealed.
+This case was the outgrowth of the search of defendant’s automobile by deputy sheriffs W. H. Wards and Roy Vaden on September 17, 1943, in Tulsa county.
+The two deputies were at a filling station and went inside to get a “soft drink.” Defendant drove up and parked his car on the other side of the street. The deputies walked in the direction of defendant’s parked automobile, and their testimony was that they' saw bottles in a paper sack on the floor of the car, between the front and rear seats, which bottles had the appearance of “whisky bottles.” They opened the door of the automobile and examined the contents of the sack and discovered that the bottles contained whisky. They arrested defendant, and while taking him to jail, one of the deputies asked him how much he was getting for his whisky, and the defendant answered $2.50 a pint. The glove compartment of the car was searched and four pints of corn whisky were found there.
+Defendant waived a jury and the case was tried before the court. A motion to suppress was filed for the reason that the officers did not have a search warrant at the time the automobile was searched, and this motion was heard before the trial, overruled, and exception saved. The legality of the search is the only question presented. The trial court sustained the motion insofar as it applied to the liquor found in the glove compartment, and considered only the possession of the liquor found between the seats. The amount of liquor found there was in excess of one quart. The defendant did not take the witness stand, and the only two witnesses offered by defendant testified with reference to the working of the lock on .the glove compartment of the automobile.
+The contention of counsel for defendant is based principally upon the cross-examination of the two deputies who searched the automobile of defendant. By this cross-examination it was developed that they were acquainted with the defendant and knew his general reputation, and that was their reason for going to his parked car. An attempt was also made to show that it would have been physically impossible for the officers to have seen the bottles containing whisky in the sack, from where they were standing. This was done by counsel placing a sack with bottles of same kind before the court.
+The cross-examination was very searching, and the witnesses made some statements which were to the disadvantage to the state. Some of the answers made by the witnesses on cross-examination might have been inadmissible,. but the case was tried by the court, and not by a jury, and the presumption is that the court only considered the evidence which was admissible and disregarded that which was inadmissible. The evidence taken on the motion to suppress is not contained in the case-made — only the evidence at the trial.
+The evidence of the officers was positive that they were standing in the street in a public place when they observed the bottles in the sack, and that in addition to the seven and one-half pints of whisky they found in the car two or three empty jugs and a couple of dozen empty pint bottles which had been used for whisky.
+The evidence in this case, taking into consideration the cross-examination of the witnesses, makes what is known as a “border line case”; but taken as a whole, we think the court was justified in finding defendant guilty. His automobile was parked in a public place, and on a public street. The officers knew of his general reputation as being that of one who sold whisky, and he had been searched on numerous occasions, and whisky found. The officers saw the bottles in a paper sack, and the empty bottles on the floor of the car. The officers had a right to be on the public streets, and they had the right to observe defendant’s parked automobile. While it has been recognized that a search of one’s automobile may not be made without a search warrant, yet it has often been held by this court that an officer in a public place, in the discharge of his duty, has the right to search an automobile without a warrant when the facts, by reason of exercising his senses of sight, hearing or smell, justify his doing so. As was stated in the case of Matthews v. State, 67 Okla. Cr. 203, 93 P. 2d 549, 550:
+“Whether search of, and seizure from, an automobile parked on a public street or other public place, without a warrant, is unreasonable, is to be determined as a judicial question in view of all the facts and circumstances under AAhich it is made.”
+See, also, Barfield v. State, 68 Okla. Cr. 455, 99 P. 2d 544; Arnold v. State, 70 Okla. Cr. 203, 105 P. 2d 556; Nott v. State, 70 Okla. Cr. 432, 107 P. 2d 366; Franklin v. State, 71 Okla. Cr. 115, 109 P. 2d 239; Young v. State, 71 Okla. Cr. 112, 108 P. 2d 1028; Golden v. State, 75 Okla. Cr. 121, 129 P. 2d 202; Brown v. State, 73 Okla. Cr. 199, 119 P. 2d 253. Also cases from other states, cited in the note in 74 A.L.R., beginning on page 1457; and 30 Am. Jur. pp. 532 and 533; People v. Case, 220 Mich. 379, 190 N. W. 289, 27 A.L.R. 686, in which the court notes some distinction, and reasons that should be made in the search of an automobile and a private home.
+This case has been well briefed by both defendant and the state, and while it is a border line case, we are of the opinion that the court did not err in finding the defendant guilty under the evidences offered; and the judgment of the court of common pleas of Tulsa county is affirmed.
+JONES, J., concurs. DOYLE, J., not participating.
