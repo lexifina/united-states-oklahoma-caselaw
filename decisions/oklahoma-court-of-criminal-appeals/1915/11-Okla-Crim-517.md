@@ -1,0 +1,65 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-2433"
+decided: "1915-05-24"
+citations: ["11 Okla. Crim. 517"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["FURMAN and ARMSTRONG, JJ., concur."]
+parties: ["Ex parte E. R. HORINE."]
+source_url: "https://static.case.law/okla-crim/11/cases/0517-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8743541
+cites_cases: ["135 Mass. 48", "3 Okla. Cr. 350"]
+---
+
+# Ex parte Horine
+
+## Majority (DOYLE, P. J.)
+
+DOYLE, P. J.
+The petitioner, E. R. Horine, on March 30, 1915, filed in this court an application for a writ of habeas corpus, wherein he avers that he is unlawfully restrained of his liberty by Jake Alberty, sheriff of Adair county. It is further averred in said petition:
+“(2) That the cause or pretense of the restraint, according to the best of the knowledge, information, and belief of your petitioner is that your petitioner was on the 6th day of January, 1915, duly and legally granted a parole by the Honorable Lee Cruce, the then duly elected, qualified, and acting Governor of the state of Oklahoma, paroling and releasing your petitioner, and restoring to him his rights of citizenship, from the state penitentiary at McAlester, state of Oklahoma, where he was then and there confined in obedience to a commitment issued out of the district court of the county of Adair, state of Oklahoma, upon a conviction had at the October, 1913, term of said district court, for the offense of embezzlement, and sentenced to serve a term of years in the state penitentiary at Mc-Alester, Oklahoma.
+“That said parole, granted as aforesaid, contained certain stipulations and agreements as to the conduct of your petitioner; a copy of which is hereto attached and made a part of this petition and marked" 'Exhibit A.’
+“(3) That the restraint of your petitioner, as your petitioner is informed and believes, is by virtue of the Governor of the state of Oklahoma having made and entered an order revoking the parole of your petitioner; said order, as your petitioner is informed and believes, was made and entered on the -- day of March, 1915, the exact date being unknown to your petitioner.
+“(4) That the restraint of your 'petitioner, as herein alleged, is illegal, in that the Governor of the state of Oklahoma has no authority under the law to revoke the parole of your petitioner, without first a showing be made that your petitioner has violated some one or more of the conditions of said parole; and in this connection your petitioner alleges that he has in no way violated any of the conditions of said parole, either in letter or spirit, but upon the contrary he has honestly and faithfully observed and lived up to the conditions of said parole in every particular, and in support of this allegation your petitioner herewith offers and attaches to this petition the affidavits of reputable citizens of the town of Westville, Adair county, Oklahoma, in which community your petitioner has continuously resided since and prior to the granting of said parole.
+“Wherefore, your petitioner prays the court to make, or cause to be made and entered of record, an order releasing and liberating your petitioner from the restraint herein complained of. And for such other and further relief to which he may show himself entitled.”
+One of the conditions of said parole is as follows:
+“Third. That the Governor shall have power at any time, either before or after the expiration of said sentence, to revoke this parole for a violation of any of the above conditions or for any other reason by him deemed sufficient and to cause the said E. R. Horine to be sent to the penitentiary to serve out the maximum of said sentence.”
+The order of revocation by Hon. R. L. Williams, Governor of the state of Oklahoma, is as-follows:
+“Executive Department.
+“To all to whom these presents shall come, Greeting:
+“Whereas, at the March, 1914, term of the district court of Adair county, state of Oklahoma, Earl R. Horine was convicted of the offense of embezzlement and sentenced to- serve a term of five years in the Oklahoma state penitentiary at Mc-Alester, Oklahoma; and
+“Whereas, the said Earl R. Horine was paroled January 6, 1915, under certain terms and conditions; and
+“Whereas, Hon. W. W. Hastings states:
+“ ‘As national attorney for the Cherokee Nation, I assisted in the prosecution of E. R. Horine a year and a half or two years ago, and without the record before me, these are substantially the facts:
+“ ‘Horine had no defense. He raised every technical defense that, could possibly be raised, but he did not deny that he had gotten the money. He did not claim that he paid anybody a cent for the child, and the jury after hearing the evidence gave him the maximum punishment, five years in the state penitentiary. The truth is, Governor, when you take into consideration on the one hand his superior intelligence, and on the other hand, the poor ignorant misguided fullblood child, whose father was dead, Horine ought to have had fifty instead of five years in the state penitentiary.
+“ ‘He filed a motion for a new trial and it was overruled. He then prayed an appeal to the Criminal Court of Appeals. This appeal was not perfected in the proper way, because he never would pay his lawyers and nobody took any particular interest in it. His appeal was dismissed by the Criminal Court of Appeals, but pending the sending of the mandate back to Adair county, I understand a petition was circulated for his parole. Many people signed it. I do not know whether any notice was given of it or not. If a notice was printed, it was published in some out of the way place in Adair county and did not attract attention, or else I would have protested at the time and advised you of the true facts in this case.
+“ ‘Other cases were pending against Horine in Adair county and one of them came up for trial on Tuesday, March 2, 1915. It was a case similar to the one pending in which he had been convicted and was an embezzlement case. He was again convicted by a jury and his punishment assessed at five years in the state penitentiary.
+“ ‘There are still other cases, as I am informed, pending against him at other points in eastern Oklahoma. I feel like that in the interest of the best citizens here and having the good of your administration at heart, it is my duty to apprise you of the true facts with reference to this man Horine.
+“ ‘Of course, if he prays an appeal from his second conviction and a bond is given and he remains out of the penitentiary upon that appeal, it sets a bad example and is not much encouragement to the officers of the court, and the juries of the count}'' to convict such unscrupulous violaters of the lawand
+“Whereas, Hon. Joe M. Lynch, U. S. probate attorney, makes the following statement:
+“ ‘Before he was taken into custody in accordance with the mandate of the Criminal Court of Appeals, and without serving a day of the sentence imposed in said case, by some means during the last days of Governor Cruce’s administration a parole was granted, and no part of the sentence has been served by this defendant.
+“ ‘At the present March, 1915, term of the district court of Adair county said Earl R. Horine was tried on another charge of embezzlement, and was in this second case convicted by the jury and his punishment fixed at five years in the penitentiary, from which he has given notice of appeal and is now out on the appeal bond fixed by the court.
+“ ‘In view of the fact of the second conviction, in a case where the facts are almost identical with the first case, and in view of the further fact that an appeal has been taken to the Criminal Court of Appeals where the case will necessarily be pending for some time, with the possibility and the hope on his part of a reversal on account of perhaps a technicality, and particularly in view of the further and unquestionable fact of his guilt in each case, it occurs to me that the ends of justice will be largely defeated if the parole in the case first referred to is permitted to remain in force.
+“T desire to also call1 your attention to the significant fact that in neither of these cases did the defendant introduce any evidence; never denied his guilt further than the formal plea of not guilty, and apparently rested his hopes'of ultimate release from any atonement for his misdeeds on some error in the procedure or technicality in connection- therewith.’
+“Now, therefore, I, R. L. Williams, Governor of the state of Oklahoma, by virtue of the authority vested in me by law> and in consideration of the aboye information, do hereby annul, cancel, and revoke his parole, and do hereby order and direct all sheriffs and other police officers of the state of Oklahoma, to apprehend the said Earl R. Horine wherever he may be found and to take him into safe custody and conduct him to the Oklahoma state penitentiary at McAlester, Oklahoma, where he will serve out that portion of his said sentence unfinished when he was paroled, in accordance with the original judgment and sentence of the court.
+“In witness whereof, I have hereunto set my hand and caused to be affixed the great seal of the state of Oklahoma, at Oklahoma City, this the 22d day of March, 1915.
+“R R. WlEEIAMS,
+“Governor of the State of Oklahoma.
+“Attest:
+“J. L. Lyon, Secretary of State.
+“(Seal).”
+The power to pardon conferred by the Constitution on the Governor is practically unrestricted, and the exercise of executive clemency is a matter of discretion.
+The Constitution, art. 6, sec. 10 (159 Williams’), provides:
+“The Governor shall have power to grant, after conviction, reprieves, commutations, paroles, and pardons for all offenses, except cases of impeachment, upon such conditions and with such restrictions and limitations as he may deem proper, subject to such regulations as may be prescribed by law.”
+This power is not derived from legislation, and it is quite clear that, under any pretense of regulating its exercise, the supreme executive power could not be deprived of its constitutional authority in relation thereto, but provision may be made by legislation, which shall render the exercise of such a power convenient and efficient.
+In Ex parte Ridley, 3 Okla. Cr. 350, 106 Pac. 549, it is said:
+“When a convict has been released upon a parole, his real rest and return to custody by an executive order revoking the parole is not in violation of the constitutional guaranty ‘that no person shall be deprived of his liberty without due process of law,’ or ‘that no warrant shall issue but upon probable cause supported by oath or affirmation,’ since being a convict at large by executive clemency, which he has accepted on conditions included therein, upon the violation of any of such conditions he is merely an escaped convict, and not entitled to invoke such constitutional guaranties.”
+In Kennedy’s Case, 135 Mass. 48, it is said:
+“While at common law, where proceedings are necessary for a recommitment of a convict who has broken the condition of a pardon, or where such a person has been, without warrant, seized and detained, and has sought to be released upon habeas corpus, the judicial tribunals have investigated and decided whether there was such breach, as preliminary to their action, we do not find that it has ever been held that re-commitment may not be made by executive order, or that the question whether the condition of a pardon has been broken is one solely judicial. Rex v. Miller, 1 Leach, 74. Rex v. Rogers, 3 Burr. 1809. Rex v. Maden, 1 Leach, 223. Because, in such cases, the courts are in the exercise of their appropriate judicial functions, it by no means follows that the executive authority may not be invested with the right to' remand the prisoner, and to withdraw the pardon on account of the breach of its condition.”
+The parole granted the petitioner was an act of grace or favor upon the part of the state by its chief executive. Petitioner was free to accept the parole with its conditions, or to reject it, and serve his sentence. Pie chose the former, and stipulated that for a violation of the conditions, or for any other reason deemed sufficient, the parole might be summarily revoked by the Governor, and petitioner should be remanded to the penitentiary for the term of his sentence. The conditions imposed are not illegal, immoral, or impossible to be performed, and to enforce them deprives the petitioner of no legal right.
+Upon its revocation the legal status of the petitioner must be regarded the same as it was before the parole was granted. It was not such a contract as entitled him to have a judicial determination of forfeiture, in the face of his stipulation that the Governor might revoke it, “for any other reason by him deemed sufficient.”
+It appearing that the arrest and detention of petitioner is warranted under the conditions of the parole, by which he secured his release from imprisonment, the writ of habeas carpus is denied.
+FURMAN and ARMSTRONG, JJ., concur.
