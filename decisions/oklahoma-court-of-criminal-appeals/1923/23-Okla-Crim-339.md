@@ -1,0 +1,36 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-4598"
+decided: "1923-05-12"
+citations: ["23 Okla. Crim. 339", "214 P. 1090"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MATSON, P. J., and BBSSEY, J., concur."]
+parties: ["Ex parte ED HALEY."]
+source_url: "https://static.case.law/okla-crim/23/cases/0339-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8739471
+cites_cases: ["10 Okla. Cr. 565", "22 Okla. 549", "36 Okla. 196", "69 Kan. 802"]
+---
+
+# Ex parte Haley
+
+## Majority (DOYLE, J.)
+
+DOYLE, J.
+This is an application for writ of habeas corpus whereby Ed Haley seeks to obtain his discharge from the county jail of Wagoner county, where he is now confined under an order of commitment issued on a judgment of the county court of said county rendered on the 24th day of February, 1923, in pursuance of a verdict finding the aforesaid Ed Haley guilty of manufacturing whisky and fixing his punishment at confinement in the county jail for four months and a fine of $200.
+, It is averred that said county court was without jurisdiction to try said cause, in that it was not legally in session when petitioner was tried and convicted and sentenced, in that said county court holds terms of court at two places-in Wagoner county, Okla., one of which is at Wagoner, the county seat, and the other at Coweta, in said county; that said county court convened at Wagoner, on Monday, the 1st day of January, 1923; that said county court, under the law, was required to convene at Coweta on Monday, February 5, 1923; that said county court did not adjourn its term of court at Wagoner at any time before Monday, February 5, 1923, for the holding of its regular term at Coweta on said last mentioned date; that said county court, in so far as its journal shows, did not adjourn at any time after its convening on Monday, January 1, 1923; that, not only did said county court fail to adjourn its regular term beginning at Wagoner on the first Monday in January for the convening of its regular term at Coweta on the first Monday in February, but it endeavored to remain in session and held court at Wagoner on said Monday, February 5, 1923; that its said convening at Wagoner on said Monday, February 5, 1923, is not shown by its journal, but is shown by the judge’s bench docket in ease No. 1371, entitled State of Oklahoma, Plaintiff, v. Ralph Hern-don, Defendant, wherein it is recited that on said 5th day of February, 1923, the defendant was present in court in person, and by his attorney, Owen Watts, was furnished with a copy of the information and list of witnesses, waived arraignment and time to plead, and entered his plea of not guilty, and his bond fixed at $500; that said county court having failed to adjourn its January term at Wagoner for the convening of its regular term at Coweta on Monday, February 5, 1923, the January term of said county court at Wagoner terminated and ended by operation of law.
+That said county court was not in session on said February 20, 1923, the date of said trial of petitioner, nor on the 24th day of February, 1923, the date of the judgment and sentence of petitioner; that the said court was without jurisdiction to try petitioner and to sentence petitioner; and that the verdict of the jury and the judgment and sentence of said county court are null and void.
+Counsel for the state have filed a demurrer to the petition on the ground that the same does not state facts sufficient to constitute a cause of action.
+Section 3178, 3179, and 3180, Comp. Stats. 1921, read as follows:
+“3178. In each county, commencing on the first Mondays of January, April, July and October of each year, except as otherwise herein provided, county court shall convene at the county seat and continue in session so long as business may require: Provided, that said courts shall always be open and in session for the transaction of all probate business in their respective counties.
+“3179. In counties, where it may be provided by law for such court to be held at a place or places other than the county seat, such court shall convene on the first Mondays of January, April, July and October of each year, at the county seat, and remain in session for a period of three weeks, and may then, by proper order of said court, be adjourned to such time as the judge thereof may deem proper: Provided, that the same shall not conflict with the term of said court provided for at any other place in said county; and provided, further, that said term of court cannot be adjourned to resume at a later date than eight weeks from the date of entering the order of such adjournment.
+“3180. If there is only one place other than the county seat at which it is provided by law for holding terms of the county court, the terms of said court at such place shall commence on the first Mondays of February, May, August and November of each year, and continue in session for the period of three weeks, if the public business requires it. ’ ’
+Construing the above statutory provisions in the case of Tucker v. State, 10 Okla. Cr. 565, 139 Pac. 998, it is said:
+“The rule is too well settled to admit of controversy that, where a general term of court has been once regularly convened, on the day fixed by law, it can expire only by adjournment sine die, or by operation of law, and, unless adjourned sine die, will not so expire by operation of law until the first day of the next general term. St. Louis & S. F. R. Co. v. James, 36 Okla. 196, 128 Pac. 279. The trend of the courts is to so construe the law, if possible, as to uphold the sessions of courts actually doing business.
+“The fair import of the language of (section 3178) above quoted is that when a general term of the county court has been regularly convened at the county seat, on the day fixed by law, the term continues until the convening of the next succeeding term at the county seat, unless previously adjourned sine die. The language of (section 3179) providing that when so convened, it may then ‘by proper order of said court, be adjourned to such time as the judge thereof may deem proper: Provided, that the same shall not conflict with- the terms of said court provided for at any other place- in said county’ — is not intended as a grant of power to prolong the term, but merely commits to the sound' descretion of the court the power to adjourn the sessions of court at the county seat from time to time as business may require.
+“The contention that the intervention of a term of the county court at the court town of Cornish caused a lapse of the January term at the county seat is also untenable. Birdwell v. Love, 22 Okla. 549, 98 Pac. 425; State v. Crilly, 69 Kan. 802, 77 Pac. 701.”
+The well-established rule is that where the facts stated in the petition for a writ of habeas corpus, if established, will not wárrant a discharge of the prisoner, the writ will be denied-.
+We are of opinion that under the decision of this court in the Tucker Case, the facts stated in the petition do not warrant a discharge of the petitioner. It follows that the application for writ of habeas corpus should be and the same is denied.
+MATSON, P. J., and BBSSEY, J., concur.
