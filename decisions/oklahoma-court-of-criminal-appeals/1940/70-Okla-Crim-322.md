@@ -1,0 +1,53 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-9713"
+decided: "1940-10-02"
+citations: ["70 Okla. Crim. 322", "106 P.2d 128"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BAEEFOOT and JONES, JJ., concur."]
+parties: ["EASTON JOHNSON v. STATE."]
+source_url: "https://static.case.law/okla-crim/70/cases/0322-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8737424
+cites_cases: ["10 Okla. Cr. 541", "11 Okla. Cr. 278", "145 P. 1109", "18 Okla. Cr. 498", "196 P. 739", "22 Okla. Cr. 122", "23 Okla. Cr. 366", "259 P. 181", "37 Okla. Cr. 313", "38 Okla. Cr. 72", "63 Okla. Cr. 395"]
+---
+
+# Johnson v. State
+
+## Majority (DOYLE, P. J.)
+
+DOYLE, P. J.
+Under an information filedi in the district court of Choctaw county April 24, 1937, charging defendant, Easton Johnson, with the crime of rape in the first degree, alleged to have been committed in said county on or about the-day of August, 1936, on one Margaret Willis, a female person of the age of 12 years, and not the wife of tbe said Easton Johnson, be was tried and convicted, and in accordance with tbe verdict of tbe jury was sentenced to serve a term of 25 years’ imprisonment in tbe State Penitentiary.
+Tbe judgment was rendered and entered December 6, 1937. An appeal was attempted to be taken by filing in this court August 12, 1939, a petition in error with case-made.
+Tbe Attorney General has filed a motion to dismiss tbe appeal on tbe ground that tbe petition in error with case-made was not filed within tbe time required by statute; that time to perfect same expired June 6, 1938; therefore this court is without jurisdiction to bear and determine tbe same.
+Tbe record shows that defendant gave notice of bis intention to appeal and asked for time in which to- make and serve case-made, and was given 90 days to make and serve a case-made. Tbe amount of his supersedeas- bond was fixed at $10,000, which bond was given and approved December 15, 1937. On February 28th the defendant was granted a further extension of 60 days from March 5, 1938, to make and serve a case-made. On May 3, 1938, a further extension of 27 days from May 4th was granted.
+It further appears that on June 11, 1938, after six months had expired from the date of the rendition off the judgment, counsel for defendant filed a motion for new trial on account of newly discovered evidence. On January 16, 1939, the court ordered execution to be issued. Defendant filed motion to set aside commitment order and hear his motion for new trial, on file when order was issued. On February 13, 1939, the defendant’s motion for new trial on account of newly discovered evidence came on for hearing, defendant, Easton Johnson, being present in person and represented by counsel. The prosecutrix was sworn as a witness and testified in bebalf of the defendant. On the same day, after hearing her testimony, the court overruled the motion for new trial. Defendant excepts and gave notice of his intention to appeal to the Criminal Court off Appeals from the order overruling the motion for new trial. Asked for and was given 90 days within which to make and serve a case-made, ten and five days to serve and settle the same. Supersedeas bond set in the sum of $5,000, ten days given within which to make the same. On May 12, 1939, defendant made application for and was given an. additional extension of 60 days from May 13, 1939, in which to make and serve a case-made. It further appears that on August 9, 1939, the trial court settled and signed the same as a true and correct case-made.
+The Constitution of this state gives to every defendant in a criminal case the right of appeal. The statutes provide the manner and time of exercising this right.
+The Code of Criminal Procedure provides:
+“An appeal to the Criminal Court of Appeals may be taken by the defendant, as a matter pf right from any judgment against him; and upon the appeal, any decision of the court, or intermediate order made in the progress of the case may be reviewed.” (Section 3189, 22 Okla. St. Ann. § 1051.)
+Section 3190, 22 Okla. St. Ann. § 1052, provides:
+“An appeal from a judgment in a criminal action may be taken in the manner and in the cases prescribed in this article.”
+Section 3192, 22 Okla. iSt. Ann. § 1054, in part provides :
+“* * * In felony cases the appeal must be taken within six months after the judgment is rendered, and a transcript in both felony and misdemeanor cases must be filed as hereinafter directed.”
+Section 3195, 22 Okla. St. Ann. § 1057, provides:
+“If the crime of which the defendant is convicted be a bailable one, the court shall at the time of entering judgment notify the defendant of his right to appeal and fix the amount of his appeal bond and the time within which the bond shall be given in order to stay the execution of the judgment pending the filing of the appeal in the appellate court, and if the bond be given in the time fixed by the court, execution of the judgment shall be stayed during the time fixed for the settling of the case-made. If the case-made be settled in time and the appeal filed in the appellate court as required by law, then the bond shall stay execution of the sentence during the pendency of the appeal, subject to the power of the court to require a new or additional bond, Avhen the same is by the court deemed necessary.”
+This court has had occasion many times to construe the foregoing statutory provisions. It has been uniformly held that in order to give this court jurisdiction the appeal as prescribed by section 3192, supra, must be filed with the Clerk of this court within the time which an appeal may be taken, and where an appeal is not perfected by filing in this court a petition in error with case-made attached, or a transcript of the record within the time prescribed by the statute, this court does not acquire jurisdiction of the appeal, and such appeal will be dismissed.
+The power and authority of trial courts to allow bail and to fix the amount of the appeal bond pending appeal can only be exercised in the manner provided by the statute (sec. 3195, supra). Otherwise a defendant, when he has perfected his appeal, must apply bo this court for a supersedeas order fixing the amount of his appeal bond, and where the defendant fails to make and serve a case-made within the time allowed by statute, or within such extended time as may be allowed by the trial court or judge thereof, or where he fails to file a petition in error with case-made or transcript in the appellate court as required by law, he thereby waives his right to have the execution of the judgment stayed pending the perfection of his appeal, and any appeal bond given ceases to be eh fective as a supersedeas. Heath v. State, 22 Okla. Cr. 122, 210 P. 560.
+To the same effect are the following cases: Dunn v. State, 18 Okla. Cr. 498, 196 P. 739; Criner v. State, 37 Okla. Cr. 313, 258 P. 359; Easterwood v. State, 38 Okla. Cr. 72, 259 P. 181. And see Ex parte Williams, 63 Okla. Cr. 395, 75 P. 2d 904.
+In the case of Parker v. State, 10 Okla. Cr. 541, 139 P. 708, it is said:
+“A supplemental motion for a new trial must he made not later than the term at which the case was tried, or at the next succeeding term, and the trial court is without power or jurisdiction to grant a new trial on the ground of newly discovered evidence in a criminal case after the next succeeding term at which the case was tried.”
+In the case of Merrill v. State, 11 Okla. Cr. 278, 145 P. 1109, the court held:
+“There is no statute authorizing an appeal from an order denying a motion for a new trial, except as instant to an appeal from a judgment of conviction, and no appeal lies from an order denying a motion for a new trial made after the time allowed by law for taking an appeal has expired.”
+In Herman v. State, 23 Okla. Cr. 366, 214 P. 1084, the court held:
+“Where defendant appeals from an order overruling his motion for a new trial, the appeal will be dismissed for want of jurisdiction.”
+For the reasons stated in the cases cited, construing the foregoing statutory provisions, we are of the opinion that this court is without jurisdiction to entertain this appeal on its merits, and that the only jurisdiction possessed by this court upon the record before us is to dismiss the attempted appeal.
+Unquestionably it is the duty of a court of last resort to see to it that a person convicted of crime was accorded a fair and impartial trial and the enjoyment of every legal right. However, to secure this determination by a court of last resort, an appeal must be taken in the manner prescribed by law. In the instant ease the evidence taken upon the trial is incorporated into the case-made, but it cannot be considered in support of the supplemental motion for a new trial, yet we are constrained to say that an examination of the record discloses that the defendant was not accorded a fair trial, and for this reason his first motion for new trial should have been sustained.
+The prosecutrix at the outset testified repeatedly that defendant, her stepfather, did not have sexual intercourse with her and stated that Charley, defendant’s brother, was the man. She then stated that both Charley and this defendant had something to do with her. On cross-examination she admitted that at the preliminary examination she first testified that it was Charley that had something to do with her, and not her stepfather. On the hearing on the second motion for new trial, she said that her stepfather never at any time had sexual intercourse with her.
+Dr. A. E. Johnson testified that he examined the prosecutrix last spring and said somebody had sexual intercourse with her.
+The only other witness, Mrs. G. B. Anderson, over the objections of the defendant, testified that the prose-cutrix told her that both her stepfather and Charley, his brother, had bothered her.
+Upon the record in this case this court is powerless to remand the case for any further proceeding other than to enforce its judgment.
+The power to grant reprieves, commutations, paroles and pardons is vested in the Governor of the State (Const. Okla. St. Ann. art 6, sec. 10), and this is the source from which relief may be obtained in cases like this. What has been said is a matter that may be urged in an application ¡for executive clemency.
+For the reasons hereinbefore stated, the motion of the Attorney General to dismiss the appeal must be sustained. The purported appeal is hereby dismissed, and case remanded to the district court of Choctaw county, with direction to cause the judgment to be carried into execution.
+BAEEFOOT and JONES, JJ., concur.
