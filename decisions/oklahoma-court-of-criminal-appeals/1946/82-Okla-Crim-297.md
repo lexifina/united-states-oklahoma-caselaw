@@ -1,0 +1,39 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-10605"
+decided: "1946-05-15"
+citations: ["82 Okla. Crim. 297", "169 P.2d 219"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JONES, P. J., concurs. DOYLE, J., not participating."]
+parties: ["V. P. McCANN v. STATE."]
+source_url: "https://static.case.law/okla-crim/82/cases/0297-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8737225
+cites_cases: ["111 P. 958", "117 P. 442", "124 U. S. 483", "15 F.2d 977", "20 F.2d 129", "212 P. 450", "214 P. 1096", "23 Okla. Cr. 78", "26 Okla. Cr. 121", "29 Okla. Cr. 105", "3 Okla. Cr. 508", "37 F.2d 503", "4 Okla. Cr. 237", "51 Okla. Cr. 164", "61 Okla. Cr. 294", "7 Okla. Cr. 113"]
+---
+
+# McCann v. State
+
+## Majority (BAREFOOT, J.)
+
+BAREFOOT, J.
+Defendant, V. P. McCann, was charged in the court of common pleas of Oklahoma county with the crime of unlawful possession of intoxicating liquor, to wit: 18 pints of tax-paid liquor. His plea of not guilty was withdrawn, and he entered a plea of guilty in this and three other cases, in which the defendant vras charged with a like offense, on different dates, and different quantities of intoxicating liquor. He was by the court, upon his plea of guilty, sentenced in each of the four cases to pay a fine of $200, and to serve a term of 60 days in the county jail in each of said cases, the terms of imprisonment to run concurrently in each of said cases. From this judgment and sentence on his plea of guilty, he has appealed to this court by separate appeal in each of the four cases.
+The defendant did not file a demurrer, or a motion to quash the information in the trial court. On appeal it is attempted to raise the question of the sufficiency of the information for the first time. In defendant’s brief, his position is stated in these words:
+“The information filed herein charges the defendant with the possession of intoxicating liquors on a certain date in the informations. In each of the informations the name of the defendant is inserted and a description of the crime is set forth as ‘Illegal possession of Intoxicating liquor.’ The information bears the date upon which the state charges the defendant had the whisky, and sets forth the amount thereof. These informations charge that the illegal possession was in Oklahoma County, State of Oklahoma. The information does not charge the exact place where the defendant had possession of this liquor. The information does not charge the time of the day or night when the defendant had the possession of the intoxicating liquors.”
+Defendant cites and' relies upon the following cases from the Federal Court: Skelly v. United States, 10 Cir., 37 F.2d 503, and Turk v. United States, 8 Cir., 20 F.2d 129; and the case of the United States v. Hess, 124 U. S. 483, 8 S.Ct. 571, 31 L.Ed. 516, by the Supreme Court of the United States. No cases from this court are cited by defendant.
+The charging part of the information filed in this case was as follows:
+“* * * that the above named V. P. McCann did, in Oklahoma Count, State of Oklahoma, on the 17th day of June, A. I). 1944, commit the crime of illegal possession of intoxicating liquor in manner and form as follows: For that he did then and there unlawfully, wilfully and wrongfully have the possession of a certain quantity of intoxicating liquor, to wit: Eighteen (18) pints of tax paid liquor.
+“The said --- having the possession of said intoxicating liquor as aforesaid being then and there with unlawful, wilful and wrongful intent on the part of said defendant to unlawfully, wilfully and wrongfully barter, sell and give away and otherwise furnish the same to divers persons unknown, contrary to the form of the statutes in such cases made and provided and against the peace and dignity of the State.”
+The Attorney General in his brief in this case uses the following language:
+“Counsel for plaintiff in error, hereafter referred to as defendant, bases his claim to reversal entirely upon the alleged insufficiency of the information in the above cases. He admits that no demurrer was filed or any such question ever presented to the trial court. In fact, no defense at all was made. The record shows that when the defendant came on for trial on September 14, 1944, defendant withdrew his pleas of not guilty and entered pleas of guilty in the four cases. He was not sentenced until October 9th. No motion for new trial was filed but upon being sentenced defendant gave notice of appeal. The appeals were ready for filing in this court on December 15th, but defendant had previously obtained an extension of time to February 6, 1945, and delayed filing the appeals until February 5th. Then waits almost six months before filing any brief and now depends upon a contention which has been fully settled and adjudicated by this court to the contrary in many, many cases. In fact, counsel does not even attempt to cite any decision by this court.
+“Among the opinions of this court approving the form of information used in the present cases are State v. Feeback, 3 Okla. Cr. 508, 117 P. 442; Childers v. State, 4 Okla. Cr. 237, 111 P. 958; Ex parte Spencer, 7 Okla. Cr. 113, 122 P. 557; Waken v. State, 23 Okla. Cr. 78, 212 P. 450 [214 P. 1096]; Botts v. State, 29 Okla. Cr. 105. 232 P. 965; Thompson v. State, 26 Okla. Cr. 121, 222 P. 568, and Harvey v. State, 51 Okla. Cr. 164, 300 P. 434.
+“In the Harvey Case, the form of information does not appear in the opinion, but an examination of the record shows the same form to have been used.
+“In Radcliff v. State, 61 Okla. Cr. 294, 67 P.2d 809, this court approved the same form of information with reference to possession of a still.
+“Counsel relies entirely upon certain federal court decisions. We are not particularly concerned with said decisions, as we would be able to cite federal cases to the contrary. One of them is that of Myers v. United States, 8 Cir., 15 F.2d 977, which contains a much more extensive review of authorities than the case upon which counsel relied. We note that an opinion cited in Skelly v. United States (the case upon which counsel apparently chiefly relies) is the dissenting opinion by Judge Booth in Myers v. United States, supra. To adopt the position taken by counsel in his brief would result in technical refinements of pleading finding no basis in either reason or justice.
+“It is further interesting to note that in case No. A-10610 counsel based a plea of former jeopardy on behalf of this same defendant upon the same kind of information, which he now claims to be insufficient. If it was definite and certain enough to identify the offense as being the same act for which defendant had been convicted in police court, it is sufficiently definite and certain to meet the attack now made upon it.
+“We find no merit whatever in these appeals, even if the defendant were entitled to present the question for the first time in this court. It further seems to us that this professional and habitual violator of the laws of this state has already received too much leniency and delay. It is now nearly eleven months since defendant entered his pleas of guilty. It is ten months since he was sentenced, which sentences the trial court provided should be served concurrently. We feel that these cases should be summarily disposed of by affirmance or dismissal of the appeals, and the defendant committed in service of the. sentences evidently so richly deserved.”
+We are of the opinion that the brief above quoted is a full and complete answer to the contention of defendant in this case.
+The judgment and sentence of the court of common pleas of Oklahoma county is therefore affirmed.
+JONES, P. J., concurs. DOYLE, J., not participating.
