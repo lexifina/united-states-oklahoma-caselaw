@@ -1,0 +1,33 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "2132"
+decided: "1914-12-05"
+citations: ["11 Okla. Crim. 196", "144 P. 806"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DOYLE, J., concurs. FURMAN J., absent."]
+parties: ["JOEL COLLINS v. STATE."]
+source_url: "https://static.case.law/okla-crim/11/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8741986
+---
+
+# Collins v. State
+
+## Majority (ARMSTRONG, P. J.)
+
+ARMSTRONG, P. J.
+The plaintiff in error, Joel Collins, was convicted at the May, 1913, term of the district court of Marshall county on a charge of larceny of domestic animals, and his punishment fixed at imprisonment in the state penitentiary for a period of two years. This cause was dismissed upon motion of the Attorney General some months ago, but later reinstated on application and proper showing of plaintiff in error, and now comes on for final disposition on the merits.
+There are only four assignments of error set out in the petition in error. No briefs have been filed on behalf of the state, and no appearance made for oral argument on behalf of plaintiff in error. The record has been carefully reviewed, however, and no substantial error is found.
+The first assignment is based on the contention that the court erred in overruling a motion for a new trial on the ground of newly discovered evidence. An examination of the record fails to disclose any abuse of discretion on the part of the trial court; in fact, his action was fully warranted. A codefendant, who was tried with all the evidence before the court and jury which is set out as newly discovered evidence in this case, was not acquitted by the jury, and this fact is disclosed by the showing of plaintiff in error in the cause at bar. If all the evidence set out as desired by plaintiff in error had been admitted, the jury would have been fully wai ranted in finding the verdict that was returned in this cause.
+The second assignment is based on the contention that the court erred in overruling a demurrer to the evidence. This assignment is wholly without merit. Two or three witnesses swore that they saw the accused take the cattle in question and drive them away. The owner of the cattle testified that he did not sell them to him nor give him permission to drive them away. The demurrer should have been stricken as frivolous.
+The next assignment of error is based on the contention that the court erred in giving the following instruction:
+“The crime charged in the indictment is defined to be the taking of cattle accomplished by stealth or fraud with the intent to deprive the owner thereof and to appropriate the same to the use and benefit of the taker. And you are therefore instructed that if you believe from the evidence in this case beyond a reasonable doubt that this defendant, Joel Collins, within the time set out in instruction No. 1, and prior to the 8th day of November, 1912, in Marshall county, Okla., did, by fraud or stealth, take one cow and one heifer belonging to M. O. Carden from the possession of the said M. O. Carden, and with the intent to deprive the said M. O. Carden thereof and to appropriate the same to the use and benefit of this defendant, then it would be your duty to convict him of larceny of cattle. On the other hand, if you have a reasonable doubt of the existence at the time of any element of this crime as set forth herein, then it would be your duty to acquit the defendant.
+. “Should you find the defendant guilty, it would be your duty to fix his punishment at a term in the penitentiary not less than two years nor more than ten years.”
+This instruction was preceded by the following instruction:
+“The state is not required to prove that the offense was committed on or about the 1st day of October, 1911, the exact date alleged in the indictment; proof of the commission of the offense at any time after July 1, 1911, and prior to the 8th day of November, 1912, the date of the filing of the indictment in this court, is sufficient to sustain the allegation in the indictment as to the time thereof.”
+Section 2667, Rev. Laws, fixes the punishment for larceny of domestic animals at a minimum of one year and a maximum of ten years, but the Sess. Laws 1910-11, which superseded this provision of the statute, fixes the punishment for larceny of cattle at a minimum of two years and a maximum of ten years. The act of the 1913 Legislature, approved March 22, 1913 (Sess. Laws 1913, c. 75), finally adopting the Revised Laws of 1910 as the Code of this state, was not intended to and did not repeal any of the provision's of the act of March 3, 1911 (Sess. Laws 1910-11, c. 39), providing for the adoption of this Code, except as specifically therein set out. This latter act specifically provides that no law enacted by the Legislature subsequent -to the adjournment of the extraordinary session commenced in January, 1910, shall be construed as repealed by the adoption of the Code. Section 2, Act of March 3, 1911.
+A careful reading of the instructions of the court, supra, discloses the fact that he limited the time within which the plaintiff in error could be found guilty from the 1st day of July, 1911, until the day of the filing of the indictment, which was the 8th day of November, 1912. The act of the 1911 Legislature fixing the punishment for larceny of cattle at a minimum of two years and a maximum of ten years, approved March 16th of that year, became effective 90 days after the adjournment of the Legislature. This session of the Legislature adjourned on the 11th day of March, 1911, which would have placed the statute in question in force about the 9th of June. We are of opinion that the instructions of the court were more favorable to the accused than he was entitled to receive. He could have been convicted for the larceny of the cattle in question upon proof of the commission of the offense at any time within three years prior to the filing of the indictment. The proper punishment would necessarily have been determined by the period within which the jury found thát the offense was committed. In order to avoid complications, it appears that the trial court required the jury to find that the offense was committed between July 1, 1911, and November 8, 1912, before they could return a verdict of guilty. If there is any error in these instructions, it is in favor of the plaintiff in error and not against him.
+A careful examination of the record discloses no prejudicial error. The judgment of the trial court is therefore in all things affirmed.
+DOYLE, J., concurs. FURMAN J., absent.
