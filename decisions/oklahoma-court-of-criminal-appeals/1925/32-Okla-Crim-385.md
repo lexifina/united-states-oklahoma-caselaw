@@ -1,0 +1,29 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-5022"
+decided: "1925-11-28"
+citations: ["32 Okla. Crim. 385", "241 P. 499"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BESSEY, P. J., and DOYLE, J., concur."]
+parties: ["R. H. RAYMER et al. v. STATE."]
+source_url: "https://static.case.law/okla-crim/32/cases/0385-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8853215
+cites_cases: ["162 Ark. 76", "257 S. W. 740", "265 S. W. 385", "28 Okla. Cr. 254", "30 Okla. Cr. 400", "31 A. L. R. 402", "32 Okla. Cr. 274", "98 Tex. Cr. R. 162"]
+---
+
+# Raymer v. State
+
+## Majority (EDWARDS, J.)
+
+EDWARDS, J.
+The plaintiffs in error, hereinafter called defendants, were convicted in the county court of Texas county on a charge of keeping a house of prostitution, and appeal.
+The first assignment of error' is that the evidence does not sustain the verdict. The record discloses ample evidence to sustain the verdict, and, without going into the details, the evidence discloses a state of depravity under which defendants richly merit the punishment imposed. It is true the defendants deny the testimony of the witnesses-which directed testimony to their guilt and offered some evidence in corroboration. The credibility of the witnesses and the weight and value of their testimony are peculiarly within the province of the jury, and, when there is evidence to sustain the verdict, although conflicting, this court ordinarily will not disturb the verdict.
+The second assignment is that the court erred in denying the request of the defendants to question the jurors on their voir dire if they were members of the Ku Klux Klan. The record upon this point discloses that, before the jury was sworn, the defendants requested permission of the court to question them as to whether or not they were members of the Ku Klux Klan, and said to the court that they desired to do so on account of the fact that one of the defendants, R. H. Raymer, had been recently prosecuted in the district court of that county on .a charge of impersonating the Ku Klux Klan in sending letters in its name, and that said prosecution was had and done by agents of the Klan out of Atlanta, Ga., who had testified on behalf of the state. The request was denied and exceptions taken. Under the statement made by counsel, the court should have permitted counsel to inquire as to whether the jurors were members of the Ku Klux Klan. The statement might be held sufficient to show that the Ku Klux Klan had a particular interest in the prosecution of R. H. Raymer. But, even if the statement made by counsel were not sufficient to show a particular interest on the part of the Ku Klux Klan, the defendants nevertheless had a right to question the jurors upon their membership in the Ku Klux Klan for the purpose of laying a foundation for peremptory challenge. This proposition was discussed in the cases of Bethel v. State, 162 Ark. 76, 257 S. W. 740, 31 A. L. R. 402; Moore v. State, 98 Tex. Cr. R. 162, 265 S. W. 385; Johnson v. State, 28 Okla. Cr. 254, 230 P. 525; Menefee v. State, 30 Okla. Cr. 400, 236 P. 439; Cummings v. State, 32 Okla. Cr. 274, 240 Pac. 1078.
+The refusal of the court to permit the inquiry suggested is clearly erroneous. Ordinarily it is necessary to show that prejudice resulted by reason of an error committed. If the rule were applied in this case, it would be necessary to show some one or more of the members of the jury were members of the Ku Klux Klan to establish that prejudice resulted from the erroneous ruling of the trial court. The difficulty of following such rule, however, in a case of this kind, is evident. We take judicial notice that the Ku Klux Klan is a secret organization, that its membership is not generally public, and the nonmember is not able to say with certainty that any particular individual is or is not a member of the organization. The purpose of the question proposed to be asked on voir dire was to' ascertain such fact. If it were ascertained that a member of the jury was a' member of such organization and a challenge for cause might be interposed, if not sustained, defendant would be in a position to intelligently exercise his right of peremptory challenge. Where the court refuses to permit a defendant to ascertain whether or not a juror is a member of the Ku Klux Klan, a defendant is not in position to interpose a challenge for cause on that ground nor to intelligently exercise his peremptory challenge. The statement made in the case of Johnson v. State, supra, is especially appropriate here:
+“Where an inquiry is made in good faith, predicated upon probable cause, indicating that the rights of the accused may be affected, counsel for the defendant may, within reasonable bounds, limited by fair discretion of the court, •interrogate prospective jurors as to their membership in the Ku Klux Klan, in order that the accused may intelligently exercise his right to challenge jurors for cause, or peremptorily without cause, in such manner as will facilitate the selection of a jury that is in fact impartial.”
+In the case before us, the question is not the guilt or innocence of the defendants, but is, Did the defendants have that fair trial, guaranteed to them by the Constitution? The defendants had the right to make reasonable inquiry in good faith, limited by a fair discretion of the court, to determine if the jurors were free from prejudice or bias or were rendered incompetent by any of the disqualifying clauses named in the statute, and to determine whether or not the jurors were members of the Ku Klux Klan, so that they might intelligently exercise their right to peremptory challenge. This right having been denied by the trial court, the error is prejudicial, requiring a reversal.
+The case is reversed and remanded.
+BESSEY, P. J., and DOYLE, J., concur.
