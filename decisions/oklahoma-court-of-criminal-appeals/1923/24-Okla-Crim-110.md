@@ -1,0 +1,27 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-4744"
+decided: "1923-07-11"
+citations: ["24 Okla. Crim. 110", "217 P. 893"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DOYLE, J., concurs.", "MATSON, P. J., absent, and not participating."]
+parties: ["Ex parte R. L. CALMES."]
+source_url: "https://static.case.law/okla-crim/24/cases/0110-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8739591
+---
+
+# Ex parte Calmes
+
+## Majority (BESSEY, J.)
+
+BESSEY, J.
+The petitioner, R. L. Calmes, was charged with the crime of murder in Stephens county, Okla. A preliminary examination was held upon this charge before the county judge of Stephens county, and at that hearing, on the 11th day of June, the- county judge made an order holding the petitioner without bail to the district court of Stephens county, and committed the petitioner to the custody of the sheriff. Later an application for bail was made to the district court of Stephens county, which' application was by that court denied. The application for a writ of habeas corpus is here brought for the purpose of admitting the petitioner to bail.
+The evidence on the part of the state indicates; that there was probable cause to believe that the petitioner was guilty of murder as charged, accomplished with deliberation and possible lying in wait. The accused petitioner and his wife testified and were examined and cross-examined at length. Their testimony was to the effect that the homicide was the culmination of previous difficulties and was, or may have been, perpetrated by the petitioner in his own necessary self-defense; that a short time prior to the homicide the deceased had made declarations, directly communicated to the petitioner, that he intended to take the life of the petitioner, and that the petitioner believed and had good cause to believe that the deceased intended to execute these threats made against petitioner at the first opportunity afforded; that for an extended period of time the petitioner had lived in fear of the deceased, who was in the habit of going armed, and that petitioner avoided meeting deceased whenever possible. At the time of the homicide the deceased was armed with a concealed automatic revolver, and petitioner claimed that the deceased made certain gestures indicative of a purpose to shoot the petitioner, to prevent which the petitioner drew his weapon and fired several shots into the body of the deceased, directly resulting in his death. The story of the petitioner tended to show that he was actuated by motives of self-protection, and was not an improbable story if the incidents related and explanation made by him and other witnesses are worthy of credence. Petitioner’s claim that be acted in self-defense was not necessarily inconsistent with some of tbe testimony introduced by the state.
+Since the weight and effect of all the evidence will be submitted to a jury, and should be so submitted without an intimation from this court or the trial court as to its probative force, we refrain from expressing our views so far as relates to the weight and credibility of this conflicting evidence. If the testimony at the trial is of the same import and character, the conflict in the testimony must be submitted to the jury, necessarily involving an issue of self-defense, and probably an issue of manslaughter also. In either event the petitioner might be guilty of no capital offense. Under such state of the evidence it would be error for the trial court to refuse to submit to the jury the issue of self-defense. It follows, therefore, that the applicant, as a matter of right, is entitled to be admitted to bail pending further proceedings in the trial court. Since two serious tragedies have already grown out of the trouble and difficulties previously existing between the petitioner and the deceased, and since the feeling of the friends and relatives of the respective parties is intensely bitter, in order to avoid possible future fatalities it might be said that the interests of society in general in that community would be best subserved by denying the petitioner bail. This argument strongly appeals to this court as a matter of expediency, but it is no legal reason upon which the court may base a decision. The Constitution and statutes of this state provide how and when persons accused of crime must be admitted to bail, and these alone must govern. Section 8 of the Bill of Rights is as follows:
+“All persons shall be bailable by sufficient sureties, except for capital offenses when the proof of guilt is evident, or the presumption thereof is great.”
+Section 2920, Comp. Stat. 1921, provides that, in criminal cases, where the offense is not punishable by death, the accused may be admitted to bail. Section 2921, Id., provides that, where the punishment may be death, bail shall be granted unless the proof is evident or the presumption great that the offense committed was a capital offense and no other. Under these provisions we think the applicant is entitled to bail, and it is therefore ordered that the petitioner may be released from the custody of the sheriff upon his giving bond, as provided by law, in the amount of $20,000, with sufficient sureties to be approved by the court clerk of Stephens county.
+DOYLE, J., concurs.
+MATSON, P. J., absent, and not participating.
