@@ -2,7 +2,7 @@
 court: "Oklahoma Court of Criminal Appeals"
 docket: "A-2096"
 decided: "1913-11-01"
-citations: ["10 Okla. Crim. 656", "35 Okla. Crim. 398", "143 P. 1197"]
+citations: ["10 Okla. Crim. 656"]
 reporter: "okla-crim"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
