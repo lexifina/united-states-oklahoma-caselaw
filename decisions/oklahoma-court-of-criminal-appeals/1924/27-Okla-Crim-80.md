@@ -1,0 +1,55 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-4418"
+decided: "1924-04-19"
+citations: ["27 Okla. Crim. 80", "224 P. 996"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BESSEY and DOYLE, JJ., concur."]
+parties: ["R. V. PRINCE et al. v. STATE."]
+source_url: "https://static.case.law/okla-crim/27/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8738393
+cites_cases: ["214 Pac. 202", "23 Okla. Cr. 195", "6 Okla. Cr. 512"]
+---
+
+# Prince v. State
+
+## Majority (MATSON, P. J.)
+
+MATSON, P. J.
+Plaintiffs in error were jointly tried and convicted in the district court of Tulsa county on an information, the charging part of which is as follows:
+“That R. V. Prince and Dorothy Prince, on or about the 23d day of September, A. D., 1921, in Tulsa county, state of Oklahoma, and within the jurisdiction of this court, did unlawfully, wilfully, knowingly, and feloniously, upon a consideration, obtain and receive from Will Carden, Claude Chamberlain, and Joe Morris certain personal property, to. wit, one green coat with skunk skin fur collar and cuffs of the value of $125; one black velvet afternoon gown of the value of $65; one pink evening gown of the value of $150, all of the aggregate value of $470, good and lawful money of the United States of America, said clothing and property had been'previously stolen from George Deck, and said defendants and each of them did, then and there at the time know that said clothing and .property had been stolen, and did obtain and receive same with the felonious intent then and there upon the part of said defendants and each of them to convert the same to their own use and benefit and to deprive the owner thereof permanently, contrary to the form of the statutes in such cases made and provided, and against the peace and dignity of the state.”
+The facts on the part of the state disclosed that the property which plaintiffs in error were charged with having received was stolen from the residence of one George W. Deck, at No. 1517 South Newport street in Tulsa, Okla., in the latter part of July, 1921.
+.William Carden testified that he, in company with Claude Chamberlain and Joe Morris, burglarized the Deck home and stole this property, and that some time in the month of September, 1921, they, by appointment, met the defendants on a public highway about five miles northeast of the city of Tulsa, at about 11 o’clock at night, and there sold to thé defendants some of the stolen property for . the sum'of $60.
+Joe Morris, another witness'for the state, testified substantially to the same effect.
+Claude Chamberlain, who was being held to answer to the larceny charge, refused to testify, and was excused.
+■ Certain officers .of Tulsa county testified that the stolen property was found in the home of the defendant R. V. Prince.
+The defendants claimed that they had in good faith purchased all of this property from a man who claimed to be a traveling silk salesman, and who was at that time going out of business, and was disposing of his samples; that the man appeared at the defendant’s drug store, on East Second street in the city of Tulsa, some time in the month of August, 1921, and there offered these dresses for sale, and that the defendants purchased them in good faith, believing that they were the property of such salesman, who stated his name was Kennedy; that the defendant’s wife was present at the time, and selected some of the dresses, and that the amount paid for them was $145.
+Clyde Maddox, a clerk for them in the drug store, testified that he remembered of somebody coming into the store along about that time and showing some wearing apparel to the defendants, but testified that he was busy working in other parts of the store, and was unable to identify any of the property. William McDaniel, a patron of the store, also testified that he remembered seeing somebody in the store showing the defendants some wearing apparel, but could not identify any of the property.
+The property found in the defendant’s home was identified by the witness George W. Deck as his property, and it consisted of one green coat with skunk skin fur collar, one black afternoon gown, one pink evening gown, one pink • charmeuse gown; that the property was of the aggregate value of $400.
+The errors assigned are as follows:
+“First. That the verdict is contrary to law.
+“Second. That the verdict is contrary to the evidence.
+“Third. Errors.of law arising during the course of the trial.
+“Fourth, (a) That the court erred in matters of law in refusing to direct the jury to find a verdict for the defendants at the close of the state’s testimony, (b) Because the information herein alleged no ownership of the property said, to have been stolen, (c) Because there was a variance between the parties from whom said property is said to have been stolen as alleged in the information and the name of the party to whom the testimony showed the property belonged, (d) Because of a failure of sufficient proof upon which to sustain a conviction.
+“Fifth. Because the court erred in overruling the demurrer of the defendant interposed to the evidence of the state at the time the state rested its ease, and for the reason that the court erred in not sustaining the demurrer to the evidence introduced by the state.”
+Under the third assignment of error it is contended that the trial court’s refusal to direct the jury to return a verdict of not guilty as to each defendant at the conclusion of the testimony of the witness George W. Deck, by reason of a variance between the allegations in the information and the proof adduced as to the ownership of the property stolen, was reversible error.
+The information charged that the property stolen, which each of these defendants were alleged to have knowingly received, was stolen from one George W. Deck, and it is contended in this connection that Deck testified that the stolen property belonged to his wife, and that therefore there was a fatal variance between the allegations of the information and the proof.
+An examination of the testimony of the witness Deck does not support this assignment of error. Deck testified, in substance, that the property stolen was the wearing apparel of his wife, but that it was property that he had bought and paid for himself for the use and benefit of his wife. This proof is sufficient to support the allegation that the property had been previously stolen from George W. Deck.
+In the case of McGill v. State, 6 Okla. Cr. 512, 120 Pac. 297, this court held:
+“To charge the crime of receiving stolen property, knowing it to be stolen, the information need not allege the facts going to constitute larceny against the original takers from whom-it has been received.” -
+In the body of the opinion it is said:
+“But two of the various errors assigned are relied upon in plaintiff’s brief: First. That- the information is insufficient. Second. That the evidence is insufficient to sustain the verdict and judgment.
+“In support of the first assignment, it is contended by the defendant’s • counsel that the-information is fatally defective, for the reason that it does not allege the ownership of the property stolen. We are inclined to believe that the ownership of the property stolen is sufficiently stated. Substantially the language of the statute is used in charging the offense. To charge the crime of receiving stolen property, knowing it to be stolen, the information need not allege the facts going to constitute larceny against the original takers, from whom it has been received. The demurrer was properly overruled.”
+See, also, White v. State, 23 Okla. Cr. 195, 214 Pac. 202, and authorities cited.
+The allegation in the information as to the ownership is sufficient to negative any possibility of ownership in the defendants, and the proof on the part of the state is amply sufficient to support the - allegation that the property had previously been stolen from George W. Deck prior to the time that the defendants are alleged to have knowingly received the same. Under the proof in the record the property stolen was, in contemplation of law, the property of George W. Deck and not that of his wife, although the garments were used and worn by her.
+There is no merit in the contention that the information is insufficient to state the crime of receiving stolen property. The information was evidently copied after the form approved by this court in the case of McGill v. State, supra. The allegations in the instant information are ■ identical with those in the information approved by this court in the McGill Case. . The information is sufficient.
+The jury returned the following verdict:
+“We, the jury,, drawn, impaneled, and sworn in the above-entitled cause, do upon our oaths find the defendants guilty, as charged in the information herein, and ask that leniency be shown Dorothy Prince by the court. [Signed] J. J. Larkin, Foreman.”
+On- the verdict returned the court fixed the punishment as to R. Y. Prince at two years’ imprisonment in the penitentiary, and as to Dorothy Prince at imprisonment for one year in the penitentiary. Dorothy Prince was the wife of R. V. Prince, and R. V.' Prince was present when’this property was bought and received.
+The punishment fixed by statute for the crime of receiving stolen property is by “imprisonment in the penitentiary not exceeding five years, or in the county jail not exceeding six months, or by a fine not exceeding two hundred and fifty dollars, or by both such fine and imprisonment.” Section 2119, Compiled Statutes 1921.
+Witnesses for the state all testified that R. Y. Prince made all the arrangements leading up to the buying and receiving of this stolen property. The defendant Dorothy Prince had nothing whatever to do with it, and it is only by inference from the circumstances under which the stolen property was bought and received that it can be said that she had guilty knowledge of the fact that it had previously been stolen. The jury was unable to agree upon the punishment to be assessed against either defendant. However, the jury did request the court to extend leniency to Dorothy Prince. We are of the opinion that a penitentiary sentence as to the defendant Dorothy Prince under such circumstances is too severe and not such as the jury believed should be assessed against her under the evidence in this case and the verdict returned.
+It is the opinion of the court that as to Dorothy Prince the judgment should be modified to provide imprisonment in the county jail for a period of thirty days and to pay a fine of $100. The judgment, therefore, as to the defendant Dorothy Prince is modified to provide imprisonment in the county jail for a period of thirty days and to pay a fine of $100, and .as so modified the judgment is affirmed. As to the defendant R. V. Prince the judgment is affirmed..
+BESSEY and DOYLE, JJ., concur.
