@@ -1,0 +1,39 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-8197"
+decided: "1931-10-30"
+citations: ["52 Okla. Crim. 260", "4 P.2d 695"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["EDWARDS and CHAPPELL, JJ., concur."]
+parties: ["Ex parte BENNIE GILBERT."]
+source_url: "https://static.case.law/okla-crim/52/cases/0260-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8743677
+cites_cases: ["106 Pac. 980", "139 Am. St. Rep. 967", "18 Okla. Cr. 167", "193 Pac. 635", "2 Okla. Cr. 563", "242 Pac. 284", "246 Pac. 893", "27 L. R. A. (N. S.) 625", "3 Okla. Cr. 384", "33 Okla. Cr. 175", "34 Okla. Cr. 354", "37 Okla. Cr. 285", "44 Okla. Cr. 14", "45 Okla. Cr. 167", "50 Okla. Cr. 163", "6 Okla. Cr. 241"]
+---
+
+# Ex parte Gilbert
+
+## Majority (DAVENPORT, P. J.)
+
+DAVENPORT, P. J.
+This is an original petition in habeas corpus of Bennie Gilbert asking to be released from custody of the warden of the state penitentiary, on the ground that he is unlawfully restrained of his liberty by said warden.
+The facts set forth in plaintiff’s petition, in substance, are as follows: On the 17th day of February, 1923, petitioner was sentenced to serve a ten-year term of imprisonment to begin at and from the 17th day of February, 1923. The petitioner was convicted on another charge, and on the 23d day of February, 1923, petitioner was sentenced to the penitentiary to serve a term of two years, the imprisonment to begin at and from the 23d day of February, 1923. That on the 2d day of March, 1923, petitioner was sentenced to the penitentiary for a term of seven years; term of imprisonment to begin at and from the 2d day of March, 1923.
+Petitioner further alleges that he was committed to the penitentiary on the 2d day of March, 1923, to serve the sentences imposed upon him by the court, and that he has served all the time specified for the aforesaid sentences, and the said warden refuses to release him, and that he is now imprisoned contrary to the order of the aforesaid courts and contrary to law.
+The warden of the penitentiary has filed a response in which he states and shows that the petitioner was committed to the penitentiary on the 3d day of March, 1923, as No. 12898, upon a judgment and sentence entered on the 17th day of February, 1923, which sentence was for a term of ten years, and admits that the petitioner was sentenced on the 2d day of March, 1923, to serve a term of seven years in the penitentiary and on the 23d day of February was sentenced to serve a term of two years in the penitentiary. Respondent further states that it is nowhere stated in said judgment and sentence, or either of them, that the term of confinement therein provided shall run concurrently, and that he is holding the petitioner under and by virtue of the judgment and sentence of the court made and entered on the 23d day of February, 1923, and denies he is illegally restraining petitioner.
+The only question to be determined in this case is the question, Does the fact that in each of the three sentences the court in its judgment fixed the date when the term of imprisonment begins make these judgments run concurrently, in the absence of any order of the court directing that the judgments and sentences run concurrently? Petitioner contends that, for the reason that in each of the three sentences the date the sentence should begin makes his sentences rnn concurrently, and having served the ten-year sentence, he has served the time for all the sentences imposed upon him, citing, in support of his contention, Ex parte Howard, 2 Okla. Cr. 563, 103 Pac. 663; Ex parte McClure, 6 Okla. Cr. 241, 118 Pac. 591; Ex parte Bert Roller, 3 Okla. Cr. 384, 106 Pac. 548; Ex parte Ray, 18 Okla. Cr. 167, 193 Pac. 635; Ex parte Smith, 33 Okla. Cr. 175, 242 Pac. 284.
+The respondent in his return insists that it does not follow as a matter of law that, because the trial court in imposing the sentence upon the petitioner fixed the date that the term of imprisonment should begin, the sentences run concurrently, and insists that on the contrary they run consecutively.
+It has been held by this court that the time fixed for the execution of a sentence or for the commencement of its execution is not an essential element of the judgment and sentence, and that two separate terms and confinement in the penitentiary do not run concurrently unless the judgment and sentence specifically so state. In neither of the three cases is there an order of the court specifically stating that the judgments run concurrently.
+In the case of Ex parte Eldridge, 3 Okla. Or. 499, 106 Pac. 980, 27 L. R. A. (N. S.) 625, 139 Am. St. Rep. 967, it is held:
+“The time fixed for execution of a sentence, or for the commencement of its execution, is not one of its essential elements, and, strictly speaking, forms no part of the judgment and sentence, which is the penalty of the law as declared by the court; while the direction with respect to the time of carrying it into effect is in the nature of an award of execution, so that, where the penalty is imprisonment, the sentence may be satisfied only by the actual suffering of the imprisonment imposed, unless remitted by death or some legal authority.”
+In Ex parte Smith, 33 Okla. Or. 175, 242 Pac. 284, this court held:
+“The time fixed for the execution of a sentence, or the commencement of its execution, is not one of its essential elements, and, where the penalty is imprisonment, the sentence may be satisfied only by the suffering of the actual imprisonment imposed. * * *
+“Where there are a series of convictions and judgments thereon, the accused should be incarcerated upon the first conviction for the period of imprisonment therein named, followed by confinement for the fine and costs named, in the event the same are not paid; at the end of that period of confinement, the imprisonment named in the judgment upon the second conviction and imprisonment for the fine and costs therein, would begin and terminate in like manner, and so on.”
+In Ex parte Bell, 34 Okla. Cr. 354, 246 Pac. 893, the court said:
+“Under sections 2303 and 2774, Gomp. St. 1921, where a defendant is convicted of two or more crimes before sentence has been pronounced for either, if the judgment and sentence does not designate when the second or other subsequent conviction shall commence, or if it does so designate, it shall commence at the termination of the first term of imprisonment, or at the termination of the other or subsequent terms, as the case may be. If the judgment and sentence for the second or subsequent conviction shall specifically designate that it run concurrently with the judgment and sentence of the first or prior conviction, it shall so run concurrently.” Ex parte Strader, 37 Okla. Cr. 285, 257 Pac. 1112; Ex parte Hudson, 44 Okla. Cr. 14, 279 Pac. 711; Ex parte Halbert, 45 Okla. Cr. 167, 282 Pac. 478; Ex parte White, 50 Okla. Cr. 163, 296 Pac. 756.
+Following the reasoning in the above-cited cases, it is clear that the time designated in the judgment and sentence for the commencement of the commitment is not an essential part of the sentence; that, if the judgment and sentence do not specifically provide that the second or subsequent conviction shall run concurrently with the sentence of the first or prior conviction, then they shall run consecutively. This is true even though the judgment and sentence designate a certain date at which the commitment shall commence.
+In this case the petitioner was sentenced to serve a period of ten years, two years, and seven years, respectively. The sentence may be satisfied only by serving the actual terms of imprisonment imposed.
+The writ is denied.
+EDWARDS and CHAPPELL, JJ., concur.
