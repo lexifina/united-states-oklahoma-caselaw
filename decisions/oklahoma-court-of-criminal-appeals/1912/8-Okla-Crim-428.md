@@ -1,0 +1,38 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-1380"
+decided: "1912-12-14"
+citations: ["8 Okla. Crim. 428", "128 P. 313"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["FURMAN, P. J., and ARMSTRONG, J., concur."]
+parties: ["WILLIE TUCKER v. STATE."]
+source_url: "https://static.case.law/okla-crim/8/cases/0428-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8742366
+cites_cases: ["126 Pac. 451"]
+---
+
+# Tucker v. State
+
+## Majority (DOYLE, J.)
+
+DOYLE, J.
+The plaintiff in error, Willie Tucker, was convicted in the district court of Okmulgee county of stealing hogs, and was sentenced in accordance with the verdict of the jury to be imprisoned in the penitentiary for one year. The judgment and sentence was entered on March 21, 1911. An appeal was taken by filing in this court on September 14, 1911, a petition in error with transcript of the record attached. It appears from the record that upon the preliminary examination the following order was made by the committing magistrate:
+“It appears to me that the offense in the within information, to wit, larceny of domestic animals, has been committed, and there is sufficient cause to believe the within-named Willie Tucker guilty of the same, I order that he be held to answer the same, and that hé be delivered and committed to the custody of the sheriff of Okmulgee county, and his bail fixed at the sum of $1,000.”
+The charging part of the information is as follows:
+“That the said Willie Tucker and Field Fountain, in Ok-mulgee county, state of Oklahoma, on the 11th day of January, 1911, did, unlawfully, willfully, and feloniously, steal, take, and carry away by stealth five head of hogs the personal property of Walter Sampson, and nine head of hogs the personal property of Lena Nelson, with the unlawful and felonious intent of them, the said Willie Tucker and Field Fountain, to appropriate the same to their own use and deprive the owner thereof, contrary to,” etc.
+Upon arraignment counsel for defendant filed a motion to set aside the information for the following reason:
+“The information is not found, indorsed, presented, nor filed as prescribed by the Constitution and statutes of this state, in this: that prior to the filing of the information by the prosecuting attorney the defendant, Willie Tucker, has not been legally committed by a magistrate for the offense charged against him.”
+Which motion was overruled, and which ruling of the court is assigned as error. The compláint on which the examining magistrate held the defendant to answer to the district court charged not only substantially, but almost in the identical language, the same crime for which the defendant was tried and convicted in the district court. We think that it was never contemplated that the information should charge the crime in the same language, or word for word, as charged in the preliminary complaint filed before the committing magistrate. In the case of Ponosky v. State, ante, 126 Pac. 451, it was held that:
+“When it appears that the charge in the complaint before the committing magistrate is substantially the same as that charged in the information, a motion to quash on the ground that the offense charged in the information differs from that charged in the complaint upon which the defendant was held to answer is unavailing, and was properly overruled.”
+The motion to set aside the information was .properly overruled.
+A demurrer was also interposed on the ground that more than one offense is charged in the information. The demurrer was overruled and exception taken. A motion in arrest of judgment based on the same ground was also denied and exception duly taken. These rulings of the court are assigned as error, and relied upon for a reversal of the judgment. It is argued that the information charges two distinct and separate offenses: one the larceny of five hogs, the property of Walter Sampson, and the other the larceny of nine hogs, the property of Lena Nelson, without alleging they were committed at the same time and place, and without the equivalent allegation “then and there.” It is elementary that the information must charge but one offense.
+Section 6697, Comp. Laws 1909 (Procedure Criminal), provides as follows:
+“An indictment must be direct and certain as it regards: 1. The party charged. 2. The offense charged.”
+Section 6699 provides:
+“The indictment must charge but one offense, but where the same acts may constitute different offenses, or proof may be uncertain as to which of two or more offenses the accused may be guilty of, the different offenses may be set forth in separate counts in the same indictment and the accused may be convicted of either offense, and the court or jury trying the cause may find all or either of the persons guilty of either of the offenses charged, and the same offense may be set forth in different forms or degrees under different counts; and where the offense may be committed by the use of different means, the means may be alleged in the alternative in tlie same count.”
+The. first provision is in accordance with the rule declared and enforced by an express provision of the Bill of Rights (section 20), which declares in all criminal prosecutions the accused shall be informed of the nature and cause of the accusation against him, and the invariable rule of the common law that the indictment must be certain; that is, that it must set forth the special manner of the whole fact, so that it can be clearly seen what particular offense, and not merely what nature of offense is intended to be charged; and it is required by the latter provision that but one offense can be charged in the same indictment or information. The information in this case alleges two separate and distinct ownerships of the property alleged to have been taken, without alleging that the property of the two owners was stolen at the same time and by the same act or transaction, and, if it should be presumed that possession accompanied the ownership, still it cannot be presumed without an allegation to that effect that the possession was at one and the same place, and that the taking occurred at one and the same time and as one act or transaction. An essential element of the crime of larceny is the trespass, although the trespass may be constructive and not actual, and, where it is charged that there was a trespass against two or more persons, it would seem clear that the presumption is that the trespasses were separate and distinct. There is no presumption that because it is charged to have been committed on the same day and in the same county it constitutes but a single offense, and the absence of. an allegation to that effect cannot be supplied by intendment or implication. If the information alleged that the property of two owners was taken at the same time and by the same act, it would not be bad for duplicity, as it is held by the weight of authority that the larceny of property belonging to two or more persons at the same time and place and by the same act or transaction constitutes but one offense, and may be so charged in an indictment or information. It must be alleged, however, that the larceny was so committed. It Is our opinion that the demurrer to the information should have been sustained, and for this same reason it was error to overrule the motion in arrest of judgment.
+The judgment is reversed, and the cause remanded, with direction to the court below to sustain the demurrer to the information, with leave to file an amended information if the state so desires.
+FURMAN, P. J., and ARMSTRONG, J., concur.
