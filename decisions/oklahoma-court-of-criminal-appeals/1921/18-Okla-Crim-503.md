@@ -1,0 +1,41 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-3646"
+decided: "1921-04-09"
+citations: ["18 Okla. Crim. 503", "196 P. 730"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DOYLE, P. J„ and BESSEY, J., concur."]
+parties: ["JOHN BRADLEY et al. v. STATE."]
+source_url: "https://static.case.law/okla-crim/18/cases/0503-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8737998
+cites_cases: ["17 Okla. Cr. 291", "17 Okla. Cr. 375", "188 Pac. 890"]
+---
+
+# Bradley v. State
+
+## Majority (MATSON, J.)
+
+MATSON, J.
+John Bradley, Frank Hendricks, and Ed Anderson were jointly charged by information in the district court of Kiowa county with the crime of burglary in the second degree, alleged to have been committed in the month of November, 1918, by breaking into and entering the store building owned and occupied by H. H. Wedel in the town of Gotebo, in Kiowa county, Okla., in which certain goods, wares, and merchandise belonging to and owned by the said Wedel . were then and there kept, and with the intent on the part of the said defendants to steal said goods, etc. Upon a joint trial each of the defendants was found guilty as charged, and the punishment fixed as to Bradley at 3 years’ imprisonment in the state penitentiary, as to Hendricks at years’ imprisonment, and as to Anderson at 2 years’ imprisonment.
+Defendants Bradley and Hendricks prosecute a joint appeal from the judgments rendered against them, and apparently rely for a reversal: (1) Upon the refusal of the trial court to give instruction No. 2, requested by counsel for defendants, and (2)- upon the insufficiency of the evidence to sustain the conviction.
+The evidence is substantially as follows: In the latter part of the month of October, 1918, the storeroom of H. H. Wedel, located in the town of- Gotebo, Kiowa county, Okla., was broken into, between closing, time Saturday night and the opening Monday following, and a considerable quantity of merchandise stolen theréfrom. Wedel conducted a general merchandise store, carrying, among other things, groceries, dry goods, and clothing of all kinds.
+The defendants Hendricks and Anderson were sons-in-law of the defendant Bradley. Bradley at that time lived in the town of Gotebo and Hendricks had occasionally lived with him. The evidence discloses that they had each done more or less trading at Wedel’s store, considerably more during the year 1917 than during the year 1918.
+In the month of December, 1918, defendant Anderson was apprehended in the city of Oklahoma City, taken to the county attorney’s office there, and subjected to an examination relative to this alleged burglary, and in the presence of some officials of Oklahoma county, as well as in the presence of some detectives employed by Wedel, Anderson made a confession to the burglary, and implicated therein defendants Bradley and Hendricks. In this alleged confession, Anderson detailed the manner in which the burglary was accomplished; he was discovered in possession of some property which was after-wards identified as having ¡been taken from the Wedel store.
+Immediately after Anderson’s confession, seach warrants were obtained for the Bradley and Hendricks premises in Kiowa county. Upon these searches, a considerable quantity of merchandise, identified by Mr. Wedel and some of his clerks as being property stolen from the Wedel store when it was burglarized in October, 1918, was found. This merchandise consisted of bolt dress goods, shoes, groceries, and some cured meat. A larger quantity was discovered at the home of Bradley than at the home of Hendricks. Some of it -was concealed between the bed clothing, and in other places around the premises.
+After the discovery and identification of this property, prosecutions were instituted against these defendants, charging them with this burglary. The evidence discloses that upon arraignment in the court of the examining magistrate upon this offense, each of these defendants announced when the charge was read to them that thejj were guilty thereof, waiving arraignment, without the benefit of counsel, although they were told that they were entitled to have counsel.
+None of the defendants took the 'witness stand upon the trial. The evidence in their behalf consisted of some witnesses as to their previous general reputation for honesty and as law-abiding citizens, and in addition thereto certain checks were introduced, given by defendants Bradley and Hendricks. The possession of part of the the town of 'Gotebo for merchandise purchased during the years 1917 and 1918.
+The foregoing is a concise statement of the material evidence in the case. There were other minor details which we deem it unnecessary to state, and which we consider do not involve the merits of the question of the sufficiency of the evidence.
+The foregoing statement of the evidence we think clearly discloses facts and circumstances authorizing the jury to return a verdict of guilty against defendants, Bradley and Hendricks to Wedel and to other merchants in goods stolen at the time of the burglary in these defendants, concealed upon their premises, the nature of this property, together with the undisputed admission of guilt in the examining magistrate’s court, would impel an honest trier of the facts under the obligation of his oath to return a verdict of guilty. Especially is this conclusion forced upon the court where none of the defendants made any attempt to explain these incriminating circumstances and admissions.
+The instruction, requested and refused is as follows :
+“Gentlemen of the jury, you are instructed that mere possession of recently stolen goods is not evidence of guilt of burglary of the place- where they were kept, unless it was shown that the burglary and stealing of the goods at the time -the entry was alleged to have been made were part of the same transaction.”
+In this connection, the court gave the following instruction :
+“You are instructed that when the fact of a burglary has been shown and the question is whether or not the defendants committed it, their possession, at a time not too long after the burglary, of property shown to have been stolen at the same time and from the place, of the burglary, is a circumstance for the jury to weigh and consider in connection with all the ..other facts and circumstances in the case. The significance of such possession will vary with its special facts and with the other facts in the case, among which are the nearness or remoteness of the proven possession to such burglary, the nature of the property as passing readily from hand to hand or not, together with such other facts and circumstances as would reasonably influence the opinion of the jurors as to the guilt or innocence of the defendants.”
+It has been repeatedly held that the instructions must be applicable to .the evidence. Newby v. State, 17 Okla. Cr. 291, 188 Pac. 124; Williams v. State, 17 Okla. Cr. 375, 188 Pac. 890.
+The trial court is not compelled to give any' certain instruction requested by defendant, although it may staté a correct proposition' of law, where there is no evidence upon which to base the request. In this case, all the evidence introduced on the subject of the larceny of the property was to the effect that much of the goods and merchandise found in the possession of these defendants was taken from the Wedel store at the time it was burglarized in the month of October, 1918. That defendant’s recent possession of property shown to have been stolen at the same time and from the same place of the alleged burglary is a circumstance which the jury may weigh and consider in connection with all the other .facts and circumstances in the case is a well established rule of evidence' in burglary cases. 4 R. C. L. 440, sec. 34.
+We deem the law relative to the possession of property taken, in a burglary stated in No. 10 of the general charge of the court to be correct and sufficient to cover the evidence in this case.
+The proof of the guilt of these defendants is not only strong but practically conclusive.
+The judgments are affirmed.
+DOYLE, P. J„ and BESSEY, J., concur.
