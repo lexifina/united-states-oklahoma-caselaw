@@ -1,0 +1,32 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-5001"
+decided: "1925-10-09"
+citations: ["32 Okla. Crim. 166", "239 P. 948"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BESSEY, P. J., and DOYLE, J., concur."]
+parties: ["CLYDE PRINGLE v. STATE."]
+source_url: "https://static.case.law/okla-crim/32/cases/0166-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8852233
+cites_cases: ["102 Ga. 447", "11 Okla. Cr. 61", "152 Mo. 100", "30 S. E. 971", "53 S. W. 416", "75 Am. St. Rep. 438"]
+---
+
+# Pringle v. State
+
+## Majority (EDWARDS, J.)
+
+EDWARDS, J.
+The plaintiff in error, hereinafter called defendant, was convicted on a charge of receiving stolen property, knowing the same to have been stolen-, and appeals.
+The only question presented by the appeal is the insufficiency of the evidence to sustain the verdict. The record discloses that, on the 15th day of February, 1923, a railroad car was broken into at Oilton and certain Ford parts and accessories stolen therefrom, among which were some Ford wheels equipped with casings and tubes. Shortly after the theft, four of the wheels were found in the possession of the defendant under the bed at his residence. When questioned about the wheels, the defendant stated that he had bought them from a “Tanky,” meaning a worker at an oil tank 'farm, but did not know his name, but would endeavor to find him, and that he would notify the officers. Later the defendant and one Frank Thionnet were arrested and confined at the same time in the jail. Thereafter, Thionnet pleaded guilty of the larceny of the wheels in question and, being a minor, was sent to the training school for boys at Pauls Valley and later paroled. He testified for the state upon the trial, and his testimony was, in substance, that he and one Charley Johnson burglarized the car in question and stole the wheels; that prior to that occasion, he had at one time asked the defendant if he could handle some “stuff,” and the defendant had answered “Yes”; that after stealing the property from the car on the same night it was moved out a distance and concealed, and that he went to the residence of the defendant, while Johnson stayed with the property, and from the residence Thionnet and defendant went to the place where the wheels were concealed, and he there sold defendant four of the wheels for which defendant paid him the sum of $20, and they then took the four wheels to defendant’s home. Statements conflicting in some particulars were made by the defendant to different of the officers. Upon the trial, the defendant testified that he had a transaction with Thionnet in' front of a pool hall; that defendant had started to a Ford garage to buy some Ford parts, and was accosted by Thionnet, who told him he could save him some money; that he thereupon ordered four wheels from him, paid $20 down, and the sale was entered on an order book; that when the stuff was delivered to him he paid $28 more. He explained his former statement that he bought it from a “Tanky” by saying that his father had told him that the fellow worked on a tank farm. He also offered evidence that, on the night of the 15th of February, the date the burglary was committed, he was sitting up with some neighbor who had a sick child.
+Counsel for defendant argue that there is no evidence to show that, at the time accused purchased the wheels, he knew they were stolen. It is true that the evidence on this point is circumstantial. But it may be said generally that matters of knowledge, intent, and mental attitude are not generally capable of proof by direct and positive evidence, but must be proven by facts and circumstances.
+It is further argued that there is no sufficient corroboration of Thionnet, and that Thionnet is an accomplice of the defendant, and the rule of law with reference to corroboration of an accomplice has not been met. The court instructed the law of accomplice, and informed the jury that the defendant could not be convicted upon the evidence of Thionnet standing alone, but that there must be corroboration connecting the defendant with the commission of the offense. The rule of law applying to an accomplice was correctly stated, and no complaint is made as to the correctness of the instruction, but in this particular the court was more liberal than the law requires. While there is some division in the authorities, the rule seems well settled that a thief is not an accomplice of one who receives the goods knowing them to have been stolen, for the larceny and the receiving of the goods are separate and distinct offenses. 12 Cyc. 447 (II).
+In the case of State v. Kuhlman, 152 Mo. 100, 53 S. W. 416, 75 Am. St. Rep. 438, the Supreme Court of Missouri held:
+“The thief of goods is not an accomplice of the one who receives them, within the meaning of the law which requires a special instruction to be given covering the credibility of an accomplice as a witness.”
+In the case of Springer v. State, 102 Ga. 447, 30 S. E. 971, it was held:
+“The actual thief, relatively to the receiver of stolen goods, is an independent criminal; and, although he may commit, the larceny by which he possesses himself of stolen goods, he does not and cannot participate with the receiver of such goods in the special offense committed by the latter in receiving such goods, knowing them to be stolen; and upon the uncorroborated testimony of the former the latter may be convicted.”
+This court, in the case of Mayes v. State, 11 Okla. Cr. 61, 142 P. 1049, approved the rule announced in the case of Springer v. State, supra, and the general rule as announced in 12 Cyc 447 (II), and there announced the rule that a thief, who steals property, is not an accomplice of one who receives property knowing it to have been stolen, and that the thief is a competent witness in behalf of the state, and that the rule of law requiring corroboration of an accomplice did not apply, and a conviction might properly be had without such corroboration. We see no reason for departing from the rule thus announced and adhere to it fully. But aside from this rule, there were, we think, sufficient facts and circumstances in evidence to clearly prove the guilt of the defendant.
+Finding no prejudicial error, the case is affirmed.
+BESSEY, P. J., and DOYLE, J., concur.
