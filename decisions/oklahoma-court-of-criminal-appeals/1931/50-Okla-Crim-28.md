@@ -1,0 +1,36 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-7757"
+decided: "1931-01-31"
+citations: ["50 Okla. Crim. 28", "295 P. 620"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DAVENPORT, P. J., and EDWARDS, J., concur."]
+parties: ["LIZZIE MILLER v, STATE."]
+source_url: "https://static.case.law/okla-crim/50/cases/0028-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8742872
+cites_cases: ["10 Okla. Cr. 4", "18 Okla. Cr. 10", "18 Okla. Cr. 526", "196 Pac. 719", "250 Pac. 438", "34 Okla, Cr. 424", "35 Okla. Cr. 332", "35 Okla. Cr. 367", "41 Okla. Cr. 42", "45 Okla. Cr. 442"]
+---
+
+# Miller v. State
+
+## Majority (CHAPPELL, J.)
+
+CHAPPELL, J.
+Plaintiff in error, hereinafter called defendant, was convicted in the district court of Muskogee county of the crime of manslaughter in the first degree, and her punishment fixed by the court at imprisonment in the state penitentiary for a period of eight years.
+The defendant contends, first, that the court erred in overruling her motion for a new trial on the ground of newly discovered evidence. Attached to the motion was the affidavit of one John York, a merchant policeman of Muskogee, who swore that he went to the place of the homicide shortly after the killing and that he discovered an open knife on the floor close to where the deceased was lying, and that he saw the daughter of the deceased pick up this knife, close it up and put it in the pocket of the deceased before he was taken away to the hospital. He also made affidavit that J. L. Barton, another officer, was with him.
+Barton was called as a witness by the state, and testified that he arrived at the place of the homicide immediately after same occurred, and that defendant had no knife or weapon. York was in and out of the courtroom during the trial. While the affidavit alleges diligence to discover this evidence, the facts stated in the motion are insufficient to show that diligence required by law. In passing on the motion for a new trial, the trial court said:
+“I know of no error that has been committed during the trial of this case. The only proposition raised in the motion for a new trial is the purported newly discovered evidence, it is claimed the witness York will testify to. My attention has been called to the fact that York was in and out of the courtroom at different times during the progress of the trial. If York saw the knife as it is claimed he did it was certainly his duty to at the time take charge of it, and if he knows the facts that it is claimed in this motion and affidavit he knows it was certainly his duty to make these facts known to either the county attorney or to counsel for the defense. In my opinion the testimony of an officer of the law who saw and knows what it is claimed he saw and knows, and who- did not report the facts to those who' were entitled to know such facts, would be entitled to but little weight if he would testify to what it is claimed in the motion he would testify to if a new trial were granted, and in my opinion his testimony, given under the circumstances that exist, would not have changed the result of the trial, and the motion for a new trial is therefore overruled.”
+The granting of a new trial on the ground of newly discovered evidence is within the sound discretion of the trial court. The presumption is that the discretion was properly exercised, and the ruling of the trial court will not be disturbed except for an abuse of this discretion. Peters v. State, 35 Okla. Cr. 367, 250 Pac. 1032; McColloch v. State, 45 Okla. Cr. 442, 283 Pac. 1026.
+It has also been held that a new trial on the ground of newly discovered evidence would not be granted unless there was reasonable probability that the new evidence would change the result, should the new trial be granted. Stilwell v. State, 18 Okla. Cr. 10, 192 Pac. 253; Ray v. State, 35 Okla. Cr. 332, 250 Pac. 438.
+The showing being insufficient to support the motion for a new trial, the court did not err in overruling the same.
+The defendant next contends that the case should be reversed because of alleged misconduct of the county attorney. The only showing of the alleged remarks of the county attorney is contained in the case-made in an exhibit marked “Exhibit B” attached to the motion for a new trial. There is no recital in the record that these remarks were ever made. This court has repeatedly held that alleged errors of this kind must be contained in the case-made by recital or by bill of exceptions and not only by reference in the motion for a new trial. Irvine v. State, 10 Okla. Cr. 4, 133 Pac. 259 ; Gaines v. State, 18 Okla. Cr. 526, 196 Pac. 719; Stout v. State, 41 Okla. Cr. 42, 270 Pac. 90.
+Defendant next contends that the trial court erred in admitting incompetent evidence.
+The trial court permitted the state to read the testimony of the witness Curtis Lewis, which was given at the preliminary examination. This was permitted on the showing made by the state that the witness was absent; that he was the common-law husband of Ethel Lewis; that he had testified at the preliminary and had been cross-examined by the defendant; that a subpoena had been issued for him on the 21st day of September, 1929, to appear on October 22d, the date set for the trial, and that the sheriff made a return on October 21st that the witness could not be found. It appears also that the sheriff was in possession of information as early as October 3, 1929, that this witness was probably in Oklahoma county. The county attorney claims that he had no knowledge of this fact.
+By the exercise of some diligence he could have discovered the same in ample time to have procured a subpoena for the witness to be issued in Oklahoma county. In view of the fact that he did not do this, there is very meager showing of diligence to procure the testimony of the witness. Lewis was an eye-witness to the killing, but his testimony was cumulative to that of his wife’s who was present at the trial. The showing made by the state was not sufficient to entitle it to introduce the evidence of the absent witness. The case was proved substantially by the other witnesses, who' were present at the trial, and their evidence made out a clear case of murder, while she was only convicted of manslaughter. The evidence being merely cumulative to that of other witnesses to the crime, the defendant was not materially prejudiced by the admission of the same.
+A judgment of conviction will not be reversed on the ground of improper admission or exclusion of evidence unless, after an examination of the entire record, it appears that there has probably been a miscarriage of justice or a substantial violation of some constitutional or statutory right of the defendant. White v. State, 34 Okla, Cr. 424, 246 Pac. 1114.
+The evidence of the state was sufficient to justify 'the jury in finding the defendant guilty of murder. The jury found her guilty of manslaughter in the first degree, and the court fixed her punishment at imprisonment for eight years in the penitentiary. Upon the whole record, the defendant was clearly guilty.
+For the reasons stated, the cause is affirmed.
+DAVENPORT, P. J., and EDWARDS, J., concur.
