@@ -1,0 +1,46 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-3353"
+decided: "1921-02-05"
+citations: ["18 Okla. Crim. 519", "196 P. 734"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DOYLE, P. J., and BESSEY, J., concur."]
+parties: ["DAN SMITH v. STATE."]
+source_url: "https://static.case.law/okla-crim/18/cases/0519-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8738041
+cites_cases: ["11 Okla. 156", "12 Okla. Cr. 391", "65 Pac. 837"]
+---
+
+# Smith v. State
+
+## Majority (MATSON, J.)
+
+MATSON, J.
+This is an appeal from the district court of Garfield county, wherein plaintiff in error, Dan Smith, hereinafter referred to as defendant, was convicted of the crime of seduction, and sentenced to pay a fine of $500 and to be confined in the county jail for a period of 80 days. Judgment was rendered on the 2d day of January, 1918, from which judgment'defendant appealed by filing in due time in this court his petition in “error with case-ma£e attached.
+The first, second, third, fourth, and ninth assignments of error are as follows:
+“The court erred in refusing to direct the jury to return a verdict of ‘not guilty.’ ”
+“For that the verdict of the jury returned is contrary to the law and the evidence.”
+“For that the court erred in overruling defendant’s motion for a new trial.”
+“For that the court erred in overruling defendant’s motion in arrest of judgment.”
+“For that the court erred in rendering judgment upon the verdict returned, and adjudging that the defendant be confined in the county jail fot a period of 3(0 days and to pay a fine of $500.”
+The foregoing assignments are presented together in ihe brief, and it is contended that under these assignments the judgment should be reversed for the reason that the evidence is wholly insufficient to sustain the conviction.
+We deem it unnecessary to discuss the evidence. While the proof of defendant’s guilt is not as convincing as in many cases of seduction, there is, however, evidence on the part of the state’s witnesses which, if believed, is sufficient to sustain the conviction. It may be said that the prose-cutrix was not extremely difficult to seduce, 'but, as said by the Assistant Attorney General, “each victim presents a different degree of intelligence and; strength of character to be overcome.” It is evident from her testimony that prosecutrix was not possessed of an unusual degree of intelligence, nor was she surrounded with that home influence, environment, and training which tends to render necessary all the arts, persuasions, deceptions, and solicitations of the wily seducer before a surrender of chastity may be accomplished.
+The argument, advanced by counsel for defendant is lodged against the weight of the evidence rather than its sufficiency. 'Counsel contend, however, that in this case an exception should be made to the general rule of this court that, “where there is evidence from which the jury could reasonably conclude that defendant is. guilty, the judgment will not be disturbed because of insufficient evidence,” but such a course of action would be fraught with more danger to the administration of the" crimihal law than would a «trict adherence to those well-established principles of judicial consruction which find sanction in a long line of decisions of the highest appellate courts, in the Union.
+Recognizing the better opportunity of the jury to judge óf the weight of the evidence and the credibility of the witnesses, the Legislature has provided that in criminal causes the jury shall be the exclusive judges) of all questions of fact. This court, therefore, is not permitted to substitute its opinion for that of the jury on the weight of the evidence or the credibility of the witnesses, and it has uniformly been held that a judgment of conviction will not be reversed for want of sufficient evidence unless it may be said, as a matter of law, that there is no evidence reasonably tending to support the conviction.
+In this connection it is also argued that the prose-cutrix was not sufficiently corroborated either as to the promise of marriage or as to the act of sexual intercourse. In support of the promise of marriage evidence was introduced to show that defendant, immediately after the date on-which the prosecutrix testified that the promise was made, was a frequent visitor at the home of prosecutrix; that he called the parents of the prosecutrix “father” and “mother,” and referred to himself as their “old Dutch Dan.” There is also evidence of several witnesses that on the date that the prosecutrix testified defendant seduced 'her defendant and prosecutrix were absent from the home of prosecutrix alone after dark for about one hour and a half, I and on other occasions before and after that time were alone together, and that defendant admitted to others that he had had sexúal intercourse with prosecutrix.
+v-While the evidence on these 'points is conflicting,' it-was for the jury to determine'whom of the witnesses they would believe and whom disbelieve.'
+It is further contended that the trial court erred in giving, over the objection and exception of defendant, in- ' struction No. 4, which is as follows:
+“Upon trial for having seduced and had sexual intercourse with an unmarried female of previous chaste character, under a promise of marriage, the defendant cannot be convicted upon the testimony of the prosecutrix, unless she is corroborated by other evidence upon the two elements, to wit, the promise of marriage and the illicit connection ; and in this connection you are instructed that the term ‘corroborate’ or ‘corroboration,’ as used in these instructions, means to strengthen, to make more certain, that is, to give additional strength' to the testimony of the pros-ecutrix. It does not necessarily require the testimony of another witness or person, but her testimony .may be corroborated by proof of other facts and circumstances which you find from the evidence, beyond a reasonable doubt makes more certain, and adds additional strength to her testimony. In determining whether or not the testimony of the prose-cutrix has been corroborated in this case, upon the two elements above mentioned, you may take into consideration the evidence, if any, tending to show the conduct and familiarity of the defendant with the prosecutrix and her family, his visits with them, and attentions, to her, if any such is proved, together with all other facts and circumstances which you find and believe from the evidence beyond a reasonable doubt strengthens her testimony, if any, as to the promise of marriage and illicit intercourse charged in the information. Taking into consideration all the facts and circumstances proved in the case, it is for you, gentlemen of the jury, to determine whether or not the testimony of the prosecutrix has been corroborated as hereinbefore, explained in this instruction.”
+It is argued that this instruction is erroneous because the jury is told, in substance, that the prosecutrix may be corroborated by her own testimony.
+We do not so construe the instruction. While the instruction says that corroboration “does not necessarily require the testimony of another witness or person,” it is specifically stated, however, that “there must be proof Of other facts and circumstances” than the testimony of the prosecutrix which the jury must find beyond a reasonable doubt makes more certain and adds additional strength to the testimony of the prosecutrix.
+We think the instruction meets the rule announced in Harvey v. Territory, 11 Okla. 156, 65 Pac. 837, wherein it was held:
+“The female in a prosecution for seduction is not required to be corroborated by direct and positive proof of facts independent of her testimony, but only as to such facts and circumstances as usually form the concomitants of the main fact sought to be established, which facts should be sufficiently strong within themselves, and pertinent in their bearing on the case, to satisfy the jury of the truthfulness of the prosecutrix in her evidence on the principal facts.”
+See, also, Butts v. State, 12 Okla. Cr. 391, 157 Pac.704.
+It is also contended that the court erred in refusing to give certain instructions offered and requested by defendant.
+An examination of these instructions, together with the instructions given by the court, discloses that the substance of the requested instructions was covered in the instructions given; that the charge given by the trial court fairly and fully covered the law of the case. We find no reversible error, therefore, in refusing to give the instructions as requested.
+A consideration of the testimony of the witnesses in this case discloses a conviction based upon conflicting evidence, and, while the evidence of the prosecutrix hersielf is to a certain extent unsatisfactory and unconvincing on some points, it cannot be said that the evidence as a whole is legally insufficient to sustain the conviction. The punishment imposed by the trial court is extremely light, nothing more than is usually imposed in misdemeanor cases. We see no good reason why the judgment in this case should be disturbed.
+Judgment affirmed.
+DOYLE, P. J., and BESSEY, J., concur.
