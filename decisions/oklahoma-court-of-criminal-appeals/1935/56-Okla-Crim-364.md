@@ -1,0 +1,45 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-8720"
+decided: "1935-01-11"
+citations: ["56 Okla. Crim. 364", "40 P.2d 41"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["EDWARDS, P. J., and DAVENPORT, J.,. concur."]
+parties: ["GEORGE HEGLIN v. STATE."]
+source_url: "https://static.case.law/okla-crim/56/cases/0364-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1455428
+cites_cases: ["116 Md. 284", "13 Okla. Cr. 414", "162 S. W. 216", "19 Okla. Cr. 386", "20 Okla. Cr. 362", "200 Pac. 553", "21 Okla. Cr. 306", "22 Pac. (2d) 116", "254 Mo. 437", "35 Okla. Cr. 135", "36 Okla. Cr. 225", "49 Okla. Cr. 24", "5 Pac. (2d) 767", "50 Okla. Cr. 103", "50 Okla. Cr. 148", "52 Okla. 395", "53 Okla. Cr. 389", "54 Okla. Cr. 393", "61 S. E. 1072", "80 S. C. 387", "81 A. 681"]
+---
+
+# Heglin v. State
+
+## Majority (CHAPPELL, J.)
+
+CHAPPELL, J.
+Plaintiff in error, hereinafter called defendant, was convicted in the district court of Beaver county of the crime of receiving stolen property, and his punishment fixed by the jury a.t a fine of $250 and imprisonment in the county jail for a period of 30 days.
+Defendant is a farmer residing near the town of Gate, in Beaver county, and was convicted of receiving two one-way plows which ivere alleged to have been stolen from Paul A. Custer by one Glen Moody;' Custer residing in the state of Kansas, and the property being taken off his farm near Satana, a distance of more than one hundred miles from the farm, of defendant; about three months after the plows were stolen, they were found in the possession of defendant, on bis farm in Beaver county. Tbe plows had been dismantled, and parts of them were found on other plows that were being used by defendant in his farming business; other parts of the stolen property were located on defendant’s farm, some of it being concealed in a gully and covered with thistles and weeds. There is no dispute that the property found on defendant’s farm was stolen from Custer.
+The defense was that this property was left at defendant’s farm while he was absent therefrom ;■ that defendant did not know who left it there; that people were in the habit of leaving property on his farm and later coming and getting it. But the record shows that defendant appropriated some of this property, altering it so that it would be hard to identify, and concealed other parts of it; that Glen Moody and one Amos Akins had been former residents of defendant’s neighborhood and were acquainted with him; that Akins at the time of the trial was in the penitentiary in Kansas, convicted of stealing this property; that he testified he and Glen Moody took the property to defendant’s farm; that defendant was there and received it, and gave Moody something that looked like money; that Moody had been convicted, and at the time of the trial was serving a term in the Kansas penitentiary for stealing these particular plows.
+When all of the evidence, facts, and circumstances in the case are considered, it is apparent that defendant received this property knowing it to be stolen.
+It is first contended the trial court erred in denying defendant’s application for a commission to take depositions of two witnesses in the state of Kansas; also in overruling the motion for a continuance because of the absence of these two witnesses.
+The motion to take depositions of the witnesses G-len Moody and John A. Akins was made in open court on the 16th day of October, 1933, same being the day the case was set for trial- Defendant testifying, on the motion admitted that he had never talked with these witnesses, did not know what they would testify to, and had made no effort to procure their testimony prior to his application for continuance. The preliminary hearing had been held and the information filed in the district court more than four months before the date set for trial. During all of this time defendant had made no effort, by himself or through counsel, to ascertain what these witnesses would testify to.
+The trial court properly denied this application, because there was no showing of proper diligence to justify a continuance of the case to! take the depositions of these witnesses.
+It is next contended the trial court erred in admitting evidence of separate offenses not connected with the offense on trial.
+The evidence complained of was that other stolen property had been received by defendant and was in his possession at the place where the property alleged to have been received was found. This evidence was admissible on the question of whether or not defendant received this particular stolen property with the guilty knowledge that it had been stolen when he received it.
+This court has held that contemporaneous possession of other stolen property is admissible in a larceny ease. Gourley v. State, 49 Okla. Cr. 24, 292 Pac. 873; Brown v. State, 50 Okla. Cr. 103, 297 Pac. 303; Buck v. State, 50 Okla. Cr. 148, 3 Pac. (2d) 747; Glenn v. State, 52 Okla. 395, 5 Pac. (2d) 767; Patton v. State, 54 Okla. Cr. 393, 22 Pac. (2d) 116.
+The precise question lias never been passed on by this court, but tlie courts of other states have held that possession of other stolen goods is admissible as tending to establish that the defendant received with guilty knowledge the goods specified in the indictment or information, and that it is immaterial whether the other possession occurred before or after the possession charged. 17 R. C. L. § 94, p. 88; Luery v. State, 116 Md. 284, 81 A. 681, 685, Ann. Cas. 1913D, 161; State v. Cohen, 254 Mo. 437, 162 S. W. 216, Ann. Cas. 1915C, 86; State v. Rountree, 80 S. C. 387, 61 S. E. 1072, 22 L. E. A. (N. S.) 833.
+It is next contended the court erred in permitting one E. E. Wright to testify in chief for the state because his name had not been indorsed on the information prior to the commencement of the trial.
+It appears from the record that the name of this witness had been indorsed on the information several days prior to the trial, and that a copy of this information was in the possession of defendant’s counsel.
+The indorsing of the names of additional witnesses in a felony case, other than capital, is within the sound discretion of the trial court, even after the trial has began. Harrell v. State, 36 Okla. Cr. 225, 253 Pac. 516; Shaw v. State, 53 Okla. Cr. 389, 12 Pac. (2d) 550.
+It was not error, therefore, for the trial, court to permit the indorsement of the name of this witness upon the information at the time of trial.
+It is next contended the court erred in refusing, to give defendant’s requested instructions numbered 2, 3, and 4, and that the trial court erred in giving instructions numbered 2 to 7, inclusive.
+An examination of the record discloses that the requested instructions were properly denied, and that the instructions given by the court on its own motion were as favorable to the defendant as the law and the facts required.
+Finally, it is contended the court erred in refusing to permit defendant to introduce in evidence the alleged statement of an accomplice.
+This assignment of error relates to the refusal of the trial court to permit the witness Floyd Colton to testify on an offer made by counsel for defendant to the effect that one Glen Moody, who was alleged to be the thief from whom this defendant received the stolen property, had told the witness, long after the property had been stolen and after defendant had received the same, in substance, that defendant was innocent of any Avrongdoing in the transaction.
+What Moody said to a third person in the absence of Amos Akins could) not be binding on Akins and would only be hearsay as to him and therefore not admissible. It could not be admissible as the declaration of an accomplice, because such declarations, made in the absence of defendant, are admissible only where a conspiracy is shown to exist, and then such declaration must be made in furtherance of the conspiracy and before the object of the conspiracy has been accomplished. Smith v. State, 19 Okla. Cr. 386, 200 Pac. 553; Hollingshead v. State, 21 Okla. Cr. 306, 207 Pac. 104; Crawford v. State, 35 Okla. Cr. 135, 248 Pac. 880.
+The declarations of an accomplice detailing a past event are merely hearsay, and could only be binding on a codefendant when made in his presence. Thomas v. State, 13 Okla. Cr. 414, 164 Pac. 995; Smith v. State, 20 Okla. Cr. 362, 202 Pac. 1046.
+There is no evidence to make Moody an accomplice of Akins. Anything Moody might have said to the witness Floyd Colton was purely hearsay and inadmissible. Moody was not a witness in the case, and the proffered evidence was not admissible for the purpose of impeachment. On no theory was it admissible. The ruling of the court holding the same to be hearsay was correct.
+A careful examination of the record discloses no reversible error. The cause is therefore affirmed.
+EDWARDS, P. J., and DAVENPORT, J.,. concur.
