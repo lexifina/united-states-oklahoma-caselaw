@@ -1,0 +1,28 @@
+---
+court: "Oklahoma Supreme Court"
+docket: "2073"
+decided: "1912-11-16"
+citations: ["35 Okla. 8", "128 P. 103"]
+reporter: "okla"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HAYES -and KANE, JJ., concur; TURNER, C. J., apd WILLIAMS, J., absent, and not participating."]
+parties: ["KISER v. NICHOLS."]
+source_url: "https://static.case.law/okla/35/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8879633
+cites_cases: ["114 Pac. 1101", "28 Okla. 519", "31 Okla. 563"]
+---
+
+# Kiser v. Nichols
+
+## Majority (DUNN, J.)
+
+DUNN, J.
+This case presents error from the county court of Jackson county. March 4, 1909, the plaintiff in error, as plaintiff, filed his petition in the said court, alleging that the defendant had in her possession, and was unlawfully detaining from him, two mules of the value of $215, for the return of which, with damages for the withholding thereof, he prayed judgment. In his petition plaintiff alleged an agreement between himself and the defendant, wherein she was to take the mules and hold the same conditionally on a proposed contract of purchase and sale of certain lands located in Pecos county, Tex., which had recently been inherited by her and her minor children from her deceased husband. It avers that the understanding under which the defendant secured the mules was that if plaintiff’s brother, then living in Texas, would join with plaintiff in the purchase of the land at the price of $600 that the defendant would take title to the said mules, giving plaintiff credit on the sale for the sum of $215, but in case the plaintiff’s brother failed or refused, for any reason, to enter into said agreement and join with plaintiff in the purchase of said land that the title to the said mules should remain in 'plaintiff, and he would be entitled to the immediate possession and surrender thereof; that plaintiff’s brother declined to enter into the contract, and plaintiff demanded the return of the mules, which was refused. Defendant answers, in effect, that she had agreed to sell her interest in the said land for the sum of $300, and had received the mules in payment of $215 of the said sum; that plaintiff agreed to advance the money necessary to pay the costs of the court and the procedure necessary to obtain an order for the sale of the said land, and to advance the sums necessary to pay the taxes and accrued interest on an indebtedness owed on the land; that she had at all times stood ready to complete her part of the agreement in accordance with the terms thereof, but that plaintiff had refused to advance the said money and to take the necessary steps to obtain the order of sale in accordance with the terms of the agreement. On the trial had before a jury, verdict was entered for defendant, and, after the denial of a motion for new trial, the cause has been lodged in this court for review.
+The issue made in this court is that the verdict is not supported by the evidence, and error in the giving and refusal of certain instructions. Counsel for plaintiff admits that on the material facts involved the evidence is conflicting, and from a perusal thereof we are convinced that the same would support a verdict for either party. Under these circumstances, the verdict of the jury is conclusive upon us. We are without authority to take the evidence of the different witnesses and, weighing the same, determine on which side the truth lies. This duty is imposed on the trial jury, and when it has acted on sufficient evidence its conclusion is final. This court said, in the case of City of Wynnewood v. Cox, 31 Okla. 563, 122 Pac. 528:
+“The evidence in support of the verdict of a jury on appeal in this court is regarded as true, and the evidence against it is deemed, for sufficient reasons, to have been rejected; and where all of the evidence supporting a verdict, taken together and given all of the presumptions and deductions to which it is reasonably susceptible, is sufficient, then this court will not go behind the verdict- and set it aside, on the ground that the countervailing evidence offered, had it been accepted, would have justified a different one.”
+See, also, Jeffers v. Hensley, 28 Okla. 519, 114 Pac. 1101.
+Counsel contends that a contract by the defendant to sell to plaintiff the entire tract of land inherited by both herself and her children was void, and that because of this fact he was entitled to recover his property. The contention of the defendant, as we have seen, is that she sold to him but her interest in the land, and on this issue the court instructed the jury that one heir could not contract to convey the interest of another heir, and a contract to make title to the whole estate would be void; and that if title could not be made to the land by the defendant that then the jury should find for plaintiff. As the evidence on this point was conflicting, the verdict of the jury must be held to have determined it against the contention of plaintiff. The evidence of the defendant was that the mules were traded to her for her interest in the land, and that she stood ready to keep her contract at all times. Such a contract, we think, she had a right to make. We have been cited to no statute or authority holding against it, and we know of none.
+An inspection of the entire record, the evidence heard, the instructions given and refused, convinces us that the trial was without error, and the issues were fairly presented. Under these circumstances the judgment of the trial court is affirmed.
+HAYES -and KANE, JJ., concur; TURNER, C. J., apd WILLIAMS, J., absent, and not participating.
