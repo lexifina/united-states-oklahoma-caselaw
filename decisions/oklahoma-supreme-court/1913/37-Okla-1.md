@@ -1,0 +1,32 @@
+---
+court: "Oklahoma Supreme Court"
+docket: "2435"
+decided: "1913-02-11"
+citations: ["37 Okla. 1", "130 P. 288"]
+reporter: "okla"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BANK OF AMES v. LEHR et al."]
+source_url: "https://static.case.law/okla/37/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8879906
+cites_cases: ["12 Okla. 597", "129 Am. St. Rep. 747", "17 Okla. 410", "20 Okla. 427", "23 L. R. A. (N. S.) 1074", "58 Pac. 782", "73 Pac. 297", "8 Okla. 645", "87 Pac. 297"]
+---
+
+# Bank of Ames v. Lehr
+
+## Majority (SHAKP, C.)
+
+Opinion by
+SHAKP, C.
+It is insisted by plaintiff in error that the chattel mortgages executed by Henry Lehr to the Citizens’ State Bank of Okeene, dated, respectively, January 11, 1908, and May 2, 1908, are void as to the plaintiff in error, who was a judgment creditor of the mortgagor at the time of the execution of said mortgages, because of the fact' that one or both of the subscribing witnesses to said mortgages were officers and stockholders of the mortgagee bank; hence were interested parties and disqualified in law as witnesses. It is agreed in the stipulations that T. H. Grennell, one of the subscribing witnesses to each of the mortgages in question, was both an officer and stockholder of the Citizens’ State Bank at the time said mortgages were executed. Said mortgages each had two subscribing witnesses; the first, in addition to the name of T. H. Grennell, was signed and executed in the presence of O. G. Graalman. The testimony as to the interest of these witnesses is not clear; but, in view of our conclusions, it is not material.
+It will be observed that both mortgages were executed prior to the taking effect of the Act of May 22, 1908 (Sess. Laws 1907-OS, p. 560; Comp. Laws 1909, see. 4427), which expressly provides 'that a chattel mortgage may be either attested by acknowledgment before any person authorized to take acknowledgments of deeds, or it may be signed and validated by the signature of two persons not interested therein; and that mortgages so executed shall be admitted to record. The law in force at the time that the mortgages attacked were executed was section 3583, Wilson’s Kev. & Ann. St. 1903, which reads:
+“A mortgage of personal property must be signed by tbe mortgagor in the presence of two persons, wlio must sign tbe same as witnesses thereto, and no further proof or acknowledgment is required to admit it to be filed.”
+In Watts v. First Nat. Bank, 8 Okla. 645, 58 Pac. 782, this provision of the statue was construed by the territorial Supreme Court, where it was said:
+“The statute makes no express limitation or prohibition as to any class or kind of persons who shall act as witnesses. It is silent as to the interest or lack of interest of the witnesses; and the only requisite expressly required is that it shall be signed by two persons as witnesses, and, when this is done, it shall be admitted to filing in the office of the register of deeds.”
+The question was next before this court in Farmers’ State Bank et al. v. Spencer, 12 Okla. 597, 73 Pac. 297. There it was shown that one Helton was a stockholder in the Farmers’ State Bank, the holder of the chattel mortgage, and, being such stockholder, was a party in interest; and it was claimed that his interest as a stockholder disqualified him from acting in the capacity of a witness to the mortgage. The former decision of the court in Watts v. First Nat. Bank, supra, was adhered to; the court observing:
+“Now this seems to be the only requirement [referring to the statute] and the only’ limitation placed upon the subject by the Legislature; and it does not seem to us that the court, should add to, detract from, or require other or different qualifications, on the' part of such witnesses, than such as the Legisla-ture in its wisdom has seen fit to prescribe.”
+The action of the trial court in excluding the mortgage from evidence, for the sole reason that it was witnessed by a stockholder of the bank, was held to constitute reversible error. In Kee v. Ewing et al., 17 Okla. 410, 87 Pac. 297, the court had under consideration a kindred statute. Section 888, Wilson’s Eev. & Ann. St. 1903 (section 1195, Comp. Laws 1909). There two of the mortgages were acknowledged before a notary public, who was at the time the cashier of the bank. After referring to the case of Watts v. First Nat. Bank, supra, it was .held that; there being nothing upon the face of the instrument which disclosed any interest therein by any third person, the mortgage was entitled to record in the office of the,register of deeds, notwithstanding the fact that the mortgagee was president and the notary public taking the acknowledgment the cashier of and a stockholder in the bank at the time; and that said mortgage, being recorded, operated as notice. In Ardmore Nat. Bank v. Briggs Machinery & Supply Co. et al., 20 Okla. 427, 94 Pac. 533, 23 L. R. A. (N. S.) 1074, 129 Am. St. Rep. 747, 16 Ann. Cas. 133, the case was one arising in the Southern district of the Indian .Territoiy. It was there held by this court that the acknowledgment of a deed of trust, executed by a corporation grantor to secure the payment of certain promissory notes, was a ministerial act; that where such an instrument was acknowledged by a notary public, who was at the time a director and treasurer of the grantor corporation, and also indebted for unpaid subscriptions to its stock, which fact was known to the grantor, but there was nothing on the face of the instrument or acknowledgment indicating such relationship, the deed of trust was entitled to registration, and the registry thereof was notice to subsequent purchasers, incumbrancers, and lienors.
+The rule announced and followed by the territorial Supreme Court, does not commend itself to.the writer of this opinion and, we believe, is contrary to the weight of authority; but, having been followed by that court for more than eighteen years, we hesitate to announce a contrary rule, jjarticularly in ' view of the fact that the objection has been met by the Legislature, and the mischiefs and abuses to which continued recognition of the rule might lead were, by the Act of May 22, 1908, supra, fully obviated.
+The other errors assigned, not being argued, are deemed to have been waived. The judgment of the trial court should therefore be affirmed.
+By the Court: ’ It is so ordered.
