@@ -1,0 +1,41 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-10158"
+decided: "1943-02-17"
+citations: ["76 Okla. Crim. 101", "134 P.2d 375"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JONES, P. J., and DOYLE, J., concur."]
+parties: ["CHARLES (BUD) RICHARDSON v. STATE."]
+source_url: "https://static.case.law/okla-crim/76/cases/0101-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8739723
+cites_cases: ["21 O. S. 1941", "61 Okla. Cr. 40", "63 Okla. Cr. 389", "65 Okla. Cr. 457", "68 Okla. Cr. 359", "70 Okla. Cr. 1", "72 Okla. Cr. 305"]
+---
+
+# Richardson v. State
+
+## Majority (BAREFOOT, J.)
+
+BAREFOOT, J.
+Defendant, Charles (Bud) Richardson, was charged in the district court of Cotton county with the crime of larceny of an automobile, was tried, convicted and sentenced to serve a term of five years in the penitentiary, and has appealed.
+For a reversal of this case, the following errors are assigned:
+“(1) That the testimony of the accomplices of the defendant was not corroborated, and that the state’s evidence by reason thereof is insufficient to support the conviction.
+“(2) That the evidence of the state wholly failed to show that the automobile in question was taken by the defendant for the purpose of converting the same for his own use and benefit, and that it was taken merely for a joy ride by persons who were under the influence of intoxicating liquor.”
+This charge is the outgrowth of the taking of an automobile belonging to Grover Hensley, a citizen of Cotton county, on the night of January 23, 1939. It involves three young men who lived at Wichita Falls, Tex., and who came to Temple, in Cotton county, on January 23, 1939, in a wrecker. The names of the other parties were Wilson Humphreys and Auffie Chase. Wilson Hum-phreys had a brother living in Cotton county, about five miles west and two miles south of Comanche. There was some evidence that the wrecker which they brought from Wichita Falls had been taken without the consent of the owner, but had been taken by Wilson Humphreys, and not by this defendant. This wrecker had been stuck in a ditch, and abandoned. This was on a Friday night, and about January 23, 1939. On that night the three boys went to1 the home of Bob Mooney, in Temple, where Grover Hensley had a room, and took Hensley’s Ford automobile from under a tree in the Mooney yard, and drove it away. Wilson Humphreys drove the car. All of the boys were intoxicated at the time.
+The car was driven about eight miles from town, was stuck in a mud hole, and abandoned, the three boys walking to the home of Bill Humphreys, the brother of Wilson Humphreys, arriving there some time Saturday morning. They remained there until Monday morning, when Bill Humphreys took them to Walters, and they returned to their homes in Wichita Falls, Tex. Later they were arrested there, and this charge was filed in Cotton county on February 7, 1941.
+The record is not very complete, but it may be inferred that Wilson Humphreys and Auffie Chase entered pleas of guilty to the charge and were sentenced to serve terms in the reformatory at Granite, and while serving their terms were used as witnesses for the state and against this defendant, who stood trial on the charge.
+It is the contention of the defendant that the evidence of Wilson Humphreys and Auffie Chase, who were accomplices of the defendant, was not corroborated in the manner prescribed by law.
+The statute upon which this contention is based is Oklahoma Statutes 1931, sec. 3071, O. S. A. (1941) Title' 22, § 742, which reads as follows:
+“A conviction cannot be had upon the testimony of an accomplice unless he be corroborated by such other evidence as tends to connect the defendant with the commission of tlie offense, and the corroboration is not sufficient if it merely show the commission of the offense or the circumstances thereof.”
+This statute has been construed by this court many times. It is unnecessary to1 cite the cases or quote from them. Each case stands upon the facts of that case, and subject to the legal principles announced in the many cases. Brewer v. State, 63 Okla. Cr. 389, 75 P. 2d 901; Scott v. State, 72 Okla. Cr. 305, 115 P. 2d 763; Lucas v. State, 68 Okla. Cr. 359, 98 P. 2d 933.
+In the case of Wilkins v. State, 70 Okla. Cr. 1, 104 P. 2d 289, 303, after citing and reviewing many cases decided by this court, we said:
+“Also in the Howerton Case, after citing the cases that have held the evidence sufficient and insufficient to corroborate the accomplice, we say ([65 Okla. Cr. 457], 88 P. 2d [904] 905) :
+“ ‘From these different cases it may be determined that in accordance with certain general well-defined propositions of law stated in the different opinions, that each ca.se stands or falls on the particular testimony of that case.’ ”
+We have examined the record, and there is no ques.tion but that these witnesses were accomplices of the defendant. It is unnecessary to give in detail a full discussion of the testimony. The fact that they were in Cotton county at the time the automobile was taken and with a previously stolen automobile which had been abandoned, together with the evidence that the three of them went to the home of Bill Humphreys', the brother of one of them, near where the car was stolen, and the voluntary admission of the defendant to the sheriff of Cotton county that he came from Wichita Falls to Temple with the witnesses, and the evidence of the car being stuck in the mud hole while he was in the car, is sufficient corroboration of the testimony of the two accomplices, under the law of this state. The defendant further testified that he knew the car was stolen, but that he did not drive it.
+The second contention of the defendant presents a somewhat more difficult situation. While there may be extenuating circumstances in this case, after reading the entire record carefully we cannot say that the evidence is entirely insufficient to support the judgment and sentence. This court, in the case of Hughes v. State, 61 Okla. Cr. 40, 65 P. 2d 544, had before it a case somewhat similar to' the instant case, yet there is a very clear distinction in the facts in that case and this one. There it was shown that the party who took the automobile had no intention of appropriating the same to his own use. The taking thereof was a mistake, and under the belief that it was a car belonging to the brother of the defendant. The case was reversed for this reason. While the evidence here reveals that the defendant and his companions were all intoxicated at the time of taking the car, and that the car was only driven a short distance and abandoned, yet, under all tbe circumstances and in view of the fact that the jury found the defendant guilty, we are unable to say that the case should be reversed.
+We do desire, however, to call attention to the fact that we have a statute which deals especially with the taking of an automobile without the consent of the owner, for the purpose of using it for “joy riding”, and not for the purpose of theft. The county attorneys of this state should and will use their good judgment in coming to a conclusion as to when charges should be filed under this statute, which is Okla. Stat. 1931, sec. 1892, Okla. Stat. Ann. (1941) Tit. 21 § 1787, and which carries with it a penalty of not to exceed a fine of $100 and costs. § 1788. The statute under which this defendant was charged and convicted carries with it a penalty of not less than ñve years in the penitentiary, 21 O. S. 1941 § 1720, and this was the punishment he received. Under the law, this being the minimum punishment, we are unable to reduce the punishment, or we would unhesitatingly do so, under the facts in this case.
+We have carefully examined the instructions given by the court. No exceptions were taken thereto. They fully protect the rights of the defendant. No special instructions were requested by defendant. An instruction was given by the court with reference to what was necessary to corroborate the evidence of the two accomplices.
+Finding no error, the judgment and sentence of the district court of Cotton county is affirmed.
+JONES, P. J., and DOYLE, J., concur.
