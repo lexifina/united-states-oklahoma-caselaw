@@ -1,0 +1,41 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-9120"
+decided: "1936-12-18"
+citations: ["60 Okla. Crim. 248", "63 P.2d 765"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["EDWARDS, P. J., and DAVENPORT, J., concur."]
+parties: ["SAM GORUM v. STATE."]
+source_url: "https://static.case.law/okla-crim/60/cases/0248-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8740480
+cites_cases: ["12 Okla. Cr. 560", "122 Pac. 1108", "13 Okla. Cr. 165", "14 Okla. Cr. 189", "160 Pac. 54", "17 Okla. Cr. 47", "19 Okla. Cr. 102", "197 Pac. 1064", "2 Okla. Cr. 89", "226 Pac. 889", "27 Okla. Cr. 196", "47 Okla. Cr. 184", "7 Okla. Cr. 194"]
+---
+
+# Gorum v. State
+
+## Majority (DOYLE, J.)
+
+DOYLE, J.
+Upon information filed in the county court of Seminole county, charging that in said county on or about the 19th of September, 1985, Sam Gorum, the defendant, did then and there unlawfully have in his possession 1,050 pints of whisky and gin, with the unlawful intent to sell, convey, or otherwise unlawfully dispose of the same, he was tried and convicted. Motion for new trial was duly filed and overruled. January 20, 1936, the court entered judgment in accordance with the verdict of the jury and sentenced him to confinement in the county jail for a period of 60 days and to pay a fine of $300 and all costs, and in default of payment of fine and costs further confinement in said jail until the same is satisfied as by law provided. From the judgment he appeals and assigns as error that the verdict is contrary to the law and the evidence.
+The undisputed evidence for the state shows that on the date alleged George .Snider and Charley Cannon, deputy sheriffs, in serving a search warrant went to the Dave Coker farm about four miles west of Seminole and searched the premises. The farm and family residence was occupied by Edna Brown and her sisters and brothers, children of Dave Coker. There was another house on the premises which had formerly been a residence but was no longer occupied as such and had been rented. In this building the officers found 1,050 pints of whisky and other intoxicating liquors.
+Edna Brown testified that she first rented this house to a man named “Dago” Morgan, who paid the rent for only one month, after which the house was rented to a man introduced to her as Sam Gorum, who paid the rent for four months, including the month of September, 1935, and who paid the rent the first of each month in advance; that he always came to her home after dark and she never saw him except in the dark; that he had a key to the house which he kept locked with a Yale padlock; that the house was empty before he rented it. On cross-examination she stated that she would not be positive that the defendant, Sam Gorum, was the man that paid her the rent.
+Charles Steph testified that he was jailor for Seminole county; that on September 19, 1935, two deputy sheriffs delivered a quantity of liquor to the jail, and a day or two later the defendant, Gorum, visited the jail and talked to him about this liquor, saying that he had an invoice of the whisky and that it was five cases short; he said there should be some cognac and Canadian Club whisky that was not there. He testified further as follows :
+“Q. What else did he say about liquor in the course of that conversation? A. He said he had a plant in Seminole that was hot and that he was moving it out there to this plant and if Mr. Snider had been a little later in getting there he would have caught him with more whisky.”
+George Snider testified that he was the officer that made the seizure of said liquors; that two or three days later in the First National Bank in Seminole he had a conversation with the defendant about this liquor, in which he told the defendant that he had heard the defendant had said he was short four or five cases of whisky, the defendant answered: “Yes, I would like to have the four or five cases that you didn’t bring down.”
+When the state closed its testimony, the defendant interposed a demurrer to the same on the ground and for the reason that the same is wholly insufficient to support the charge of unlawful possession of intoxicating liquor as charged in the information, which demurrer was overruled. The defendant then moved for a directed verdict, which motion was overruled and exceptions saved.
+Counsel for appellant in their brief say:
+“We seriously contend that the corpus delicti, that is, the possession of the whisky was not proven by legal evidence save and except the extrajudicial statement of the defendant and for this reason there is not sufficient proof of the corpus delicti and we further urge that ali the evidence attempts to prove the corpus delicti solely and only by the extrajudicial statement of the defendant. Citing Boyle v. State, 27 Okla. Cr. 196, 226 Pac. 889, wherein it is said: ‘It is a well-settled rule in this state that a conviction cannot be had on the extrajudicial confession of the defendant, without evidence aliunde of the corpus delicti.’ Shires v. State, 2 Okla. Cr. 89, 99 Pac. 1100; Choate v. State, 12 Okla. Cr. 560, 160 Pac. 54, L. R. A. 1917A, 1287; Waide 1. State, 13 Okla. Cr. 165, 162 Pac. 1139; Henry v. State, 14 Okla. Cr. 189, 169 Pac. 658; Wilson v. State, 17 Okla. Cr. 47, 183 Pac. 613; Smith v. State, 47 Okla. Cr. 184, 287 Pac. 835.”
+Under our Procedure Criminal (section 3120, St. 1931) a new trial shall be granted “when the verdict is contrary to law or evidence.”
+Under this provision the responsibility of determining whether or not there has been adduced before the jury a sufficient amount of legal and competent evidence to fender it safe to> allow the verdict to stand is imposed on the trial court in the first instance and on appeal upon this court.
+That a crime has actually been committed must necessarily be the foundation of every criminal prosecution, and this must be proved by other testimony than a confession ; the confession being admitted merely for the purpose of connecting the accused with the offense charged.
+In the instant case the evidence clearly estalishes the actual commission of the offense charged. The confessions of the defendant were voluntarily made and were properly admitted. The corpus delicti may be established] without showing that the crime charged was committed by the defendant.
+In Green v. State, 7 Okla. Cr. 194, 122 Pac. 1108, this court held:
+“In every criminal prosecution, it devolves upon the state to prove, first, the corpus delicti; second, that the crime charged was committed by the accused.” HeldJ further: “The ‘corpus delicti’ means, when applied to any particular offense, the actual commission by some one of the particular offense charged.”
+In Mays v. State, 19 Okla. Cr. 102, 197 Pac. 1064, 1068, we said:
+“This court adheres to the rule that a conviction cannot be had on the extrajudicial confessions of the defendant without independent evidence of the corpus delicti, and, before such confessions should be admitted, there should be evidence prima facie sufficient to show that the offense to which the confession relates has been committed. The court must decide in the first instance this question. However, the decision of the court does not bind the jury, as the province of the court in such particular is only to determine whether sufficient evidence has been adduced to go to the jury for their determination. In passing upon the evidence submitted to them the jury must first determine beyond a reasonable doubt that the crime has been committed; then they are at lib-érty to give the alleged confession such weight as it is entitled to, taking into consideration the circumstances, surrounding it and the extent to which it has been corroborated.”
+It follows from what has been said that the defendant’s demurrer to the state’s evidence and his motion for a directed verdict of acquittal were both properly overruled.
+The record discloses no- material error, and it appearing that the defendant had a fair and impartial trial, the judgment of the lower court is therefore affirmed.
+EDWARDS, P. J., and DAVENPORT, J., concur.
