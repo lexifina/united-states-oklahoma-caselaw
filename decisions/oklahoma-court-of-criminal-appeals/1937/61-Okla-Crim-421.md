@@ -1,0 +1,50 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-9254"
+decided: "1937-05-28"
+citations: ["61 Okla. Crim. 421", "68 P.2d 878"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DAVENPORT, P. J., and BAREFOOT, J., concur."]
+parties: ["CHARLIE LACY v. STATE."]
+source_url: "https://static.case.law/okla-crim/61/cases/0421-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8739218
+cites_cases: ["20 Okla. Cr. 190", "264 Pac. 922", "32 Okla. Cr. 260", "39 Okla. Cr. 222", "57 Okla. Cr. 22", "8 Okla. Cr. 590"]
+---
+
+# Lacy v. State
+
+## Majority (DOYLE, J.)
+
+DOYLE, J.
+Tbe information in this case in substance charges that in Pottawatomie county on or about the 13th day of April, 1936, Charlie Lacy did take, steal and carry away certain domestic fowls, to wit, 33 chickens, the personal property of ,S. G. Sloan, with the unlawful and felonious intent to convert the same to his own use and benefit and to deprive the owner thereof permanently. On his trial the jury returned a verdict finding' him guilty of larceny of domestic fowls, as charged in the information, leaving the punishment to be fixed by the court.
+Motion for new trial was filed, presented and overruled. On November 24, 1936, the court rendered judgment on the verdict and sentenced the defendant, Charlie Lacy, to' confinement in the state penitentiary for a term of four years and to pay costs, taxed at $198.85. An appeal was properly perfected.
+It is contended that -the evidence is not sufficent to support the verdict and judgment of the court.
+The evidence shows that on the night of April 13, 1936, 31 hens and two- roosters belonging to S. G. Sloan were stolen from the Sloan place, four miles north and two west of the Baptist University at Shawnee. The next morning, about 8 o’clock, the defendant stopped at the A. & A. Poultry House in Oklahoma City and offered for sale 22 hens and two roosters that he had in his car. Three police officers came up. In a conversation one asked the defendant who owned the chickens; he said he got them a,t his mother-in-law’s in Shawnee. The officers took the defendant, put him in jail and notified the officers at Shawnee; they came to Oklahoma City and took the defendant and the chickens to Shawnee.
+S. G. Sloan testified that he had about 55 chickens on his place; that on Monday night, April 13, 33 of his chickens were stolen. He described them as two bnff roosters, two buff hens, feathers off their backs, six Wyan-dotte hens an<T the rest mixed breeds. He notified the officers that the chickens were missing; two days later he saw 24 of the stolen chickens at Cline’s Poultry House in Shawnee. The officers there had them in charge; that they were his chickens.
+C. B. Gregg testified that he ran the A. & A. Poultry. House, in the Public Market of Oklahoma City, that around 8 o’clock in the morning, April 14, the defendant appeared at his place and stated he had some chickens to sell; that he had 24 live chickens and a dead one in the car. That Officer Youngblood, stationed at the market, talked to the defendant, then instructed witness to keep the chickens in a separate coop. The next day officers from Shawnee came and he turned the chickens over to them.
+Officer Youngblood testified that another man was with the defendant. The poultry man was weighing the chickens when he called Officers Mike Conners and Dick Parker; they arrested the defendant and took him to the station.
+Mike Conners, detective, city police department, testified that the defendant told him that he got the chickens from his mother-in-law over at .Shawnee; that the next day the defendant was delivered to officers from Shawnee.
+A. M. Hyder testified that Mr. Sloan had described to bim his stolen chickens and he went to the poultry house in Oklahoma City and brought the chickens to Mr. Cline’s Poultry House in Shawnee.
+Charlie Lacy testified on his own behalf that he was 33 years of age, had lived in Pottawatomie county all his life, and bad never been in trouble before, and he and his wife lived in the south part of the county, near Remus; that about the first of January they moved to Shawnee, and at that time took their chickens over to his mother’s place, four miles west of Maud, and left them there until April 14, when he took them from his mother’s place to Oklahoma City to* sell, and to look for work. That his sister, Ada Stevens, and Mrs. Bertie Adams were at his mother’s place on the night of April 13. That night they put the chickens in a coop and he got up early the next morning, tied the legs of the chickens and put them in his car and hauled them to Oklahoma City, that his wife rode with him as far as Shawnee, and there he left her at her mother’s place. That the chickens the officers found him with at Oklahoma City were his chickens, that he did not know where the prosecuting witness, Mr. Sloan, lived, that he did not take any chickens from Mr. Sloan’s place; that he never told the officers that he got the chickens at his mother-in-law’s at Shawnee; he told them that, he got them at his mother’s place.
+The testimony of the defendant’s wife was substantially the same as that given by her husband.
+On behalf of the defendant, Mrs. Julia Lacy, his mother, Mrs. Ada Stevens, his sister, and Mrs. Bertie Adams each testified that the defendant and his wife were at his mother’s place on the night of April 13, and that the next morning they took in their car about 25 chickens that they had put in a coop the evening before.
+It appears the information was drawn under Penal Code, § 2276 (21 Okla. St. Ann. § 1719), reading as follows :
+“Every person who shall take, steal and carry away any domestic fowl, or fowls, and any person purchasing or receiving such domestic fowl, or fowls, knowing them to have been stolen, shall be guilty of grand larceny, regardless of the value thereof, and upon conviction shall be punished by imprisonment in the penitentiary not exceeding five years, or by fine not exceeding two hundred dollars, or by confinement in the county jail not exceeding two months, or by both such fine and imprisonment.”
+Where the inference of guilt can be reasonably drawn from the evidence, this court will not pass upon the weight of the evidence in order to determine whether the defendant is guilty as charged.
+There is competent evidence tending to support every material fact stated in the information and it was for the jury to judge the weight of the evidence. We cannot substitute our judgment for that of the jury. It is only where the evidence obviously does not warrant the inference of guilt that this court will interfere.
+It is argued by his counsel that the testimony of the defendant and the witnesses testifying in his behalf in support of the alibi and his ownership of the chickens is uncontradicted and unimpeached, and for this reason he assumes that the jury should have believed their testimony.
+In the case of Wainscott v. State, 8 Okla. Cr. 590, 129 Pac. 655, 656, we said:
+“The credibility of the testimony of the defendant and the witnesses testifying in his behalf is the exclusive province of the jury to determine, and, although such testimony may be uncontradicted and not directly impeached, when there are facts and circumstances admitted and proven tending to lessen the probability that such testimony is true, the jury may give it such weight as they deem proper, even to the extent of wholly disregarding the same.
+“The rule as stated in Cyc. is as follows:
+“ ‘Tlie jury are not bound to believe testimony because it is uncontradicted and not directly impeached. The jury may consider the inherent improbabilities of the statements of the witness, and they may be of such a character as to justify them in disregarding his testimony, although uncontradicted by direct testimony. He may be contradicted by the facts that he states as completely as by adverse testimony, and there may be so- many omissions and improbabilities in his evidence as to discredit his Avhole story.’ 12 Cyc. 486.”
+The case appeal’s to have been fairly tried and the jury were warranted in finding the verdict they returned. In our opinion the evidence sustains the verdict.
+It is also urged the punishment imposed by the court is excessive and should be reduced. Counsel in his brief says:
+“We are not unmindful of the statute that makes it a felony to steal chickens regardless of their value. But we are also aware in all other matters the statute provides that unless the property stolen exceeds $20 in value the crime is simply a misdemeanor punishable by fine or jail sentence or both, but because defendant stands charged with the theft of chickens valued at $18, he received a sentence of four years in the penitentiary.
+“We submit the punishment is out of all reason. That by all means the judgment and sentence should be modified and the punishment reduced to within the bounds of reason and justice.”
+Procedure Criminal, § 3204 (22 Okla. St. Ann. § 1066) confers power upon and makes it the duty of this court to modify the judgment appealed from when in our opinion the punishment imposed is in any manner excessive.
+It is both the spirit and intention of our laws that sentences should be imposed in criminal cases for the protection of society and the reformation of the criminal, and sentences should be imposed in keeping with the spirit of the law. Welch v. State, 20 Okla. Cr. 190, 201 Pac. 524; Tennison v. State, 32 Okla. Cr. 260, 240 Pac. 324; Watkins v. State, 39 Okla. Cr. 222, 264 Pac. 922; Bouyer v. State, 57 Okla. Cr. 22, 43 Pac. (2d) 153.
+After careful consideration of the record our conclusion is that the punishment imposed by the court is excessive and that the judgment should be modified by reducing the sentence to a term of two years’ confinement in the state penitentiary. As so modified, the judgment of the lower court is affirmed.
+DAVENPORT, P. J., and BAREFOOT, J., concur.
