@@ -1,0 +1,26 @@
+---
+court: "Oklahoma Supreme Court"
+docket: "3309"
+decided: "1914-04-17"
+citations: ["42 Okla. 4", "140 P. 415"]
+reporter: "okla"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALFRED v. ST. LOUIS, I. M. & S. RY. CO."]
+source_url: "https://static.case.law/okla/42/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8880152
+cites_cases: ["101 Pac. 850", "116 Pac. 432", "138 Am. St. Rep. 831", "19 Okla. 579", "22 Okla. 207", "23 Okla. 396", "23 Okla. 550", "23 Okla. 583", "24 Okla. 384", "27 Okla. 217", "28 Okla. 697", "28 Okla. 783", "34 Okla. 405", "37 Okla. 99"]
+---
+
+# Alfred v. St. Louis, I. M. & S. Ry. Co.
+
+## Majority (HARRISON, C.)
+
+Opinion by
+HARRISON, C.
+This was an action by the administrator of the estate of Luther Woodring against the defendant railway company for damages resulting from the death of Woodring, alleged to have been caused by an assault upon Wood-ring b)' a brakeman on a passenger train on defendant road. The plaintiff alleged that Woodring was wrongfully and unlawfully assaulted by the brakeman and beaten with a lantern into a semiconscious state, which caused him to fall off the train, from which fall death resulted. The defendant answered and defended the action on the ground that deceased was drunk and disorderly and, upon being remonstrated with by the brakeman for his boisterous and disorderly conduct, assaulted the brakeman, and that the brakeman acted in self-defense in the affray, and on the further ground that his falling off the train was not the result of being struck by the brakeman but was the result of his own state of drunkenness. The cause was tried and verdict rendered upon the testimony adduced at the trial. No witnesses for the plaintiff knew just how the affair arose further than that, upon hearing a row or noise in that end of the car, they turned and saw the brakeman striking Woodring over the head with his lantern. The witnesses for the defense testified: That Woodring had been drunk and boisterous, having a bottle, which they supposed to be a quart'bottle of whisky, in his pocket. That he had gone into the toilet, leaving the door open, and while in there the brakeman came through the train and attempted to close the toilet door. Whereupon deceased came out of the toilet and began cursing the brakeman, threatening what he would do to him, and either struck at him or caught at his collar, whereupon the brakeman struck him two, three, or four times with his lantern, breaking the lantern over his head and face, but that the difficulty ended, the brakeman passed on through the car, and Woodring stepped out upon the platform, and, when last seen by any witness, was reaching forward as though to take hold of the handholds on the platform. When discovered along the track he was dead, but the physician who was called in attendance testified that he had no cuts or abrasions about his head and face, such as would render a man senseless from the strokes. Upon these issues and the testimony adduced, the jury returned a verdict in favor of the railway company, and, from the judgment rendered thereon, the case was appealed here.
+Only two propositions are urged for reversal, to wit: The giving of certain instructions by the court, and the refusal to give certain instructions offered by the plaintiff. After an examination of the record, we do not feel justified in reversing the judgment upon either ground. The issues involved were very fairly and fully given to the jury in the court’s charge, a charge which impresses us as being altogether favorable to the plaintiff. It is not necessary to pass upon the question whether the instructions offered by plaintiff correctly stated the law or not, as all the material issues involved in the case and the law applicable thereto were given to the jury with reasonable fairness, fullness, and correctness. In such cases a judgment will not be reversed for refusal to give an offered instruction, although such offered instruction may correctly state the law. See Enid City Ry. Co. v. Addie Reynolds, 34 Okla. 405, 126 Pac. 193; McMaster v. Bank, 23 Okla. 550, 101 Pac. 1103, 138 Am. St. Rep. 831; Finch v. Brown, 27 Okla. 217, 111 Pac. 391; Ellet-Kendall Shoe Co. v. Ross, 28 Okla. 697, 115 Pac. 892; Pioneer Telegraph & Telephone Co. v. Davis’ Adm’r, 28 Okla. 783, 116 Pac. 432; Gulf, Colorado & Santa Fe Ry. Co. v. Taylor, 37 Okla. 99, 130 Pac. 574.
+And upon the testimony, under the court’s instructions, the jury returned a verdict in favor of the defendant, a verdict which, in our opinion, is reasonably supported by the evidence. Hence, under the well-settled and repeatedly announced rule of this court, we do not feel authorized to disturb the verdict nor to reverse the judgment based thereon. Covington v. Fisher, 22 Okla. 207, 97 Pac. 615; C., R. I. & P. Ry. Co. v. Mitchell, 19 Okla. 579, 101 Pac. 850; Loeb v. Loeb, 24 Okla. 384, 103 Pac. 570; Bird v. Webber, 23 Okla. 583, 101 Pac. 1052; C., R. I. & P. Ry. Co. v. Broe, 23 Okla. 396, 100 Pac. 523.
+Hence, from the entire record and- upon the authorities above cited, the judgment of the trial court must be affirmed.
+By the Court: It is so ordered.
