@@ -1,0 +1,51 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-4372"
+decided: "1924-09-20"
+citations: ["28 Okla. Crim. 31", "228 P. 791"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MATSON, P. J., and BESSEY, J., concur."]
+parties: ["MATTIE CLARK v. STATE."]
+source_url: "https://static.case.law/okla-crim/28/cases/0031-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8737442
+cites_cases: ["10 Okla. Cr. 616", "12 Okla. Cr. 307", "13 Okla. Cr. 146", "14 Okla. Cr. 80", "44 L. R. A. (N. S.) 119", "52 L. R. A. (N. S.) 248", "6 Okla. Cr. 284"]
+---
+
+# Clark v. State
+
+## Majority (DOYLE, J.)
+
+DOYLE, J.
+The plaintiff in error, Mattie Clark, was by information charged with the murder of one Elnora Hurst on the 27th day of March, 1920. Upon her trial she was found guilty of manslaughter in the first degree and her punishment fixed at imprisonment in the penitentiary for the term of four years. She has appealed from the judgment rendered upon such conviction.
+It is conceded that in the city of Tulsa, in the forenoon of thé 27th day of March, 1920, the defendant, Mattie Clark, the wife of one Fay Clark, killed Elnora Hurst, her mother-in-law, by shooting her four or five times with a pistol.
+The theory of the defense was excusable homicide on the ground of insanity of the defendant at the time of the commission of the homicide, and the only question for the jury on the evidence was whether the homicide was excusable on the ground of insanity, as was claimed by the defendant, or murder or manslaughter in the first degree.
+The evidence shows that the defendant, Mattie Clark, married Fay Clark in January, 1918, and they made their home off and on with his mother, Elnora Hurst, on North Greenwood street, Tulsa.
+"William Cherry testified that the defendant’s mother-in-law lived next door to him, and the defendant and her husband, Fay Clark, lived with her; that he had a taxi stand at the Red Wing Drug" Store, corner of Greenwood and Brady streets, Tulsa; that he saw the defendant at the Red Wing Drug Store, and had a conversation with her, in which she said that her husband hit her this morning; that the defendant was wearing a coat or cloak, and had her hand under the same as though she was holding her stomach; a few minutes later the deceased, Elnora Hurst, came by and spoke to him, and then walked north on the Interurban tracks; that the defendant came out of the drug store and started on behind her, and he heard her call, “Mother, Mother”; that deceased and the defendant had a few words which he did not hear; then he saw the defendant pull a pistol and shoot at Elnora Hurst, firing four or five shots; that they were about thirty feet from him when the first shot was fired; that he ran after the defendant and overtook her and said, “Look here, Mattie, what is the matter with you?” and she said, “Mr. Cherry, Mama has mistreated me,” and he said, “Don’t you know that this is wrong,” and she said, “I could not help it, mother mistreated me, I only wanted to get my clothes from the house”; that she gave him the pistol, and he said, “Come on to the police station,” and she said, “All right”; that they got in his car, and he drove to the police station with her, and gave the gun to the officers.
+Horace Calvert testified that he knew the defendant and her mother-in-law, Elnora Hurst; that he was sitting in Cherry’s car near the Red Wing Drug Store, and saw the defendant in the drug store; Cherry got out of the car and went in the drug store to answer a telephone call, and then came back out, and the deceased, Elnora Hurst, came by, walking north on the Sand Springs’ track; that he saw the defendant come out of the drug store, and she called, “Mother,” and Elnora Hurst turned and kept walking, and the defendant began shooting with a pistol; that they were eight or nine feet apart when the first shot was fired.
+Ernest Pierce testified that he was standing on the curb near the Red Wing Drug Store, saw Elnora Hurst walking north on Greenwood street, and saw the defendant come out of the drug store; that the defendant followed and called Elnora Hurst, then fired four or five shots; that Elnora Hurst went on and fell into Stratford's Drug Store, which is about a hundred and twenty-five feet from the Red Wing Drug Store.
+In support of the defense of insanity the evidence tended to show that the defendant at the time of the homicide was pregnant, and had been for four and one-hálf months; that the deceased, Elnora Hurst, had abused and mistreated her, and as a result of such treatment the defendant had suffered a miscarriage; that the night prior to the homicide there was a fight between the defendant and her husband, and the deceased engaged in the struggle, resulting in the defendant being struck in the stomach and struck on the head by her husband with a flashlight and thrown out into the street in her night clothes; that this and other cruel treatment during the time of her pregnancy had caused puerperal insanity, and she was not responsible for her acts and deeds.
+The errors assigned question the sufficiency of the evidence to sustain the verdict, and that the court erred in allowing the evidence of Dr. C. E. Smith, taken at the preliminary hearing, to be read on the trial of the cause over the objections of the defendant.
+Counsel in their brief say:
+“We claim that the state failed to establish a predicate for this evidence, and that the proper foundation for the same was not laid at the time it was offered and admitted by the trial court, over the objections of the defendant.”
+It appears that on the preliminary examination Dr. C. E. Smith, a witness for the state, testified that he was a prac-tieing physician in Tulsa, and on the day Elnora Hurst was shot was called and found her in the drug store; that he took her to the hospital and made an examination, and found that she was suffering from four gunshot wounds entering the body from the rear; that she died during said examination from internal hemorrhage, the result of the gunshot wounds.
+Considering the competency of the testimony as it is met by the objections urged, it appears that a witness called by the state, H. C. Peek, deputy sheriff, testified:
+“I have been acquainted with Dr. C. E. Smith some eight or ten years; I received' a subpoena issued by the court clerk for Dr. Smith and other witnesses for the state in this case; I went to his place of residence, and was informed that he was in the state of Florida; I haven’t seen Dr. Smith for three or four months, and my information is that he has been in the state of Florida for the past three or four months. I made return on the subpoena that he could not be found.”
+The subpoena and the return of ■ the officer was then offered in evidence.
+Ernest Pierce testified that he knew Dr. C. E. Smith for three or four years; that Dr. Smith lived at the Red Wing Hotel; that witness lived at the same hotel and saw him there every day before the doctor left the city three or four months previous; that he had received information from others at the hotel that Dr. Smith went to Chicago.
+The record further reads as follows:
+“The Court: Is there any question about the identity of this transcript?
+“Mr. Saddler: No, I guess not.
+“Mr. Goldesberry: It is agreed by and between counsel for the state and the defendant that the transcript of the testimony taken at the preliminary examination in this case, and filed in open court on December 6, 1921, is the testimony taken at the preliminary examination of the state witnesses who testified before Justice of the Peace H. J. Gray, taken in shorthand by J. D. Payne, district court reporter, and transcribed by him and signed and certified to by him.
+"The Court: Go ahead and read the testimony. (Exception reserved.)”
+It is a well-settled rule in this state that, where the testimony of a witness was given at a preliminary examination and his testimony taken by the reporter in the presence of the defendant and his counsel, who had opportunity to cross-examine him, and such testimony is transcribed and filed with the court clerk, and if such witness is not present at the final trial, and the state shows that such witness cannot with due diligence be found within the jurisdiction of the court, the testimony of the .witness may be read to the jury. Jeffries v. State, 13 Okla. Cr. 146, 162 Pac. 1137; Fitzsimmons v. State, 14 Okla. Cr. 80, 166 Pac. 453.
+It follows that the objections were properly overruled, and there was no .error committed in allowing the subpoena for this witness and the return thereon to be received in evidence for the purpose of showing what had been done towards serving the same upon the absent witness.
+Complaint is made of the charge of the court in that the same improperly submitted the law of insanity as a defense.
+The court by its instructions authorized the jury to convict the defendant of murder or manslaughter in the first degree, or to acquit her on the ground of insanity, and no objections were made or exceptions taken thereto. The instructions as to the defense of insanity conform to well-settled rules declared by this court in Adair v. State, 6 Okla. Cr. 284, 118 Pac. 416, 44 L. R. A. (N. S.) 119; Alberty v. State, 10 Okla. Cr. 616, 140 Pac. 1025, 52 L. R. A. (N. S.) 248; and Smith v. State, 12 Okla. Cr. 307, 155 Pac. 699.
+It is also insisted that the verdict is contrary to the evidence.
+The weight of the evidence on the issue of insanity was a question for the jury under the instructions of the court, which gave the defendant the benefit for all reasonable doubt. We think the evidence fully warranted the findings of the jury.
+The case appears to have been tried with exceptional care and marked ability, both on the part of the judge who presided and the able counsel who represented the state and those who represented the defendant as well, and the jury were evidently in sympathy with the defendant.
+It is apparent that justice has been done, and, finding no error prejudicial to the substantial rights of the defendant, the judgment rendered on the verdict is affirmed.
+MATSON, P. J., and BESSEY, J., concur.
