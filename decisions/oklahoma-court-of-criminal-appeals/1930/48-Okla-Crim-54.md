@@ -1,0 +1,32 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-6957"
+decided: "1930-04-12"
+citations: ["48 Okla. Crim. 54", "288 P. 500"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["EDWARDS, P. J., and CHAPPELL, J., concur."]
+parties: ["BRACY HUDSON v. STATE."]
+source_url: "https://static.case.law/okla-crim/48/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8742790
+cites_cases: ["33 Okla. Cr. 146"]
+---
+
+# Hudson v. State
+
+## Majority (DAVENPORT, J.)
+
+DAVENPORT, J.
+The plaintiff in error, for convenience referred to as the defendant, was charged with murder, and convicted of manslaughter in the first degree, and his punishment fixed at confinement in the penitentiary for a period of four years. Motion for new trial was filed, considered, and overruled, and the case appealed to this court.
+The testimony on behalf of the state shows that the defendant and the deceased, Dick Ferguson, lived near each other in the town of Anadarko; that the deceased had a lot adjoining him, and a controversy arose between them over the fact that the defendant was hanging a coat on the fence of the deceased; on the day of the trouble the defendant came home from his work about 5 o’clock in the afternoon, and a short while thereafter the deceased came out and called the defendant, and they had a controversy over the defendant hanging his coat on the fence of the deceased; deceased went back into his house and came out with a shotgun, and immediately thereafter the shooting began.
+The testimony on behalf of the state shows that the deceased had fired two shots from his double-barrel shotgun; he started away from the scene of the shooting, and defendant shot the deceased and he fell to the ground; that when witnesses who were living near to the parties reached the deceased he told them: “He got me. I am shot in the back.” All of the testimony of the state shows that the deceased and the defendant entered into a voluntary combat, and that when the deceased had discharged all the shells he had in his gun he started away from the scene of the difficulty; as he was going away the shot was fired by the defendant which took effect in the body of the deceased, and he fell to the ground unable to walk, and thereafter died from the effects of his wounds.
+The testimony on behalf of the state further tends to show that some threats had been made by the defendant that he was going to buy the property where he was living and lead the old man a hell of a cat’s life.
+On behalf of the defendant, the testimony tends to show that the defendant came home from his work in the afternoon and ate his supper, got his paper, and went out on the porch to read; the deceased called to him to come out, and made some remark to him, and the defendant told him he would come out after he got a drink of water; the defendant went back in the house and claims to have gotten the drink of water and put his pistol in his pocket before going back outside. The testimony of the defendant all tends to show that the deceased had quit firing and had started away, running or walking away, when the fatal shot was fired. Some testimony suggested that the deceased still had his gun up in a position trying to shoot it when the defendant fired. There is no’ controversy in the testimony but that the difficulty arose about a coat the defendant hung upon the fence belonging to the deceased; that deceased had taken it down once or twice, and either the defendant or some one of the family had hung it back, and out of this controversy a feeling of enmity had grown up between the deceased and the defendant. The testmony is not in conflict as to the deceased walking away when the fatal shot was fired. There is no controversy in the testimony that both the deceased and the defendant fired shots.' The only question to be determined in this case is the question of whether or not the defendant was justified in firing the shot that took the life of the deceased.
+The defendant claims that the court erred in prohibiting him from proving alleged threats of deceased against the defendant prior to the difficulty, and argues at length that he should have been permitted to prove the alleged threats made against the defendant, and also argues that the testimony shows that the deceased fired the first shot. After carefully reading the testimony, we hold the court did not err in excluding the threats that were undertaken to be proven by the defendant, for the reason that the testimony shows conclusively that the deceased fired one or two shots and that the defendant fired two or three shots, and that when the last shot was fired the deceased was either walking or running away; using in substance the language of the wife of the defendant he was running or walking away, and the testimony shows that the deceased was shot in the back and that the shot took effect and paralyzed his limbs so he could not walk. In this case there is less conflict in the testimony than usually appears in cases of this character, but that conflict is a question to be determined by the jury.
+In Loudermilk v. State, 33 Okla. Cr. 146, 242 Pac. 1060, 1061, this court held:
+“It would serve no useful purpose to give a synopsis of each witness’ testimony. All these witnesses were before the jury and the trial court. The jury after due consideration and deliberation decided the issues of fact adversely to the defendant. Where the evidence is conflicting and apparently irreconcilable, it was the exclusive province of the jury to determine whom of the witnesses to believe and whom to disbelieve or whose testimony to disregard, and it was a question for the jury and not for this court to say whether the testimony of the prosecutrix was worthy of belief. Where there is evidence, apparently credible, which if believed is sufficient to sustain the judgment, this court will not reverse a conviction on the sole ground of the insufficiency of the evidence.”
+The testimony in this case is sufficient to authorize the court in submitting the case to the jury. The jury by its verdict found the defendant guilty. There is nothing in the record to justify this court in disturbing the verdict of the jury.
+Finding no error in the record, the judgment is affirmed.
+EDWARDS, P. J., and CHAPPELL, J., concur.
