@@ -1,0 +1,34 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-8271"
+decided: "1932-01-15"
+citations: ["53 Okla. Crim. 134", "12 P.2d 705"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["EDWARDS and CHAPPELL, JJ., concur."]
+parties: ["J. E. ANDING v. STATE."]
+source_url: "https://static.case.law/okla-crim/53/cases/0134-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8742489
+---
+
+# Anding v. State
+
+## Majority (DAVENPORT, P. J.)
+
+DAVENPORT, P. J.
+The plaintiff in error, for convenience hereinafter referred to' as the defendant, was by information charged jointly with Oris Sober of the crime of larceny of domestic fowls, to wit, chicken hens; was tried separately, convicted, and sentenced to serve a term of three years in the state penitentiary. Motion for a new trial was filed, considered, overruled, and exceptions saved.
+The record discloses the prosecuting witness C. D. Jeffreys and his wife to be a brother-in-law and sister-in-law of the defendant; that for some time prior to the date of the alleged larceny the two families were not on good terms; did not visit or speak to each other; each of the families raised chickens; the defendant and his wife bought eggs from the prosecuting witness and hatched the chickens; both families had chickens raised from the same flock.
+It is further shown that the defendant sold chickens on the 18th of November, 1930, to R. R. Richards, at Harmon; that the prosecuting witness and his wife left home about noon November 19, 1930, and returned before dark of that day; two days later they claim to have missed 30 of their chickens; they began a search to see what had become of them, going to several towns near where the prosecuting witnesses resided. Jeffrey learned that the defendant sold some chickens at Harmon and inspected some of the chickens that Mr. Richards had in his pounltry pens and claims to have identified one of his chickens — a pet hen that was a part of the flock of chickens owned by himself and wife.
+The record further discloses that Oris Sober, C. D. Jeffrey, and J. N. Anding married sisters; that all the witnesses are related, and that this is what might be termed in law a family quarrel or feud. There is some testimony tending to show that the defendant and Oris Sober had been seen together near the home of the prosecuting witness on November 19,1930.
+R. R. Richards, of Harmon, was not positive, thought he bought sixteen chickens about the middle of November, but did not remember exactly the date. The defendant, his wife, and his sister, Audry Sober, testify that the defendant’s wife got eggs from Mrs. Jeffrey; that they caught 26 chickens on November 18, 1930; 21 of the chickens were sold at Harmon; that the defendant, when he returned from Harmon, on the 18th of November, 1930, brought the others back home with him.
+The prosecuting witness and Mrs. Jeffrey did not know when their chickens were taken; they claim to have had a pet hen that was found at the poultry yard, at Harmon, and when Jeffrey brought the hen home and turned it loose it went to the feeding place at once and began eating. The defendant did not identify any of the chickens in the poultry yard but this pet hen.
+The proof on behalf of the defendant shows that at the time of the alleged larceny of the chickens the defendant and his wife had about 138 chickens, about fifty of them were mixed breed; that he brought five chickens back home with him from Harmon, three were dead when they reached home, and he returned one rooster and a pet hen.
+The prosecuting witness claims to have lost 30 chickens ; while the defendant claims to have sold 21; the merchant who bought the chickens was not positive, but thought he only bought 16. There is no proof in the record that the defendant sold, or offered to sell, as many as 30 chickens. The defendant admits he sold 21 to R. R. Richards on November 18, 1930, and his testimony tends to show that the chickens were from the same flock of chickens as those owned by the prosecuting witness and his wife; that he lived near a family who owned some of the same kind of chickens and sold his chickens in order to get a. different breed so it would not be so difficult to keep track of the chickens he raised.
+The defendant’s wife testified to the pet hen that was returned, and described it as being one belonging to their flock as accurately as the prosecuting witness identified the pet hen she claims to have owned, and that it was recovered at the Richards poultry yard.
+The-first question discussed by the defendant is that the verdict is not supported by sufficient evidence, and is contrary to the evidence; that he was denied a fair and impartial trial. A careful examination of the record clearly shows a conflict in the testimony, and further shows the prosecution in this case is largely based upon the enmity that existed between the prosecuting witnesses and defendant and his family. The testimony is positive on behalf of the state that the pet hen which was secured at the Richards poultry house was the hen belonging to the prosecuting witnesses, C. D. Jeffrey and wife. On the contrary, the testimony on behalf of the defendant is positive that the hen was a pet hen belonging to the defendant and his wife.
+The question of the conflict in the testimony was a question for the jury to decide, and the jury decided the facts against the defendant and found him guilty. The defendant urges the court committed error in the rejection of certain testimony, and that by reason of that fact he was prejudiced before the jury. The court permitted the defendant and his wife to refresh their memory from certain entries on calendars they claimed were made by them each day as the work was done, and on cross-examination the county attorney asked the defendant and his wife if the calendars were not made up for the purpose of the trial, and the witnesses answered that they had not been made up for the purpose of the trial. When the calendars were offered in evidence, the state objected, and the court sustained the objection; the calendars were offered by the defendant for the purpose of showing the entries made on the calendars had not been recently made.
+It is clear from the testimony that the prosecution in this case is the result of a family row or feud. When families fall out, there seems to be nothing too mean to be said or done by the factions.
+After considering the facts in this case and the value of the chickens alleged to have been taken, and the fact that the prosecution seems to be the outgrowth of a family row or feud, the punishment should be modified. That the einds of justice will be met by reducing the punishment to one year, and, as modified, the judgment is affirmed.
+EDWARDS and CHAPPELL, JJ., concur.
