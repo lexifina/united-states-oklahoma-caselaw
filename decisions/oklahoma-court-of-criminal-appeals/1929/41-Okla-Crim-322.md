@@ -1,0 +1,34 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-7258"
+decided: "1929-01-05"
+citations: ["41 Okla. Crim. 322", "273 P. 286"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DOYLE, P. J., and DAVENPORT, 'J., concur."]
+parties: ["Ex parte HOMER HAMILTON."]
+source_url: "https://static.case.law/okla-crim/41/cases/0322-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1454485
+cites_cases: ["10 Okla. Cr. 344", "136 P. 597", "167 P. 404", "32 Okla. Cr. 6", "329 P. 693", "34 Cal. App. 344", "40 Okla. Cr. 273", "54 L. R. A. (N. S.) 668"]
+---
+
+# Ex parte Hamilton
+
+## Majority (EDWARDS, J.)
+
+EDWARDS, J.
+This is an original proceeding in habeas corpus. Petitioner alleges that he is unlawfully restrained of his liberty by Herman C. Martin, as agent for the state of New Mexico, that he is charged with being a fugitive from said state by reason of having broken the terms of a parole granted him by the board of parole of said state; that he has complied with all the terms of his parole, and is not a fugitive from justice.
+From the petition, the exhibits attached thereto, the response, and the admitted facts, it appears that petitioner was convicted in the state of New Mexico of the larceny of an automobile, and was sentenced to a term. of five years in the penitentiary; that he served about two years of said sentence, and was then granted a parole by the board of parole, on the express condition set out therein that he will obey the law, conduct himself as a good citizen, and observe the rules governing paroled prisoners, which rules are embodied in the parole, one of which provides that any violation of any of the said rules forfeits the parole, and renders him liable to be returned to the penitentiary to serve out the maximum sentence. This parole bears an indorsement signed by petitioner that he has carefully read and clearly understands the contents and conditions of the rules regulating the parole of prisoners, that he accepts same, and pledges himself to comply therewith. The parole contained this clause: “Know all men by these presents, that the Board of the State of New Mexico, desiring to test the ability of Homer Hamilton, Register No. 5669, a prisoner in the New Mexico State Penitentiary at Santa Fe, New Mexico, to abstain from crime and to lead an upright, frugal, and industrious life, do by these presents, parole the said Homer Hamilton, and permit him temporarily and conditionally, as provided by law, to go outside the enclosures of said penitentiary, and proceed at once to Oklahoma City, Oklahoma, and there remain, if practicable, for at least 12 months from May 1st, 1928, in accordance with the above rules and statute in such case made and provided, or until he has been finally discharged in pursuance of law. * * *”
+It is made to appear that under the terms of this parole petitioner came from the state of New Mexico to Oklahoma City, and, for reasons not disclosed by the record, the parole was revoked by the board of parole of New Mexico. A requisition from the Govern- or of the state of New Mexico to the Governor of this state was made, and after a hearing the requisition was honored by the Governor of this state.
+The principal contention here made is that, since petitioner was permitted to leave the state of New Mexico and .come to this state, he is not a fugitive within the meaning of the federal extradition laws; that the Governor of New Mexico was without authority to revoke said parole for any violation of its terms committed outside the state of New Mexico.
+It is generally held that a fugitive from justice within the meaning of the extradition law is one who having committed, a crime leaves the state and is found in another state. It is not necessary that he should have left the state in which the crime was alleged to have been committed for the purpose of avoiding a prosecution anticipated or begun, but simply that, having within a state committed a crime against its laws, he has left its jurisdiction, and is found within the territory of another state when he is sought to be subjected to its criminal process to answer for his offense. 25 C. J. p. 258, § 13, note 66; 11 R. C. L. p. 730, § 23.
+It is also held that one convicted of a crime who has been paroled and violates such parole and goes into another state may be extradited therefrom. This court in Ex parte Williams, 10 Okla. Cr. 344, 136 P. 597, 54 L. R. A. (N. S.) 668, held:
+“To be a fugitive from justice under the laws of the United States, it is not necessary that the person charged with having left the state in which the crime was alleged to have been committed should have done so for the purpose of avoiding prosecution anticipated or begun, but simply that, having committed a crime within the state, he leaves such state, and, when he iá sought to be subjected to its criminal process to answer for his offense, he is found within the territory of another state.
+“(b) A convicted prisoner, who has a parole, and who goes into another state, is a fugitive from justice within the provisions of the United States Constitution and laws, and as such is subject to extradition if his parole is revoked.
+“(c) The legality of the revocation of. a parole in the State of Indiana is a question for the courts of Indiana, for they alone have the right to construe the Constitution and laws of that state.”
+See, also, Scott on Interstate Rendition, p. 83, § 60.
+We have found no case exactly in point, that is, where a prisoner is paroled and permission given him to go into another state. The mere fact, however, that by the terms of the parole the petitioner is permitted to go into another state does not make the going into another state any the less a voluntary act on his part. If he were taken out of the state in which he was under parole by extradition proceedings or otherwise against his will, a different question would be presented. Ex parte Youstler, 40 Okla. Cr. 273, 268 P. 323. In re Whittington, 34 Cal. App. 344, 167 P. 404. It was within the province of the Governor or the parole board of New Mexico to revoke the parole granted by it as it saw fit. We will not inquire into the legality of such order. Ex parte Williams, supra; Ex parte Collins, 32 Okla. Cr. 6, 329 P. 693. It being undisputed that petitioner, while on parole in the state of New Mexico, although with the consent of the parole board of that state, voluntarily left the state of New Mexico and came to Oklahoma, and thereafter the parole board of the former state revoked his parole, the status of petitioner is that of an escaped convict, and, being found in this state, he is a fugitive from justice within the meaning of the extradition laws, and subject to rendition upon requisition to that state.
+The writ is denied.
+DOYLE, P. J., and DAVENPORT, 'J., concur.
