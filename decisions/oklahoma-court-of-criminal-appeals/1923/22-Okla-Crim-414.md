@@ -1,0 +1,41 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-4043"
+decided: "1923-01-24"
+citations: ["22 Okla. Crim. 414", "211 P. 1062"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MATSON, P. J., and BESSEY, J., concur."]
+parties: ["HENRY WEVER v. STATE."]
+source_url: "https://static.case.law/okla-crim/22/cases/0414-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8742095
+cites_cases: ["10 Okla. Cr. 12", "10 Okla. Cr. 281"]
+---
+
+# Wever v. State
+
+## Majority (DOYLE, J.)
+
+DOYLE, J.
+Plaintiff in error, Henry Wever, appeals from a conviction in the district court of McGurtain county on a charge of robbery and a resulting sentence in accordance with the verdict to imprisonment in the penitentiary for a term of five years. The information jointly charged the said Henry Wever and Len Woods and John Smith with the crime of robbery, committed in said county on the 30th day of July, 1919, by making an assault upon one B. Powell with certain guns, and by force and fear taking from his presence the sum of $2,335, the property of the Bank of Millerton, of which said bank B. Powell was cashier.
+The defendants Len Woods and John Smith upon their arraignment entered pleas of guilty, and were duly sentenced. Before the trial of this defendant, John Smith escaped from the penitentiary, and a few days later was killed in an attempt to again rob the Bank of Millerton.
+The evidence shows that the Bank of Millerton was robbed on the morning of the date alleged by Len Woods and John Smith. About 10 days after the robbery, defendant. Wever went to Bismark and told L. A. Neese that two men came ,to his house the morning before the robbery and had breakfast, and by their description he thought they were the men that robbed the Millerton bank; that he thought they came from Daugherty. Mr. Neese informed the county attorney and the sheriff. The next day defendant Wever, Neese, the county attorney, and sheriff of McCurtain county went to Sulphur. On defendant Wever’s statements the sheriff of Murray county had arrested Len Woods and John Smith, and they were in the Sulphur jail. Defendant Wever said he did not want the prisoners- to see him.- The prisoners were brought out while defendant looked at them from a window in the second story of the courthouse. He then stated that they were the men that had breakfast at his place. The defendant Wever had a small piece of paper, on which was written, “Mary Woods, Daugherty,” and' told Mr. Neese that John Smith left this with him, and told him if Earl Holman ever came there to give him this note. Earl Holman had been convicted of bank robbery.
+The defendant Len Woods was brought from the penitentiary, and testified in substance as follows:
+My partner, Johnnie Smith, and me came from Daugherty on the 28th day of July. We got off the train at Millerton; then we went back to Valliant, got something to eat in a store, and went on north to Yalliant and .stayed all night1. The next day we tried to get some horses off of the range and failed. My partner heard that Mr. Wever lived near there. The next morning we walked to his house. My partner told the lady we wanted to see Mr. Wever. Mr. Wever came out, and told us to come in. We sat down on the porch. I was sitting with my back to his wife. I guess she saw my gun. She went in and motioned for him to come in. He went in and eame back to the door with his gun in his hand, and told us if we were going to eat there we would have to give up our guns. We gave him our guns; then went off and talked to him; he asked us why we came to him. We told him Mr. Flowers, his brother-in-law, sent us to him, and we left with him a note with my sister’s address, “Mary Woods, Daugherty.”1 My partner said “We are on the scout, and we are going to pull off a little job down here, and we want two good horses,” and asked him if he would get the horses for us, and that we would pay him for his trouble. Wever said he would. We had breakfast and dinner there, and about 2:80 we went down in the brush. He told us where to wait for him. That evening he met us and said he would get the horses at the Cypress schoolhouse, where a church meeting was going on. We went on, and stopped about a couple of hundred yards from the church. He went on and returned with the horses. He said, “If you boys-want me to go with you, I can put something over my face and go along.” My partner told him that we did not need him; we told him we would pay him $300 for the horses. He told us to turn the horses loose when we got through. After robbing the bant we went a piece from Millerton and turned the-horses loose. We hid out in the brush until night, and we' got on a train at the water tank near Yalliant. It was about five miles from Wever’s house to where we got the horses.. We never did see Wever after we took the horses from him. We were at his place on, the 29th day of July.
+The evidence further shows that two horses were stolen, at the Cypress schoolhouse from persons attending the meeting-there that night, and that these horses were found by their owners on the range the day after the bank was robbed.
+The testimony of the defendant and that of his witnesses-tended to show that he did not leave his home the evening-before the bank was robbed.
+When the state rested the defendant demurred to the evidence on the ground that the testimony of the accomplice-was uncorroborated. At the close of the evidence the defendant renewed his demurrer on the same ground, and asked the court to direct the jury to return a verdict of acquittal.
+One of the grounds of the motion for new trial and assigned as error is that the verdict is contrary to the law and te the evidence. No brief has been filed, but when the cause was called for final submission, counsel for the defendant in an able oral argument insisted that the evidences was insufficient to sustain the conviction, in this, that there was no evidence tending to corroborate the testimony of the accomplice. Our Code of Criminal Procedure provides:
+“A conviction cannot be had upon the testimony of an accomplice, unless he be corroborated by such other evidence as tends to connect the defendant with the commission of the offénse, and the corroboration is not sufficient if it merely shows the commission of the offense or the circumstances thereof.” Section 2701, Comp. Stats. 1921.
+There is in this record! absolutely no evidence, corroborating the accomplice Len Woods, in the sense of the law.
+In the case of Nichols v. State, 10 Okla. Cr. 12, 133 Pac. 256, it is said:
+“To allow a conviction to stand upon the testimony of an accomplice not corroborated by any other evidence tending to connect the defendant with the commission of the offense would be in direct violation of both the letter and spirit of” the statute. Section 2701, Comp. Stats. 1921.
+The requirement of the law in this respect cannot be satisfied by any amount of corroborative evidence which does not connect the defendant with the commission of the offense.
+In Kirk v. State, 10 Okla. Cr. 281, 135 Pac. 1156, it is held:
+“There cannot be a conviction unless there is proof of substantial facts tending to connect .the defendant with the commission of the offense aside from and without the aid of the accomplice testimony. ’ ’
+Where a verdict in a criminal case is not sustained by the evidence, it is contrary to law, and if the evidence introduced by the state fails to incriminate the defendant, or is insufficient to show that he is guilty of the offense charged, It is not only the right, but the duty, of the trial court to advise the jury to return a verdict of acquittal.
+The record shows that the conviction in this case is based solely on the testimony of Len Woods, an accomplice, and for this reason the demurrer to the evidence should have been sustained by the court.
+We therefore conclude that the evidence is insufficient to warrant a conviction or sustain the verdict, because there is no sufficient corroboration of the accomplice. Wherefore the judgment of the trial court is reversed. ,
+MATSON, P. J., and BESSEY, J., concur.
