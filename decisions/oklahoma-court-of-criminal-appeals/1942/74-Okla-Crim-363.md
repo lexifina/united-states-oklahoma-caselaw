@@ -1,0 +1,40 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-9960"
+decided: "1942-05-13"
+citations: ["74 Okla. Crim. 363", "126 P.2d 284"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BAREFOOT, P. J., and DOYLE, J., concur."]
+parties: ["WALTER H. RILEY v. STATE."]
+source_url: "https://static.case.law/okla-crim/74/cases/0363-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8738158
+cites_cases: ["68 Okla. Cr. 246"]
+---
+
+# Riley v. State
+
+## Majority (JONES, J.)
+
+JONES, J.
+The defendant, Walter H. Riley, was charged by information filed in the district court of Oklahoma county, along with one Frank Inman, with the crime of robbery with firearms, was tried, convicted, and sentenced to serve ten years in the State Penitentiary, and has appealed.
+The only assignment of error presented by counsel for defendant is that the defendant did not have a fair and impartial trial because of improper questions asked by the assistant county attorney in the presence of the jury, and unfair statements made by the assistant county attorney in his closing argument.
+The proof of the state showed that on February 11, 1940, Mr. and Mrs. E. A. Thomas and their small son drove up in front of their house on West Sixteenth street in Oklahoma City. As they stopped their car three men approached, one of them tapped on the window with a flashlight and ordered the Thomases out of their automobile. Mr. Thomas locked the inside of the car and one of the men broke the glass in the window with a pistol and threatened to kill them if they did not gelt out of the car. Two of the robbers ordered Thomas and his wife and small son to go into their house. The robbers there tied the three members of the Thomas family securely, took $960 in cash from the pockets of Mr. Thomas and fled. One shot was fired by one of the robbers while at the automobile, but it was apparently for the purpose of threatening the persons in the car as no one was injured.
+The robbery was reported to the police, together with a description of the persons who committed the robbery. The defendant and Frank Inman were arrested a few days later and positively identified by both Mr. and Mrs. Thomas as the two men who' committed the robbery.
+The defendant did not testify and offered only two witnesses in an attempt to- prove an alibi. No question is raised as to the sufficiency of the evidence to sustain the conviction.
+It is first argued that the assistant county attorney committed error in asking Mrs. Thomas if she identified pictures of suspects had in the sheriff’s office prior to the time the defendants were arrested. The assistant county attorney asked this question in different form three times. Objections were properly interposed to each question and the objections were sustained and the jury instructed to disregard the question.
+The prosecutor should not have asked these questions. In the first place, it was casting a reflection upon the reputation of the defendant when he had not placed his reputation in issue. It is reasonable to believe that the jury would have thought that if the picture of the accused had been in the rogues’ gallery at the sheriff’s office it would have indicated that he had been in the custody of the officers for some violation of the law at some previous time when his picture was taken. The county attorney should not attempt to bolster his case by this incompetent and inadmissible evidence.
+In the recent case of Alberty v. State, 68 Okla. Cr. 246, 97 P. 2d 904, it is stated:
+“In robbery prosecution, testimony of chief of police that he took a number of photographs to home of prosecuting witness and that witness and his wife picked out defendant’s photograph from among the photographs as the photograph of one of the robbers, was incompetent and inadmissible as an attempted ‘extrajudicial identification.’ ”
+Here, however, the court promptly sustained objections of the defendant to the propounding of these questions and admonished the jury not to consider, in any manner, the questions asked by the assistant county attorney. No exception was saved by counsel for defendant to' the alleged misconduct of the assistant county attorney and no' motion for mistrial was presented. In addition to that, we find that if such conduct of the prosecutor had been error, the error was cured because of questions asked by counsel for defendant on his cross-examination of Mrs. Thomas. She had positively identified the defendant as one of the robbers, and had described his clothing and other mannerisms which she said enabled her to. make the identification. We find counsel for defendant asking the following questions:
+“Q. (By Mr. Stark, counsel for defendant) Mrs. Thomas, didn’t the officers of the law come out to your place with descriptions of this man and pictures of him and you picked him out before that show up? A. I don’t remember them bringing any pictures to the house. Q. Would you say it didn’t happen? A. No; I wouldn’t, there was so much went on I couldn’t think of everything. Q. You don’t remember that at all? A. No ; I don’t, I might some time in the future, but right now I don’t remember them ever bringing any pictures to my house. Q. You don’t remember that at all? A. No; I don’t.”
+The defendant can hardly complain of the questions asked, by the assistant county attorney and which were not allowed to be answered when we find that his counsel, on cross-examination, asked similar questions.
+The other questions by the assistant county attorney which were complained of were not improper.
+The alleged improper argument is shown in' the record to consist of the following statement by the prosecuting attorney:
+“(Thereupon the court instructed the jury and argument of counsel presented, and that during the closing argument of the county attorney the following proceedings were had) : Mr. Marlin: I believe I said that inasmuch as counsel for the defense stated what he did in answer to the argument of the assistant county attorney that if he believed at the close of the state’s evidence that the defendant was innocent he would have called for a dismissal of the case, and in response to' the statement made in the argument of counsel for the defense, counsel for the state says that at the close of the state’s evidence defense counsel interposed a demurrer to the evidence and asked for a dismissal of the case and that the trial court overruled the demurrer and asked the defendant to proceed to trial; that if there had not been sufficient evidence for the case to go to> the jury the court would have sustained a demurrer and dismissed the case himself. Mr. Stark: Comes now the defendant and moves the court to declare a mistrial for the reason that the county-attorney in the above statement has invaded the province of the court in advising- the jury of a ruling- by the court on a matter of law which is not a part of the evidence in this case. The Court: The motion will be overruled with exceptions. Gentlemen of the jury, you will disregard the argument of the county attorney as to any ruling of the court made on any such motion or demurrer and I direct your attention to instruction No. 11.”
+It is apparent that the prosecuting attorney was making this statement in answer to some similar statement made by counsel for defendant. We cannot find, from a reading of this single excerpt, that the argument of the prosecuting attorney was prejudicial to' the defendant. Especially is this true in view of the fact that the proof overwhelmingly shows the guilt of the defendant and the jury only assessed the very moderate punishment of ten years in the penitentiary.
+We have carefully examined the entire record and find that the defendant has had a fair and impartial trial, free from any material error, and that the judgment of the district court of Oklahoma county should be affirmed.
+It is so> ordered.
+BAREFOOT, P. J., and DOYLE, J., concur.
