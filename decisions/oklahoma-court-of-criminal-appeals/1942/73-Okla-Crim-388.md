@@ -1,0 +1,48 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-10204"
+decided: "1942-01-21"
+citations: ["73 Okla. Crim. 388", "121 P.2d 621"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BAREFOOT, P. J., concurs. JONES, J., dissents."]
+parties: ["CHARLEY SCROGGINS v. STATE."]
+source_url: "https://static.case.law/okla-crim/73/cases/0388-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8739175
+cites_cases: ["11 Okla. Cr. 547", "13 A. L. R. 92", "13 Okla. Cr. 717", "149 P. 914", "192 P. 227", "28 Okla. Cr. 123", "33 Okla. Cr. 255", "33 Okla. Cr. 304", "38 Okla. Cr. 269", "53 Okla. Cr. 79", "61 Okla. Cr. 312", "66 Okla. Cr. 331", "70 Okla. Cr. 258", "79 Okla. 215"]
+---
+
+# Scroggins v. State
+
+## Majority (DOYLE, J.)
+
+DOYLE, J.
+The plaintiff in error filed in this court on December 20, 1941, his petition in error, and a transcript of the proceedings had upon his application to the trial court for a transcript of the record in the case and the reporter’s notes to be furnished at the expense of the county.
+“Said plaintiff in error alleges that the court erred in overruling his motion to have case-made at the expense of Delaware county.
+“Wherefore plaintiff in error prays that the order overruling said motion be set aside and that he be granted an order by this court to have case-made at the expense of Delaware county, and have such other relief it may be found that he is entitled to receive.”
+The application was assigned for hearing before this court for January 6, 1942, at which time the case was submitted on the transcript of the record.
+Section 3823, O. S. 1931, 20 Okla. St. Ann. § 111, in part is as follows:
+“Provided, however, that if, before a transcript of the notes is ordered on application of the defendant or his ' attorney, the defendant shall present to the judge his affidavit that he intends in good faith to- take an appeal in the case and that such transcript is necessary to enable him to. prosecute the appeal, and that the defendant has not the means to pay for the same, the court may, at its discretion, order the transcript made a.t the expense of the county.”
+A review of the cases, under this section, show several in which the court has used language to the effect that the granting or refusal of a case-made at the costs of the county rests in the sound judgment and discretion of the trial court. Hutchins v. State, 13 Okla. Cr. 717, 167 P. 338; Hardin v. State, 28 Okla. Cr. 123, 229 P. 654; Young v. State, 33 Okla. Cr. 255, 243 P. 763; Moore v. State, 33 Okla. Cr. 304, 243 P. 995; Brogdon v. State, 38 Okla. Cr. 269, 260 P. 784; Hembree v. State, 53 Okla. Cr. 79, 7 P. 2d 491; Palmore v. State, 61 Okla. Cr. 312, 67 P. 2d 974; Wooten v. State, 66 Okla. Cr. 331, 92 P. 2d 594.
+In the case of Compton v. State, 70 Okla. Cr. 258, 105 P. 2d 793, this court held:
+“When a defendant has been convicted and intends in good faith to take an appeal, upon a proper showing made to the trial court that he is unable to pay court reporter for a transcript of the testimony, or court clerk for a transcript of the record, it is the duty of the trial court to' direct that this be done without expense to defendant. Where such showing is made, and a transcript of the evidence is not ordered by the trial court, the defendant may file a transcript of the record in this court, and this court will, under authority of Sec. 535, Sts. 1931, 12 Okla. St. Ann. § 959, order a transcript of the record and testimony.”
+In Wooten v. State, supra, this court,, held:
+“In a criminal prosecution where the defendant has been convicted and desires to appeal, upon a proper showing made to the trial court that he is unable to pay the court reporter for a transcript of the testimony, or the court clerk for a transcript of the record, it is the duty of the trial court to make an order directing that this be done without expense to the defendant.”
+In the case of Cherry v. Brown, 79 Okla. 215, 192 P. 227, 13 A. L. R. 92, the Oklahoma Supreme Court in substance held that section 3821, O. S. 1931, 20 Okla. St. Ann. § 108, gives the parties or their counsel the absolute right to a transcript of the court reporter’s notes of the evidence and other proceedings, and thereunder it is mandatory on the trial court on request to require the court reporter to take down the evidence in shorthand and thereafter transcribe it, in view of this section and sections 107, 315-318 of this title.
+In the case of Hutchins v. State, 13 Okla. Cr. 717, 167 P. 338, 339, we said:
+“Under the Constitution and laws of this state an appeal may be taken by the defendant as a matter of right from a judgment of conviction in a criminal prosecution against him, and he is entitled to have this court review' the proceedings had upon his trial and conviction when such appeal is taken according to la,w. Every citizen should feel and know that under our Constitution and law's there is no one so rich and powerful as to be above the just penalties of the law, and no< one so poor and humble as to be beneath its completest protection.”
+This court has adopted a liberal policy, in protecting the constitutional right as guaranteed in Bill of Bights, that the courts of justice of the state shall be open to every person, and right and justice shall be administered without sale, denial, delay, or prejudice. Const. art. 2, sec. 6, Okla. St. Ann. And the statutory enactments in aid of the constitutional guaranty.
+This constitutional guaranty and the statute in aid of it are not to be construed as requiring the county where prosecution arises to furnish the record in all cases, but only in those cases in w'hich to' deny the record would in effect be imposing a penalty by denying the right to appeal to one who by reason of poverty isi unable to provide the record. Wainwright v. State, 11 Okla. Cr. 547, 149 P. 914.
+This court under the provisions of section 535, O. S. 1931, 12 Okla. St. Ann. § 959, has been liberal in permitting records to be withdrawn and corrections to be made when any matters have been by inadvertence or mistake omitted therefrom.
+Section 538, O. S. 1931, 12 Okla. St. Ann. § 962, provides that in case of accident or misfortune which could not reasonably have been avoided by the party appealing, the said court or judge, upon notice to the adverse party, may make such orders! after the expiration of the time fixed in the previous order, or time allowed by statute, but not beyond the maximum time allowed by statute for perfecting an appeal.
+Section 539, 12 Okla. St. Ann. § 963, provides:
+“If the court rendering final order or judgment in a cause, or the judge thereof, shall refuse to allow a reasonable time to make and serve a case, or to file the same in the appellate court, the party desiring to file the appeal or proceeding in error may, upon notice to- the adverse party, make application to the appellate court having jurisdiction of such an appeal or proceeding in error, or to one of the justices thereof, for such order, and said court and justices thereof shall have the same power and jurisdiction in relation to such matters as the court in which such final order and judgment was rendered; but their orders shall be filed in the trial court.”
+It affirmatively appears from the record that counsel for defendant could not make a statement of the evidence from memory. In other words, we think it clearly appears that no adequate and correct “Bill of Exceptions,” necessary for a proper review of the trial court, could have been had without a transcript of the evidence adduced at the trial, together with the rulings of the trial court made during the progress thereof.
+Upon an examination of the record before us, our conclusion is that there is here shown a clear and manifest abuse of judicial discretion on the part of the trial court in denying, the defendant’s application for a transcript of the proceedings and of the testimony taken upon the trial, and on the undisputed facts was, we think, in effect the denial of a constitutional right.
+It follows that plaintiff in error is entitled to have a transcript of the testimony and case-made furnished without expense to him.
+It appearing from the record that the trial court after denying the defendant’s application failed to make and enter an order granting an extension of time in which to make, serve, settle and sign a case-made, while his application for a transcript of the testimony taken in the trial of the case was pending and undetermined before this court.
+It is therefore adjudged and ordered that the court clerk of Delaware county prepare a duly certified copy of the record proper as defined by section 3146 (22 Okla. St. Ann. § 977) of the Code of Criminal Procedure, and furnish the same to' counsel for the defendant to file with the clerk of this court in order that proper orders may be made and entered extending time in which to make, serve, settle and sign a case-made and to fix the time in which the same shall be filed in this court, and that the amount of the appeal bond be by this court determined.
+It is further ordered that W. S. Jordan, official court reporter of the district court of Delaware county, Okla., prepare a case in the above-numbered and entitled case, including a transcript of the testimony taken at the trial, at the expense of Delaware county, and furnish the same free of charge to A. C. Brewster, counsel for defendant, Charley Scroggins, plaintiff in error, herein referred to'.
+BAREFOOT, P. J., concurs. JONES, J., dissents.
