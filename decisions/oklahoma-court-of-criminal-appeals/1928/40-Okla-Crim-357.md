@@ -1,0 +1,38 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-6333"
+decided: "1928-07-21"
+citations: ["40 Okla. Crim. 357", "269 P. 321"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DOYLE, P. J., and EDWARDS, J., concur."]
+parties: ["G. W. McKINNEY v. STATE."]
+source_url: "https://static.case.law/okla-crim/40/cases/0357-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8746381
+cites_cases: ["13 Okla. Cr. 165", "40 Okla. Cr. 343", "9 Okla. Cr. 275"]
+---
+
+# McKinney v. State
+
+## Majority (DAVENPORT, J.)
+
+DAVENPORT, J.
+The plaintiff in error, hereinafter referred to as the defendant, was convicted in the county court of Pontotoc county, of the crime of transporting intoxicating liquor from one point in the state to another point in the state, and his punishment fixed at 30 days in jail and a fine of $50 and all costs. Motion for new trial was filed and overruled, and exceptions saved, and the defendant has appealed from the judgment and sentence.
+The testimony on behalf of the state, in substance, is as follows: W. B. Walker, the sheriff of Pontotoc county, stated he was called out on the Ada-Stonewall highway in connection with a car wreck; the wrecked car belonged to Roy Rudd, the defendant, Roy Rudd, and another party were there asleep on the ground; all of them seemed to have been drinking. “We did not disturb the parties, but made a search, and about 150. yards from the car, across a little field in the brush we found some whisky; we used a flashlight and followed the track of a man from the road to where the whisky was found, and the track came back to the road near the car.” The witness stated the defendant told him this was h'is whisky; that he arrested the defendant and brought him into town.
+0,n cross-examination, the witness stated he let the defendant sleep 40 or 50 minutes when he got out of the wrecked car before he woke him up; it was not daylight at that time; the defendant was drunk. The witness stated that he did not know whether the whisky they found was ever transported or not; he could not testify that it had ever been transported upon the highway; all he knew was they found the whisky about 150 yards from where the defendant and other parties were sleeping near the wrecked car; the witness did not see any one touch the whisky, handle it, or move it, but he thought the track that had left the road and gone out to where the whisky was found and came back near the car was the party who had put the whisky out where it was found. Witness does not know whether it was defendant’s track or not.
+Ernest Miers testified, in substance, to the same as did the witness Walker, except he did not hear the statement claimed to have been made to witness Walker by the defendant, that it was his whisky; witness Miers stated that the car near where the defendant was found was torn up.
+Defendant in his own behalf testified that he met Roy Rudd in front of a show in Ada about 9 or 10 o’clock, and that he was returning home in the Rudd car; that by so doing he could get home earlier and not have to wait for a train; that he did not know of any whisky being in the car when he got in the car, or when the wreck occurred; that he had been drinking some whisky before he left Ada; he did not know whether the others were drinking or not; he did not know there was any keg in the car; was riding in the front seat. “I got the whisky I had been drinking in Ada; I don’t remember stating to the sheriff that the whisky they claimed to have found in the woods about 150 yards away from where Rudd wrecked his car was my whisky; after we had the car wreck, I laid down and went to sleep.” He state he was a farmer, and that Bromfield, who was traveling with him and Rudd, lived 2 or 3 miles southwest of Coalgate; he did not know there was any whisky in the car when he got in Rudd’s car; that he did not tell him he had any whisky in the car.
+On cross-examination, the witness was asked the following question, and gave the following answer:
+“Q. You had been peddling the whisky in Ada? A. No, sir.”
+The defendant assigns six errors alleged to have been committed by the court. The first, second, third, and fourth assignments will be considered together, as they all relate to the question of the sufficiency of the evidence and action of the court in overruling the defendant’s motion for a new trial.
+The question to be determined in this case is the question of the sufficiency of the evidence to sustain a conviction of the defendant on a charge of transporting the whisky alleged to have been found. The state offered no testimony to show that the defendant was ever in possession of the whisky, or that he ever handled it in any way whatever. The testimony tends to show that, when the sheriff was called out, he was advised that there was a wrecked car on the road, and that he went out to the car, and the defendant, Rudd, and a man by the name of Bromfield was over near the car asleep; it was some time shortly before daylight; the deputy who went with the sheriff took a flashlight and got to looking around, and did not find any whisky near the car; he followed what he claims to be tracks of a man from near the car across a little field to the brush about 150 yards, and there found a keg containing some corn whisky; he claims that the tracks returned across the field and up to a point on the road where the wreck was. The only testimony tending to show that the defendant was the owner of the whisky is a statement claimed by the sheriff that the defendant made to him, that it ’was his whisky. The deputy did not hear this statement. There is no testimony tending to show that defendant ever moved the whisky from one place to another or that he had ever been in possession of it.
+It is necessary, in order to sustain a conviction in a case of this character, not only to show the possession of the whisky by positive testimony, or by circumstances sufficient to overcome the presumption of innocence of the defendant, and to convince the jury beyond a reasonable doubt of the guilt of the defendant, but it must be shown that the whisky had been moved by the defendant from one place to another.
+In this case the court instructed the jury that the defendant was presumed to be innocent until his guilt was' established beyond a reasonable doubt, and that the state must prove every material allegation made in the information.
+This court has held that it would not disturb the verdict of a jury where there is any competent evidence to support the finding of the jury, even though the evidence is conflicting.
+In every prosecution it devolves upon the state to prove the corpus delicti; that is, the fact that the crime charged has been actually perpetrated. Marston v. State, 9 Okla. Cr. 275, 131 P. 716; Waide v. State, 13 Okla. Cr. 165, 162 P. 1139. The corpus delicti cannot be established by the confession of the accused alone. Waide v. State, 13 Okla. Cr. 165, 162 P. 1139; Gene Lyles v. State, 40 Okla. Cr. 343, 268 P. 999.
+In this case there is no corroborating testimony of the witness for the state, who testified to the statement of the defendant that he owned the whisky, and the statement of the witness is contradicted and positively denied by the defendant.
+From a careful examination of the record, we find the evidence insufficient to sustain the verdict and sentence. The court erred in overruling the demurrer of the defendant to the evidence. There are other errors assigned, but we do not deem it necessary to consider them.
+The judgment is reversed and remanded.
+DOYLE, P. J., and EDWARDS, J., concur.
