@@ -1,0 +1,30 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-9999"
+decided: "1942-05-06"
+citations: ["74 Okla. Crim. 337", "126 P.2d 103"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JONES and DOYLE, JJ., concur."]
+parties: ["JIM STORY v. STATE."]
+source_url: "https://static.case.law/okla-crim/74/cases/0337-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8738103
+cites_cases: ["36 Okla. Cr. 377", "38 Okla. Cr. 345", "62 Okla. Cr. 46", "63 Okla. Cr. 153", "71 Okla. Cr. 167", "71 Okla. Cr. 424", "71 Okla. Cr. 95", "73 Okla. Cr. 146"]
+---
+
+# Story v. State
+
+## Majority (BAREFOOT, P. J.)
+
+BAREFOOT, P. J.
+Defendant, Jim Story, was charged in the court of common pleas of Oklahoma county, with the crime of unlawful possession of intoxicating liquor, to wit, ten pints of non-taxpaid whisky, was tried before the court, having waived a jury, was convicted and sentenced to pay a fine of $50 and to’ serve 30 days in the county jail, and has appealed.
+It is contended that the court erred in overruling the motion to suppress the evidence by reason of the illegality of the search warrant issued in this case.
+A hearing was had upon the motion to suppress, which was overruled and excepted to by the defendant. The affidavit upon which the search warrant is based was introduced and was in the name of “John Doe”, and defendant’s name was not mentioned thereon. The description of the property to be searched was as follows: “a one story frame building located in the rear of 129 West Chickasaw Street in Oklahoma City, Oklahoma County, Oklahoma.” The evidence revealed there was a building located at “129 West Chickasaw Street” that faced south. In the rear of this building there were located three other buildings. All of these were owned and managed by Mrs. Fonnie Maxey, whn testified at the hearing. They were occupied by different tenants whose names were given. The house occupied by the defendant was the farthest house to the north and was on the alley. It was occupied by the defendant as a residence, and it was here the intoxicating liquor was found. The house was locked, and just as the officers arrived for the search, the defendant appeared and produced a key and admitted that the liquor found belonged to him.
+We have carefully examined the search warrant and the affidavit and have come to the conclusion that it is insufficient under the law as interpreted by this court in many decisions. In the first place, the affidavit and warrant did not name the defendant, though the evidence revealed the officers were well acquainted with him prior to the search. We have held in numerous cases that it is not necessary that the affidavit should specifically name the defendant if his name was unknown, but have also often stated that it was the best practice to- name the party whose premises were to be searched if the name is known to the officers at the time of procuring the warrant. That in the event the name was not stated, it was necessary that the premises be described with such particularity that there could leave no doubt as to the place to be searched. Denmark v. State, 71 Okla. Cr. 95, 108 P. 2d 550; Id., 71 Okla. Cr. 424, 112 P. 2d 437.
+As early as April 2, 1927, this court, in the case of State v. Ed Skelton, 36 Okla. Cr. 377, 254 P. 754, called attention to the fact that the better practice was to name the party whose premises were to be searched if known. Shanafelt v. State, 38 Okla. Cr. 345, 261 P. 380, and Stouse v. State, 62 Okla. Cr. 46, 70 P. 2d 145. In the instant case, the affidavit was not made until July 23, 1940, and being after these and other decisions had been rendered holding that it was best.to name the party occupying the premises, if known.
+In the instant case, the affidavit and warrant being in the name of “John Doe”, the officers could have searched the premises of three other buildings which are in the rear of “129 West Chickasaw Street”, and which were occupied by other parties, and if liquor had been found therein, a return could have been made and those parties charged the same as was the defendant. No doubt this was the reason for procuring the “John Doe” warrant in this case. It is contended by the state that the house of the defendant being the last house of the four mentioned, it was therefore in the rear of “129 West Chickasaw Street”, and that it was therefore plain that it was the house intended to be searched. This reasoning does not appeal to us. If it had been found in the first house, it could have been just as reasonably contended that it was intended to be that house because it was immediately in the rear of “129 West Chickasaw Street.” The evidence revealed that none of the four houses in the rear of “129 West Chickasaw Street” was numbered, but all were occupied by different parties. It would have been very easy to have added to the description in this affidavit the name of the party whose premises were to be searched, or to have particularly described this house as being on the alley, and in such other manner that there could have been no doubt as to what premises were to be searched.
+The true test of the sufficiency of a description in an affidavit and search warrant is that it should enable the officers executing the search warrant to locate the premises to be searched without aid of any other information save that contained in the search warrant. Pickins v. State, 71 Okla. Cr. 167, 110 P. 2d 319; Mason v. State, 63 Okla. Cr. 153, 73 P. 2d 468; Allgood v. State, 73 Okla. Cr. 146, 118 P. 2d 662.
+Prom the above statement, it appears that the court erred in refusing to sustain the motion to suppress the evidence obtained by reason of the search of defendant’s premises, and for this reason the judgment and sentence of the court of common pleas of Oklahoma county is reversed, with directions to discharge the defendant.
+JONES and DOYLE, JJ., concur.
