@@ -1,0 +1,26 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-10507"
+decided: "1946-02-20"
+citations: ["82 Okla. Crim. 103", "166 P.2d 447"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JONES, P. J., concurs. DOYLE, J., not participating."]
+parties: ["L. E. LAMPLEY v. STATE."]
+source_url: "https://static.case.law/okla-crim/82/cases/0103-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8736823
+cites_cases: ["40 O. S. 1941", "82 Okla. Cr. 95"]
+---
+
+# Lampley v. State
+
+## Majority (BAREFOOT, J.)
+
+BAREFOOT, J.
+Defendant, L. E. Lampley, was charged in the court of common pleas of Tulsa county with the offense of requiring and permitting one Esther Brock, a female person, to work in his restaurant in the city of Tulsa more than nine hours, to wit: 12 hours, from 7 o’clock a.m. to 7 o’clock p.m. on July 25, 1943. He was tried, convicted and sentenced to pay a fine of $50 and costs, and has appealed.
+This is a companion case of Lampley v. State, 82 Okla. Cr. 95, 166 P. 2d 445. In that case, this defendant was charged with requiring and permitting one Joan Ward, a female person, to work in a cafe managed and operated by defendant more than 54 boars in one week.
+The evidence and questions of law are identical in both cases, and the same statute, 40 O. S. 1941 § 81, covers both charges. One brief has been filed by defendant in supported of his contentions.
+For the reasons stated in the case of Lampley v. State, 82 Okla. Cr. 95, 166 P. 2d 445, the judgment and sentence of the court of common pleas of Tulsa county is affirmed.
+JONES, P. J., concurs. DOYLE, J., not participating.
