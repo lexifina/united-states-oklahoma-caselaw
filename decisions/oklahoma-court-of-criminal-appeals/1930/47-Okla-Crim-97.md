@@ -1,0 +1,29 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-7256"
+decided: "1930-04-12"
+citations: ["47 Okla. Crim. 97", "287 P. 727"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["EDWARDS, P. J., and CHAPPELL, J., concur."]
+parties: ["H. O. SUTTON v. STATE."]
+source_url: "https://static.case.law/okla-crim/47/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8742212
+---
+
+# Sutton v. State
+
+## Majority (DAVENPORT, J.)
+
+DAVENPORT, J.
+The plaintiff in error, hereinafter called the defendant, was convicted of the charge of transporting intoxicating liquor, and was sentenced to pay a fine of $50 and to be confined in the county jail for a period of thirty days. From which judgment the defendant has appeald.
+The facts in the case are brief. Jack Ball, a deputy sheriff, of Kiowa county, testified he was in Hobart on the 3d day of February, 1927. About 8 o’clock Coots Sutton drove in to the Marland filling station, and Bill Murrel took a pasteboard box out of the car and carried it into the filling station. “I arrested Sutton and Clyde Harris and took them into the filling station and got the package; it contained one gallon and a quart of whisky. When the defendant Sutton drove in to the filling station, I was across the street east. When I went into the filling station, the package Bill Murrel took out of the car was in the northwest corner of the building; the package contained two half gallon and one quart jar of whisky. When I went into the filling station, 'Roy Wright, Frank Head, Bill Murrel and Coots Sutton were there.”
+Bill Murrel testified he was working a.t the Marland filling station on the date mentioned. “When I first saw Sutton I was standing in the doorway and he backed up to the doorway and gave me a package. Roy Wright said something about taking the package and I received the package and took it to the north room of the filling station. Mr. Ball came to the filling station and took a box out of the north room; I guess he got the same box I took in there; the box I took in there came out of Coots Sutton’s car; he was driving a Chevrolet.”
+Boy Wright testified he was at the Marland filling station on the night of February 3, 1927. He saw Coots Sutton at the filling station that night. The defendant, Sutton, drove up to the filling station and parked, and said he had a package he wanted to leave there. “About that time another car drove in, and I asked him to back up to the door so the other car could get into the doorway; I just noticed there was something in the car; Bill Murrel took the package into the station. About the time Murrel got in the door, Jack Ball walked up and arrested Sutton; he went in the filling station and came out. I did not see the box the defendant handed to Bill Murrel any more after Bill took it into' the filling station. I don’t know whether the box Ball took was the same box Bill Murrel received from Sutton and carried into the station; there was a box or two and a suitcase in the filling station before this box was taken in there.”
+Clyde Harris, one of the parties arrested by Jack Ball, testified with reference to being with Sutton the greater part of the day, and that he put some clothes in a box he wanted the defendant to leave at the filling station for him.
+The defendant in his own behalf stated the package he got from Clyde Harris contained clothes. They got to Hobart about 7:30. They drove Harris’ car. “Clyde told me to meet him at the Marland filling station, that he had a box he wanted to leave at the filling station while he filled a date with a girl friend of his. When I got to the filling station I inquired of Roy Wright if he had seen Clyde Harris and told him Clyde was to see me there. Roy asked me to back up so another car could drive in and Bill Mur-rel come out and got the package and carried it into the filling station. The package Jack Ball got in the filling station was not the same package that Bill Murrel had taken out of the car into the filling station. If there was any whisky in the car, I did not know it. I had been in the car practically all afternoon. I first saw Bill Murrel when Roy Wright asked me to back the car up and Bill come and got the package out of the car. I was in the driveway next to the filling station. I was standing, in front of the filling station when Jack Ball came in. I saw Jack Ball when he came out of the filling station with the pasteboard box about a foot square.” This is in substance the testimony.
+The defendant assigns two errors alleged to have been committed by the trial court; the first being the trial court erred in overruling the defendant’s motion for a new trial; second, error of the court in refusing to give requested instruction of the defendant. The requested instruction of the defendant was upon the question of circumstantial evidence. An instruction on circumstantial evidence is only required to be given by the court when all the evidence upon which the state relies for a conviction is circumstantial. In this case there is no circumstantial evidence relied upon by the state; the testimony of the state is positive that the defendant drove up to the filling station and a pasteboard box was taken out of the car he was driving. The officer testified he went to the filling station and found the box which had been taken out of the defendant’s car which contained one gallon and one quart of whisky. The defendant’s testimony only tends to’ show that the box taken out of the car should have contained clothes of Clyde Harris, and, if there was any whisky in the box taken out of his car, he did not know it.
+The testimony in this case is sufficient to sustain the conviction. Finding no error in the record, the case is affirmed.
+EDWARDS, P. J., and CHAPPELL, J., concur.
