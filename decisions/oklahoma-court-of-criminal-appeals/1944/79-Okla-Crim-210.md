@@ -1,0 +1,42 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-10501"
+decided: "1944-11-22"
+citations: ["79 Okla. Crim. 210", "153 P.2d 503"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JONES, P. J., concurs. DOYLE, J., not participating."]
+parties: ["GEORGE EAGAN v. STATE."]
+source_url: "https://static.case.law/okla-crim/79/cases/0210-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1527044
+cites_cases: ["111 P. 822", "21 O. S. 1941", "4 Okla. Cr. 212", "66 Okla. Cr. 291", "66 Okla. Cr. 408", "91 P. 2d 797"]
+---
+
+# Eagan v. State
+
+## Majority (BAREFOOT, J.)
+
+BAREFOOT, J.
+Defendant, George Eagan, was charged jointly with Fred Etheridge in the district court of Tulsa county with the crime of robbery; was tried, convicted, sentenced to serve a term of ten years in the penitentiary, and has appealed.
+Defendant was unable to give bond pending appeal, and is now confined in the State Penitentiary, and for this reason his case has been advanced.
+It is contended that the court erred in overruling a demurrer to the evidence, and the motion for a directed verdict, for the reason that the evidence is insufficient to •sustain the judgment and sentence.
+It is revealed by the record that the defendant was jointly charged by information with Fred Etheridge, with conjoint robbery of T. 11. Bishop on May 19, 1943. The prosecuting witness was 54 years of age, weighed about 110 pounds and lived in Cleveland, Pawnee county, Olda. lie was a veteran of World War No. 1, and by reason of injury was unable to work. He walked with a cane, and wore a steel brace. He went to Tulsa from Cleveland on May 17th, and on the morning of the 19th he went to meet a Mend at the Central Bar in Tulsa. He went from there to a lumberyard to visit another friend, and returned to the Central Bar between 3 and 3:30 in the afternoon. He then met the defendant and Fred Etheridge, neither of whom he had ever known before. They engaged in conversation, and defendant bought six beers, and each of them drank two. Defendant and Etheridge then told the prosecuting witness they would buy him some whisky, and the three of them left the Central Bar together, going over a. viaduct. While crossing the viaduct they met a woman, whom prosecuting witness did not know, and the defendant spoke to her, saying “Hello, Lottie.” She answered, “'.Hello, George.” They proceeded only a short distance over the viaduct when Fred Etheridge stopped, and said to the prosecuting witness: “All right, this is as far as you are going to get, give it here.” The prosecuting witness asked “What?” and Etheridge answered, “You know what.” The prosecuting witness testified that Etheridge at that time “had his arm around my neck, and my neck he pulled back and his knee he had in my back.” He then proceeded to take the wallet from the inside pocket of the prosecuting witness, and take therefrom the sum of $6. He threw the wallet to the ground, and both the defendant, who had been standing about three feet in front of the witness, and Etheridge told him: “If you tell the coppers it will be too bad for you, we will get you.”
+The defendant and Etheridge left the scene together, going east, and Mr. Bishop immediately notified the police, who came to the scene, and search was started. Later that night defendant and Etheridge and another party were picked up by the police and placed in jail. On the following day Mr. Bishop, the prosecuting witness, was taken to the jail, and there identified the two defendants as the parties who had robbed him the day before. They were identified from eight persons who were lined up by the officers.
+The state also offered as a witness Lottie Knight, who testified to knowing the defendant, and that she met him on the viaduct between 6 and 6:30 on the evening of May 19, 1913,- that he spoke to her, saying, “Hello, Lottie,” and that she answered “Hello, George.” She did not know who was with him, and the officers found her in bed at her home on the same night, after the prosecuting witness had told them of this incident.
+The officers who arrested defendant, and who saw the prosecuting witness identify them, were placed upon the witness stand, and testified to the facts and circumstances surrounding the arrest of the defendant.
+The defendant did not take the witness stand, and did not offer any evidence in his behalf.
+It is contended by defendant that the evidence is insufficient to sustain the judgment and sentence, for the reason that it does not show that defendant participated in the robbery, and that only his codefendant, Fred Etheridge, committed it.
+To support his contention, defendant relies upon the cases of Anderson v. State, 66 Okla. Cr. 291, 91 P. 2d 794, and Smith v. State, 66 Okla. Cr. 408, 92 P. 2d 582.
+A careful reading of these cases reveals that there is a material difference in the facts in those cases and this one. It is unnecessary to here review the facts of those cases. While it is true that the evidence in the instant case does not show that the defendant actually used physical force at the time his codefendant held and robbed the prosecuting witness, it does show that he was the first one to meet the witness, and to suggest the purchasing of the whisky. That he stood within three feet of the witness at the time he was being robbed and did nothing to prevent it. After the robbery had been committed he told the witness, “If you tell the coppers it will be too bad for yon, we will get you.” This evidence was uncontradicted. He left the scene of the robbery in company with his codefendant, and they were together later when picked up by. the officers. Under this uncontradicted evidence, the jury had the right to come to the conclusion that the two defendants were acting together. That they intended to rob the witness when they left the Central Bar, and they carried this into effect. No doubt the jury came to the conclusion that the defendant did not use any physical force, for the reason that the prosecuting witness was a small, frail man, weighing only 110 pounds, and the codefendant was a strong, robust man weighing 145 pounds. It was unnecessary for him to assist by the use of physical force.
+21 O. S. 1941 § 172 is as follows:
+“All persons concerned in the commission of crime, whether it be felony or misdemeanor, and whether they directly commit the act constituting the offense, or aid ,and abet in its commission, though not present, are principals.”
+In the Anderson case, supra [66 Okla. Cr. 291, 91 P. 2d 797], after quoting the above statute, we said:
+“One of the first cases decided by this court was in an opinion by Judge Richardson, in the case of Moore v. State, 4 Okla. Cr. 212, 111 P. 822, 824, which has been cited, and the principle announced therein adhered to in many cases. It is there said:
+“ ‘To constitute one a party to a crime under this statute, it is necessary that such person be concerned in the commission of the offense; that is, that he either commit it or aid or abet its commission — and it is not sufficient that he merely acquiesce therein. Consenting and acquiescing are mere mental acts, which, unless communicated to the perpetrator of the offense, in no manner aid or abet him in its perpetration. To be concerned in the commission of crime, one must either commit the crime himself, or procure it to be done, or aid or assist, abet, advise or encourage its commission. . .”
+Certainly the jury under the evidence above stated had the right to conclude that the defendant not only arranged for the robbery, but that he was acting in concert with his codefendant in carrying it out. It could not be said that one who drove an automobile for the bank robber who robbed the bank, although he did not assist in the actual robbery, or other act of his codefendant, would not be liable the same as the principal defendant.
+The statute above quoted makes all persons concerned in the commission of a crime in this state principals.
+The jury, after hearing the testimony of witnesses in this case, found the defendant guilty. This court would not be justified, under the facts and circumstances here disclosed, to set such verdict aside.
+Finding no error in the record, the judgment and sentence of the district court of Tulsa county is affirmed.
+JONES, P. J., concurs. DOYLE, J., not participating.
