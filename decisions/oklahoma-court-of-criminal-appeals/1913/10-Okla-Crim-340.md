@@ -1,0 +1,31 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-1706"
+decided: "1913-11-29"
+citations: ["10 Okla. Crim. 340", "136 P. 597"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ARMSTRONG,' P. J., and FURMAN, J., concur."]
+parties: ["SHELLY LARRY v. STATE."]
+source_url: "https://static.case.law/okla-crim/10/cases/0340-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8743201
+cites_cases: ["8 Okla. Cr. 78"]
+---
+
+# Larry v. State
+
+## Majority (DOYLE, J.)
+
+DOYLE, J.
+The plaintiff in error, hereinafter referred to as the defendant, was convicted of manslaughter in the first degree on an indictment returned by the grand jury at the October, Í908, term of the district court, charging him with the murder of one Frank Jackson on the 7th day of September, 1908, and in accordance with the verdict of the jury the court sentenced the defendant on the 18th day of December, 1911, to imprisonment in the penitentiary for the term of fifteen years. The defendant appealed by filing in this court on April 19, 1912, a petition in error with case-made.
+It appears from the record that the deceased and the defendant were negroes, and the homicide was the result of a drunken row engendered by jealousy over the affections of a negro woman of ill repute. The tragedy occurred at Dow, a mining town in Pittsburg county. Immediately after the killing the defendant fled to parts unknown and was not seen in that county until early' in the year 1911, when he surrendered.
+Lee Bertha, the negress, lived in a small -house at Dow, together with one or two others of her sex and race, and was employed at a negro restaurant at which numerous negro miners took their meals, among them being the deceased and the defendant. On the evening of September 7, 1908, Frank Jackson, the deceased, was talking to Lee Bertha when the defendant approached them and remarked, “What are you doing standing there talking to my wife.” The deceased became somewhat offended and left the restaurant and shortly thereafter the defendant left also. Shortly afterwards the deceased and the defendant met across the street from the restaurant and went to the place where Lee Bertha stayed. She was standing on the porch. The defendant said, “Now, here is the woman, ask her what I said and the deceased said, “Looks like you boys want to run over me,” and pulled a pistol and threw it down on the defendant. Defendant said, “You can kill me, but you cannot eat me-;” and the deceased grabbed him by his vest. The defendant slipped out of his vest and ran down the street. The deceased remained in front of the house ■ talking to Lee Bertha. In about twenty minutes the defendant returned with a shotgun; coming around the corner of the house he shot Frank Jackson, the deceased, in the back of the head, killing him instantly. There were several eyewitnesses to the shooting.
+The defendant, as a witness in his own behalf, testified: That after talking with Frank Jackson- in the restaurant he met him on the street and Jackson said he wanted him to go with him to see Lee Bertha. That they went there together. Jackson drew a gun on him and said, “I ought to kill you,” and -grabbed hold of- his vest, and he ran away from him and went home. That his parents lived at Hartshorn and he decided to go over there, so he put on his clothes and took a gun with him and started for Hartshorn. That he went by Lee Bertha's to get his vest. The transcript of his testimony as to how the killing occurred is as follows:
+“Q. Did you see Drank Jackson before you got there? A. No, sir. Q. Did you hear him? A. No, sir. Q. Did you know he was there? A.. No, sir; I never knowed he was there. Q. Well, did you see him after you got up there to the house? A. I never seen him until after I got right up in the shape I seen his gun. Q. You got up in the shape that you saw his gun ? A. Yes, sir. Q. What position was he in when you first saw him? A. Why, he was to say facing me when I first saw him. Q. How was his gun? A. Why he had his gun up looked to me in position to shoot. Q. Do you know whether he was holding it with one hand or both hands? A. I could not say whether he had it pulled with one or both, but it looked to me like he had both up. Q. When you saw him with his gun up that way what did you do? A. Why, I shot. Q. You shot? A. Yes, sir. Q. Well, why did you shoot, Shelly? A. Why, he had his gun pointed towards me and I thought maybe that he would, he would— Why did I shoot? I seed he had his gun up pointed towards me and I thought he was aiming going to shoot me, and I shot my gun to keep him from shooting me. I tried to shoot first, anyhow. Q. Tried to shoot first? A. Yes, sir.”
+In the view we take of. this case, we do not think it necessary to discuss the questions raised by the defendant. The testimony of the state shows a case of deliberate assassination. While the defendant’s own testimony shows a case of killing in mutual combat, willingly entered into by the defendant, if we consider the case in its most favorable aspect for the defendant, he is upon his own testimony guilty at least of manslaughter in the first degree.
+Where the killing is done in mutual combat, entered into willingly, and in the knowledge of its liability to cause death to one or the other of the combatants, the slayer cannot justify on the ground that it was committed in self-defense, and it will be manslaughter at least, unless the survivor can prove that before the fatal shot was fired he had refused any further combat and had retreated as far as he could with safety, and that he killed his adversary of necessity, to save his own life or his person from great bodily harm. Evans v. State, 8 Okla. Cr. 78, 126 Pac. 586.
+No question is raised as to the sufficiency of the indictment. The charge of the court is full and correct and more favorable to the defendant in some particulars than the evidence demanded. After a careful examination of the various questions, raised, we are satisfied that, under well-settled rules sustained and upheld by the decisions of this court, no prejudicial error was committed.
+The judgment of the district court of Pittsburg county is therefore affirmed.
+ARMSTRONG,' P. J., and FURMAN, J., concur.
