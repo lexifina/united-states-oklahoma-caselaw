@@ -1,0 +1,42 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-3734"
+decided: "1922-05-08"
+citations: ["21 Okla. Crim. 247", "206 P. 539"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["' DOYLE, P. J., and MATSON, J., concur."]
+parties: ["CHARLIE CARTER v. STATE."]
+source_url: "https://static.case.law/okla-crim/21/cases/0247-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8738856
+cites_cases: ["10 Okla. Cr. 438", "10 Okla. Cr. 582", "11 Okla. Cr. 176", "12 Okla. Cr. 169", "12 Okla. Cr. 489", "13 Okla. Cr. 128", "133 Pac. 1132", "15 Okla. Cr. 201", "15 Okla. Cr. 306", "15 Okla. Cr. 619", "152 Pac. 1134", "175 Pac. 843", "176 Pac. 413"]
+---
+
+# Carter v. State
+
+## Majority (BESSEY, J.)
+
+BESSEY, J.
+Charlie Carter, plaintiff in error, herein referred to as the defendant, was by information filed in the district court of Stephens county on July 16, 1919, charged with the larceny of a hog, the property of J. C. Forth, on July 11, 1919. On October 8, 1919, a verdict of the jury was rendered, finding the defendant guilty as charged and assessing his punishment at confinement in the state penitentiary for four years. A motion for a new trial was filed and overruled, and judgment was rendered according to the verdict on October 13, 1919. From this judgment defendant appeals.
+The evidence on the part of the state was to the effect that the defendant and Claude Harmon were residents of Marlow, in Stephens county, and that they had been acquaintances for five or six years; that defendant’s occupation was that of a service car driver; that on the evening of July 11, 1919, while they were sitting together in the car belonging to the defendant, defendant proposed to Claude Harmon that, if Harmon would help him steal a certain hog there in town that night and carry it over to Lawton, they would there sell the hog and divide the proceeds, two-thirds to the defendant and one-third to Harmon; that he finally agreed to the proposal and defendant procured a crate from the premises of his brother, and at about 11 o’clock that night the two of them took this crate to the hog lot of J. C. Forth, put one of his bogs into tbe crate, loaded it into tbe defendant’s car, and drove to Lawton, arriving there about daylight. The bog was there placed in tbe railroad stock pen, and a few hours later Harmon sold tbe bog to tbe proprietor of a Lawton meat market, receiving therefore a check in tbe amount of $27.20. Tbe cheek was cashed by Harmou at tbe bank, and tbe money delivered to tbe defendant, who returned to Harmon $9.10. A little later both parties were placed under arrest for tbe theft of tbe bog and were put in the county jail at Duncan. They were charged jointly with tbe crime. Harmon pleaded guilty, and was used as a witness against this defendant.
+Tbe defendant took tbe stand in bis own behalf, and claimed that bis only connection with tbe affair was bis employment by Harmon to convey tbe bog to Lawton, that Harmon bad informed! him that be was moving to Lawton, and that tbe bog belonged to him, and that defendant bad no knowledge that it was stolen property.
+Without reciting tbe evidence in detail, tbe testimony of tbe state’s witness Harmon, an accomplice, was corroborated in many material particulars.
+There are but two assignments of error urged in defendant’s brief.
+First it is claimed that this conviction should not be allowed to stand, because it is inconsistent with tbe admissions of the state growing out of tbe application of tbe defendant for a continuance. It seems that earlier in the day on which this bog was stolen one Orbie Pope bad also been solicited by Harmon to haul a bog to Lawton. Tbe defendant in bis affidavit in support of his motion for a continuance stated that Orbie Pope was a material witness for tbe defendant; that be was sick and unable to attend the trial; that this witness, if present, would testify that he was present at tbe preliminary bearing in this case, and that immediately after the hearing he, Orbie Pope, had a conversation with Claude Harmon, the state’s witness, in which he said to Harmon:
+“I would have gotten into trouble by having you accuse me of being an accomplice in the theft of a hog if I had hauled you and the hog over to Lawton, as you wanted me to do.”
+To this remark made by Pope, Harmon replied in substance that he would not have accused Charlie Carter of being an accomplice in the larceny of the hog if Carter had made his bond for him, as requested, but that Charlie Carter had refused to make his bond. Upon consideration of this motion for a continuance the county attorney said:
+“I admit that he (Orbie Pope) would swear that if he were here.”
+Mr. Bond, for the defendant, thereupon dictated into the record the following:
+“Thereupon before ruling on the motion by the court the county announces that the state would admit that the prosecuting witness made the statements contained in the motion for a continuance and would further admit that the same were and are true.”
+As we view this admission, it amounts simply to an admission as to what Claude Harmon would have clone, or would not have done, if Charlie Carter had made bond for him. There is no admission that Carter in fact had nothing to do with the theft of the hog. The inference may well be drawn from the statement and all the surrounding circumstances that Harmon would have aided Carter in shielding himself if the bond had been made.
+The defendant next complains of instruction No. 11, as follows:
+“You are instructed, that the defendant claims as a matter of defense that he was employed by the witness Harmon to haul the hog from Marlow to Lawton. In this connection you are instructed that, if you should believe or if you should entertain a reasonable doubt as to whether or not he was so employed it would be your duty to resolve such doubt in his favor and acquit him.”
+It is urged that this instruction places the burden of proof upon the defendant, and is therefore prejudicial. This instruction may be paraphrased as follows:
+“In this connection you are instructed that, if you should believe he was so employed, you should acquit him, or, if you should have a reasonable doubt of that fact, you should acquit him.”
+As we construe the instruction, it does not import a shifting of the burden of proof. The expression “whether or not” was inaptly used, but in our judgment was not prejudicial. The court in effect said- that, if they should have a reasonable doubt that he was innocently employed to transport the hog, they should acquit him. If the defendant desires to stress the alternative word “not,” then the instruction would mean that, if they entertained a reasonable doubt that the defendant was not so employed, he should be acquitted. By either or both constructions the court told! the jury to acquit. Construing this expression in the way the defendant insists it should be construed it is equivalent to saying to the jury that, if they had any doubt upon the question one way or the other, they should acquit him. That being true, defendant has no cause for complaint.
+Defendant cites in support of his claim that this instruction deprives the defendant of his presumption of innocence the following cases: Remillard v. State, 10 Okla. Cr. 438, 133 Pac. 1132, 137 Pac. 370; Lockhart v. State, 10 Okla. Cr. 582, 139 Pac. 1156; Wood v. State, 11 Okla. Cr. 176, 144 Pac. 391; Courtney v. State, 12 Okla. Cr. 169, 152 Pac. 1134; Smith v. State, 12 Okla. Cr. 489, 159 Pac. 668; Findley v. State, 13 Okla. Cr. 128, 162 Pac. 680; Kiggins v. State, 15 Okla. Cr. 306, 176 Pac. 413; Slate v. State, 15 Okla. Cr. 201, 175 Pac. 843; Adair v. State, 15 Okla. Cr. 619, 180 Pac. 253.
+We have examined the authorities above cited, and are of the opinion that the instruction here complained of is not similar to any of the instructions treated in these cases. We do not hold that the instruction in this case is a model instruction, upon the question therein treated, but that by every fair in-tendment it could not have operated to the prejudice of the defendant.
+It seems that this defendant was less at fault than his co-defendant. Under the circumstances we think the punishment assessed was excessive, and the term of punishment is therefore modified from four to two years in the penitentiary, and affirmed as modified.
+' DOYLE, P. J., and MATSON, J., concur.
