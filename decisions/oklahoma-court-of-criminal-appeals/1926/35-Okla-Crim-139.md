@@ -1,0 +1,32 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-5824"
+decided: "1926-09-18"
+citations: ["35 Okla. Crim. 139", "249 P. 356"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BESSEY, P. J., and DOYLE, J„ concur."]
+parties: ["JIM SANDERS v. STATE."]
+source_url: "https://static.case.law/okla-crim/35/cases/0139-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8743577
+cites_cases: ["119 P. 430", "120 P. 300", "121 Mo. 566", "123 Cal. 294", "16 Okla. Cr. 476", "26 S. W. 556", "30 Okla. Cr. 438", "31 Okla. Cr. 179", "31 Okla. Cr. 30", "55 P. 989", "6 Okla. Cr. 542"]
+---
+
+# Sanders v. State
+
+## Majority (EDWARDS, J.)
+
+EDWARDS, J.
+The plaintiff in error, hereinafter called defendant, was convicted of grand larceny and sentenced to serve a term of one year in the state penitentiary.
+The circumstances shown by the record are about as follows: On Friday night, October 31, 1924, three bales of cotton belonging to three different men were stolen from the ginyard at Matoy, Bryan county. The cotton was taken from the ground in the ginyard. On this night defendant and Bill Brown were together near the place engaged in a gambling game. Brown had a wagon and team, defendant was horseback. The loss was discovered the next morning; on the same morning, Brown appeared at Caney, 16 miles from Matoy, with the stolen cotton on his wagon and sold it. Less than an hour later defendant appeared and inquired of the purchaser if Brown had sold any cotton, the amount and price paid, and stated that he was the owner of a fourth interest in it. The •Sunday following, Brown was at Matoy, under suspicion of the theft and being questioned. Defendant also appeared there on horseback and the officers began to question him and intimated that they would arrest him. Whereupon he mounted his horse and escaped, whooping as he went. Brown, also, then ran away and escaped from the officers. The officers sought to apprehend defendant that night at his home, but he was not found; he was arrested about three weeks later in Jackson county. Defendant was 23' or 24 years old; Brown was 19. Both were charged with the offense. Brown pleaded guilty, was sentenced to the penitentiary, and his sentence suspended. He was not a witness at the trial. Defendant explained his presence with Brown on the night of the larceny by testifying that he had been sent down there by his father to search for two lost hogs which had been left there when they moved away the spring before. He explained his inquiry of the purchase of the cotton by saying that Brown owed him $35 for cotton picking, and $32.50 won from him gambling which Brown had agreed to pay him a Caney, and that he was later at Matoy because he had not been paid when at Caney. When arrested defendant had $210 in a Memphis, Tex., bank. He explained this by stating that he had $140 in the bank at Caney and $60 in the bank at Caddo which he drew before he left. He explained his flight by saying that he knew the officers were after him, but did not know upon what charge.
+The conviction rested on circumstantial evidence, and in the main depended on the association of the defendant and Brown, the obvious fact that Brown alone eould not load the cotton on his wagon, the inquiry of defendant concerning the proceeds of the cotton shortly after it was sold, his statements, his appearance at Matoy on the following day, his escape and hallooing preceding the escape of Brown, his explanation of his connection with Brown, his escape, his possession of the amount of money he had at the time of his arrest, and various other incidental circumstances.
+It is first argued that there is a fatal variance between the allegation of ownership of the stolen cotton and the proof. The allegations are that the cotton was owned by Nickles, Boydston, and Sewell, and the proof is that the cotton belonged, one bale to Nickles, one bale to Boydston, and one to Sewell. Section 2560, Comp. Stat. 1921, provides that when an offense involves the commission of a private injury, and is described with sufficient certainty in every respect to identify the act, an erroneous allegation as to the person injured is not material. Gunter v. State, 16 Okla. Cr. 476, 184 P. 797; Leyerle v. State, 31 Okla. Cr. 179, 237 P. 871; Carson v. State, 30 Okla. Cr. 438, 236 P. 627; Jackson et al. v. State, 31 Okla. Cr. 30, 237 P. 129.
+The allegation of ownership and the proof in support of it are sufficient to satisfy the requirements of the law in this particular. There is no material variance.
+It is next contended that the evidence, being circumstantial, is not sufficient to sustain the verdict. It is, of course, settled law that in a case resting entirely upon circumstantial evidence, the circumstances proven must be consistent with each other and inconsistent with any other reasonable hypothesis other than defendant’s guilt.
+It is the province of the jury to determine the credibility of the witnesses and the facts proven. The evidence'of the state was controverted in the main only by the testimony of the defendant. The jury evidently disbelieved his explanation and believed the evidence offered by the state. Without further reviewing the testimony or reciting the circumstances proven, we find the evidence sufficient.
+It is also argued that the trial court erred in admitting evidence of statements made after the sale of the cotton, by the codefendant Brown., in the absence of defendant. Slight evidence of a conspiracy in the first instance is all that is required, and it then becomes a question of fact whether or not the persons charged were acting together and when an acting together is shown by even slight evidence, the acts, conduct, and statements of a conspirator in furtherance of the common design are admissible against his associates so long as a conspiracy continues, and a conspiracy is generally held to continue until the crime is accomplished and the proceeds divided. Holmes v. State, 6 Okla. Cr. 542, 119 P. 430, 120 P. 300; State v. Pratt, 121 Mo. 566, 26 S. W. 556; People v. Opie, 123 Cal. 294, 55 P. 989.
+It is not clear when the proceeds of the crime were divided, the evidence indicating not until after Brown and defendant escaped from M;atoy. Error upon this point is not made to appear affirmatively.
+Finding no error that would warrant a reversal, the case is affirmed.
+BESSEY, P. J., and DOYLE, J„ concur.
