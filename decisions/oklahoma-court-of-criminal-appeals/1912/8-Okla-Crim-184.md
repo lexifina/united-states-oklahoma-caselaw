@@ -1,0 +1,27 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-1261"
+decided: "1912-10-05"
+citations: ["8 Okla. Crim. 184", "126 P. 783"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ARMSTRONG and DOYLE, JJ, concur."]
+parties: ["WM. F. HAZELTON v. STATE."]
+source_url: "https://static.case.law/okla-crim/8/cases/0184-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8741792
+cites_cases: ["111 Pac. 960", "125 Pac. 1087", "140 Am. St. Rep. 688", "2 Okla. Cr. 681", "4 Okla. Cr. 328"]
+---
+
+# Hazelton v. State
+
+## Majority (FURMAN, P. J.)
+
+FURMAN, P. J.
+The original information was sworn. to and filed on the 14th day of February, 1911. It charged “that on the 11th day of February, A. D. 1911, in said county of Grant and state of Oklahoma, one William F. Hazelton did then and there unlawfully sell to I. L. Grounds certain fermented liquors, to wit, two bottles of Silver Top.” Appellant was arrested and gave bond. On the 11th day of April, 1911, this case came on for trial in open court, and after both sides had announced ready for trial, and the jury was in the box, the court permitted the' county attorney to amend the original information. This amendment was not embodied in the form of a new information, but the words “and malt” were written in the original information by the county attorney between the word “fermented” and the word “liquor.” There was no verification of this amendment, but the information stood upon the verification made on the 14th day of February, 1911, to all of which appellant objected and excepted. Appellant then demanded that he be granted 24 hours in which to plead to the amended information. This demand was refused by the court, and the defendant was required to plead immediately. Defendant declined to plead, still demanding his right to have time to plead to the amended' information. The court thereupon entered a plea of not guilty for the defendant and immediately forced him into trial, to which the defendant excepted.
+As to the right of the court to permit the information to be amended, either as to matter of substance or form, there can be no question. See Lancaster v. State, 2 Okla. Cr. 681, 103 Pac. 1065. This case has been uniformly followed since. The last expression of this court is found in the case of Rollen v. State, ante, 125 Pac. 1087. But this is not the question upon which the decision of this case turns. ' If the amendment changed the substance of the information, and thereby placed the appellant at a disadvantage, upon every principle of reason and justice, he had a right to have time to meet the additional charge contained imthe amended information. This question came up in the case of Paul Smith v. State, 4 Okla. Cr. 328, 111 Pac. 960, 140 Am. St. Rep. 688. In that case the information charged the defendant with the sale of liquor, but did not allege to whom the sale was made, or that the name of such person was unknown to the prosecution. ' The defendant demurred to the information upon this ground. Thereupon the county attorney amended the information by stating the name of the purchaser. The defendant then demanded time to prepare to meet the charge contained in the amended information. This was refused by the court, and he was immediately forced into trial, to which defendant excepted. He was convicted, and he appealed to this court. The judgment of the lower court was reversed, because the appellant was not given an opportunity to prepare to defend himself against the additional charge contained in the amended information. Upon the trial of this cause, the question before the jury was as to whether or not the two bottles of Silver Top sold by appellant was malt liquor. The evidence upon this subject was not as clear as it might have been; but, be that as it may, this was the material question upon the trial. It therefore cannot be denied that the amendment made to the information introduced a new and material question in the case. To hold that this can be done just as the trial has begun, and not allow the defendant any time for preparation, would be unjust and a violation of the statute itself.
+There is another question in this case. Our statute requires that all informations in misdemeanor cases must be verified by the oath of some person. When permission was given the county attorney to amend the information, the better practice would have been for him to prepare a new information, adding the new charge, and file it as a substitute for the original information in the case. But he did not do this. He merely interlined the old information; and, as this interlineation contained a material and additional allegation, the information- should have been reverified, as amended, before placing appellant upon trial. _ This was not done. The verification of an information is for the protection and benefit of the defendant. He may waive it if he sees fit; but, where the defendant objects to being placed upon trial on an amended information which contains additional material allegations, it is error for the court to proceed with the trial in misdemeanor cases until such amended information has been verified.
+The errors committed cannot be held to be harmless, because they deprived appellant of material rights, to his injury.
+Reversed and remanded.
+ARMSTRONG and DOYLE, JJ, concur.
