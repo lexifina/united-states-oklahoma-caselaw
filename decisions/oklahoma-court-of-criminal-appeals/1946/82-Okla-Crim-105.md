@@ -1,0 +1,39 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-10540"
+decided: "1946-02-27"
+citations: ["82 Okla. Crim. 105", "166 P.2d 785"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JONES, P. J., concurs, DOYLE, J., not participating."]
+parties: ["BEULAH HENDRIX v. STATE."]
+source_url: "https://static.case.law/okla-crim/82/cases/0105-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8736836
+cites_cases: ["77 O. S. 1941"]
+---
+
+# Hendrix v. State
+
+## Majority (BAREFOOT, J.)
+
+BAREFOOT, J.
+Defendant, Beulah Hendrix, was charged in the county court of Blaine county, with the crime of unlawful possession of intoxicating liquor, “approximately 12 gallons of beer or home-brew, a substance containing more than 3.2 per cent of alcohol measured by weight, and capable of being used as a-beverage.” She was tried, convicted, sentenced to pay a fine of $50, and to serve a term of 60 days in the county jail, and has appealed.
+This case-made with petition in error attached was filed in this court on June 21, 1944. The Attorney General, on behalf of the state, filed a motion to dismiss the appeal on July 7, 1944, for the reason that the appeal had not been filed within the time provided by law. When this motion was filed, counsel for defendant filed a petition in the county court of Blaine county praying for an order nunc pro tunc, to correct the record to show that the application had been made to the county court, and that the court had ordered orally an extension of time to perfect the appeal of this case. After hearing this motion and taking evidence, the court denied the motion, and from this order counsel for defendant, after filing a motion for new trial, appealed to this court, and the record of these proceedings has now been filed in this court.
+There is some conflict in the testimony as to just what occurred at the time an attempt was made to secure the order extending the time to serve the case-made. The state has not filed a brief in this case, relying only upon the motion to dismiss.
+It is revealed by the record that the court reporter who reported this case lived at Lawton, Okla., in Comanche county, and that there was some difficulty in getting the case-made prepared. The case not having been briefed fully by the state, we are not passing upon the motion to dismiss or the right of defendant to appeal from the order of the court refusing to grant the nunc pro tunc order.
+We have examined the record in this case and find that the judgment and sentence should be affirmed on its merits.
+It is contended that the court erred in overruling a motion to suppress the evidence procured by the search warrant, and upon which this conviction was based. Evidence was taken and the motion was overruled. It is contended that the search warrant was a “blanket search warrant,” and for that reason void. The affidavit and search warrant upon which it was based described the property as follows:
+“A two-story frame building located on lots 9, 10, 11, block 4, Enke Addition to the city of Geary, Blaine County, Oklahoma. * * *
+“That the aforesaid premises is a building establishment, hotel, cafe, dance room and residence. * * * .”
+The affidavit in addition to setting forth the grounds provided by statute and the facts with reference to the grounds for search, states that the defendant, “Beulah Hendrix, Cleo Rogers and Isabella Hendrix are the owners and in possession of the premises.”
+The evidence taken on the motion to suppress, and also at the trial, reveals that the premises above described were being used as a rooming house, or hotel, a cafe, public dancing hall, and that certain rooms or apartments were rented to certain individuals and the defendant, Beulah Hendrix, owned and operated the same at the time the search was made. Cleo Rogers was the daughter of defendant, and occupied one of the rooms on the second floor. The record does not disclose any interest in Elizabeth Hendrix.
+Based upon the search warrant, the sheriff of Blaine county, R. C. Scott, assisted by the city marshal of Geary, W. R. Grant, and three deputies from the sheriff’s office, searched the premises on the night of June 19, 1943. They found approximately 12 or 13 gallons of homebrew in two separate jars or containers. One containing about eight gallons was found in what was described as the southeast room downstairs, and one containing about four gallons located in the kitchen which was used in connection with the cafe owned and operated by the defendant; and also a small amount in the refrigerator that was in the kitchen. Samples were taken from each of the containers by the sheriff and sent to the office of the state laboratory, and there examined. That found in the southeast room was found to contain 5.32 per cent of alcohol by volume, and 4.25 per cent by weight; and that found in the southeast room contained 6.1 per cent alcohol by volume, and 4.87 per cent by weight, and all capable of being used as a beverage. There was also found in the southeast room a 100 pound sack of sugar, a small portion of which had been used.
+A number of witnesses testified that the. southeast room was occupied exclusively by one Nelson Hill and his wife and child, and that the defendant did not have control of same, only to rent to the said Nelson Hill. They also testified that the door to this room opened on the outside, and that the doorways leading to the other part of the building were locked and fastened. The officers all testified that these inside doors were open on the date of the raid, and that passage from the dance hall, cafe, etc., could be made. •
+The sheriff and other officers testified that the defendant was present at the time the search was conducted, and that when asked by the sheriff as to the ownership of the property seized both in the southeast room and the kitchen, she stated it was hers, and that the homebrew was hog feed which she had for hogs on the premises.
+The evidence, while somewhat conflicting on minor matters, discloses many circumstances that the defendant was operating a public place where intoxicating liquor was being sold, and a number of witnesses testified that the premises had such a reputation. Facts were testified to by the officers upon which this testimony was based.
+Much stress is made by defendant as to the occupancy of the southeast room by Nelson Hill and his family. We do not see that this makes much difference, for the reason that four gallons of homebrew were found by the officers in the kitchen, which, under the undisputed evidence, was in possession of the defendant. All of this testimony was for the consideration of the court on the motion to suppress, and for the jury on the trial of the case. The evidence was sufficient to sustain the judgment and sentence, and under the evidence on the motion to suppress, the court did not err in overruling the same. This place was being conducted as a roominghouse, public dance hall and cafe. The statute, 77 O. S. 1941 § 88, gives the right to search premises of this character upon the procurement of a search warrant based upon affidavit, which was done in this case.
+The officers testified that they only searched the premises on the ground of the first floor. Upon the testimony of the defendant, all of this part of the building was in possession and operated by her, with the exception of the southeast room. The evidence with reference to her possession of that room was at least conflicting, and the conrt and jnry had the right to consider this conflicting evidence, and this court will not set aside the judgment and sentence where there is evidence to sustain, as in this case.
+For the reasons above stated, the judgment of the county court of Blaine county is affirmed.
+JONES, P. J., concurs, DOYLE, J., not participating.
