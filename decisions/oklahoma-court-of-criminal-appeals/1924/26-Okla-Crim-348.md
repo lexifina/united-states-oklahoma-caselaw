@@ -1,0 +1,32 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-4349"
+decided: "1924-03-22"
+citations: ["26 Okla. Crim. 348", "224 P. 208"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MATSON, P. J., and DOYLE, J., concur."]
+parties: ["JOHN BLAER v. STATE."]
+source_url: "https://static.case.law/okla-crim/26/cases/0348-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1520356
+---
+
+# Blaer v. State
+
+## Majority (BBSSEY, J.)
+
+BBSSEY, J.
+This is an appeal from a judgment of the .district court of McIntosh county, rendered December 2, 1921, in which plaintiff in error was found guilty of robbery in the first degree and sentenced to serve a term of 20 years in the state penitentiary.
+On the 15th day of September, 1921, Tom Grider, a farmer residing some 8 or 10 miles west of Eufaula, delivered a load of cotton in Eufaula, and while returning to his home, at about 5 o’clock in the afternoon, he' was accosted by a highwayman armed with a pistol, under cover of which Grid-er was forced to alight from his wagon and to proceed to a secluded spot approximately 200 yards distant from the place where he was first halted. The highwayman then commanded him to lie down upon his face, after which he • tied his hands behind his back with a cotton cord and tied his feet together. He then gagged Grider by means of a handkerchief tied tightly across his mouth, turned him over upon his back and took from his pocket a pocketbook containing $6.40, leaving him tied and in this position. About 30 minutes later the highwayman returned and asked Grider if there were other farmers in town who would pass along the road; he said that he was a highjacker and was looking for other victims. He then readjusted the gag in such a manner as to prevent Grid-er from giving any alarm. The highwayman was not seen thereafter by Grider.
+By desperate efforts Grider crawled and rolled until he reached a point on the road side, near where he was first aecosted by the highwayman. He lay there until about 10 o’clock that night, when a man by the name of Tudos came along on horseback and was asked by Grider to assist him to get the cords with which he was bound loosed. Mr. Tudos, through fear, refused to do this, but said he would go and get some others. Several men soon arrived there and released Grider. To his companions Grider then described the man who had assailed him as a person dressed in a dark coat, a blue polkadot shirt and blue overalls, and as being lame in the left leg.
+The following day Grider notified the officers and others about the robbery, describing the person who perpetrated it as being lame in one leg, stating that he spoke with a foreign accent, and describing his physical features and the clothing he wore. Upon the information so received the constable and another peace officer, at Indianola, a town across the river in Pittsburg county, on October 3d, saw the defendant and a companion named Byan strolling about town, and observed that Blaer’s appearance corresponded with the description furnished them by Grider. The two men were placed under arrest and thrown in jail. The next day Grider came to Indianola and positively identified the defendant as the man who had robbed him.
+When the constable made the arrest he took from the defendant’s pocket several articles, including a ball of cotton cord. After a time the constable secreted himself near the jail door for the purpose of listening to the conversation of the men, and while there heard Byan ask the defendant why it was that the constable kept asking about the twine. The defendant replied, "The s- o— b- thinks he knows something about the hand-typing business.”
+The defense was an alibi. The defendant described his occupation as being that of traveling salesman; the evidence indicates that he was engaged in selling toilet articles from house to house, at county fairs, and other public places. Numerous witnesses from various places testified positively that he was in attendance at the Okmulgee county fair on September 15th, the day the robbery occurred. Several of these witnesses might be described as birds of passage, who like the defendant had no fixed place of abode nor definite occupation. The truth of the alibi was, of course, a question for the jury, and it is manifest from the verdict rendered that the jurors did not believe these witnesses.
+There are but two assignments of error urged in the brief. The first challenges the sufficiency of the information. A careful consideration of the averments found in the information does not support this assignment. The record shows that the information was drawn by the late Judge Collier, and that the information fairly and fully informed the defendant of the accusation he was required to meet.
+As to the sufficiency of the evidence, where the proof on the part of the state is of a clear and convincing nature, such as is disclosed by this record, this court would not be justified in setting aside a verdict upon the defendant’s showing controverting the state’s evidence. Under such circumstances the weight of the evidence must be determined by the jury, and their finding will not be disturbed in this court on appeal.
+The identification of the defendant was more positive than is usual in cases of robbery. On the other hand, the evidence of an alibi was definite and positive. The companions of this migratory defendant were men of like type and habits, and necessarily his witnesses had to be drawn from that environment. Because they were of that character it does not necessarily follow that they were mistaken or that they deliberately committed perjury. Members of society commonly called “floaters” may be just as truthful as those who have established homes, but it is one of the misfortunes common to the former class that when one of them is accused of an offense he is at a disadvantage in procuring witnesses of known good repute to testify in his behalf.
+The punishment assessed in this casé is severe — 20 years in the penitentiary. It would be harsh indeed to inflict such punishment upon one who is innocent, but, since that question was purely one of fact for the jury, we cannot disturb the verdict. If perchance the jury was mistaken, it becomes a case that may appeal to the Governor on an application for executive clemency.
+The judgment of the trial court is affirmed.
+MATSON, P. J., and DOYLE, J., concur.
