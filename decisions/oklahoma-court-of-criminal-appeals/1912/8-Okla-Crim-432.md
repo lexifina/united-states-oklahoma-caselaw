@@ -1,0 +1,46 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-1218"
+decided: "1912-12-14"
+citations: ["8 Okla. Crim. 432", "128 P. 161"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["FURMAN, P. J., and DOYLE, J., concur."]
+parties: ["STATE v. IRA CLARK."]
+source_url: "https://static.case.law/okla-crim/8/cases/0432-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8742389
+---
+
+# State v. Clark
+
+## Majority (ARMSTRONG, J.)
+
+ARMSTRONG, J.
+This is an appeal by the state from a judgment of the county court of Harper county, discharging defendant in error, who was tried in said court at the April, 1911, term on a charge of petit larceny.
+The agreed statement of facts incorporated in the record and signed by the county attorney and E. J. Dick, attorney of record in the court below for Ira Clark, discloses that an information was filed against the defendant in error, charging him with the larceny of a watch; the charging part of the information being as follows:
+“* * * That Ira Clark did, in Harper county, state of Oklahoma, on or about the 31st day of December in the year of our Lord one thousand nine hundred and ten and anterior to the presentment hereof, unlawfully, willfully, and knowingly take, steal, and carry away, by stealth and fraud, from the lawful possession of Charlie Jenkins, bailee for hire, one certain watch with silverode case and Waltham movement, said watch being of the value of five dollars ($5.00), the personal property of one Othal E. Love, said watch being at the time of said unlawful taking, stealing, and carrying away by said Ira Clark in the lawful possession of said Charlie Jenkins, bailee for hire of said property, as aforesaid, said bailment then and there giving said Charlie Jenkins a special interest in said watch, said Charlie Jenkins having found said watch in the public highway of Harper county, Oklahoma, during the summer of 1910, under circumstances which did not give him any knowledge or means of inquiry as to the true owner thereof, with the unlawful intent of the said Ira Clark to appropriate the same to his own use, and to deprive the bailee, as special owner, thereof, contrary to the form of the statutes,” etc.
+State’s witness Jenkins testified that he found the watch in the public highway on the road leading from Buffalo, Okla., to Ashland, Kan.; that he did not know the owner of said watch, and made considerable inquiry concerning its ownership, but was unable to discover the true owner; but that after the watch was stolen, and a few days before the case was tried, he learned that it belonged to Othal E. Love. Witness Love testified that he lost the watch in question on the road from Buffalo, Okla., to Ashland, Kan., in May, 1910, and identified the watch. All the material allegations in the information were established by the testimony of witnesses for the state.
+When the state closed its case, the defendant in error, by counsel, filed the following pleading:
+“Comes now the defendant, Ira Clark, and demurs to the evidence introduced by the state, for the reason that the same is insufficient to constitute a public or private offense, and the facts are insufficient to prove a special ownership in Charles Jenkins, as alleged in the amended information; and for the further reason that no bailment or special interest or ownership in the watch is shown; and for the further reason that the undisputed testimony of the state is that the watch was found by Charles Jenkins in the state of Kansas, and not in the state of Oklahoma; and for the further reason that no larceny has been proved by the state by this defendant, Ira Clark. We ask the court to instruct the jury to return a verdict of not güilty, and that the defendant be discharged.”
+On this motion the court gave the following instruction:
+“Gentlemen of the jury, the attorney for the defendant has filed his motion asking the court to direct the jury to return a verdict of not guilty. In this motion his objections are to the items in the amended information which allege that the property was found by Mr. Jenkins in the county of Harper, state of Oklahoma. The evidence shows that the property was found in the state of Kansas; and from that finding and the evidence it is the opinion of the court that there would not be sufficient property right in the finder of the property, where the property was found outside of the state, to constitute a bailment in the finder. The taking of said property so found from such finder would not constitute larceny. There is a fatal variance between the allegation of the amended information and the proof. You are directed, therefore to return a verdict of not guilty. Select your foreman.”
+Whereupon the county attorney entered the following objection and exception to the action of the court:
+“Comes now the plaintiff and excepts to the finding and instruction of the court as not in accordance with the law, and gives notice of appeal at this time to the Criminal Court of Appeals of the state of Oklahoma on the ruling of the court, said ruling not being in accordance with the law governing the rights to the possession of property in case of bailments. The bailee acquired his right to possession by finding said property. Plaintiff asks for 45 days in which to make and serve a case-made, 10 days to suggest amendments, and 5 days to settle and sign.”
+The jury retired and returned the following verdict:
+“We, the jury, drawn, impaneled, and sworn in the above-entitled cause, do, upon our oaths, find the defendant not guilty as charged in the amended information herein.”
+When this verdict was returned, the county attorney obj ected to the verdict and reserved the legal questions for presentation to this court on appeal, as provided by statute. Judgment was rendered by the court in accordance with the verdict, and the prisoner discharged.
+The action of the court indicates that he was laboring under the impression that, having included an allegation in the information that the property was found in Harper county, Okla., a conviction could not be had, unless this fact was established. In this the court was in error. This allegation was immaterial. It matters not where the property was found. If the larceny occurred in Harper county from one who had lawful possession as against the taker, it was larceny, regardless of where the person from whom it was taken acquired possession.
+Section 3016, Comp. Laws 1909, provides that:
+“One who finds a thing lost is not bound to take charge of it, but if he does so he is thenceforward a depositary for the owner, with the rights and obligations of a depositary for hire.”
+Section 3009, Id., provides that:
+“A deposit not gratuitous is called storage. The depositary in such case is called a depositary for hire.”
+Section 3019,, Id., provides that:
+“The finder of a thing is entitled to compensation for all expenses necessarily incurred by him in its preservation and for any other service necessarily performed by him about it, and a reasonable reward for keeping it.”
+The finder of a chattel, though he does not by the finding acquire an absolute property and ownership, yet he has such a property right as will enable him to keep it as against all but the rightful owner. Hale on Bailments and Carriers, p. 20.
+Bouvier says that in bailments for storage, for hire, the bailee acquires the right to defend the property as against third •parties and' strangers,' and is answerable for loss or injury occasioned through his failure to exercise ordinary care. Bouvier’s Law Dictionary, vol. 1, p. 215.
+This rule is not affected by the special circumstances of the character of the thing found, the place of finding, or the relation of the finder to a third person, unless specifically so provided by statute. If the watch in question was, as a matter of fact, found in Kansas, and if there be a provision in Kansas changing this general rule, it would have been necessary for the defendant in error to plead and to prove such provision, if it had any bearing on the question. We are inclined to the view, however, that even a statutory provision in Kansas changing the aforesaid general rule would not have been material in this case. Under the law in Oklahoma a person cannot steal property from another without being liable to punishment. In order for property to be subject to larceny, it does not have to be taken from the owner with a felonious or unlawful intent to deprive the owner thereof. It is sufficient if the property is taken with unlawful or felonious purpose of depriving another thereof; the taker not having an interest therein entitling him to the possession and enjoyment of the article taken.
+It follows that the court erred in advising the jury to return a verdict of not guilty. Under the facts disclosed by the record, a judgment of conviction should have been the result of the trial. A verdict of not guilty having been entered, and the prisoner having been discharged, he cannot be again tried on this charge.
+The contention of the county attorney as to the question of law reserved is sustained; and it is held that the action of the court in directing a verdict of not guilty was error.
+FURMAN, P. J., and DOYLE, J., concur.
