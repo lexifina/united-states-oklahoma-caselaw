@@ -1,0 +1,35 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-8654"
+decided: "1934-04-20"
+citations: ["55 Okla. Crim. 426", "32 P.2d 99"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["EDWARDS, P. J., and CHAPPELL, J., concur."]
+parties: ["LAWRENCE (BOG) HOWERTON v. STATE."]
+source_url: "https://static.case.law/okla-crim/55/cases/0426-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1439819
+---
+
+# Howerton v. State
+
+## Majority (DAYENPORT, J.)
+
+DAYENPORT, J.
+The plaintiff in error, hereinafter referred to as the defendant, was convicted of assault and battery, by means of a sharp or dangerous weapon, without justifiable or excusable cause with intent to do bodily injury, although without intent to kill, and was sentenced to serve a term of imprisonment in the state penitentiary for five years.
+Mann Said, the party alleged to have been assaulted by the defendant, testified for the state, as follows:
+“I am night watch for the town of Longdale; I saw the defendant, Bog Howerton, and Bill Gaddis in Long-dale the night of December 17, 1932, in the Roy Miller restaurant about eleven o’clock; I was standing back by the stove in the restaurant when they came in; I saw Gaddis change something from his left hand to' his right hand; when in about six feet of me he made a run at me and I stepped to one side and caught him; he had an empty pint bottle in his hand; I took the bottle from hipa and threw it to the floor and broke it; the defendant Bog Howerton was standing over east of me; he run in and hit me Avith his fist; I fell in a pasteboard box where they had kindling, and there was a wood box I fell against; had my gun on me but it slid around in the holster on my hip and I could not reach it; my head went through a sheet rock wash room wall; Gaddis kicked me; I don’t know exactly what happened then, my head Avas through the sheet rock and I was kindy dazed; I heard Bog Howerton tell Bill Gaddis to let me alone, and he said, ‘Well, I’ll knock your damn brains out.’ He had an iron probably a foot long in his hand, SO' I said, ‘Bog, I can’t get up,’ and Bog told me to. I asked Bill Gaddis, ‘Are you satisfied with Avhat you have done,’ and he started to say something. Bog said, ‘Shut your mouth’; about that time another fellow came in the front door. I had the keys to the garage and he wanted to put his car in the garage and I Avent out and never saw any more of them with the exception of Bog.
+“I don’t think I Avas hit with anything that night; I think I fell into' that sheet rock and hurt my head; after Bog hit me everything went black. No, sir, I don’t think he hit me with that bar; the first time he hit me he hit me Avith his fist; after it happened I Avent to the drug store and put some mercurochrome on my head.”
+Witness was asked by the county attorney about previous statements alleged to have been made by him; he denied making the statements as the county attorney had them. Witness further stated that Bog came to his place the night of the trouble. Witness stated he was in Roy Miller’s restaurant, and stated:
+“ 'Bill Gaddis is going to make trouble because he is awfully drunk,’ and Bog said he could take care of him, and I said, 'If you can take care of him I will just turn him over to you and you take care of him,’ and he said, 'I will do that.’ ”
+They sat around the restaurant for a few minutes and left.
+Tom Richter, testifying on behalf of the state, testified that defendant hit Said with a piece of iron he had in his hand. The record further shows that Richter was unfriendly to the defendant, and at the time the trouble occurred had the defendant under a peace bond. No one testified but Richter that the alleged injured party Said was struck by the defendant with anything but his fist; the defendant himself stating he ivas knocked down by the defendant striking him with his fist.
+The defendant, testifying in his own behalf, stated, in substance, the same as the witness Said, as to what took place in the restaurant at the time of the trouble, and as to the witness asking the defendant to look after Gaddis that evening to keep him from creating a disturbance while the dance was going on. The defendant stated he and Mann Said had always been friends; that- there were no' hard feelings between them. Defendant said, when Gaddis and Said were scuffling, when Said reached for his gun he hit him with his fist on the head or neck and Said fell back into' the partition.
+Defendant further stated Tom Richter did not remain in the restaurant during the fight, but ran out the front door and around the building; that Tom Richter was not in the building at the time he struck Mann Said with his fist; when the witness Said was on the floor he told Gad-dis to let him alone. This is, in substance, the testimony.
+¡Several errors have been assigned by the defendants as grounds for reversal. The only error that we deem necessary to consider is the 14th assignment of error, which is that the verdict is unjust, and shows it Avas based upon prejudice and passion, and that it is excessive and not in accordance with the charge in the information, and is vague and uncertain.
+The court in its instruction advised the jury the different degrees of crime that were included in the charge against the defendant, and instructed the jury it could find the defendant guilty of assault and battery by means of a deadly weapon with intent to kill, or it could find him guilty of assault and battery by means of a dangerous Aveapon without justifiable or excusable cause and with intent to do bodily injury, although without intent to kill; or it could find him guilty of assault and battery. The court advised the jury as to' the penalty of each of the offenses.
+The record clearly shows this trouble grew out of the fact that Bill Gaddis was drinking, and Avhen Gaddis and the witness Mann Said got into a scuffle the defendant assaulted Said without justification or excuse. It is further shown there was no ill feeling between Said and the defendant after the difficulty. The jury in arriving at its verdict must have been influenced by passion or prejudice, as the testimony wholly fails to show the defendant guilty of tbe crime for which the jury returned its verdict.
+After considering the testimony, and the instructions of the court, it is the opinion of the court that the evidence in this case is sufficient to sustain a conviction of assault and battery by means of a sharp or dangerous weapon without justifiable or excusable cause, with intent to' do bodily injury, although without intent to kill; that the punishment imposed is excessive, and, under the authority given the court by section 2820, O. O. S. 1921, now section 3204, O. S. 1931, the punishment is modified from five years in the penitentiary to six months, and, as modified, the judgment is affirmed.
+EDWARDS, P. J., and CHAPPELL, J., concur.
