@@ -1,0 +1,29 @@
+---
+court: "Oklahoma Court of Criminal Appeals"
+docket: "A-6182"
+decided: "1928-05-05"
+citations: ["40 Okla. Crim. 72", "267 P. 673"]
+reporter: "okla-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DOYLE, P. J., and DAVENPORT, J., concur."]
+parties: ["ED MILLER v. STATE."]
+source_url: "https://static.case.law/okla-crim/40/cases/0072-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8743348
+cites_cases: ["18 Okla. Cr. 562", "254 P. 110", "30 Okla. Cr. 191", "35 Okla. Cr. 279", "35 Okla. Cr. 5", "7 Okla. Cr. 98", "86 Okla. Cr. 349"]
+---
+
+# Miller v. State
+
+## Majority (EDWARDS, J.)
+
+EDWARDS, J.
+The plaintiff in error, who for brevity will be hereinafter called defendant, was convicted in the district court of Okmulgee county on a charge of rape in the first degree, and was sentenced to serve a term of 15 years in the state penitentiary.
+Defendant is an unmarried white man between 40 and 45 years of age. The rape is charged upon the person of S'arene Guillroy, a French-Negro girl, about 9 years old. Defendant, a cigar maker, lived' alone in the town of Okmulgee. The mother of the Guillroy girl did laundry work for him. The girl and her sister Nellie Guillroy were accustomed to go to his residence to procure the laundry and return it. In the afternoon of the day charged, they went to the residence, and were there for some time. Ben Mayes, a negro policeman, saw the girls go into defendant’s house, and after some time telephoned the police station, and two other policemen joined him, and they then went into the house, and there found defendant apparently attempting to have intercourse with Sarene Guillroy. They arrested defendant, and took the girls to the office of a physician, where a physical examination was made. We deem it unnecessary to recite thé details of the evidence further than to say the testimony of the two girls, the physician, and the peace officers clearly proves a case of rape. Defendant denied having had, or attempted to have, intercourse with the girl, and testified the girls were accustomed to come to his place* and that he sometimes gave them small sums of money, and they would go into his pockets in search for money, and this action on their part was probably the cause of his trousers being open at the time the officers came in. Very few objections were made in the course of the trial. No exceptions were taken to the instructions, and they are more liberal to defendant than the law warrants. It is argued that the physical examination of the Guillroy girl by a physician against her will and without order of court renders the evidence of the physician incompetent. No authorities are cited in support of the contention, and it is not tenable. Leard v. State, 30 Okla. Cr. 191, 235 P. 243.
+It is also urged that counsel for the state was permitted to lead the witness Sarene Guillroy. Leading questions were asked this witness, but, in view of her sex, age, and ignorance, and the nature of her testimony, leading questions were proper. Morris v. State, 35 Okla. Cr. 5, 247 P. 418; Perkins v. State, 35 Okla. Cr. 279, 250 P. 544.
+Complaint is also made that Dr. Alexander, the physician who made the physical examination of the Guillroy girl, was permitted to give hearsay testimony. The physician testified that the officers brought the girl to his office, that he examined her, found her clothes and legs soiled and wet with a slimy substance; that there had been some penetration of the girl which, in his judgment, had been within the last 20 or 30 minutes; that he had Dr. Isam examine the slimy substance, and that he found it to be spermatozoa. Upon objection, the latter part of the answer was stricken. After the jury had retired, they returned into court, and requested that certain testimony be read. This was part of the testimony of Sarene Guillroy and Dr. Alexander. Defendant complains, that all the testimony of these wit- . nesses was not read, and that part of the testimony of Dr. Alexander referring to the analysis made by Dr. Isam should not have been read. It is not clear that the result of Dr. Isam’s examination was read. All the testimony requested by the jurors was read, and they were particularly asked if 'they desired anything further. This was proper. Section 2730, Comp. St. 1921; Gunnells v. State, 7 Okla. Cr. 98, 122 P. 264. It appears that the analysis of Dr. Isam was made under the direction Of Dr. Alexander. But, even if this single statement of the result of the examination is not admissible, still under the entire record the admitting it is not reversible error.
+Lastly, it is urged that the court erred in overruling the motion for a new trial on the ground of newly discovered evidence. The newly discovered evidence is in the form of an affidavit of one Dozier that on the day of the trial he heard a negro boy, 16 or 17 years of age, state to another negro boy that on the morning of the alleged offense, and prior thereto, he had had intercourse with the prosecuting witness, Sarene Guillroy. There was no allegation as to the whereabouts of either of these negro boys, nor any showing why their affidavits had not been procured, nor attempt to show that the statement of this boy was true, or obtainable if true. The showing was wholly insufficient to warrant granting a new trial on the ground of newly discovered evidence- Section 2754, Comp. St. 1921; McKinney v. State, 18 Okla. Cr. 562, 196 P. 974; Lawson v. State, 86 Okla. Cr. 349, 254 P. 110.
+We appreciate fully the serious nature of the charge and the consequences to defendant, but there is no reason shown by the record why this court should interfere with the judgment.
+The case is affirmed.
+DOYLE, P. J., and DAVENPORT, J., concur.
